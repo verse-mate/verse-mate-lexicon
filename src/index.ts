@@ -69,10 +69,11 @@ function loadContextual(): Promise<ContextualGlosses> {
   if (!contextualPromise) {
     contextualPromise = import('./generated/_contextual.json').then((m) => {
       // The _meta key is informational only — strip it so it can never
-      // accidentally match a lemma lookup.
-      const { _meta, ...rest } = m.default as ContextualGlosses & {
-        _meta?: unknown;
-      };
+      // accidentally match a lemma lookup. Two-step cast through `unknown`
+      // because TS infers `_meta` as a concrete object shape from the JSON
+      // import and refuses the direct `& { _meta?: unknown }` widening.
+      const raw = m.default as unknown as Record<string, unknown>;
+      const { _meta, ...rest } = raw;
       void _meta;
       return rest as ContextualGlosses;
     });
