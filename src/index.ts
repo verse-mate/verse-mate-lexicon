@@ -8,7 +8,8 @@
  *
  * Public API:
  *   - `loadAlignmentFor(bookId, chapter)`: async, returns the merged
- *     ChapterAlignment (hand-curated overrides win over generated).
+ *     ChapterAlignment (generated chapter data + hand-curated lemma
+ *     definitions for theologically loaded words).
  *   - `getBookSlug(bookId)`: helper for callers that need the slug
  *     directly (e.g. building a contextual cache key).
  *   - Type re-exports.
@@ -26,11 +27,6 @@
  */
 
 import { CHAPTER_LOADERS } from './manifest.generated';
-import { JAMES_1_ALIGNMENT } from './james-1';
-import { JAMES_2_ALIGNMENT } from './james-2';
-import { JAMES_3_ALIGNMENT } from './james-3';
-import { JAMES_4_ALIGNMENT } from './james-4';
-import { JAMES_5_ALIGNMENT } from './james-5';
 import { LEXICON as HAND_LEXICON } from './lemmas';
 import { getBookSlug } from './book-slugs';
 import type {
@@ -43,16 +39,6 @@ import type {
   GeneratedAlignment,
   GeneratedLexicon,
 } from './internal-types';
-
-// Hand-curated James alignments take precedence over generated when both
-// exist. Keyed by `${bookId}:${chapter}`.
-const HAND_ALIGNMENTS: Record<string, ChapterAlignment> = {
-  '59:1': JAMES_1_ALIGNMENT,
-  '59:2': JAMES_2_ALIGNMENT,
-  '59:3': JAMES_3_ALIGNMENT,
-  '59:4': JAMES_4_ALIGNMENT,
-  '59:5': JAMES_5_ALIGNMENT,
-};
 
 let generatedLexiconPromise: Promise<GeneratedLexicon> | null = null;
 function loadGeneratedLexicon(): Promise<GeneratedLexicon> {
@@ -81,18 +67,14 @@ function loadContextual(): Promise<ContextualGlosses> {
   return contextualPromise;
 }
 
-// Cache: alignments by `${bookId}:${chapter}`. Hand-curated chapters are
-// seeded at module init so they hit immediately without an await.
-const alignmentCache: Map<string, ChapterAlignment> = new Map(
-  Object.entries(HAND_ALIGNMENTS),
-);
+// Cache: alignments by `${bookId}:${chapter}`. Populated lazily by
+// loadAlignmentFor as users open chapters.
+const alignmentCache: Map<string, ChapterAlignment> = new Map();
 
 /**
- * Async lookup. Hand-curated chapters return synchronously (via a
- * resolved promise). Generated chapters lazy-load their per-chapter
- * JSON + (on first hit) the shared lemmas file, then merge with
- * hand-curated overrides so theologically loaded words keep their
- * richer entries.
+ * Async lookup. Lazy-loads the per-chapter JSON + (on first hit) the
+ * shared lemmas file, then merges with the HAND_LEXICON overrides so
+ * theologically loaded words keep their richer entries.
  *
  * Returns `null` if the book/chapter has no alignment data.
  */
