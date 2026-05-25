@@ -6907,39 +6907,14 @@
     ]
   },
   "amen": {
-    "lemma": "ἀμήν",
-    "translit": "amēn",
-    "strongs": "G0281",
-    "pos": "Interjection",
+    "lemma": "אָמֵן",
+    "translit": "a.men",
+    "strongs": "H0543",
+    "pos": "Adverb",
     "basicGloss": "amen",
-    "ntFrequency": 30,
-    "loaded": true,
-    "notes": "Amen functions as a performative utterance rather than mere assent. In the OT it appears chiefly in curses and covenantal contexts (Deuteronomy 27); in the NT Jesus uniquely places it at the start of pronouncements ('Amen, amen I say to you'), lending weight and divine warrant. The word carries the sense that God's character—His faithfulness and truth—underwrites the statement. Modern liturgical usage can obscure its original force as a binding invocation.",
     "otFrequency": 30,
-    "pronunciation": "ah-MEN",
-    "semanticRange": [
-      "An affirmation of assent or agreement; 'so be it'",
-      "A solemn ratification of an oath, vow, or declaration",
-      "A call for God's faithful presence to guarantee what precedes it",
-      "An invocation of divine truth and reliability over a statement"
-    ],
-    "related": [
-      {
-        "lemma": "אָמַן",
-        "translit": "aman",
-        "note": "Root verb meaning to confirm, support, be firm; carries notion of stability"
-      },
-      {
-        "lemma": "אֱמוּנָה",
-        "translit": "emunah",
-        "note": "Noun: faithfulness, firmness, reliability; shares etymological root with amen"
-      },
-      {
-        "lemma": "ἀληθεία",
-        "translit": "aletheia",
-        "note": "Greek equivalent in LXX contexts; denotes truth as unhiddenness or reliability"
-      }
-    ]
+    "notes": "verily, truly, amen, so be it",
+    "ntFrequency": 30
   },
   "amerimnos": {
     "lemma": "ἀμέριμνος",
@@ -63221,39 +63196,14 @@
     ]
   },
   "ge": {
-    "lemma": "γέ",
-    "translit": "ge",
-    "strongs": "G1065",
-    "pos": "Particle",
-    "basicGloss": "indeed",
+    "lemma": "γῆ",
+    "translit": "gē",
+    "strongs": "G1093",
+    "pos": "Noun (fem.)",
+    "basicGloss": "earth: planet",
     "ntFrequency": 242,
-    "loaded": true,
-    "notes": "גֵּא carries the sense of arrogant or haughty—a posture of spiritual and moral danger in biblical ethics. The word appears primarily in wisdom and prophetic literature condemning pride as a prelude to judgment (Proverbs 16:18, Isaiah 13:11). This adjective is theologically charged because humility before God is a cardinal virtue, making pride its archetypal sin.",
-    "otFrequency": 1,
-    "pronunciation": "GAY-uh",
-    "semanticRange": [
-      "Arrogant, haughty in bearing or demeanor",
-      "Exalted, lifted up in pride or status",
-      "Contemptuous toward others; disdainful",
-      "Swollen or puffed up (literal or metaphorical)"
-    ],
-    "related": [
-      {
-        "lemma": "גָּאָה",
-        "translit": "gaʾah",
-        "note": "Verb form; to rise up, be exalted, become proud or haughty"
-      },
-      {
-        "lemma": "גְּאוּת",
-        "translit": "geʾut",
-        "note": "Abstract noun; pride, arrogance, haughtiness as a character vice"
-      },
-      {
-        "lemma": "ταπεινός",
-        "translit": "tapeinos",
-        "note": "Greek antonym in LXX; humble, lowly, opposite of proud"
-      }
-    ]
+    "notes": "γῆ, γῆς, ἡ, [in LXX for אֲדָמָה ,אֶרֶץ, etc. ;] __1. the earth, world: Luk.21:35, Act.1:8, Heb.11:13, Rev.3:10, al.; opposite to οὐρανός, Mat.5:18 11:25, Mrk.13:27, al. __2. land; __(a) opposite to sea or water: Mrk.4:1, Luk.5:3,…",
+    "otFrequency": 1
   },
   "gedeon": {
     "lemma": "Γεδεών",
@@ -70805,38 +70755,13 @@
     ]
   },
   "hode": {
-    "lemma": "ὅδε",
-    "translit": "hode, hēde",
-    "strongs": "G3592",
-    "pos": "Pronoun (demonstrative)",
-    "basicGloss": "this",
+    "lemma": "ὧδε",
+    "translit": "hōde",
+    "strongs": "G5602",
+    "pos": "Adverb",
+    "basicGloss": "here",
     "ntFrequency": 57,
-    "loaded": false,
-    "notes": "ὅδε is the classical demonstrative of proximity and visibility, originally ὁ + enclitic δέ. It anchors deixis to what is spatially or discursively present and can be indicated by gesture. Luke 10:39 exemplifies its function in marking a person just named. By the Hellenistic period, οὗτος increasingly displaced it, though ὅδε retains force in formal or emphatic contexts.",
-    "pronunciation": "HOH-deh",
-    "semanticRange": [
-      "This (here)—what is present or visible, capable of being pointed out",
-      "This person or thing just mentioned or named",
-      "This (in contrast to that); near deixis versus distant",
-      "This side; near or proximal in space or discourse"
-    ],
-    "related": [
-      {
-        "lemma": "ὅς",
-        "translit": "hos",
-        "note": "Relative pronoun; often used where ὅδε marks the proximal pole"
-      },
-      {
-        "lemma": "ἐκεῖνος",
-        "translit": "ekeinos",
-        "note": "Distal demonstrative (that, yonder); contrasts with ὅδε's proximal reference"
-      },
-      {
-        "lemma": "οὗτος",
-        "translit": "houtos",
-        "note": "Demonstrative (this, that); overlaps ὅδε but more common in later Greek"
-      }
-    ]
+    "notes": "ὧδε, adv., [in LXX for חֲלֹם ,פֹּה ,הִנֶּה, etc. ;] __1. prop., of manner, so (Hom., al.). __2. In poets (rarely) and late writers, of place, __(a) hither (BL, §25, 2): Mat.8:29, Mrk.11:3, Luk.9:41, Jhn.6:25, al.; ἕως ὧδε, Luk.23:5;…"
   },
   "hodegeo": {
     "lemma": "ὁδηγέω",
@@ -99617,33 +99542,14 @@
     ]
   },
   "men": {
-    "lemma": "μέν",
-    "translit": "men",
-    "strongs": "G3303",
-    "pos": "Particle",
-    "basicGloss": "on the other hand",
+    "lemma": "μήν",
+    "translit": "mēn",
+    "strongs": "G3376",
+    "pos": "Noun (masc.)",
+    "basicGloss": "month",
     "ntFrequency": 17,
-    "loaded": false,
-    "notes": "The word denotes primarily the strings of stringed instruments in biblical poetry, most notably in psalms (Psalm 150:4). The secondary sense of 'portion' appears less frequently but reflects the semantic field of division and apportionment. The instrumental sense dominates surviving attestations.",
-    "otFrequency": 2,
-    "pronunciation": "MEN",
-    "semanticRange": [
-      "String of a musical instrument, especially harp or lyre",
-      "Portion or share allocated to someone",
-      "A part or division of a whole"
-    ],
-    "related": [
-      {
-        "lemma": "מָנָה",
-        "translit": "manah",
-        "note": "Related verb meaning to allot, portion out, or divide"
-      },
-      {
-        "lemma": "חֵלֶק",
-        "translit": "cheleq",
-        "note": "Cognate noun denoting portion, share, or inheritance"
-      }
-    ]
+    "notes": "μήν genitive, μηνός, ὁ, [in LXX very frequently for חֹדֶשׁ, Gen.7:11, al.; a few times for יֶרַח ;] a month: Luk.1:24, 26 1:36, 56 4:25, Act.7:20 18:11 19:8 20:3 28:11, Jas.5:17, Rev.9:5, 10 9:15 11:2 13:5 22:2; pl., of the festival of…",
+    "otFrequency": 2
   },
   "meno": {
     "lemma": "μένω",
@@ -165696,36 +165602,11 @@
   "aph": {
     "lemma": "אַף",
     "translit": "aph",
-    "strongs": "H0637",
-    "pos": "Particle",
-    "basicGloss": "also",
-    "loaded": false,
-    "notes": "אַף is a versatile particle that layers semantic weight depending on context: at minimum it adds a fact or idea ('also'), but often it amplifies emphasis or marks logical escalation ('so much the more,' 'indeed'). The concessive sense ('though,' 'even if') appears especially in poetry and wisdom literature, where it softens or complicates a preceding claim. See Gen 3:1 (serpent's challenge 'also' denying God's word) and Job 6:30 for strong examples of how אַף raises the rhetorical stakes.",
+    "strongs": "H0639",
+    "pos": "Noun (masc.)",
+    "basicGloss": "face: anger",
     "otFrequency": 243,
-    "pronunciation": "ahf",
-    "semanticRange": [
-      "also, even, indeed (simple addition or emphasis)",
-      "yea, truly, so much the more (emphatic affirmation)",
-      "furthermore, moreover (logical progression)",
-      "though, even if (concessive sense, especially in poetry)"
-    ],
-    "related": [
-      {
-        "lemma": "גַּם",
-        "translit": "gam",
-        "note": "synonym for 'also'; more frequent in prose narrative contexts"
-      },
-      {
-        "lemma": "אַפִּלּוּ",
-        "translit": "appillu",
-        "note": "derived from אַף; intensifies 'even' or 'certainly not' in negative constructions"
-      },
-      {
-        "lemma": "כִּי אַף",
-        "translit": "ki aph",
-        "note": "common formula pairing אַף with כִּי to signal emphatic affirmation or concession"
-      }
-    ]
+    "notes": ": anger1) nostril, nose, face2) anger"
   },
   "aphah": {
     "lemma": "אָפָה",
@@ -167388,38 +167269,13 @@
     ]
   },
   "atar": {
-    "lemma": "ἀτάρ",
-    "translit": "atar",
-    "strongs": "G6586",
-    "pos": "Conjunction",
-    "basicGloss": "nevertheless",
-    "loaded": false,
-    "notes": "Atar appears 39 times in OT narrative and prophetic texts, often in the concrete sense of shutting doors (Genesis 19:6, 10) or closing gates (Nehemiah 7:3). The idiom 'shut one's mouth' (atar pi, lit. shut the mouth) denotes enforced silence or being rendered speechless before God's power (Job 5:16, 29:10). The word carries no sustained theological weight requiring special caution in interpretation.",
+    "lemma": "אֲתַר",
+    "translit": "a.tar",
+    "strongs": "H0870",
+    "pos": "Noun (masc.)",
+    "basicGloss": "place",
     "otFrequency": 39,
-    "pronunciation": "ah-TAR",
-    "semanticRange": [
-      "to close or shut (a door, gate, or opening)",
-      "to bind up or confine (a person or animal)",
-      "to shut one's mouth; to remain silent or speechless",
-      "to close up a breach or gap"
-    ],
-    "related": [
-      {
-        "lemma": "סָגַר",
-        "translit": "sagar",
-        "note": "near-synonym; to shut or close; often interchangeable with atar in contexts of doors and confinement"
-      },
-      {
-        "lemma": "אָטוּר",
-        "translit": "atur",
-        "note": "adjective form; shut, closed, or bound; passive state of the verb atar"
-      },
-      {
-        "lemma": "פָּתַח",
-        "translit": "patach",
-        "note": "antonym; to open; contrasts with atar in descriptions of gates and mouths"
-      }
-    ],
+    "notes": "track, place",
     "ntFrequency": 39
   },
   "aton": {
@@ -167559,37 +167415,13 @@
     ]
   },
   "attah": {
-    "lemma": "אַתָּ֫ה",
+    "lemma": "עַתָּ֫ה",
     "translit": "at.tah",
-    "strongs": "H0859",
-    "pos": "H:PerP-MS",
-    "basicGloss": "you(m.s.)",
-    "loaded": false,
-    "notes": "A straightforward personal pronoun with no theological weight in itself. Its force lies in the relationship it establishes between speaker and addressee—often marking direct covenant address (e.g., Abraham in Gen 17:9, David in 2 Sam 7:8). Frequency and emphasis depend entirely on context and whether the pronoun is explicit or embedded in the verbal form.",
+    "strongs": "H6258",
+    "pos": "Adverb",
+    "basicGloss": "now",
     "otFrequency": 411,
-    "pronunciation": "ah-TAH",
-    "semanticRange": [
-      "second person singular masculine pronoun",
-      "you (direct address to a male or masculine entity)",
-      "emphatic or contrastive you (when stress is marked)"
-    ],
-    "related": [
-      {
-        "lemma": "אַתְּ",
-        "translit": "att",
-        "note": "second person singular feminine form; paired gender distinction"
-      },
-      {
-        "lemma": "אַתֶּם",
-        "translit": "attem",
-        "note": "second person plural masculine; number expansion of the same root"
-      },
-      {
-        "lemma": "σύ",
-        "translit": "sy",
-        "note": "Greek equivalent; LXX rendering of Hebrew second person singular"
-      }
-    ]
+    "notes": "now1a) now1b) in phrases"
   },
   "attud": {
     "lemma": "עַתּוּד",
@@ -168147,38 +167979,13 @@
     ]
   },
   "ay": {
-    "lemma": "אַי",
+    "lemma": "עַי",
     "translit": "ay",
-    "strongs": "H0335",
-    "pos": "H:Intg",
-    "basicGloss": "where?",
-    "loaded": false,
-    "notes": "Ay is a straightforward interrogative particle with no theological overtones, used across both direct questions and embedded clauses. It appears frequently in narrative dialogue (e.g., Gen 3:9, 'Where are you?') and legal/wisdom contexts to probe identity and location. Context determines whether it seeks location, origin, manner, or identification.",
+    "strongs": "H5857",
+    "pos": "Proper noun",
+    "basicGloss": "Ai",
     "otFrequency": 78,
-    "pronunciation": "AH-ee",
-    "semanticRange": [
-      "where? (location or destination)",
-      "whence? (origin or source)",
-      "which? or what? (interrogative of identity)",
-      "how? (in compounds with other adverbials)"
-    ],
-    "related": [
-      {
-        "lemma": "אָן",
-        "translit": "ān",
-        "note": "related interrogative; carries sense of 'where to' or 'whither'"
-      },
-      {
-        "lemma": "אֵיפֹה",
-        "translit": "ēphōh",
-        "note": "synonymous interrogative; more emphatic form of 'where'"
-      },
-      {
-        "lemma": "עַל־אֵי",
-        "translit": "ʿal-ēy",
-        "note": "compound phrase meaning 'on what grounds'; ay combined with preposition"
-      }
-    ]
+    "notes": "§ Ai or Aija or Aiath or Hai = \"heap of ruins\" a city lying east of Bethel and beside Bethaven near Jericho and the second city taken on the invasion of Canaan"
   },
   "ayeph": {
     "lemma": "עִיף",
@@ -168215,38 +168022,13 @@
     ]
   },
   "ayin": {
-    "lemma": "אַ֫יִן",
+    "lemma": "עַ֫יִן",
     "translit": "a.yin",
-    "strongs": "H0369",
-    "pos": "H:Neg",
-    "basicGloss": "nothing",
-    "loaded": false,
-    "notes": "Ayin carries the sense of absolute nonexistence or negation, distinguishing it from lo (simple denial). It appears frequently in negative existential statements (e.g., 'there is nothing/no one') and possession-negation ('he has not'). The word can function as noun, verb, or adverbial negation depending on context, making it one of OT Hebrew's most flexible negators.",
+    "strongs": "H5869",
+    "pos": "Noun (fem.)",
+    "basicGloss": "eye",
     "otFrequency": 1556,
-    "pronunciation": "AH-yin",
-    "semanticRange": [
-      "nothing, nonexistence, or absence of something",
-      "negation or denial (not, no)",
-      "lack or deprivation, especially in possession",
-      "without, lacking (when used with prepositions)"
-    ],
-    "related": [
-      {
-        "lemma": "לֹא",
-        "translit": "lo",
-        "note": "primary negation particle; ayin emphasizes absence/nonexistence rather than simple denial"
-      },
-      {
-        "lemma": "אֵין",
-        "translit": "ein",
-        "note": "variant form of ayin; both denote nonexistence or lack of presence"
-      },
-      {
-        "lemma": "חָסֵר",
-        "translit": "chaser",
-        "note": "to lack or be deficient; related semantically to ayin's sense of deprivation"
-      }
-    ]
+    "notes": ": eye1) eye1a) eye1a1) of physical eye1a2) as showing mental qualities1a3) of mental and spiritual faculties (fig.)"
   },
   "ayir": {
     "lemma": "עַ֫יִר",
@@ -168416,38 +168198,13 @@
     ]
   },
   "az": {
-    "lemma": "אָז",
+    "lemma": "עַז",
     "translit": "az",
-    "strongs": "H0227",
-    "pos": "Conjunction",
-    "basicGloss": "then",
-    "loaded": false,
-    "notes": "Az functions primarily as a narrative and logical connective in Biblical Hebrew. It marks temporal progression (\"then it came to pass\") and conditional chains (\"if X, then Y\"), appearing frequently in genealogies, legal formulas, and prophetic sequences. In prophetic literature especially (e.g., Isaiah 1:26), it signals the turning point between judgment and restoration.",
+    "strongs": "H5794",
+    "pos": "Adjective",
+    "basicGloss": "strong",
     "otFrequency": 22,
-    "pronunciation": "AHZ",
-    "semanticRange": [
-      "at that time; then (marking a point in past or future narrative)",
-      "then, if...then (conditional or consequential sequence)",
-      "in that case; therefore (logical inference or conclusion)",
-      "earlier; previously (retrospective temporal reference)"
-    ],
-    "related": [
-      {
-        "lemma": "אֲזַי",
-        "translit": "azay",
-        "note": "Later Aramaic-influenced variant; same temporal-logical force"
-      },
-      {
-        "lemma": "עַתָּה",
-        "translit": "attah",
-        "note": "Now, present time; contrasts with az's past/conditional reference"
-      },
-      {
-        "lemma": "τότε",
-        "translit": "tote",
-        "note": "LXX Greek equivalent; marks temporal or logical sequence"
-      }
-    ]
+    "notes": "strong, mighty, fierce"
   },
   "azan": {
     "lemma": "אָזַן",
@@ -179593,38 +179350,13 @@
     ]
   },
   "hennah": {
-    "lemma": "הֵנָּה",
+    "lemma": "הֵ֫נָּה",
     "translit": "hen.nah",
-    "strongs": "H2007",
-    "pos": "H:RelP",
-    "basicGloss": "they(fem.)",
-    "loaded": false,
-    "notes": "הֵנָּה is a feminine plural pronoun that can function either as a pure third-person pronoun ('they') or carry demonstrative weight ('these', 'those'). It appears chiefly in narrative contexts where feminine groups or feminine-gendered entities require anaphoric or deictic reference. The word shows grammatical relationship to הוּא but carries distinct feminine plural marking; context determines whether the referent is primarily pronominal or demonstrative in function.",
+    "strongs": "H2008",
+    "pos": "Adverb",
+    "basicGloss": "here/thus",
     "otFrequency": 38,
-    "pronunciation": "HEN-nah",
-    "semanticRange": [
-      "They (feminine plural pronoun)",
-      "These (feminine plural demonstrative)",
-      "The same ones (feminine plural)",
-      "Those women or feminine entities (emphatic reference)"
-    ],
-    "related": [
-      {
-        "lemma": "הוּא",
-        "translit": "hu",
-        "note": "Masculine singular 3rd person pronoun from which הֵנָּה derives"
-      },
-      {
-        "lemma": "הוּא",
-        "translit": "hem",
-        "note": "Masculine plural pronoun; הֵנָּה is its feminine counterpart"
-      },
-      {
-        "lemma": "הִנָּם",
-        "translit": "hinnam",
-        "note": "Masculine plural form with similar demonstrative-emphatic force"
-      }
-    ]
+    "notes": "here, there, now, hither"
   },
   "heron": {
     "lemma": "הֵרָיוֹן",
@@ -179831,36 +179563,11 @@
   "i": {
     "lemma": "אִי",
     "translit": "i",
-    "strongs": "H0336",
-    "pos": "H:Neg",
-    "basicGloss": "not",
-    "loaded": false,
-    "notes": "אִי carries the sense of a negation particle, predominantly appearing in poetic books and older strata of biblical Hebrew. The word denotes 'not' or 'no,' but its distribution is notably restricted compared to the more frequent לֹא. It appears frequently in the book of Job (e.g., Job 6:6, 22:3) and in rhetorical questions where it intensifies denial or doubt.",
+    "strongs": "H0338",
+    "pos": "Noun (masc.)",
+    "basicGloss": "wild beast",
     "otFrequency": 45,
-    "pronunciation": "ee",
-    "semanticRange": [
-      "negative particle; not, no",
-      "used in rhetorical questions or emphatic negation",
-      "interrogative negation: is it not? did not?",
-      "poetic or archaic negation, especially in Job and wisdom literature"
-    ],
-    "related": [
-      {
-        "lemma": "לֹא",
-        "translit": "lo",
-        "note": "Common negative particle; similar negation but broader usage than אִי"
-      },
-      {
-        "lemma": "בַל",
-        "translit": "bal",
-        "note": "Negative particle often used in prohibitions and with cohortatives"
-      },
-      {
-        "lemma": "אַל",
-        "translit": "al",
-        "note": "Negative particle for prohibition and vetitive moods"
-      }
-    ]
+    "notes": "howling beast, jackal"
   },
   "irad": {
     "lemma": "עִירָד",
@@ -187868,35 +187575,11 @@
   "na": {
     "lemma": "נָא",
     "translit": "na",
-    "strongs": "H4994",
-    "pos": "H:Intj",
-    "basicGloss": "please",
-    "loaded": false,
-    "notes": "Na is a modal particle that softens imperatives and emphatic requests, giving them an urgent but deferential tone. It appears across all genres—law, narrative, wisdom—and often clusters in prayer scenes (Genesis 18:3–5, where Abraham requests divine favor). The particle does not itself denote emotion but flags that an utterance carries emotional or relational weight.",
+    "strongs": "H4995",
+    "pos": "Adjective",
+    "basicGloss": "raw",
     "otFrequency": 1,
-    "pronunciation": "nah",
-    "semanticRange": [
-      "particle of entreaty or urgent request; please",
-      "softening particle emphasizing immediacy or polite exhortation",
-      "marker of emotional appeal in prayer or supplication"
-    ],
-    "related": [
-      {
-        "lemma": "עָתַר",
-        "translit": "atar",
-        "note": "to pray, entreat; carries the fuller verb sense נָא expresses as particle"
-      },
-      {
-        "lemma": "בִּקֵּשׁ",
-        "translit": "biqquesh",
-        "note": "to seek, request; often accompanied by נָא to intensify the petition"
-      },
-      {
-        "lemma": "דָּעָה",
-        "translit": "daah",
-        "note": "know, understand; נָא frequently softens imperatives in wisdom discourse"
-      }
-    ]
+    "notes": "raw"
   },
   "naal": {
     "lemma": "נָעַל",
@@ -192542,38 +192225,13 @@
     ]
   },
   "peri": {
-    "lemma": "περί",
-    "translit": "peri",
-    "strongs": "G4012",
-    "pos": "Preposition",
-    "basicGloss": "about",
-    "loaded": true,
-    "notes": "Peril carries substantial theological weight in covenantal and sapiential contexts. In Genesis 1:29–30 it denotes God's provision; in Psalm 1:3 and Proverbs 31:16, it signals the blessed yield of righteous conduct. Deuteronomy and the Prophets deploy it metaphorically for the consequences of obedience or rebellion—a usage that shapes NT ethics (Matt. 7:16–20, Gal. 5:22).",
+    "lemma": "פְּרִי",
+    "translit": "pe.ri",
+    "strongs": "H6529",
+    "pos": "Noun (masc.)",
+    "basicGloss": "fruit",
     "otFrequency": 119,
-    "pronunciation": "pe-REE",
-    "semanticRange": [
-      "Literal fruit or produce from trees and plants",
-      "Offspring, children, or progeny from the womb",
-      "Results or consequences of human actions or works",
-      "Productivity or yield of labor and obedience"
-    ],
-    "related": [
-      {
-        "lemma": "פָּרָה",
-        "translit": "parah",
-        "note": "verb 'to bear fruit' or 'to be fruitful'; root sense of productivity"
-      },
-      {
-        "lemma": "κάρπος",
-        "translit": "karpos",
-        "note": "LXX Greek equivalent; carries same semantic range from literal fruit to moral/spiritual results"
-      },
-      {
-        "lemma": "עֲמָל",
-        "translit": "amal",
-        "note": "noun 'labor' or 'toil'; often paired with פְּרִי to denote fruit of labor in wisdom literature"
-      }
-    ],
+    "notes": "fruit1a) fruit, produce (of the ground)1b) fruit, offspring, children, progeny (of the womb)1c) fruit (of actions) (fig.)",
     "ntFrequency": 119
   },
   "perizzi": {
@@ -210819,38 +210477,13 @@
     ]
   },
   "ben": {
-    "lemma": "בֵּין",
+    "lemma": "בֵּן",
     "translit": "ben",
-    "strongs": "H0997",
-    "pos": "Preposition",
-    "basicGloss": "between",
-    "loaded": false,
-    "notes": "בֵּין is a highly frequent spatial and relational preposition that rarely carries independent theological weight. It governs the construct state or takes a noun in the form בְּ + noun, and often appears doubled (בֵּין...וּבֵּין) to mark two distinct poles. The word is structurally transparent and semantically stable across OT literature; its theological significance emerges only from the entities it relates—as in the covenant 'between' God and Abraham (Gen 15:18) or the separation 'between' light and darkness (Gen 1:4).",
+    "strongs": "H1121",
+    "pos": "Noun (masc.)",
+    "basicGloss": "son: child",
     "otFrequency": 4755,
-    "pronunciation": "BANE",
-    "semanticRange": [
-      "in the space separating two entities or groups",
-      "among; within a collective or intermediate space",
-      "in relation or comparison to two parties",
-      "marking boundary or division between states or realms"
-    ],
-    "related": [
-      {
-        "lemma": "בַּיִן",
-        "translit": "bayyin",
-        "note": "variant form; also carries sense of 'between' (H0996)"
-      },
-      {
-        "lemma": "לְבַד",
-        "translit": "levad",
-        "note": "preposition denoting separation; 'apart from' (contrast to collective between)"
-      },
-      {
-        "lemma": "εἰς μέσον",
-        "translit": "eis meson",
-        "note": "Greek equivalent in LXX; literally 'into the middle'"
-      }
-    ]
+    "notes": ": child/son"
   },
   "bet": {
     "lemma": "בֵּית",
@@ -223225,37 +222858,13 @@
     ]
   },
   "ani": {
-    "lemma": "אֲנִי",
+    "lemma": "עָנִי",
     "translit": "a.ni",
-    "strongs": "H0589",
-    "pos": "H:PerP-CS",
-    "basicGloss": "I",
-    "loaded": false,
-    "notes": "אֲנִי is the emphatic or stressed form of the first-person singular pronoun; it appears frequently in theophanic declarations and prophetic speech where the speaker asserts identity or authority (e.g., Exod. 3:14, Isa. 43:10). The raw definition rightly notes its emphasis function—contrast with the mere subject reference embedded in verb conjugation. In biblical discourse, its use often signals a dramatic or covenantal moment.",
+    "strongs": "H6041",
+    "pos": "Adjective",
+    "basicGloss": "afflicted",
     "otFrequency": 76,
-    "pronunciation": "ah-NEE",
-    "semanticRange": [
-      "first-person singular pronoun, often emphatic or contrastive",
-      "self-identification or self-assertion in declarations",
-      "stressed subject position marking speaker's deliberate claim"
-    ],
-    "related": [
-      {
-        "lemma": "אַנִי",
-        "translit": "ani",
-        "note": "variant spelling; same semantic function with identical frequency"
-      },
-      {
-        "lemma": "ἐγώ",
-        "translit": "egō",
-        "note": "Greek first-person pronoun; LXX standard equivalent to אֲנִי"
-      },
-      {
-        "lemma": "הִנְנִי",
-        "translit": "hineni",
-        "note": "emphatic particle formation incorporating אֲנִי; 'behold I' or 'here I am'"
-      }
-    ]
+    "notes": "poor, afflicted, humble, wretched1a) poor, needy1b) poor and weak1c) poor, weak, afflicted, wretched1d) humble, lowly"
   },
   "aniam": {
     "lemma": "אֲנִיעָם",
@@ -228656,37 +228265,13 @@
     ]
   },
   "ater": {
-    "lemma": "ἄτερ",
-    "translit": "ater",
-    "strongs": "G0817",
-    "pos": "Preposition",
-    "basicGloss": "without",
-    "loaded": false,
-    "notes": "Ater appears five times in the OT, exclusively in postexilic genealogies (Ezra 2:16; Neh. 7:21; Ezra 10:17). The name denotes a clan founder rather than a single individual; multiple men bearing this name returned from Babylon. The etymology 'binder' is traditional but carries no theological weight in the usage.",
+    "lemma": "אָטֵר",
+    "translit": "a.ter",
+    "strongs": "H0333",
+    "pos": "Proper noun (person)",
+    "basicGloss": "Ater",
     "otFrequency": 5,
-    "pronunciation": "AH-ter",
-    "semanticRange": [
-      "A family head who returned from Babylonian exile",
-      "An ancestor in the genealogy of postexilic Judah",
-      "One of the temple servants' relatives in the restoration period"
-    ],
-    "related": [
-      {
-        "lemma": "אָטַר",
-        "translit": "atar",
-        "note": "Verb meaning to bind or wrap; etymological root of the proper noun"
-      },
-      {
-        "lemma": "עֶזְרָא",
-        "translit": "ezra",
-        "note": "The scribe-priest who led the return; Ater appears in his census lists"
-      },
-      {
-        "lemma": "שִׁבְיָה",
-        "translit": "shivyah",
-        "note": "Exile, captivity; the historical context of Ater's family displacement"
-      }
-    ],
+    "notes": "A man living at the time of Exile and Return, first mentioned at Ezr.2.16; father of: Hezekiah (H2396I) § Ater = \"binder\"an exiled relative of Hezekiah",
     "ntFrequency": 5
   },
   "ateret": {
@@ -231580,35 +231165,11 @@
   "avur": {
     "lemma": "עָבוּר",
     "translit": "a.vur",
-    "strongs": "H5668",
-    "pos": "Preposition",
-    "basicGloss": "for the sake of",
-    "loaded": false,
-    "notes": "This preposition appears only twice in the Hebrew Bible (2 Samuel 18:5 and 1 Kings 8:41), making it a relatively rare variant for expressing causation and purpose. Where it occurs, the context determines whether the emphasis falls on reason ('because') or intention ('in order that'). Its infrequency means it likely served stylistic rather than semantic distinction from more common alternatives like בִּגְלַל or לְמַעַן.",
+    "strongs": "H5669",
+    "pos": "Noun (masc.)",
+    "basicGloss": "produce",
     "otFrequency": 2,
-    "pronunciation": "ah-VOOR",
-    "semanticRange": [
-      "on account of, because of (causal sense)",
-      "for the sake of, in behalf of (benefactive sense)",
-      "in order that, so that (purposive/final sense)"
-    ],
-    "related": [
-      {
-        "lemma": "עָבַר",
-        "translit": "abar",
-        "note": "Root verb meaning 'to pass, cross over'; עָבוּר may derive from the notion of passing through or transgression"
-      },
-      {
-        "lemma": "בִּגְלַל",
-        "translit": "biglal",
-        "note": "Similar causal preposition: 'because of, on account of' (more common in biblical usage)"
-      },
-      {
-        "lemma": "לְמַעַן",
-        "translit": "lema'an",
-        "note": "Purposive preposition: 'for the sake of, in order that' (overlaps with purposive sense of עָבוּר)"
-      }
-    ]
+    "notes": "produce, yield"
   },
   "avvah": {
     "lemma": "אַוָּה",
@@ -234159,38 +233720,13 @@
     ]
   },
   "bal": {
-    "lemma": "בַּל",
+    "lemma": "בָּל",
     "translit": "bal",
-    "strongs": "H1077",
-    "pos": "H:Neg",
-    "basicGloss": "not",
-    "loaded": false,
-    "notes": "Bal is a poetic or elevated negation particle, appearing most frequently in wisdom literature and legal contexts (e.g., Proverbs, Job, Deuteronomic law). It often carries emphatic force, especially in prohibitions or clauses of prevention ('lest that...'), and occasionally introduces a contrasting or intensified sense. In Job 34:6 and Proverbs 30:3, the word's slightly archaic tone gives weight to assertions and warnings.",
+    "strongs": "H1079",
+    "pos": "Noun (masc.)",
+    "basicGloss": "mind",
     "otFrequency": 65,
-    "pronunciation": "BAHL",
-    "semanticRange": [
-      "Simple negation; 'not' or 'no'",
-      "Emphatic or preventive negation; 'lest' or 'so that not'",
-      "Rare sense: 'hardly' or 'scarcely'",
-      "Conditional negation in oaths or prohibitions"
-    ],
-    "related": [
-      {
-        "lemma": "לֹא",
-        "translit": "lo'",
-        "note": "Most common Hebrew negation; bal is more literary or emphatic"
-      },
-      {
-        "lemma": "אַל",
-        "translit": "al",
-        "note": "Volitive negation used in commands; bal appears more in narrative negation"
-      },
-      {
-        "lemma": "בִּלְתִּי",
-        "translit": "bilti",
-        "note": "Related form meaning 'except,' 'without,' or 'unless'; shares root sense"
-      }
-    ]
+    "notes": "mind, heartAramaic of lev (לֵב \"heart\" H3820A)"
   },
   "baladan": {
     "lemma": "בַּלְאֲדָן",
@@ -302125,38 +301661,13 @@
     ]
   },
   "meta": {
-    "lemma": "μετά",
-    "translit": "meta",
-    "strongs": "G3326",
-    "pos": "Preposition",
-    "basicGloss": "with/after",
-    "loaded": false,
-    "notes": "This Aramaic verb (P'al stem) denotes the action of arriving at or extending toward a spatial or temporal point. It appears primarily in Daniel and other late OT texts. The word carries no substantial theological weight—it functions as a straightforward spatial or temporal marker.",
+    "lemma": "מְטָא",
+    "translit": "me.ta",
+    "strongs": "H4291",
+    "pos": "Verb",
+    "basicGloss": "to reach",
     "otFrequency": 8,
-    "pronunciation": "meh-TAH",
-    "semanticRange": [
-      "to arrive at or reach a destination",
-      "to extend or stretch to a point",
-      "to come upon or encounter",
-      "to attain or achieve a goal"
-    ],
-    "related": [
-      {
-        "lemma": "מְטָא",
-        "translit": "me.ta (Aphel)",
-        "note": "causative form: to cause to reach or deliver to a destination"
-      },
-      {
-        "lemma": "נַגַּע",
-        "translit": "na.gah",
-        "note": "Hebrew cognate carrying overlapping sense of touching, reaching, or striking"
-      },
-      {
-        "lemma": "קָרַב",
-        "translit": "qa.rav",
-        "note": "related concept of drawing near or approaching a place or person"
-      }
-    ],
+    "notes": "to reach, come upon, attain1a) (P'al)1a1) to reach, come to1a2) to reach, extend1a3) to come upon",
     "ntFrequency": 8
   },
   "metallah": {
@@ -322975,37 +322486,13 @@
     ]
   },
   "para": {
-    "lemma": "παρά",
-    "translit": "para",
-    "strongs": "G3844",
-    "pos": "Preposition",
-    "basicGloss": "from/with/beside",
-    "loaded": false,
-    "notes": "This verb denotes literal and figurative productivity—the capacity to generate life, crops, or prosperity. It appears prominently in the creation narrative (Genesis 1:22, 28) where God blesses creatures and humans to 'be fruitful and multiply.' The Hiphil carries causative force, suggesting active bearing or causing to bear fruit rather than passive fertility alone.",
+    "lemma": "פָּרָא",
+    "translit": "pa.ra",
+    "strongs": "H6500",
+    "pos": "Verb",
+    "basicGloss": "be fruitful",
     "otFrequency": 17,
-    "pronunciation": "pah-RAH",
-    "semanticRange": [
-      "to bear fruit, produce offspring (plants or animals)",
-      "to be fruitful, multiply, increase in number",
-      "to prosper, flourish, thrive (figurative extension)"
-    ],
-    "related": [
-      {
-        "lemma": "פְּרִי",
-        "translit": "p'ri",
-        "note": "noun; fruit or offspring—the product of being fruitful"
-      },
-      {
-        "lemma": "פָּרָה",
-        "translit": "parah",
-        "note": "variant spelling (H6509); same root, same sense of bearing fruit"
-      },
-      {
-        "lemma": "רָבָה",
-        "translit": "rabah",
-        "note": "to multiply, increase; overlapping sense of abundance and reproduction"
-      }
-    ],
+    "notes": "(Hiphil) to bear fruit, be fruitfulAnother spelling of pa.rah (פָּרָה \"be fruitful\" H6509)",
     "ntFrequency": 17
   },
   "param": {
@@ -370704,37 +370191,13 @@
     ]
   },
   "tou": {
-    "lemma": "τοῦ",
-    "translit": "tou",
-    "strongs": "G5120",
-    "pos": "Pronoun (demonstrative)",
-    "basicGloss": "his",
-    "loaded": false,
-    "notes": "Toi appears in the narrative of David's military expansion (2 Sam 8:9–10 // 1 Chr 18:9–10). The name is spelled both as תּוֹעִי and תּוּ in parallel accounts; the etymology relating it to 'wandering' is ancient tradition but synchronically functions simply as a proper noun for this historical Aramean king. His mention marks the extent of David's northern reach and diplomatic recognition.",
+    "lemma": "תֹּ֫עִי",
+    "translit": "to.u",
+    "strongs": "H8583",
+    "pos": "Proper noun (person)",
+    "basicGloss": "Toi",
     "otFrequency": 5,
-    "pronunciation": "toh-EE",
-    "semanticRange": [
-      "King of Hamath during David's United Monarchy reign",
-      "Father of Joram, who served as David's envoy",
-      "Regional ruler in Syria-Palestine north of Israel"
-    ],
-    "related": [
-      {
-        "lemma": "תעה",
-        "translit": "taah",
-        "note": "Verb 'to wander, go astray'; etymological root of proper name"
-      },
-      {
-        "lemma": "חמת",
-        "translit": "chamat",
-        "note": "Hamath, the northern Syrian kingdom Toi ruled"
-      },
-      {
-        "lemma": "יורם",
-        "translit": "yoram",
-        "note": "Toi's son, sent as envoy to congratulate King David"
-      }
-    ],
+    "notes": "A man living at the time of United Monarchy, first mentioned at 2Sa.8.9; father of: Joram (H3141); also called Tou at 1Ch.18.9,10; § Toi or Tou = \"wander\" king of Hamath in the time of David",
     "ntFrequency": 5
   },
   "tovadoniyyah": {
@@ -394334,14 +393797,13 @@
     "otFrequency": 2490
   },
   "asher": {
-    "lemma": "אֲשֶׁר",
+    "lemma": "אָשֵׁר",
     "translit": "a.sher",
-    "strongs": "H0834",
-    "pos": "H:RelP",
-    "basicGloss": "which",
-    "loaded": false,
-    "notes": "A: 1) (relative part.)1a) which, who1b) that which2) (conj)2a) that (in obj clause)2b) when2c) since2d) as2e) conditional if B: Beth+ 1) in (that) which2) (adv)2a) where3) (conj)3a) in that, inasmuch as3b) on account ofC: Mem+ 1) from…",
-    "otFrequency": 40
+    "strongs": "H0836",
+    "pos": "Proper noun (person)",
+    "basicGloss": "Asher",
+    "otFrequency": 40,
+    "notes": "A man of the tribe of Asher living at the time of the Patriarchs, first mentioned at Gen.30.13; son of: Israel (H3478) and Zilpah (H2153); brother of: Gad (H1410); half-brother of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah…"
   },
   "autos": {
     "lemma": "αὐτός",
@@ -394534,14 +393996,13 @@
     "ntFrequency": 206
   },
   "e": {
-    "lemma": "ἤ",
+    "lemma": "ἦ",
     "translit": "ē",
-    "strongs": "G2228",
-    "pos": "Conjunction",
-    "basicGloss": "or",
-    "loaded": false,
-    "notes": "ἤ, disjunctive and comparative particle (Bl., §36, 12; 77, 11); __1. disjunctive, or; __(a) between single words: Mat.5:17 Mrk.6:56, Luk.2:24, Jhn.6:19, Rom.1:21, al.; __(b) before a sentence expressing a variation, denial or refutation…",
-    "ntFrequency": 310
+    "strongs": "G2229",
+    "pos": "Adverb",
+    "basicGloss": "surely",
+    "ntFrequency": 310,
+    "notes": "ἦ (μήν), see: εἰ, iii, 7. εἰ, conjunctive particle, used in conditions and in indirect questions. __I. Conditional, if; __1. with indic, expressing a general assumption; __(a) pres.: before indic, pres., Mat.11:14, Rom.8:25, al.; before…"
   },
   "ea": {
     "lemma": "ἔα",
@@ -394594,14 +394055,13 @@
     "ntFrequency": 2474
   },
   "ei": {
-    "lemma": "εἰ",
+    "lemma": "εἶ",
     "translit": "ei",
-    "strongs": "G1487",
-    "pos": "G:COND",
-    "basicGloss": "if",
-    "loaded": false,
-    "notes": "εἰ, conjunctive particle, used in conditions and in indirect questions. __I. Conditional, if; __1. with indic, expressing a general assumption; __(a) pres.: before indic, pres., Mat.11:14, Rom.8:25, al.; before imperat., Mrk.4:23 9:22,…",
-    "ntFrequency": 477
+    "strongs": "G1488",
+    "pos": "Verb",
+    "basicGloss": "you are",
+    "ntFrequency": 477,
+    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
   },
   "eidemege": {
     "lemma": "εἰ δὲ μή(γε)",
@@ -394724,14 +394184,13 @@
     "ntFrequency": 46
   },
   "en": {
-    "lemma": "ἐν",
-    "translit": "en",
-    "strongs": "G1722",
-    "pos": "Preposition",
-    "basicGloss": "in/on/among",
-    "loaded": false,
-    "notes": "ἐν, prep, (the most frequently of all in NT), with dative (= Heb. בְּ, Lat. in, with abl.). __I. Of place, with dative of thing(s), of person(s), in, within, on, at, by, among: ἐν τ. πόλει, Luk.7:37; τ. οφθαλμῷ, Mat.7:3; τ. κοιλίᾳ,…",
-    "ntFrequency": 2572
+    "lemma": "ἦν",
+    "translit": "ēn",
+    "strongs": "G2258",
+    "pos": "Verb",
+    "basicGloss": "was",
+    "ntFrequency": 2572,
+    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
   },
   "enanti": {
     "lemma": "ἔναντι",
@@ -394876,12 +394335,11 @@
   "et": {
     "lemma": "אֵת",
     "translit": "et",
-    "strongs": "H0853",
-    "pos": "Particle",
-    "basicGloss": "[Obj.]",
-    "loaded": false,
-    "notes": "sign of the definite direct object, not translated in English but generally preceding and indicating the accusativeAramaic equivalent: yat (יָת \"whom\" H3487)",
-    "otFrequency": 280
+    "strongs": "H0855",
+    "pos": "Noun (masc.)",
+    "basicGloss": "plowshare",
+    "otFrequency": 280,
+    "notes": "ploughshare"
   },
   "exerchomai": {
     "lemma": "ἐξέρχομαι",
@@ -395836,12 +395294,11 @@
   "o": {
     "lemma": "ὦ",
     "translit": "ō",
-    "strongs": "G5599",
-    "pos": "Interjection",
-    "basicGloss": "oh!",
-    "loaded": false,
-    "notes": "ὦ interj., with vocat., O; __(a) in simple address (less frequently than in cl.; M, Pr., 71); Act.1:1 18:14 27:21, Rom.2:1, 3 9:20, 1Ti.6:20; expressing reproof, Jas.2:20; __(b) in exclamations of surprise, etc.: Mat.15:28, Luk.24:25,…",
-    "ntFrequency": 281
+    "strongs": "G5600",
+    "pos": "Verb",
+    "basicGloss": "may be",
+    "ntFrequency": 281,
+    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
   },
   "ophelon": {
     "lemma": "ὄφελον",
@@ -396184,14 +395641,13 @@
     "ntFrequency": 117
   },
   "tauta": {
-    "lemma": "ταῦτα",
+    "lemma": "ταὐτά",
     "translit": "tauta",
-    "strongs": "G5023",
-    "pos": "Pronoun (demonstrative)",
-    "basicGloss": "this",
-    "loaded": false,
-    "notes": "οὗτος, αὕτη, τοῦτο, genitive, τούτου, ταύτης, τούτου, [in LXX chiefly for זֹאת ,זֶה ;] demonstr. pron. (related to ἐκεῖνος as hic to ille), this; __1. as subst., this one, he; __(a) absol.: Mat.3:17, Mrk.9:7, Luk.7:44, 45, Jhn.1:15,…",
-    "ntFrequency": 1
+    "strongs": "G5024",
+    "pos": "Adverb",
+    "basicGloss": "thus",
+    "ntFrequency": 1,
+    "notes": "thus, in the same way"
   },
   "te": {
     "lemma": "τε",
@@ -396316,12 +395772,11 @@
   "zeh": {
     "lemma": "זֶה",
     "translit": "zeh",
-    "strongs": "H2088",
-    "pos": "H:DemP",
-    "basicGloss": "this",
-    "loaded": false,
-    "notes": "this, this one, here, which, this...that, the one...the other, another, such1a) (alone)1a1) this one1a2) this...that, the one...the other, another1b) (appos to subst)1b1) this1c) (as predicate)1c1) this, such1d) (enclitically)1d1)…",
-    "otFrequency": 989
+    "strongs": "H2089",
+    "pos": "Noun (masc.)",
+    "basicGloss": "lamb",
+    "otFrequency": 989,
+    "notes": "lamb, sheep (may be a typographical error for 'seh')Another spelling of seh (שֶׂה \"sheep\" H7716)"
   },
   "zo": {
     "lemma": "זוֹ",
@@ -396823,16 +396278,6 @@
     "loaded": false,
     "notes": "γέννησις, -εως, ἡ, [in LXX: 1Ch.4:8 (מִשְׁפָּחָה), Ecc.7:2 (ילד ni.; γένεσις, Aא), Wis.3:13 א 1 (γένεσις, ABא 2), Sir.22:3 * ;] __1. begetting. __2. birth: Mat.1:18, Luk.1:14, Rec.† (AS)"
   },
-  "ge_g1093": {
-    "lemma": "γῆ",
-    "translit": "gē",
-    "strongs": "G1093",
-    "pos": "Noun (fem.)",
-    "basicGloss": "earth: planet",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "γῆ, γῆς, ἡ, [in LXX for אֲדָמָה ,אֶרֶץ, etc. ;] __1. the earth, world: Luk.21:35, Act.1:8, Heb.11:13, Rev.3:10, al.; opposite to οὐρανός, Mat.5:18 11:25, Mrk.13:27, al. __2. land; __(a) opposite to sea or water: Mrk.4:1, Luk.5:3,…"
-  },
   "gnesios_g1104": {
     "lemma": "γνησίως",
     "translit": "gnēsiōs",
@@ -397042,16 +396487,6 @@
     "ntFrequency": 0,
     "loaded": false,
     "notes": "ἐθνικῶς, adv., in Gentile fashion: Gal.2:14.† (AS)"
-  },
-  "ei_g1488": {
-    "lemma": "εἶ",
-    "translit": "ei",
-    "strongs": "G1488",
-    "pos": "Verb",
-    "basicGloss": "you are",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
   },
   "eige": {
     "lemma": "εἴγε",
@@ -397473,16 +396908,6 @@
     "loaded": false,
     "notes": "Ζηλωτής In FlJ, NT, a Zealot, member of the Jewish party so called: as surname of the Apostle Simon, Luk.6:15, Act.1:13.† (AS)"
   },
-  "e_g2229": {
-    "lemma": "ἦ",
-    "translit": "ē",
-    "strongs": "G2229",
-    "pos": "Adverb",
-    "basicGloss": "surely",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "ἦ (μήν), see: εἰ, iii, 7. εἰ, conjunctive particle, used in conditions and in indirect questions. __I. Conditional, if; __1. with indic, expressing a general assumption; __(a) pres.: before indic, pres., Mat.11:14, Rom.8:25, al.; before…"
-  },
   "ethos_g2239": {
     "lemma": "ἦθος",
     "translit": "ēthos",
@@ -397542,16 +396967,6 @@
     "ntFrequency": 0,
     "loaded": false,
     "notes": "ἐγώ, genitive, etc., ἐμοῦ, ἐμοί, ἐμέ (enclitic μου, μοι, με), pl. ἡμεῖς, -ῶν, -ῖν, -ᾶς, of person(s) pron. I. __(a) The nom. is usually emphatic, when expressed as subjc, as in Mat.3:11, Mrk.1:8, Luk.3:16, al. But often there is no…"
-  },
-  "en_g2258": {
-    "lemma": "ἦν",
-    "translit": "ēn",
-    "strongs": "G2258",
-    "pos": "Verb",
-    "basicGloss": "was",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
   },
   "eremos_g2263": {
     "lemma": "ἤρεμος",
@@ -397982,16 +397397,6 @@
     "ntFrequency": 0,
     "loaded": false,
     "notes": "μήν a particle of assurance, verily, truly; εἰ (εἶ) μ. (= cl., ἦ μ. in LXX and π.), now verily, full surely: Heb.6:14 (LXX).† (AS)"
-  },
-  "men_g3376": {
-    "lemma": "μήν",
-    "translit": "mēn",
-    "strongs": "G3376",
-    "pos": "Noun (masc.)",
-    "basicGloss": "month",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "μήν genitive, μηνός, ὁ, [in LXX very frequently for חֹדֶשׁ, Gen.7:11, al.; a few times for יֶרַח ;] a month: Luk.1:24, 26 1:36, 56 4:25, Act.7:20 18:11 19:8 20:3 28:11, Jas.5:17, Rev.9:5, 10 9:15 11:2 13:5 22:2; pl., of the festival of…"
   },
   "meouk": {
     "lemma": "μὴ οὐκ",
@@ -398813,16 +398218,6 @@
     "loaded": false,
     "notes": "ταραχή, -ῆς, ἡ (ταράσσω), [in LXX for חָלָה, מְהוּמָה, etc. ;] trouble, disturbance: τ. ὕδατος, Jhn.1:5 [4]. In pl. (as in cl.), tumults: Mrk.13:8, Rec.† (AS)"
   },
-  "tauta_g5024": {
-    "lemma": "ταὐτά",
-    "translit": "tauta",
-    "strongs": "G5024",
-    "pos": "Adverb",
-    "basicGloss": "thus",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "thus, in the same way"
-  },
   "tautais": {
     "lemma": "ταύταις",
     "translit": "tautais",
@@ -399152,26 +398547,6 @@
     "ntFrequency": 0,
     "loaded": false,
     "notes": "the North-west wind , Lat. Caurus, (New Testament) (ML)"
-  },
-  "o_g5600": {
-    "lemma": "ὦ",
-    "translit": "ō",
-    "strongs": "G5600",
-    "pos": "Verb",
-    "basicGloss": "may be",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
-  },
-  "hode_g5602": {
-    "lemma": "ὧδε",
-    "translit": "hōde",
-    "strongs": "G5602",
-    "pos": "Adverb",
-    "basicGloss": "here",
-    "ntFrequency": 0,
-    "loaded": false,
-    "notes": "ὧδε, adv., [in LXX for חֲלֹם ,פֹּה ,הִנֶּה, etc. ;] __1. prop., of manner, so (Hom., al.). __2. In poets (rarely) and late writers, of place, __(a) hither (BL, §25, 2): Mat.8:29, Mrk.11:3, Luk.9:41, Jhn.6:25, al.; ἕως ὧδε, Luk.23:5;…"
   },
   "hos_g5613": {
     "lemma": "ὡς",
@@ -437963,16 +437338,6 @@
     "loaded": false,
     "notes": "(Qal) shut1a) to shut up, close, bind1b) close one's mouth"
   },
-  "ater_h0333": {
-    "lemma": "אָטֵר",
-    "translit": "a.ter",
-    "strongs": "H0333",
-    "pos": "Proper noun (person)",
-    "basicGloss": "Ater",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "A man living at the time of Exile and Return, first mentioned at Ezr.2.16; father of: Hezekiah (H2396I) § Ater = \"binder\"an exiled relative of Hezekiah"
-  },
   "i_h0337": {
     "lemma": "אִי",
     "translit": "i",
@@ -437982,16 +437347,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "alas!, woe!"
-  },
-  "i_h0338": {
-    "lemma": "אִי",
-    "translit": "i",
-    "strongs": "H0338",
-    "pos": "Noun (masc.)",
-    "basicGloss": "wild beast",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "howling beast, jackal"
   },
   "i_h0339": {
     "lemma": "אִי",
@@ -438383,16 +437738,6 @@
     "loaded": false,
     "notes": "master-workman, artist, steady-handed one, artisan"
   },
-  "amen_h0543": {
-    "lemma": "אָמֵן",
-    "translit": "a.men",
-    "strongs": "H0543",
-    "pos": "Adverb",
-    "basicGloss": "amen",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "verily, truly, amen, so be it"
-  },
   "omen": {
     "lemma": "אֹ֫מֶן",
     "translit": "o.men",
@@ -438582,16 +437927,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "also, yeaAramaic of aph (אַף \"also\" H0637)"
-  },
-  "aph_h0639": {
-    "lemma": "אַף",
-    "translit": "aph",
-    "strongs": "H0639",
-    "pos": "Noun (masc.)",
-    "basicGloss": "face: anger",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": ": anger1) nostril, nose, face2) anger"
   },
   "ephod_h0646": {
     "lemma": "אֵפוֹד",
@@ -438863,16 +438198,6 @@
     "loaded": false,
     "notes": "conjurer, enchanter, (CLBL) necromancerAramaic of ash.shaph (אַשָּׁף \"enchanter\" H0825)"
   },
-  "asher_h0836": {
-    "lemma": "אָשֵׁר",
-    "translit": "a.sher",
-    "strongs": "H0836",
-    "pos": "Proper noun (person)",
-    "basicGloss": "Asher",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "A man of the tribe of Asher living at the time of the Patriarchs, first mentioned at Gen.30.13; son of: Israel (H3478) and Zilpah (H2153); brother of: Gad (H1410); half-brother of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah…"
-  },
   "ashur_h0839": {
     "lemma": "אֲשֻׁרִים",
     "translit": "a.shur",
@@ -438893,16 +438218,6 @@
     "loaded": false,
     "notes": "with, near, together with1a) with, together with1b) with (of relationship)1c) near (of place)1d) with (poss.)1e) from...with, from (with other prep)"
   },
-  "et_h0855": {
-    "lemma": "אֵת",
-    "translit": "et",
-    "strongs": "H0855",
-    "pos": "Noun (masc.)",
-    "basicGloss": "plowshare",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "ploughshare"
-  },
   "atah_h0858": {
     "lemma": "אֲתָה",
     "translit": "a.tah",
@@ -438922,16 +438237,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "A man of the tribe of Judah living at the time of Divided Monarchy, only mentioned at 1Ch.4.7; son of: Ashhur (H0806) and Helah (H2458); brother of: Haahashtari (H0326), Zereth (H6889), Izhar (H3328) and Koz (H6976); half-brother of:…"
-  },
-  "atar_h0870": {
-    "lemma": "אֲתַר",
-    "translit": "a.tar",
-    "strongs": "H0870",
-    "pos": "Noun (masc.)",
-    "basicGloss": "place",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "track, place"
   },
   "beer_h0876": {
     "lemma": "בְּאֵר",
@@ -439193,16 +438498,6 @@
     "loaded": false,
     "notes": "first ripe fig, early fig2) (TWOT) firstfruits"
   },
-  "bal_h1079": {
-    "lemma": "בָּל",
-    "translit": "bal",
-    "strongs": "H1079",
-    "pos": "Noun (masc.)",
-    "basicGloss": "mind",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "mind, heartAramaic of lev (לֵב \"heart\" H3820A)"
-  },
   "balah_h1088": {
     "lemma": "בָּלָה",
     "translit": "ba.lah",
@@ -439302,16 +438597,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "Bamah = \"high place\" a place in Palestine (of places of idolatrous worship)Another name of giv.on (גִּבְעוֹן \"Gibeon\" H1391)"
-  },
-  "ben_h1121": {
-    "lemma": "בֵּן",
-    "translit": "ben",
-    "strongs": "H1121",
-    "pos": "Noun (masc.)",
-    "basicGloss": "son: child",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": ": child/son"
   },
   "ben_h1122": {
     "lemma": "בֵּן",
@@ -440873,16 +440158,6 @@
     "loaded": false,
     "notes": "behold, if, whetherAramaic of hen (הֵן \"look!\" H2005)"
   },
-  "hennah_h2008": {
-    "lemma": "הֵ֫נָּה",
-    "translit": "hen.nah",
-    "strongs": "H2008",
-    "pos": "Adverb",
-    "basicGloss": "here/thus",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "here, there, now, hither"
-  },
   "harah_h2030": {
     "lemma": "הָרָה",
     "translit": "ha.rah",
@@ -440952,16 +440227,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "A man living before Israel's Monarchy, first mentioned at Jdg.9.28 § Zebul = \"exalted\" chief man of the city of Shechem at the time of the contest between Abimelech and the native Canaanites"
-  },
-  "zeh_h2089": {
-    "lemma": "זֶה",
-    "translit": "zeh",
-    "strongs": "H2089",
-    "pos": "Noun (masc.)",
-    "basicGloss": "lamb",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "lamb, sheep (may be a typographical error for 'seh')Another spelling of seh (שֶׂה \"sheep\" H7716)"
   },
   "zaham_h2093": {
     "lemma": "זָ֑הַם",
@@ -444473,16 +443738,6 @@
     "loaded": false,
     "notes": "plough share"
   },
-  "meta_h4291": {
-    "lemma": "מְטָא",
-    "translit": "me.ta",
-    "strongs": "H4291",
-    "pos": "Verb",
-    "basicGloss": "to reach",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "to reach, come upon, attain1a) (P'al)1a1) to reach, come to1a2) to reach, extend1a3) to come upon"
-  },
   "matar_h4306": {
     "lemma": "מָטַר",
     "translit": "ma.tar",
@@ -445382,16 +444637,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "(Qal) to feed sweetlyAnother spelling of ma.taq (מָתֹק \"be sweet\" H4985)"
-  },
-  "na_h4995": {
-    "lemma": "נָא",
-    "translit": "na",
-    "strongs": "H4995",
-    "pos": "Adjective",
-    "basicGloss": "raw",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "raw"
   },
   "naah_h4999": {
     "lemma": "נָוָה",
@@ -446493,16 +445738,6 @@
     "loaded": false,
     "notes": "to be thick, be fat, be gross1a) (Qal) to be fat, be thick, be gross"
   },
-  "avur_h5669": {
-    "lemma": "עָבוּר",
-    "translit": "a.vur",
-    "strongs": "H5669",
-    "pos": "Noun (masc.)",
-    "basicGloss": "produce",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "produce, yield"
-  },
   "avi_h5672": {
     "lemma": "עֲבִי",
     "translit": "a.vi",
@@ -447043,16 +446278,6 @@
     "loaded": false,
     "notes": "to be bent, be crooked, bend, make crooked, pervert1a)(Piel)1a1) to make crooked, falsify, pervert, subvert1a2) to bend, make crooked1b) (Pual) thing bent (participle)1c) (Hithpael) to bend oneself"
   },
-  "az_h5794": {
-    "lemma": "עַז",
-    "translit": "az",
-    "strongs": "H5794",
-    "pos": "Adjective",
-    "basicGloss": "strong",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "strong, mighty, fierce"
-  },
   "ez_h5796": {
     "lemma": "עֵז",
     "translit": "ez",
@@ -447193,16 +446418,6 @@
     "loaded": false,
     "notes": "ruin, heap of ruinsAlso means: be.i (בְּעִי \"ruins\" H1164)"
   },
-  "ay_h5857": {
-    "lemma": "עַי",
-    "translit": "ay",
-    "strongs": "H5857",
-    "pos": "Proper noun",
-    "basicGloss": "Ai",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "§ Ai or Aija or Aiath or Hai = \"heap of ruins\" a city lying east of Bethel and beside Bethaven near Jericho and the second city taken on the invasion of Canaan"
-  },
   "etam_h5862": {
     "lemma": "עֵיטָם",
     "translit": "e.tam",
@@ -447232,16 +446447,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "iniquities (meaning uncertain)"
-  },
-  "ayin_h5869": {
-    "lemma": "עַ֫יִן",
-    "translit": "a.yin",
-    "strongs": "H5869",
-    "pos": "Noun (fem.)",
-    "basicGloss": "eye",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": ": eye1) eye1a) eye1a1) of physical eye1a2) as showing mental qualities1a3) of mental and spiritual faculties (fig.)"
   },
   "ayin_h5870": {
     "lemma": "עַ֫יִן",
@@ -447762,16 +446967,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "affliction, poverty, misery1a) affliction1b) poverty"
-  },
-  "ani_h6041": {
-    "lemma": "עָנִי",
-    "translit": "a.ni",
-    "strongs": "H6041",
-    "pos": "Adjective",
-    "basicGloss": "afflicted",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "poor, afflicted, humble, wretched1a) poor, needy1b) poor and weak1c) poor, weak, afflicted, wretched1d) humble, lowly"
   },
   "anan_h6049": {
     "lemma": "עָנַן",
@@ -448503,16 +447698,6 @@
     "loaded": false,
     "notes": "to be ready, make ready, prepare1a) (Piel) to make ready1b) (Hithpael) to be prepared"
   },
-  "attah_h6258": {
-    "lemma": "עַתָּ֫ה",
-    "translit": "at.tah",
-    "strongs": "H6258",
-    "pos": "Adverb",
-    "basicGloss": "now",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "now1a) now1b) in phrases"
-  },
   "itti_h6261": {
     "lemma": "עִתִּי",
     "translit": "it.ti",
@@ -448873,16 +448058,6 @@
     "loaded": false,
     "notes": "A man living at the time of Divided Monarchy, only mentioned at 1Ch.24.15 § Aphses = \"to break\" a priest, chief of the 18th course in the service of the temple in the time of David"
   },
-  "para_h6500": {
-    "lemma": "פָּרָא",
-    "translit": "pa.ra",
-    "strongs": "H6500",
-    "pos": "Verb",
-    "basicGloss": "be fruitful",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "(Hiphil) to bear fruit, be fruitfulAnother spelling of pa.rah (פָּרָה \"be fruitful\" H6509)"
-  },
   "parah_h6510": {
     "lemma": "פָּרָה",
     "translit": "pa.rah",
@@ -448932,16 +448107,6 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "pan, pot"
-  },
-  "peri_h6529": {
-    "lemma": "פְּרִי",
-    "translit": "pe.ri",
-    "strongs": "H6529",
-    "pos": "Noun (masc.)",
-    "basicGloss": "fruit",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "fruit1a) fruit, produce (of the ground)1b) fruit, offspring, children, progeny (of the womb)1c) fruit (of actions) (fig.)"
   },
   "peras_h6537": {
     "lemma": "פְּרַס",
@@ -452993,16 +452158,6 @@
     "loaded": false,
     "notes": "to err, wander, go astray, stagger1a) (Qal) to err1a1) to wander about (physically)1a2) of intoxication1a3) of sin (ethically)1a4) wandering (of the mind)1b) (Niphal)1b1) to be made to wander about, be made to stagger (drunkard)1b2) to…"
   },
-  "tou_h8583": {
-    "lemma": "תֹּ֫עִי",
-    "translit": "to.u",
-    "strongs": "H8583",
-    "pos": "Proper noun (person)",
-    "basicGloss": "Toi",
-    "otFrequency": 0,
-    "loaded": false,
-    "notes": "A man living at the time of United Monarchy, first mentioned at 2Sa.8.9; father of: Joram (H3141); also called Tou at 1Ch.18.9,10; § Toi or Tou = \"wander\" king of Hamath in the time of David"
-  },
   "taar_h8593": {
     "lemma": "תַּ֫עַר",
     "translit": "ta.ar",
@@ -453552,5 +452707,829 @@
     "otFrequency": 0,
     "loaded": false,
     "notes": "Personal subject pronoun - suffix for some adverbs and infinitives: 3rd person feminine plural"
+  },
+  "amen_g0281": {
+    "lemma": "ἀμήν",
+    "translit": "amēn",
+    "strongs": "G0281",
+    "pos": "Interjection",
+    "basicGloss": "amen",
+    "ntFrequency": 0,
+    "loaded": true,
+    "notes": "Amen functions as a performative utterance rather than mere assent. In the OT it appears chiefly in curses and covenantal contexts (Deuteronomy 27); in the NT Jesus uniquely places it at the start of pronouncements ('Amen, amen I say to you'), lending weight and divine warrant. The word carries the sense that God's character—His faithfulness and truth—underwrites the statement. Modern liturgical usage can obscure its original force as a binding invocation.",
+    "otFrequency": 0,
+    "pronunciation": "ah-MEN",
+    "semanticRange": [
+      "An affirmation of assent or agreement; 'so be it'",
+      "A solemn ratification of an oath, vow, or declaration",
+      "A call for God's faithful presence to guarantee what precedes it",
+      "An invocation of divine truth and reliability over a statement"
+    ],
+    "related": [
+      {
+        "lemma": "אָמַן",
+        "translit": "aman",
+        "note": "Root verb meaning to confirm, support, be firm; carries notion of stability"
+      },
+      {
+        "lemma": "אֱמוּנָה",
+        "translit": "emunah",
+        "note": "Noun: faithfulness, firmness, reliability; shares etymological root with amen"
+      },
+      {
+        "lemma": "ἀληθεία",
+        "translit": "aletheia",
+        "note": "Greek equivalent in LXX contexts; denotes truth as unhiddenness or reliability"
+      }
+    ]
+  },
+  "ani_h0589": {
+    "lemma": "אֲנִי",
+    "translit": "a.ni",
+    "strongs": "H0589",
+    "pos": "H:PerP-CS",
+    "basicGloss": "I",
+    "loaded": false,
+    "notes": "אֲנִי is the emphatic or stressed form of the first-person singular pronoun; it appears frequently in theophanic declarations and prophetic speech where the speaker asserts identity or authority (e.g., Exod. 3:14, Isa. 43:10). The raw definition rightly notes its emphasis function—contrast with the mere subject reference embedded in verb conjugation. In biblical discourse, its use often signals a dramatic or covenantal moment.",
+    "otFrequency": 0,
+    "pronunciation": "ah-NEE",
+    "semanticRange": [
+      "first-person singular pronoun, often emphatic or contrastive",
+      "self-identification or self-assertion in declarations",
+      "stressed subject position marking speaker's deliberate claim"
+    ],
+    "related": [
+      {
+        "lemma": "אַנִי",
+        "translit": "ani",
+        "note": "variant spelling; same semantic function with identical frequency"
+      },
+      {
+        "lemma": "ἐγώ",
+        "translit": "egō",
+        "note": "Greek first-person pronoun; LXX standard equivalent to אֲנִי"
+      },
+      {
+        "lemma": "הִנְנִי",
+        "translit": "hineni",
+        "note": "emphatic particle formation incorporating אֲנִי; 'behold I' or 'here I am'"
+      }
+    ]
+  },
+  "aph_h0637": {
+    "lemma": "אַף",
+    "translit": "aph",
+    "strongs": "H0637",
+    "pos": "Particle",
+    "basicGloss": "also",
+    "loaded": false,
+    "notes": "אַף is a versatile particle that layers semantic weight depending on context: at minimum it adds a fact or idea ('also'), but often it amplifies emphasis or marks logical escalation ('so much the more,' 'indeed'). The concessive sense ('though,' 'even if') appears especially in poetry and wisdom literature, where it softens or complicates a preceding claim. See Gen 3:1 (serpent's challenge 'also' denying God's word) and Job 6:30 for strong examples of how אַף raises the rhetorical stakes.",
+    "otFrequency": 0,
+    "pronunciation": "ahf",
+    "semanticRange": [
+      "also, even, indeed (simple addition or emphasis)",
+      "yea, truly, so much the more (emphatic affirmation)",
+      "furthermore, moreover (logical progression)",
+      "though, even if (concessive sense, especially in poetry)"
+    ],
+    "related": [
+      {
+        "lemma": "גַּם",
+        "translit": "gam",
+        "note": "synonym for 'also'; more frequent in prose narrative contexts"
+      },
+      {
+        "lemma": "אַפִּלּוּ",
+        "translit": "appillu",
+        "note": "derived from אַף; intensifies 'even' or 'certainly not' in negative constructions"
+      },
+      {
+        "lemma": "כִּי אַף",
+        "translit": "ki aph",
+        "note": "common formula pairing אַף with כִּי to signal emphatic affirmation or concession"
+      }
+    ]
+  },
+  "asher_h0834": {
+    "lemma": "אֲשֶׁר",
+    "translit": "a.sher",
+    "strongs": "H0834",
+    "pos": "H:RelP",
+    "basicGloss": "which",
+    "loaded": false,
+    "notes": "A: 1) (relative part.)1a) which, who1b) that which2) (conj)2a) that (in obj clause)2b) when2c) since2d) as2e) conditional if B: Beth+ 1) in (that) which2) (adv)2a) where3) (conj)3a) in that, inasmuch as3b) on account ofC: Mem+ 1) from…",
+    "otFrequency": 0
+  },
+  "atar_g6586": {
+    "lemma": "ἀτάρ",
+    "translit": "atar",
+    "strongs": "G6586",
+    "pos": "Conjunction",
+    "basicGloss": "nevertheless",
+    "loaded": false,
+    "notes": "Atar appears 39 times in OT narrative and prophetic texts, often in the concrete sense of shutting doors (Genesis 19:6, 10) or closing gates (Nehemiah 7:3). The idiom 'shut one's mouth' (atar pi, lit. shut the mouth) denotes enforced silence or being rendered speechless before God's power (Job 5:16, 29:10). The word carries no sustained theological weight requiring special caution in interpretation.",
+    "otFrequency": 0,
+    "pronunciation": "ah-TAR",
+    "semanticRange": [
+      "to close or shut (a door, gate, or opening)",
+      "to bind up or confine (a person or animal)",
+      "to shut one's mouth; to remain silent or speechless",
+      "to close up a breach or gap"
+    ],
+    "related": [
+      {
+        "lemma": "סָגַר",
+        "translit": "sagar",
+        "note": "near-synonym; to shut or close; often interchangeable with atar in contexts of doors and confinement"
+      },
+      {
+        "lemma": "אָטוּר",
+        "translit": "atur",
+        "note": "adjective form; shut, closed, or bound; passive state of the verb atar"
+      },
+      {
+        "lemma": "פָּתַח",
+        "translit": "patach",
+        "note": "antonym; to open; contrasts with atar in descriptions of gates and mouths"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "ater_g0817": {
+    "lemma": "ἄτερ",
+    "translit": "ater",
+    "strongs": "G0817",
+    "pos": "Preposition",
+    "basicGloss": "without",
+    "loaded": false,
+    "notes": "Ater appears five times in the OT, exclusively in postexilic genealogies (Ezra 2:16; Neh. 7:21; Ezra 10:17). The name denotes a clan founder rather than a single individual; multiple men bearing this name returned from Babylon. The etymology 'binder' is traditional but carries no theological weight in the usage.",
+    "otFrequency": 0,
+    "pronunciation": "AH-ter",
+    "semanticRange": [
+      "A family head who returned from Babylonian exile",
+      "An ancestor in the genealogy of postexilic Judah",
+      "One of the temple servants' relatives in the restoration period"
+    ],
+    "related": [
+      {
+        "lemma": "אָטַר",
+        "translit": "atar",
+        "note": "Verb meaning to bind or wrap; etymological root of the proper noun"
+      },
+      {
+        "lemma": "עֶזְרָא",
+        "translit": "ezra",
+        "note": "The scribe-priest who led the return; Ater appears in his census lists"
+      },
+      {
+        "lemma": "שִׁבְיָה",
+        "translit": "shivyah",
+        "note": "Exile, captivity; the historical context of Ater's family displacement"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "attah_h0859": {
+    "lemma": "אַתָּ֫ה",
+    "translit": "at.tah",
+    "strongs": "H0859",
+    "pos": "H:PerP-MS",
+    "basicGloss": "you(m.s.)",
+    "loaded": false,
+    "notes": "A straightforward personal pronoun with no theological weight in itself. Its force lies in the relationship it establishes between speaker and addressee—often marking direct covenant address (e.g., Abraham in Gen 17:9, David in 2 Sam 7:8). Frequency and emphasis depend entirely on context and whether the pronoun is explicit or embedded in the verbal form.",
+    "otFrequency": 0,
+    "pronunciation": "ah-TAH",
+    "semanticRange": [
+      "second person singular masculine pronoun",
+      "you (direct address to a male or masculine entity)",
+      "emphatic or contrastive you (when stress is marked)"
+    ],
+    "related": [
+      {
+        "lemma": "אַתְּ",
+        "translit": "att",
+        "note": "second person singular feminine form; paired gender distinction"
+      },
+      {
+        "lemma": "אַתֶּם",
+        "translit": "attem",
+        "note": "second person plural masculine; number expansion of the same root"
+      },
+      {
+        "lemma": "σύ",
+        "translit": "sy",
+        "note": "Greek equivalent; LXX rendering of Hebrew second person singular"
+      }
+    ]
+  },
+  "avur_h5668": {
+    "lemma": "עָבוּר",
+    "translit": "a.vur",
+    "strongs": "H5668",
+    "pos": "Preposition",
+    "basicGloss": "for the sake of",
+    "loaded": false,
+    "notes": "This preposition appears only twice in the Hebrew Bible (2 Samuel 18:5 and 1 Kings 8:41), making it a relatively rare variant for expressing causation and purpose. Where it occurs, the context determines whether the emphasis falls on reason ('because') or intention ('in order that'). Its infrequency means it likely served stylistic rather than semantic distinction from more common alternatives like בִּגְלַל or לְמַעַן.",
+    "otFrequency": 0,
+    "pronunciation": "ah-VOOR",
+    "semanticRange": [
+      "on account of, because of (causal sense)",
+      "for the sake of, in behalf of (benefactive sense)",
+      "in order that, so that (purposive/final sense)"
+    ],
+    "related": [
+      {
+        "lemma": "עָבַר",
+        "translit": "abar",
+        "note": "Root verb meaning 'to pass, cross over'; עָבוּר may derive from the notion of passing through or transgression"
+      },
+      {
+        "lemma": "בִּגְלַל",
+        "translit": "biglal",
+        "note": "Similar causal preposition: 'because of, on account of' (more common in biblical usage)"
+      },
+      {
+        "lemma": "לְמַעַן",
+        "translit": "lema'an",
+        "note": "Purposive preposition: 'for the sake of, in order that' (overlaps with purposive sense of עָבוּר)"
+      }
+    ]
+  },
+  "ay_h0335": {
+    "lemma": "אַי",
+    "translit": "ay",
+    "strongs": "H0335",
+    "pos": "H:Intg",
+    "basicGloss": "where?",
+    "loaded": false,
+    "notes": "Ay is a straightforward interrogative particle with no theological overtones, used across both direct questions and embedded clauses. It appears frequently in narrative dialogue (e.g., Gen 3:9, 'Where are you?') and legal/wisdom contexts to probe identity and location. Context determines whether it seeks location, origin, manner, or identification.",
+    "otFrequency": 0,
+    "pronunciation": "AH-ee",
+    "semanticRange": [
+      "where? (location or destination)",
+      "whence? (origin or source)",
+      "which? or what? (interrogative of identity)",
+      "how? (in compounds with other adverbials)"
+    ],
+    "related": [
+      {
+        "lemma": "אָן",
+        "translit": "ān",
+        "note": "related interrogative; carries sense of 'where to' or 'whither'"
+      },
+      {
+        "lemma": "אֵיפֹה",
+        "translit": "ēphōh",
+        "note": "synonymous interrogative; more emphatic form of 'where'"
+      },
+      {
+        "lemma": "עַל־אֵי",
+        "translit": "ʿal-ēy",
+        "note": "compound phrase meaning 'on what grounds'; ay combined with preposition"
+      }
+    ]
+  },
+  "ayin_h0369": {
+    "lemma": "אַ֫יִן",
+    "translit": "a.yin",
+    "strongs": "H0369",
+    "pos": "H:Neg",
+    "basicGloss": "nothing",
+    "loaded": false,
+    "notes": "Ayin carries the sense of absolute nonexistence or negation, distinguishing it from lo (simple denial). It appears frequently in negative existential statements (e.g., 'there is nothing/no one') and possession-negation ('he has not'). The word can function as noun, verb, or adverbial negation depending on context, making it one of OT Hebrew's most flexible negators.",
+    "otFrequency": 0,
+    "pronunciation": "AH-yin",
+    "semanticRange": [
+      "nothing, nonexistence, or absence of something",
+      "negation or denial (not, no)",
+      "lack or deprivation, especially in possession",
+      "without, lacking (when used with prepositions)"
+    ],
+    "related": [
+      {
+        "lemma": "לֹא",
+        "translit": "lo",
+        "note": "primary negation particle; ayin emphasizes absence/nonexistence rather than simple denial"
+      },
+      {
+        "lemma": "אֵין",
+        "translit": "ein",
+        "note": "variant form of ayin; both denote nonexistence or lack of presence"
+      },
+      {
+        "lemma": "חָסֵר",
+        "translit": "chaser",
+        "note": "to lack or be deficient; related semantically to ayin's sense of deprivation"
+      }
+    ]
+  },
+  "az_h0227": {
+    "lemma": "אָז",
+    "translit": "az",
+    "strongs": "H0227",
+    "pos": "Conjunction",
+    "basicGloss": "then",
+    "loaded": false,
+    "notes": "Az functions primarily as a narrative and logical connective in Biblical Hebrew. It marks temporal progression (\"then it came to pass\") and conditional chains (\"if X, then Y\"), appearing frequently in genealogies, legal formulas, and prophetic sequences. In prophetic literature especially (e.g., Isaiah 1:26), it signals the turning point between judgment and restoration.",
+    "otFrequency": 0,
+    "pronunciation": "AHZ",
+    "semanticRange": [
+      "at that time; then (marking a point in past or future narrative)",
+      "then, if...then (conditional or consequential sequence)",
+      "in that case; therefore (logical inference or conclusion)",
+      "earlier; previously (retrospective temporal reference)"
+    ],
+    "related": [
+      {
+        "lemma": "אֲזַי",
+        "translit": "azay",
+        "note": "Later Aramaic-influenced variant; same temporal-logical force"
+      },
+      {
+        "lemma": "עַתָּה",
+        "translit": "attah",
+        "note": "Now, present time; contrasts with az's past/conditional reference"
+      },
+      {
+        "lemma": "τότε",
+        "translit": "tote",
+        "note": "LXX Greek equivalent; marks temporal or logical sequence"
+      }
+    ]
+  },
+  "bal_h1077": {
+    "lemma": "בַּל",
+    "translit": "bal",
+    "strongs": "H1077",
+    "pos": "H:Neg",
+    "basicGloss": "not",
+    "loaded": false,
+    "notes": "Bal is a poetic or elevated negation particle, appearing most frequently in wisdom literature and legal contexts (e.g., Proverbs, Job, Deuteronomic law). It often carries emphatic force, especially in prohibitions or clauses of prevention ('lest that...'), and occasionally introduces a contrasting or intensified sense. In Job 34:6 and Proverbs 30:3, the word's slightly archaic tone gives weight to assertions and warnings.",
+    "otFrequency": 0,
+    "pronunciation": "BAHL",
+    "semanticRange": [
+      "Simple negation; 'not' or 'no'",
+      "Emphatic or preventive negation; 'lest' or 'so that not'",
+      "Rare sense: 'hardly' or 'scarcely'",
+      "Conditional negation in oaths or prohibitions"
+    ],
+    "related": [
+      {
+        "lemma": "לֹא",
+        "translit": "lo'",
+        "note": "Most common Hebrew negation; bal is more literary or emphatic"
+      },
+      {
+        "lemma": "אַל",
+        "translit": "al",
+        "note": "Volitive negation used in commands; bal appears more in narrative negation"
+      },
+      {
+        "lemma": "בִּלְתִּי",
+        "translit": "bilti",
+        "note": "Related form meaning 'except,' 'without,' or 'unless'; shares root sense"
+      }
+    ]
+  },
+  "ben_h0997": {
+    "lemma": "בֵּין",
+    "translit": "ben",
+    "strongs": "H0997",
+    "pos": "Preposition",
+    "basicGloss": "between",
+    "loaded": false,
+    "notes": "בֵּין is a highly frequent spatial and relational preposition that rarely carries independent theological weight. It governs the construct state or takes a noun in the form בְּ + noun, and often appears doubled (בֵּין...וּבֵּין) to mark two distinct poles. The word is structurally transparent and semantically stable across OT literature; its theological significance emerges only from the entities it relates—as in the covenant 'between' God and Abraham (Gen 15:18) or the separation 'between' light and darkness (Gen 1:4).",
+    "otFrequency": 0,
+    "pronunciation": "BANE",
+    "semanticRange": [
+      "in the space separating two entities or groups",
+      "among; within a collective or intermediate space",
+      "in relation or comparison to two parties",
+      "marking boundary or division between states or realms"
+    ],
+    "related": [
+      {
+        "lemma": "בַּיִן",
+        "translit": "bayyin",
+        "note": "variant form; also carries sense of 'between' (H0996)"
+      },
+      {
+        "lemma": "לְבַד",
+        "translit": "levad",
+        "note": "preposition denoting separation; 'apart from' (contrast to collective between)"
+      },
+      {
+        "lemma": "εἰς μέσον",
+        "translit": "eis meson",
+        "note": "Greek equivalent in LXX; literally 'into the middle'"
+      }
+    ]
+  },
+  "e_g2228": {
+    "lemma": "ἤ",
+    "translit": "ē",
+    "strongs": "G2228",
+    "pos": "Conjunction",
+    "basicGloss": "or",
+    "loaded": false,
+    "notes": "ἤ, disjunctive and comparative particle (Bl., §36, 12; 77, 11); __1. disjunctive, or; __(a) between single words: Mat.5:17 Mrk.6:56, Luk.2:24, Jhn.6:19, Rom.1:21, al.; __(b) before a sentence expressing a variation, denial or refutation…",
+    "ntFrequency": 0
+  },
+  "ei_g1487": {
+    "lemma": "εἰ",
+    "translit": "ei",
+    "strongs": "G1487",
+    "pos": "G:COND",
+    "basicGloss": "if",
+    "loaded": false,
+    "notes": "εἰ, conjunctive particle, used in conditions and in indirect questions. __I. Conditional, if; __1. with indic, expressing a general assumption; __(a) pres.: before indic, pres., Mat.11:14, Rom.8:25, al.; before imperat., Mrk.4:23 9:22,…",
+    "ntFrequency": 0
+  },
+  "en_g1722": {
+    "lemma": "ἐν",
+    "translit": "en",
+    "strongs": "G1722",
+    "pos": "Preposition",
+    "basicGloss": "in/on/among",
+    "loaded": false,
+    "notes": "ἐν, prep, (the most frequently of all in NT), with dative (= Heb. בְּ, Lat. in, with abl.). __I. Of place, with dative of thing(s), of person(s), in, within, on, at, by, among: ἐν τ. πόλει, Luk.7:37; τ. οφθαλμῷ, Mat.7:3; τ. κοιλίᾳ,…",
+    "ntFrequency": 0
+  },
+  "et_h0853": {
+    "lemma": "אֵת",
+    "translit": "et",
+    "strongs": "H0853",
+    "pos": "Particle",
+    "basicGloss": "[Obj.]",
+    "loaded": false,
+    "notes": "sign of the definite direct object, not translated in English but generally preceding and indicating the accusativeAramaic equivalent: yat (יָת \"whom\" H3487)",
+    "otFrequency": 0
+  },
+  "ge_g1065": {
+    "lemma": "γέ",
+    "translit": "ge",
+    "strongs": "G1065",
+    "pos": "Particle",
+    "basicGloss": "indeed",
+    "ntFrequency": 0,
+    "loaded": true,
+    "notes": "גֵּא carries the sense of arrogant or haughty—a posture of spiritual and moral danger in biblical ethics. The word appears primarily in wisdom and prophetic literature condemning pride as a prelude to judgment (Proverbs 16:18, Isaiah 13:11). This adjective is theologically charged because humility before God is a cardinal virtue, making pride its archetypal sin.",
+    "otFrequency": 0,
+    "pronunciation": "GAY-uh",
+    "semanticRange": [
+      "Arrogant, haughty in bearing or demeanor",
+      "Exalted, lifted up in pride or status",
+      "Contemptuous toward others; disdainful",
+      "Swollen or puffed up (literal or metaphorical)"
+    ],
+    "related": [
+      {
+        "lemma": "גָּאָה",
+        "translit": "gaʾah",
+        "note": "Verb form; to rise up, be exalted, become proud or haughty"
+      },
+      {
+        "lemma": "גְּאוּת",
+        "translit": "geʾut",
+        "note": "Abstract noun; pride, arrogance, haughtiness as a character vice"
+      },
+      {
+        "lemma": "ταπεινός",
+        "translit": "tapeinos",
+        "note": "Greek antonym in LXX; humble, lowly, opposite of proud"
+      }
+    ]
+  },
+  "hennah_h2007": {
+    "lemma": "הֵנָּה",
+    "translit": "hen.nah",
+    "strongs": "H2007",
+    "pos": "H:RelP",
+    "basicGloss": "they(fem.)",
+    "loaded": false,
+    "notes": "הֵנָּה is a feminine plural pronoun that can function either as a pure third-person pronoun ('they') or carry demonstrative weight ('these', 'those'). It appears chiefly in narrative contexts where feminine groups or feminine-gendered entities require anaphoric or deictic reference. The word shows grammatical relationship to הוּא but carries distinct feminine plural marking; context determines whether the referent is primarily pronominal or demonstrative in function.",
+    "otFrequency": 0,
+    "pronunciation": "HEN-nah",
+    "semanticRange": [
+      "They (feminine plural pronoun)",
+      "These (feminine plural demonstrative)",
+      "The same ones (feminine plural)",
+      "Those women or feminine entities (emphatic reference)"
+    ],
+    "related": [
+      {
+        "lemma": "הוּא",
+        "translit": "hu",
+        "note": "Masculine singular 3rd person pronoun from which הֵנָּה derives"
+      },
+      {
+        "lemma": "הוּא",
+        "translit": "hem",
+        "note": "Masculine plural pronoun; הֵנָּה is its feminine counterpart"
+      },
+      {
+        "lemma": "הִנָּם",
+        "translit": "hinnam",
+        "note": "Masculine plural form with similar demonstrative-emphatic force"
+      }
+    ]
+  },
+  "hode_g3592": {
+    "lemma": "ὅδε",
+    "translit": "hode, hēde",
+    "strongs": "G3592",
+    "pos": "Pronoun (demonstrative)",
+    "basicGloss": "this",
+    "ntFrequency": 0,
+    "loaded": false,
+    "notes": "ὅδε is the classical demonstrative of proximity and visibility, originally ὁ + enclitic δέ. It anchors deixis to what is spatially or discursively present and can be indicated by gesture. Luke 10:39 exemplifies its function in marking a person just named. By the Hellenistic period, οὗτος increasingly displaced it, though ὅδε retains force in formal or emphatic contexts.",
+    "pronunciation": "HOH-deh",
+    "semanticRange": [
+      "This (here)—what is present or visible, capable of being pointed out",
+      "This person or thing just mentioned or named",
+      "This (in contrast to that); near deixis versus distant",
+      "This side; near or proximal in space or discourse"
+    ],
+    "related": [
+      {
+        "lemma": "ὅς",
+        "translit": "hos",
+        "note": "Relative pronoun; often used where ὅδε marks the proximal pole"
+      },
+      {
+        "lemma": "ἐκεῖνος",
+        "translit": "ekeinos",
+        "note": "Distal demonstrative (that, yonder); contrasts with ὅδε's proximal reference"
+      },
+      {
+        "lemma": "οὗτος",
+        "translit": "houtos",
+        "note": "Demonstrative (this, that); overlaps ὅδε but more common in later Greek"
+      }
+    ]
+  },
+  "i_h0336": {
+    "lemma": "אִי",
+    "translit": "i",
+    "strongs": "H0336",
+    "pos": "H:Neg",
+    "basicGloss": "not",
+    "loaded": false,
+    "notes": "אִי carries the sense of a negation particle, predominantly appearing in poetic books and older strata of biblical Hebrew. The word denotes 'not' or 'no,' but its distribution is notably restricted compared to the more frequent לֹא. It appears frequently in the book of Job (e.g., Job 6:6, 22:3) and in rhetorical questions where it intensifies denial or doubt.",
+    "otFrequency": 0,
+    "pronunciation": "ee",
+    "semanticRange": [
+      "negative particle; not, no",
+      "used in rhetorical questions or emphatic negation",
+      "interrogative negation: is it not? did not?",
+      "poetic or archaic negation, especially in Job and wisdom literature"
+    ],
+    "related": [
+      {
+        "lemma": "לֹא",
+        "translit": "lo",
+        "note": "Common negative particle; similar negation but broader usage than אִי"
+      },
+      {
+        "lemma": "בַל",
+        "translit": "bal",
+        "note": "Negative particle often used in prohibitions and with cohortatives"
+      },
+      {
+        "lemma": "אַל",
+        "translit": "al",
+        "note": "Negative particle for prohibition and vetitive moods"
+      }
+    ]
+  },
+  "men_g3303": {
+    "lemma": "μέν",
+    "translit": "men",
+    "strongs": "G3303",
+    "pos": "Particle",
+    "basicGloss": "on the other hand",
+    "ntFrequency": 0,
+    "loaded": false,
+    "notes": "The word denotes primarily the strings of stringed instruments in biblical poetry, most notably in psalms (Psalm 150:4). The secondary sense of 'portion' appears less frequently but reflects the semantic field of division and apportionment. The instrumental sense dominates surviving attestations.",
+    "otFrequency": 0,
+    "pronunciation": "MEN",
+    "semanticRange": [
+      "String of a musical instrument, especially harp or lyre",
+      "Portion or share allocated to someone",
+      "A part or division of a whole"
+    ],
+    "related": [
+      {
+        "lemma": "מָנָה",
+        "translit": "manah",
+        "note": "Related verb meaning to allot, portion out, or divide"
+      },
+      {
+        "lemma": "חֵלֶק",
+        "translit": "cheleq",
+        "note": "Cognate noun denoting portion, share, or inheritance"
+      }
+    ]
+  },
+  "meta_g3326": {
+    "lemma": "μετά",
+    "translit": "meta",
+    "strongs": "G3326",
+    "pos": "Preposition",
+    "basicGloss": "with/after",
+    "loaded": false,
+    "notes": "This Aramaic verb (P'al stem) denotes the action of arriving at or extending toward a spatial or temporal point. It appears primarily in Daniel and other late OT texts. The word carries no substantial theological weight—it functions as a straightforward spatial or temporal marker.",
+    "otFrequency": 0,
+    "pronunciation": "meh-TAH",
+    "semanticRange": [
+      "to arrive at or reach a destination",
+      "to extend or stretch to a point",
+      "to come upon or encounter",
+      "to attain or achieve a goal"
+    ],
+    "related": [
+      {
+        "lemma": "מְטָא",
+        "translit": "me.ta (Aphel)",
+        "note": "causative form: to cause to reach or deliver to a destination"
+      },
+      {
+        "lemma": "נַגַּע",
+        "translit": "na.gah",
+        "note": "Hebrew cognate carrying overlapping sense of touching, reaching, or striking"
+      },
+      {
+        "lemma": "קָרַב",
+        "translit": "qa.rav",
+        "note": "related concept of drawing near or approaching a place or person"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "na_h4994": {
+    "lemma": "נָא",
+    "translit": "na",
+    "strongs": "H4994",
+    "pos": "H:Intj",
+    "basicGloss": "please",
+    "loaded": false,
+    "notes": "Na is a modal particle that softens imperatives and emphatic requests, giving them an urgent but deferential tone. It appears across all genres—law, narrative, wisdom—and often clusters in prayer scenes (Genesis 18:3–5, where Abraham requests divine favor). The particle does not itself denote emotion but flags that an utterance carries emotional or relational weight.",
+    "otFrequency": 0,
+    "pronunciation": "nah",
+    "semanticRange": [
+      "particle of entreaty or urgent request; please",
+      "softening particle emphasizing immediacy or polite exhortation",
+      "marker of emotional appeal in prayer or supplication"
+    ],
+    "related": [
+      {
+        "lemma": "עָתַר",
+        "translit": "atar",
+        "note": "to pray, entreat; carries the fuller verb sense נָא expresses as particle"
+      },
+      {
+        "lemma": "בִּקֵּשׁ",
+        "translit": "biqquesh",
+        "note": "to seek, request; often accompanied by נָא to intensify the petition"
+      },
+      {
+        "lemma": "דָּעָה",
+        "translit": "daah",
+        "note": "know, understand; נָא frequently softens imperatives in wisdom discourse"
+      }
+    ]
+  },
+  "o_g5599": {
+    "lemma": "ὦ",
+    "translit": "ō",
+    "strongs": "G5599",
+    "pos": "Interjection",
+    "basicGloss": "oh!",
+    "loaded": false,
+    "notes": "ὦ interj., with vocat., O; __(a) in simple address (less frequently than in cl.; M, Pr., 71); Act.1:1 18:14 27:21, Rom.2:1, 3 9:20, 1Ti.6:20; expressing reproof, Jas.2:20; __(b) in exclamations of surprise, etc.: Mat.15:28, Luk.24:25,…",
+    "ntFrequency": 0
+  },
+  "para_g3844": {
+    "lemma": "παρά",
+    "translit": "para",
+    "strongs": "G3844",
+    "pos": "Preposition",
+    "basicGloss": "from/with/beside",
+    "loaded": false,
+    "notes": "This verb denotes literal and figurative productivity—the capacity to generate life, crops, or prosperity. It appears prominently in the creation narrative (Genesis 1:22, 28) where God blesses creatures and humans to 'be fruitful and multiply.' The Hiphil carries causative force, suggesting active bearing or causing to bear fruit rather than passive fertility alone.",
+    "otFrequency": 0,
+    "pronunciation": "pah-RAH",
+    "semanticRange": [
+      "to bear fruit, produce offspring (plants or animals)",
+      "to be fruitful, multiply, increase in number",
+      "to prosper, flourish, thrive (figurative extension)"
+    ],
+    "related": [
+      {
+        "lemma": "פְּרִי",
+        "translit": "p'ri",
+        "note": "noun; fruit or offspring—the product of being fruitful"
+      },
+      {
+        "lemma": "פָּרָה",
+        "translit": "parah",
+        "note": "variant spelling (H6509); same root, same sense of bearing fruit"
+      },
+      {
+        "lemma": "רָבָה",
+        "translit": "rabah",
+        "note": "to multiply, increase; overlapping sense of abundance and reproduction"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "peri_g4012": {
+    "lemma": "περί",
+    "translit": "peri",
+    "strongs": "G4012",
+    "pos": "Preposition",
+    "basicGloss": "about",
+    "loaded": true,
+    "notes": "Peril carries substantial theological weight in covenantal and sapiential contexts. In Genesis 1:29–30 it denotes God's provision; in Psalm 1:3 and Proverbs 31:16, it signals the blessed yield of righteous conduct. Deuteronomy and the Prophets deploy it metaphorically for the consequences of obedience or rebellion—a usage that shapes NT ethics (Matt. 7:16–20, Gal. 5:22).",
+    "otFrequency": 0,
+    "pronunciation": "pe-REE",
+    "semanticRange": [
+      "Literal fruit or produce from trees and plants",
+      "Offspring, children, or progeny from the womb",
+      "Results or consequences of human actions or works",
+      "Productivity or yield of labor and obedience"
+    ],
+    "related": [
+      {
+        "lemma": "פָּרָה",
+        "translit": "parah",
+        "note": "verb 'to bear fruit' or 'to be fruitful'; root sense of productivity"
+      },
+      {
+        "lemma": "κάρπος",
+        "translit": "karpos",
+        "note": "LXX Greek equivalent; carries same semantic range from literal fruit to moral/spiritual results"
+      },
+      {
+        "lemma": "עֲמָל",
+        "translit": "amal",
+        "note": "noun 'labor' or 'toil'; often paired with פְּרִי to denote fruit of labor in wisdom literature"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "tauta_g5023": {
+    "lemma": "ταῦτα",
+    "translit": "tauta",
+    "strongs": "G5023",
+    "pos": "Pronoun (demonstrative)",
+    "basicGloss": "this",
+    "loaded": false,
+    "notes": "οὗτος, αὕτη, τοῦτο, genitive, τούτου, ταύτης, τούτου, [in LXX chiefly for זֹאת ,זֶה ;] demonstr. pron. (related to ἐκεῖνος as hic to ille), this; __1. as subst., this one, he; __(a) absol.: Mat.3:17, Mrk.9:7, Luk.7:44, 45, Jhn.1:15,…",
+    "ntFrequency": 0
+  },
+  "tou_g5120": {
+    "lemma": "τοῦ",
+    "translit": "tou",
+    "strongs": "G5120",
+    "pos": "Pronoun (demonstrative)",
+    "basicGloss": "his",
+    "loaded": false,
+    "notes": "Toi appears in the narrative of David's military expansion (2 Sam 8:9–10 // 1 Chr 18:9–10). The name is spelled both as תּוֹעִי and תּוּ in parallel accounts; the etymology relating it to 'wandering' is ancient tradition but synchronically functions simply as a proper noun for this historical Aramean king. His mention marks the extent of David's northern reach and diplomatic recognition.",
+    "otFrequency": 0,
+    "pronunciation": "toh-EE",
+    "semanticRange": [
+      "King of Hamath during David's United Monarchy reign",
+      "Father of Joram, who served as David's envoy",
+      "Regional ruler in Syria-Palestine north of Israel"
+    ],
+    "related": [
+      {
+        "lemma": "תעה",
+        "translit": "taah",
+        "note": "Verb 'to wander, go astray'; etymological root of proper name"
+      },
+      {
+        "lemma": "חמת",
+        "translit": "chamat",
+        "note": "Hamath, the northern Syrian kingdom Toi ruled"
+      },
+      {
+        "lemma": "יורם",
+        "translit": "yoram",
+        "note": "Toi's son, sent as envoy to congratulate King David"
+      }
+    ],
+    "ntFrequency": 0
+  },
+  "zeh_h2088": {
+    "lemma": "זֶה",
+    "translit": "zeh",
+    "strongs": "H2088",
+    "pos": "H:DemP",
+    "basicGloss": "this",
+    "loaded": false,
+    "notes": "this, this one, here, which, this...that, the one...the other, another, such1a) (alone)1a1) this one1a2) this...that, the one...the other, another1b) (appos to subst)1b1) this1c) (as predicate)1c1) this, such1d) (enclitically)1d1)…",
+    "otFrequency": 0
   }
 }
