@@ -6913,8 +6913,33 @@
     "pos": "Adverb",
     "basicGloss": "amen",
     "otFrequency": 30,
-    "notes": "verily, truly, amen, so be it",
-    "ntFrequency": 30
+    "notes": "Amen functions as both a liturgical response formula and a truth-marker, often closing prayers, doxologies, and solemn pronouncements (e.g., Pss 89:52; Matt 6:13; Rev 22:20). The word carries weight beyond mere agreement—it asserts the binding and trustworthy character of what precedes it. Context determines whether it marks personal endorsement, congregational affirmation, or divine confirmation.",
+    "ntFrequency": 30,
+    "pronunciation": "ah-MAYN",
+    "semanticRange": [
+      "affirmation or confirmation of a previous statement or prayer",
+      "liturgical affirmation meaning 'so be it' or 'truly'",
+      "solemn assurance of the truth or binding nature of what precedes it",
+      "emphatic assertion of reliability or trustworthiness"
+    ],
+    "related": [
+      {
+        "lemma": "אמן",
+        "translit": "aman",
+        "note": "Root verb: 'to support, confirm, be faithful'; carries the sense of stability underlying the affirmation"
+      },
+      {
+        "lemma": "ἀμήν",
+        "translit": "amen",
+        "note": "Greek transliteration of the Hebrew; used identically in NT liturgy and doxologies"
+      },
+      {
+        "lemma": "אֱמֶת",
+        "translit": "emet",
+        "note": "Related noun: 'truth, faithfulness'; shares semantic root denoting reliability and veracity"
+      }
+    ],
+    "loaded": true
   },
   "amerimnos": {
     "lemma": "ἀμέριμνος",
@@ -63202,8 +63227,33 @@
     "pos": "Noun (fem.)",
     "basicGloss": "earth: planet",
     "ntFrequency": 242,
-    "notes": "γῆ, γῆς, ἡ, [in LXX for אֲדָמָה ,אֶרֶץ, etc. ;] __1. the earth, world: Luk.21:35, Act.1:8, Heb.11:13, Rev.3:10, al.; opposite to οὐρανός, Mat.5:18 11:25, Mrk.13:27, al. __2. land; __(a) opposite to sea or water: Mrk.4:1, Luk.5:3,…",
-    "otFrequency": 1
+    "notes": "γῆ carries a broad semantic range from the physical planet to political/territorial entities, always contextually grounded. The fundamental opposition to οὐρανός (heaven) structures much NT eschatology, particularly in the Sermon on the Mount (Mat. 5:18) and apocalyptic passages (Rev. 3:10, 21:1). In Acts 1:8, it denotes the inhabited world as mission field; in Heb. 11:13, the earthly as opposed to heavenly homeland.",
+    "otFrequency": 1,
+    "pronunciation": "GAY",
+    "semanticRange": [
+      "the earth or world as a whole; terrestrial realm",
+      "land or earth as opposed to sea or water",
+      "a region, country, or territory",
+      "soil or ground (material substance)"
+    ],
+    "related": [
+      {
+        "lemma": "οὐρανός",
+        "translit": "ouranos",
+        "note": "heaven; the primary antonym, marking cosmic duality in NT"
+      },
+      {
+        "lemma": "ἐπί + γῆ",
+        "translit": "epi + gē",
+        "note": "on earth; prepositional phrase emphasizing terrestrial location"
+      },
+      {
+        "lemma": "אֶרֶץ",
+        "translit": "ereṣ",
+        "note": "Hebrew cognate; LXX equivalent denoting land, earth, or world"
+      }
+    ],
+    "loaded": false
   },
   "gedeon": {
     "lemma": "Γεδεών",
@@ -70761,7 +70811,32 @@
     "pos": "Adverb",
     "basicGloss": "here",
     "ntFrequency": 57,
-    "notes": "ὧδε, adv., [in LXX for חֲלֹם ,פֹּה ,הִנֶּה, etc. ;] __1. prop., of manner, so (Hom., al.). __2. In poets (rarely) and late writers, of place, __(a) hither (BL, §25, 2): Mat.8:29, Mrk.11:3, Luk.9:41, Jhn.6:25, al.; ἕως ὧδε, Luk.23:5;…"
+    "notes": "ὧδε carries the sense of spatial or temporal immediacy, anchoring the reader or listener to a specific locus. The word grounds narrative action: 'Come here' (Mat. 8:29), 'Bring it here' (Mar. 11:3). In later NT usage, it can shade toward the meaning 'in these circumstances' or 'thus far' (Luk. 23:5), but the primary denotation remains locational. The archaic 'manner' sense (so, thus) is negligible in the NT.",
+    "pronunciation": "HO-day",
+    "semanticRange": [
+      "In this place, here (spatial location)",
+      "To this place, hither (movement toward speaker)",
+      "In this matter, in these circumstances (figurative or temporal)",
+      "Thus, so (manner or assertion, archaic sense)"
+    ],
+    "related": [
+      {
+        "lemma": "ἐκεῖ",
+        "translit": "ekei",
+        "note": "Adverb denoting 'there'; opposite spatial orientation to ὧδε."
+      },
+      {
+        "lemma": "ἐνταῦθα",
+        "translit": "entautha",
+        "note": "Adverb meaning 'here' or 'in this place'; near-synonym with slightly more formal tone."
+      },
+      {
+        "lemma": "πού",
+        "translit": "pou",
+        "note": "Interrogative adverb 'where'; shares spatial semantic field with ὧδε."
+      }
+    ],
+    "loaded": false
   },
   "hodegeo": {
     "lemma": "ὁδηγέω",
@@ -99548,8 +99623,32 @@
     "pos": "Noun (masc.)",
     "basicGloss": "month",
     "ntFrequency": 17,
-    "notes": "μήν genitive, μηνός, ὁ, [in LXX very frequently for חֹדֶשׁ, Gen.7:11, al.; a few times for יֶרַח ;] a month: Luk.1:24, 26 1:36, 56 4:25, Act.7:20 18:11 19:8 20:3 28:11, Jas.5:17, Rev.9:5, 10 9:15 11:2 13:5 22:2; pl., of the festival of…",
-    "otFrequency": 2
+    "notes": "μήν is a straightforward temporal unit with minimal theological freight. The word follows the standard Jewish lunar calendar where each month began with the new moon (χodesh); Luke's nativity narrative anchors key events in months (1:24, 1:36, 1:56). In Revelation and Acts it measures duration of persecution, plague, or ministry. No special theological sense attaches to the word itself; context determines whether reference is calendrical or durational.",
+    "otFrequency": 2,
+    "pronunciation": "mane",
+    "semanticRange": [
+      "A period of approximately 30 days; one of twelve divisions of the calendar year",
+      "A lunar month, reckoned by the moon's phases in Jewish reckoning",
+      "Duration expressed in months (temporal measurement or length of time)"
+    ],
+    "related": [
+      {
+        "lemma": "μηνιαῖος",
+        "translit": "mēniaios",
+        "note": "Adjective; occurring monthly or lasting a month; less common variant"
+      },
+      {
+        "lemma": "חֹדֶשׁ",
+        "translit": "ḥodesh",
+        "note": "Hebrew equivalent; lit. 'new moon,' the standard OT/Jewish term for month"
+      },
+      {
+        "lemma": "ἡμέρα",
+        "translit": "hēmera",
+        "note": "Day; the smaller unit of temporal division below the month"
+      }
+    ],
+    "loaded": false
   },
   "meno": {
     "lemma": "μένω",
@@ -165606,7 +165705,32 @@
     "pos": "Noun (masc.)",
     "basicGloss": "face: anger",
     "otFrequency": 243,
-    "notes": ": anger1) nostril, nose, face2) anger"
+    "notes": "אַף operates as a metonymy: the nose/nostril (where breath expels in anger) becomes the standard OT word for anger itself. The physical sense (nostril/nose) remains present but is secondary to the emotional force. Psalm 30:5 exemplifies the anger sense ('his anger is but for a moment'); Genesis 30:2 shows face/presence ('am I in the place of God?'). The word does heavy theological work when describing divine wrath and human transgression.",
+    "pronunciation": "AHF",
+    "semanticRange": [
+      "nostril or nose (physical anatomy)",
+      "anger or wrath (metonymic: seat of heated breath)",
+      "face or presence (synecdoche: part for whole)",
+      "anger directed at someone; divine displeasure or judgment"
+    ],
+    "related": [
+      {
+        "lemma": "אַף",
+        "translit": "aph",
+        "note": "Related noun; anger as extended semantic field from nostril flaring in rage."
+      },
+      {
+        "lemma": "חֵמָה",
+        "translit": "chēmâ",
+        "note": "Heat, wrath; overlaps with anger sense but stresses burning/heated emotion."
+      },
+      {
+        "lemma": "קָצַף",
+        "translit": "qāṣaph",
+        "note": "To be angry, provoked; verbal cognate denoting the emotional state אַף expresses."
+      }
+    ],
+    "loaded": true
   },
   "aphah": {
     "lemma": "אָפָה",
@@ -167275,8 +167399,33 @@
     "pos": "Noun (masc.)",
     "basicGloss": "place",
     "otFrequency": 39,
-    "notes": "track, place",
-    "ntFrequency": 39
+    "notes": "Atar denotes a concrete, localized place—often the site of an event, dwelling, or passage. In narrative contexts (e.g., Genesis, 1 Samuel), it typically marks where an action unfolds. The 'track' sense appears less frequently but ties to the root's association with treading or impression. The word is straightforward in reference and carries no major theological baggage across the corpus.",
+    "ntFrequency": 39,
+    "pronunciation": "ah-TAHR",
+    "semanticRange": [
+      "place or location (geographic or spatial)",
+      "a specific site or spot where something occurs",
+      "track or trace (footprint, path)",
+      "threshold or passage (architectural sense)"
+    ],
+    "related": [
+      {
+        "lemma": "מְקוֹם",
+        "translit": "meqom",
+        "note": "Synonym for place; more general and abstract than atar"
+      },
+      {
+        "lemma": "דֶרֶךְ",
+        "translit": "derek",
+        "note": "Way or path; overlaps with track sense of atar"
+      },
+      {
+        "lemma": "עִקּוּם",
+        "translit": "iqqum",
+        "note": "Footprint or track; related to the vestiges-sense of atar"
+      }
+    ],
+    "loaded": false
   },
   "aton": {
     "lemma": "אָתוֹן",
@@ -167421,7 +167570,32 @@
     "pos": "Adverb",
     "basicGloss": "now",
     "otFrequency": 411,
-    "notes": "now1a) now1b) in phrases"
+    "notes": "עַתָּה is a high-frequency temporal adverb that anchors narrative and discourse to the present moment. Beyond literal 'now,' it often carries rhetorical weight in direct speech—commands, exhortations, and pivotal announcements (e.g., Genesis 37:20, 'Come now and let us kill him'). Its force depends entirely on context: sometimes it marks a simple temporal location, sometimes urgency or a turning point in the action.",
+    "pronunciation": "ah-TAH",
+    "semanticRange": [
+      "at the present moment; this very moment",
+      "at this point in a narrative or discourse; just now",
+      "in the immediate future; very soon",
+      "in set phrases indicating urgency or emphasis (now then, come now)"
+    ],
+    "related": [
+      {
+        "lemma": "עוֹד",
+        "translit": "od",
+        "note": "still, yet; temporal adverb often paired with עַתָּה in contrast"
+      },
+      {
+        "lemma": "הִנֵּה",
+        "translit": "hinneh",
+        "note": "behold, look; often co-occurs with עַתָּה to highlight immediacy"
+      },
+      {
+        "lemma": "νῦν",
+        "translit": "nyn",
+        "note": "LXX equivalent; Greek temporal adverb for present moment or urgent NOW"
+      }
+    ],
+    "loaded": false
   },
   "attud": {
     "lemma": "עַתּוּד",
@@ -167985,7 +168159,31 @@
     "pos": "Proper noun",
     "basicGloss": "Ai",
     "otFrequency": 78,
-    "notes": "§ Ai or Aija or Aiath or Hai = \"heap of ruins\" a city lying east of Bethel and beside Bethaven near Jericho and the second city taken on the invasion of Canaan"
+    "notes": "Ai appears 78 times, predominantly in Joshua 7–8, where Israel's first military failure followed by victory becomes a pivot point in the conquest narrative. The name's etymology (\"heap of ruins\") may reflect either pre-Israelite destruction or post-conquest status. The city's theological weight lies in narrative function—testing faith after Achan's sin—rather than in the toponym itself.",
+    "pronunciation": "AH-ee",
+    "semanticRange": [
+      "A fortified city east of Bethel in Canaan",
+      "Site of Israel's initial military defeat under Joshua",
+      "Symbolic location for divine judgment and redemption narrative"
+    ],
+    "related": [
+      {
+        "lemma": "עַיָּה",
+        "translit": "ayyah",
+        "note": "Feminine form; also denotes ruin or desolation, reinforcing toponym etymology"
+      },
+      {
+        "lemma": "Βαιθηλ",
+        "translit": "Baithēl",
+        "note": "Bethel; the neighboring city frequently paired with Ai in Joshua's campaign narrative"
+      },
+      {
+        "lemma": "בֵּית־אָוֶן",
+        "translit": "Bēth-ʾāven",
+        "note": "House of Iniquity; alternate designation for region containing Ai, emphasizing theological significance"
+      }
+    ],
+    "loaded": false
   },
   "ayeph": {
     "lemma": "עִיף",
@@ -168028,7 +168226,32 @@
     "pos": "Noun (fem.)",
     "basicGloss": "eye",
     "otFrequency": 1556,
-    "notes": ": eye1) eye1a) eye1a1) of physical eye1a2) as showing mental qualities1a3) of mental and spiritual faculties (fig.)"
+    "notes": "עַיִן is foundational to biblical anthropology and epistemology. Beyond the physical organ, the eye in Hebrew thought represents the seat of desire (Num 15:39), divine favor (Gen 6:8 'grace in the eyes of'), and moral judgment (the 'evil eye' of Matt 20:15 reflects Hebrew idiom). Crucially, to see (רָאָה with עַיִן) means to understand or acknowledge. The phrase 'before the eyes of the Lord' (לְעֵינֵי יְהוָה) recurs obsessively to signal divine observation and judgment.",
+    "pronunciation": "AH-yin",
+    "semanticRange": [
+      "Physical organ of sight; the eye itself",
+      "Figurative: attention, regard, or favor (appears in one's eye)",
+      "Figurative: mental perception, understanding, or spiritual perception",
+      "Expression of desire, envy, or judgment (good eye, evil eye)"
+    ],
+    "related": [
+      {
+        "lemma": "רָאָה",
+        "translit": "ra.ah",
+        "note": "To see; primary verb paired with eye for perception"
+      },
+      {
+        "lemma": "עִוְּרוֹן",
+        "translit": "i.vron",
+        "note": "Blindness; deprivation of sight; opposite state to functional eye"
+      },
+      {
+        "lemma": "λέγω",
+        "translit": "ophthalmós",
+        "note": "LXX equivalent (ὀφθαλμός); Greek word carries same physical and figurative range"
+      }
+    ],
+    "loaded": true
   },
   "ayir": {
     "lemma": "עַ֫יִר",
@@ -168204,7 +168427,32 @@
     "pos": "Adjective",
     "basicGloss": "strong",
     "otFrequency": 22,
-    "notes": "strong, mighty, fierce"
+    "notes": "עַז denotes both physical strength and a kind of moral or social toughness—fierceness of character, even impudence. In contexts like Deuteronomy 21:18 (rebellious son) and Proverbs 7:13 (the adulteress), it carries the sense of shameless boldness. The word does not appear often in theological formulas but anchors descriptions of human stubbornness and resistance.",
+    "pronunciation": "AHZ",
+    "semanticRange": [
+      "Strong, mighty in physical or military force",
+      "Fierce, violent in character or behavior",
+      "Bold, hard, impudent in demeanor",
+      "Stubborn, stiff-necked in resolve"
+    ],
+    "related": [
+      {
+        "lemma": "עוז",
+        "translit": "oz",
+        "note": "Noun; strength, might—the abstract quality עַז describes"
+      },
+      {
+        "lemma": "עָזַז",
+        "translit": "azaz",
+        "note": "Verb; to be strong, to prevail—verbal root related to adjective"
+      },
+      {
+        "lemma": "קָשֶׁה",
+        "translit": "qashe",
+        "note": "Adjective; hard, stiff, stubborn—overlaps with עַז in obstinacy sense"
+      }
+    ],
+    "loaded": false
   },
   "azan": {
     "lemma": "אָזַן",
@@ -179356,7 +179604,32 @@
     "pos": "Adverb",
     "basicGloss": "here/thus",
     "otFrequency": 38,
-    "notes": "here, there, now, hither"
+    "notes": "The word functions as a spatial and temporal deictic, orienting the hearer to the immediate context. It appears frequently in narrative (e.g., Genesis 22:1, 37:13) to signal scene-setting or summons. The distinction between הֵנָּה and the more rhetorical הִנָּה is nuanced; both can mean 'here,' but הִנָּה more actively demands attention.",
+    "pronunciation": "HEN-nah",
+    "semanticRange": [
+      "Here, in this place (spatial location)",
+      "Now, at this time (temporal reference)",
+      "Hither, to this place (directional movement)",
+      "Behold, look here (attention-drawing particle)"
+    ],
+    "related": [
+      {
+        "lemma": "הִנָּה",
+        "translit": "hin.nah",
+        "note": "Related interjection; carries stronger imperative force, 'behold!'"
+      },
+      {
+        "lemma": "פֹּה",
+        "translit": "po",
+        "note": "Alternate spatial adverb; also denotes 'here' but less emphatic"
+      },
+      {
+        "lemma": "שָׁם",
+        "translit": "sham",
+        "note": "Contrasting spatial adverb denoting 'there' rather than 'here'"
+      }
+    ],
+    "loaded": false
   },
   "heron": {
     "lemma": "הֵרָיוֹן",
@@ -179567,7 +179840,31 @@
     "pos": "Noun (masc.)",
     "basicGloss": "wild beast",
     "otFrequency": 45,
-    "notes": "howling beast, jackal"
+    "notes": "The word carries the sense of a creature whose howling cry signals emptiness and abandonment. In prophetic literature, especially Isaiah 13:21–22 and 34:14, the אִי appears in visions of judgment-devastated lands, making it a vivid symbol of chaos and divine wrath rather than mere zoology. Context determines whether the reference is literal fauna or theological metaphor.",
+    "pronunciation": "EE",
+    "semanticRange": [
+      "Howling nocturnal creature, jackal or similar wild canine",
+      "General wild beast inhabiting desolate places",
+      "Figurative symbol of desolation and divine judgment"
+    ],
+    "related": [
+      {
+        "lemma": "חיה",
+        "translit": "chayah",
+        "note": "Broader term for living creature or wild animal; contrast in scope"
+      },
+      {
+        "lemma": "שׁוּעַל",
+        "translit": "shu'al",
+        "note": "Fox; another specific wild canine, sometimes appears in similar contexts"
+      },
+      {
+        "lemma": "שׁמָמוֹן",
+        "translit": "shemamon",
+        "note": "Desolation; the אִי often inhabits שׁמָמוֹן landscapes in prophetic poetry"
+      }
+    ],
+    "loaded": false
   },
   "irad": {
     "lemma": "עִירָד",
@@ -187579,7 +187876,26 @@
     "pos": "Adjective",
     "basicGloss": "raw",
     "otFrequency": 1,
-    "notes": "raw"
+    "notes": "This adjective appears only once in the Hebrew Bible (Exodus 12:9), describing the Passover lamb meat that must NOT be eaten raw or boiled, but roasted. The term carries a straightforward descriptive sense of uncooked state, with no theological loading—it is simply a dietary regulation.",
+    "pronunciation": "nah",
+    "semanticRange": [
+      "uncooked, raw (of food)",
+      "not yet ripe or mature",
+      "in natural or unprocessed state"
+    ],
+    "related": [
+      {
+        "lemma": "בָּשַׁל",
+        "translit": "bashal",
+        "note": "to cook or boil; antonym denoting the opposite process"
+      },
+      {
+        "lemma": "גָּדַל",
+        "translit": "gadal",
+        "note": "to grow or mature; related to the sense of incomplete development"
+      }
+    ],
+    "loaded": false
   },
   "naal": {
     "lemma": "נָעַל",
@@ -192231,8 +192547,33 @@
     "pos": "Noun (masc.)",
     "basicGloss": "fruit",
     "otFrequency": 119,
-    "notes": "fruit1a) fruit, produce (of the ground)1b) fruit, offspring, children, progeny (of the womb)1c) fruit (of actions) (fig.)",
-    "ntFrequency": 119
+    "notes": "פְּרִי carries rich theological weight across OT and intertestamental tradition. In Genesis and agricultural contexts it denotes literal produce (Gen. 1:11–12); in wisdom and prophetic texts it shifts to figurative 'fruit of deeds' (Prov. 12:12, Isa. 3:10). The metaphor of fruitbearing—especially in connection with the righteous versus the wicked—becomes central in Second Temple piety and NT parenesis (Matt. 7:16–20, Gal. 5:22–23).",
+    "ntFrequency": 119,
+    "pronunciation": "puh-REE",
+    "semanticRange": [
+      "Literal fruit or produce of the ground; harvest",
+      "Offspring, children, or progeny from the womb",
+      "Figurative fruit of actions, deeds, or words; results",
+      "Spiritual fruit or moral outcome of faith and obedience"
+    ],
+    "related": [
+      {
+        "lemma": "פָּרָה",
+        "translit": "parah",
+        "note": "To bear fruit, be fruitful; verbal root underlying פְּרִי"
+      },
+      {
+        "lemma": "קָצִיר",
+        "translit": "qatzir",
+        "note": "Harvest or reaping; complementary term for gathered fruit"
+      },
+      {
+        "lemma": "כַּרְמִי",
+        "translit": "karmi",
+        "note": "Vineyard fruit; specific agricultural context of פְּרִי"
+      }
+    ],
+    "loaded": true
   },
   "perizzi": {
     "lemma": "פְּרִזִּי",
@@ -210483,7 +210824,32 @@
     "pos": "Noun (masc.)",
     "basicGloss": "son: child",
     "otFrequency": 4755,
-    "notes": ": child/son"
+    "notes": "Ben carries immense theological weight in OT covenant ideology: Israel as YHWH's firstborn son (Exod 4:22), adoption language in Psalm 2:7, and genealogical legitimacy throughout the patriarchal narratives. The term extends beyond biological paternity to signify tribal membership, moral character (ben-elohim, 'sons of God'), and covenantal status. Modern readers often miss that 'son' in biblical context frequently implies inheritance rights, legal standing, and corporate identity, not merely age or biology.",
+    "pronunciation": "ben",
+    "semanticRange": [
+      "Male child or son in biological sense",
+      "Descendant or member of a lineage or group",
+      "Young man or person of a particular character",
+      "Figurative use in compounds (ben-adam, 'human being')"
+    ],
+    "related": [
+      {
+        "lemma": "בָּנִים",
+        "translit": "banim",
+        "note": "Plural form; 'sons' or 'children,' often referring to collective descendants or members of Israel"
+      },
+      {
+        "lemma": "בַּת",
+        "translit": "bat",
+        "note": "Feminine counterpart; 'daughter,' maintains parallel kinship structure in family and covenant language"
+      },
+      {
+        "lemma": "יָלַד",
+        "translit": "yalad",
+        "note": "Verb 'to bear/beget'; semantically foundational to the notion of sonship and genealogical identity"
+      }
+    ],
+    "loaded": true
   },
   "bet": {
     "lemma": "בֵּית",
@@ -222864,7 +223230,32 @@
     "pos": "Adjective",
     "basicGloss": "afflicted",
     "otFrequency": 76,
-    "notes": "poor, afflicted, humble, wretched1a) poor, needy1b) poor and weak1c) poor, weak, afflicted, wretched1d) humble, lowly"
+    "notes": "This adjective occupies a crucial semantic space in OT theology: the poor and afflicted are the special concern of YHWH (Ps 10:17–18, Isa 61:1). עָנִי carries material, physical, and spiritual registers simultaneously—poverty is not merely economic but a condition of vulnerability before God and oppressors. Care for the עָנִי became a marker of covenant fidelity (Deut 15:11, Prov 31:8).",
+    "pronunciation": "ah-NEE",
+    "semanticRange": [
+      "economically poor, destitute, needy",
+      "physically weak, afflicted, or suffering",
+      "socially humbled or lowly in status",
+      "spiritually humble or meek before God"
+    ],
+    "related": [
+      {
+        "lemma": "עָנָה",
+        "translit": "anah",
+        "note": "verb meaning to afflict or oppress; shares root and semantic field of suffering"
+      },
+      {
+        "lemma": "ἐπτωχός",
+        "translit": "ptochos",
+        "note": "LXX Greek rendering; denotes material poverty and sometimes spiritual poverty of spirit"
+      },
+      {
+        "lemma": "עֹנִי",
+        "translit": "oni",
+        "note": "related noun form meaning affliction, poverty, or distress; appears with עָנִי in parallel contexts"
+      }
+    ],
+    "loaded": true
   },
   "aniam": {
     "lemma": "אֲנִיעָם",
@@ -228271,8 +228662,27 @@
     "pos": "Proper noun (person)",
     "basicGloss": "Ater",
     "otFrequency": 5,
-    "notes": "A man living at the time of Exile and Return, first mentioned at Ezr.2.16; father of: Hezekiah (H2396I) § Ater = \"binder\"an exiled relative of Hezekiah",
-    "ntFrequency": 5
+    "notes": "Ater is a genealogical name attested only in lists of families who returned from Babylonian captivity (Ezra 2:16; Neh 7:21). The semantic range here is exhausted by its onomastic function in postexilic community rosters; no theological weight attaches to it beyond its role marking a clan's exilic lineage.",
+    "ntFrequency": 5,
+    "pronunciation": "AH-ter",
+    "semanticRange": [
+      "A family name of returnees from Babylonian exile (Ezra 2:16; Neh 7:21)",
+      "Ancestor of a clan listed in postexilic census records",
+      "Possibly connotes 'binder' (from root עטר), though synchronic usage is purely onomastic"
+    ],
+    "related": [
+      {
+        "lemma": "עטר",
+        "translit": "atar",
+        "note": "Root verb; carries sense of binding or shutting; etymology uncertain in synchronic usage"
+      },
+      {
+        "lemma": "חִזְקִיָּה",
+        "translit": "Hizqiyyah",
+        "note": "Son of Ater; Ezra's contemporary; distinct from the earlier King Hezekiah"
+      }
+    ],
+    "loaded": false
   },
   "ateret": {
     "lemma": "עֲתֶ֫רֶת",
@@ -231169,7 +231579,31 @@
     "pos": "Noun (masc.)",
     "basicGloss": "produce",
     "otFrequency": 2,
-    "notes": "produce, yield"
+    "notes": "This rare noun denotes the tangible output of agricultural labor—grain, fruit, or other field-produce. It appears only twice in the MT (both in late or specialized texts), suggesting it was already archaic or technical by the Second Temple period. The semantic field overlaps with more common terms like tevu'ah and yevul.",
+    "pronunciation": "ah-VOOR",
+    "semanticRange": [
+      "produce or yield of the land",
+      "grain or agricultural harvest",
+      "fruit or result of growth"
+    ],
+    "related": [
+      {
+        "lemma": "עָבַר",
+        "translit": "avar",
+        "note": "verb 'to pass over'; same root, though meaning diverged in noun form"
+      },
+      {
+        "lemma": "תְּבוּאָה",
+        "translit": "tevu'ah",
+        "note": "cognate noun denoting produce or harvest; similar semantic domain"
+      },
+      {
+        "lemma": "יְבוּל",
+        "translit": "yevul",
+        "note": "related noun meaning produce or yield; overlapping agricultural vocabulary"
+      }
+    ],
+    "loaded": false
   },
   "avvah": {
     "lemma": "אַוָּה",
@@ -233726,7 +234160,32 @@
     "pos": "Noun (masc.)",
     "basicGloss": "mind",
     "otFrequency": 65,
-    "notes": "mind, heartAramaic of lev (לֵב \"heart\" H3820A)"
+    "notes": "Aramaic form of the Hebrew לֵב (lev), בַּל carries the weight of Hebrew anthropology—not merely intellect but the integrative seat of cognition, emotion, intention, and moral orientation. It appears prominently in passages like Dan 2:30 where the פְּשַׁר (pesar, interpretation) is revealed to Nebuchadnezzar's בַּל. The term inherits the Hebrew heart-theology where the inner person—thought, desire, and conscience—are one undivided reality.",
+    "pronunciation": "BAHL",
+    "semanticRange": [
+      "seat of thought, reasoning, and will",
+      "emotional center; seat of feelings and desires",
+      "conscience or moral awareness",
+      "the whole inner person, disposition or character"
+    ],
+    "related": [
+      {
+        "lemma": "לֵב",
+        "translit": "lev",
+        "note": "Hebrew cognate; primary word for heart, mind, will"
+      },
+      {
+        "lemma": "בִּנָה",
+        "translit": "binah",
+        "note": "understanding, wisdom; complements mind in cognitive sense"
+      },
+      {
+        "lemma": "דַּעַת",
+        "translit": "daʿat",
+        "note": "knowledge; often paired with mind for full intellectual awareness"
+      }
+    ],
+    "loaded": true
   },
   "baladan": {
     "lemma": "בַּלְאֲדָן",
@@ -301667,8 +302126,33 @@
     "pos": "Verb",
     "basicGloss": "to reach",
     "otFrequency": 8,
-    "notes": "to reach, come upon, attain1a) (P'al)1a1) to reach, come to1a2) to reach, extend1a3) to come upon",
-    "ntFrequency": 8
+    "notes": "Meṭā is primarily a motion verb in Aramaic portions of Daniel and Ezra (and cognate in later Hebrew). It denotes literal spatial arrival or extension rather than metaphorical attainment. The verb appears most significantly in Dan 4:8 (reaching a threshold) and Ezr 7:9 (arrival at Jerusalem); context determines whether emphasis falls on the journey's completion or the physical boundary crossed.",
+    "ntFrequency": 8,
+    "pronunciation": "meh-TAH",
+    "semanticRange": [
+      "to reach or arrive at a place or destination",
+      "to extend to or reach a boundary or limit",
+      "to come upon or encounter someone or something",
+      "to attain or achieve a condition or state"
+    ],
+    "related": [
+      {
+        "lemma": "מְטָא",
+        "translit": "me.ta (Pa'el stem)",
+        "note": "causative/intensive form: to cause to reach, bring to"
+      },
+      {
+        "lemma": "נְגַע",
+        "translit": "na.ga'",
+        "note": "to touch, reach, or come into contact with; overlaps in spatial sense"
+      },
+      {
+        "lemma": "קָרַב",
+        "translit": "qa.rav",
+        "note": "to draw near or approach; similar trajectory of movement toward"
+      }
+    ],
+    "loaded": false
   },
   "metallah": {
     "lemma": "מְתַלְּעוֹת",
@@ -322492,8 +322976,33 @@
     "pos": "Verb",
     "basicGloss": "be fruitful",
     "otFrequency": 17,
-    "notes": "(Hiphil) to bear fruit, be fruitfulAnother spelling of pa.rah (פָּרָה \"be fruitful\" H6509)",
-    "ntFrequency": 17
+    "notes": "Parā carries covenantal weight in Genesis, where fruitfulness is a divine blessing tied to the Abrahamic promise and creation mandate (Gen 1:28; 9:7; 17:6). The word denotes not mere biological reproduction but theologically pregnant increase of God's people and their land. Context determines whether the sense is literal (agriculture, animals) or figurative (nations, blessings).",
+    "ntFrequency": 17,
+    "pronunciation": "pah-RAH",
+    "semanticRange": [
+      "to bear fruit; to produce offspring or progeny",
+      "to be fruitful, multiply, or increase in number",
+      "to flourish or prosper in a general sense",
+      "to bring forth yield (agricultural or figurative)"
+    ],
+    "related": [
+      {
+        "lemma": "פְּרִי",
+        "translit": "pri",
+        "note": "fruit (noun); the product of bearing fruit; direct object of parā"
+      },
+      {
+        "lemma": "פָּרָה",
+        "translit": "parah",
+        "note": "variant form (H6509); same root, identical semantic range and usage"
+      },
+      {
+        "lemma": "רָבָה",
+        "translit": "rabah",
+        "note": "to multiply, increase; often paired with parā in blessing formulae (Gen 1:28)"
+      }
+    ],
+    "loaded": true
   },
   "param": {
     "lemma": "פָּרַם",
@@ -370197,8 +370706,32 @@
     "pos": "Proper noun (person)",
     "basicGloss": "Toi",
     "otFrequency": 5,
-    "notes": "A man living at the time of United Monarchy, first mentioned at 2Sa.8.9; father of: Joram (H3141); also called Tou at 1Ch.18.9,10; § Toi or Tou = \"wander\" king of Hamath in the time of David",
-    "ntFrequency": 5
+    "notes": "Toi (also spelled Tou in Chronicles) was a northern Syrian king contemporary with David's consolidation of power. He appears at 2 Samuel 8:9–10 and 1 Chronicles 18:9–10, sending his son Joram to offer gifts and congratulations after David defeated Hadadezer. The name's etymology (from the root meaning 'to wander') is ancient but carries no theological weight in the biblical narrative itself.",
+    "ntFrequency": 5,
+    "pronunciation": "TOH-ee",
+    "semanticRange": [
+      "King of Hamath during David's reign",
+      "Father of Joram, messenger to David",
+      "Ruler who sent tribute after David's victory over Hadadezer"
+    ],
+    "related": [
+      {
+        "lemma": "תעה",
+        "translit": "tāʿâ",
+        "note": "Root verb meaning 'to wander' or 'to err'; Toi's name may derive from this"
+      },
+      {
+        "lemma": "יוֹרָם",
+        "translit": "Yôrām",
+        "note": "Son of Toi; sent by his father to greet and congratulate David"
+      },
+      {
+        "lemma": "חֲמָת",
+        "translit": "Ḥămat",
+        "note": "Hamath, the kingdom ruled by Toi in northern Syria-Palestine"
+      }
+    ],
+    "loaded": false
   },
   "tovadoniyyah": {
     "lemma": "טוֹב אֲדֹנִיָּה",
@@ -393803,7 +394336,31 @@
     "pos": "Proper noun (person)",
     "basicGloss": "Asher",
     "otFrequency": 40,
-    "notes": "A man of the tribe of Asher living at the time of the Patriarchs, first mentioned at Gen.30.13; son of: Israel (H3478) and Zilpah (H2153); brother of: Gad (H1410); half-brother of: Reuben (H7205), Simeon (H8095), Levi (H3878), Judah…"
+    "notes": "Asher appears in the birth narrative (Gen. 30:13), tribal lists (Num. 1:40–41, 26:44–47), and the allotment of Canaan (Josh. 19:24–31). The tribe's territory lay along the northern Mediterranean coast and was noted for fertility and oil production (Deut. 33:24–25). As a proper noun denoting a specific patriarchal figure and his tribal descendants, the name carries genealogical and territorial significance rather than theological abstraction.",
+    "pronunciation": "AH-sher",
+    "semanticRange": [
+      "Son of Jacob and Zilpah; eponymous ancestor of the tribe bearing his name",
+      "One of the twelve tribes of Israel, associated with northern Canaan",
+      "Collective designation for the descendants and territory of Asher"
+    ],
+    "related": [
+      {
+        "lemma": "שֵׁבֶט",
+        "translit": "shevet",
+        "note": "Tribe; the organizational unit descended from Asher and other sons of Jacob"
+      },
+      {
+        "lemma": "יִשְׂרָאֵל",
+        "translit": "yisrael",
+        "note": "Israel; Asher's father, whose twelve sons became the patriarchs of Israel's tribes"
+      },
+      {
+        "lemma": "גָּד",
+        "translit": "gad",
+        "note": "Gad; Asher's full brother, both sons of Jacob through Zilpah the handmaid"
+      }
+    ],
+    "loaded": false
   },
   "autos": {
     "lemma": "αὐτός",
@@ -394002,7 +394559,32 @@
     "pos": "Adverb",
     "basicGloss": "surely",
     "ntFrequency": 310,
-    "notes": "ἦ (μήν), see: εἰ, iii, 7. εἰ, conjunctive particle, used in conditions and in indirect questions. __I. Conditional, if; __1. with indic, expressing a general assumption; __(a) pres.: before indic, pres., Mat.11:14, Rom.8:25, al.; before…"
+    "notes": "ē is a rare but forceful adverbial particle that carries the sense of solemn affirmation or emphatic assent. Context matters sharply: it can underscore an oath (Mt 26:35), reinforce a rhetorical question, or negate forcefully. Because it is brief and sometimes confused with the copula \"to be,\" modern readers often miss its pragmatic weight in marking speaker conviction.",
+    "pronunciation": "ay",
+    "semanticRange": [
+      "Emphatic particle marking affirmation or assent",
+      "Introduces an oath or solemn assertion",
+      "Marks rhetorical questions or strong negation",
+      "Reinforces conditional or interrogative clauses"
+    ],
+    "related": [
+      {
+        "lemma": "μήν",
+        "translit": "mēn",
+        "note": "Cognate emphatic/assertive particle; often paired with ē in solemn formulas"
+      },
+      {
+        "lemma": "εἰ",
+        "translit": "ei",
+        "note": "Conditional conjunction; ē may function within conditional or indirect-question constructions"
+      },
+      {
+        "lemma": "ἄρα",
+        "translit": "ara",
+        "note": "Inferential particle; shares role in emphasizing logical consequence or affirmation"
+      }
+    ],
+    "loaded": false
   },
   "ea": {
     "lemma": "ἔα",
@@ -394061,7 +394643,32 @@
     "pos": "Verb",
     "basicGloss": "you are",
     "ntFrequency": 477,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
+    "notes": "εἰμί is the most frequent verb in the NT and carries immense theological weight. In Jn 1:1 (ὁ λόγος ἦν πρὸς τὸν θεόν) it asserts co-existence; in Jn 8:58 (πρὶν Ἀβραὰμ γενέσθαι ἐγώ εἰμι) the absolute form ἐγώ εἰμι echoes the divine name (LXX Exod 3:14). Context determines whether the word denotes simple existence, predication of a quality, identity, or location.",
+    "pronunciation": "eye",
+    "semanticRange": [
+      "To exist or be present (ontological or locative)",
+      "To have a quality, condition, or identity",
+      "To occur, happen, or take place in time",
+      "To belong to a class or category"
+    ],
+    "related": [
+      {
+        "lemma": "ἦν",
+        "translit": "ēn",
+        "note": "Imperfect indicative; past-tense form of εἰμί"
+      },
+      {
+        "lemma": "ὤν",
+        "translit": "ōn",
+        "note": "Present participle; used attributively or predicatively in nominalized expressions"
+      },
+      {
+        "lemma": "ὑπάρχω",
+        "translit": "hyparchō",
+        "note": "Near-synonym; emphasizes actual possession or subsistence rather than mere copular relation"
+      }
+    ],
+    "loaded": true
   },
   "eidemege": {
     "lemma": "εἰ δὲ μή(γε)",
@@ -394190,7 +394797,32 @@
     "pos": "Verb",
     "basicGloss": "was",
     "ntFrequency": 2572,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
+    "notes": "The imperfect ēn appears 2572 times in the NT as the most frequent verb form, functioning as simple past tense copula. It carries no theological weight by itself—context determines force: John 1:1 (ēn pros ton theon) marks ontological presence before creation; John 8:58 (prin Abraam genesthai ego eimi) shifts to present to assert eternal existence. The verb's simplicity makes it transparent to its predicate.",
+    "pronunciation": "ān",
+    "semanticRange": [
+      "To exist or be present (general copulative sense)",
+      "To have a particular quality or characteristic",
+      "To occur or happen at a specific time",
+      "To constitute or comprise (identity or essence)"
+    ],
+    "related": [
+      {
+        "lemma": "εἰμί",
+        "translit": "eimi",
+        "note": "Present-tense form of the same verb; ēn is imperfect/past form"
+      },
+      {
+        "lemma": "γίνομαι",
+        "translit": "ginomai",
+        "note": "Denotes becoming or coming into being; contrasts with static existence of eimi/ēn"
+      },
+      {
+        "lemma": "ὑπάρχω",
+        "translit": "hyparchō",
+        "note": "To exist, be present; emphasizes actual possession or reality versus mere appearance"
+      }
+    ],
+    "loaded": false
   },
   "enanti": {
     "lemma": "ἔναντι",
@@ -394339,7 +394971,31 @@
     "pos": "Noun (masc.)",
     "basicGloss": "plowshare",
     "otFrequency": 280,
-    "notes": "ploughshare"
+    "notes": "The eit denotes the iron plowshare—the working edge of ancient Palestinian agriculture. In 1 Samuel 13:20-21, the Philistine monopoly on iron smithing means Israelites must travel to sharpen their plowshares, dramatizing both agrarian dependence and military vulnerability. The word appears frequently in lists of agricultural tools and as a symbol of peace when nations beat swords into plowshares (Isaiah 2:4).",
+    "pronunciation": "ATE (rhymes with 'gate')",
+    "semanticRange": [
+      "Iron blade of a plow; the cutting implement that breaks soil",
+      "Figuratively, an instrument of destruction or divine judgment",
+      "Agricultural tool metonymically representing farming labor or subsistence"
+    ],
+    "related": [
+      {
+        "lemma": "עָדַר",
+        "translit": "adar",
+        "note": "to plow or till; cognate verbal form describing the action using the eit"
+      },
+      {
+        "lemma": "מַחֲרֵשָׁה",
+        "translit": "makhareshâ",
+        "note": "plow; related agricultural implement; often paired with eit in contexts of farming"
+      },
+      {
+        "lemma": "בַּרְזֶל",
+        "translit": "barzel",
+        "note": "iron; material of the eit's blade; frequently specified in descriptions of tools"
+      }
+    ],
+    "loaded": false
   },
   "exerchomai": {
     "lemma": "ἐξέρχομαι",
@@ -395298,7 +395954,32 @@
     "pos": "Verb",
     "basicGloss": "may be",
     "ntFrequency": 281,
-    "notes": "εἰμί, with various uses and significations, like the English verb to be. __I. As substantive verb. __1. Of persons and things, to be, exist: Act.17:28, Jhn.1:1, 8:58, 17:5, al; ὁ ὢν καὶ ὁ ἦν (for past ptcp.), Rev.1:4, 8, 4:8, 11:17,…"
+    "notes": "ὦ is the subjunctive/optative form of εἰμί (to be), the most foundational verb in Greek metaphysics and theology. Its compressed, poetic appearance often signals moments of ontological weight: John 1:1 (ἦν ὁ λόγος πρὸς τὸν θεόν, the Word was with God), John 8:58 (πρὶν Ἀβραὰμ γενέσθαι ἐγώ εἰμι, before Abraham came into being, I am), and Rev. 1:4, 8 (ὁ ὢν καὶ ὁ ἦν, the One who is and who was). Context determines whether it denotes simple existence, copular predication, or absolute being.",
+    "pronunciation": "oh (aorist subj.) / ay (imperfect) / on (present ptcp.)",
+    "semanticRange": [
+      "to exist, to be present in reality",
+      "to occur, to happen, to come to pass",
+      "to remain, to continue in a state or condition",
+      "to belong to, to be the property or attribute of"
+    ],
+    "related": [
+      {
+        "lemma": "εἰμί",
+        "translit": "eimi",
+        "note": "present indicative form of the copular verb; ὦ is subjunctive/optative form"
+      },
+      {
+        "lemma": "ἦν",
+        "translit": "ēn",
+        "note": "imperfect indicative; denotes past continuous or habitual being"
+      },
+      {
+        "lemma": "γίνομαι",
+        "translit": "ginomai",
+        "note": "related but distinct; emphasizes becoming or coming into being rather than static existence"
+      }
+    ],
+    "loaded": true
   },
   "ophelon": {
     "lemma": "ὄφελον",
@@ -395647,7 +396328,26 @@
     "pos": "Adverb",
     "basicGloss": "thus",
     "ntFrequency": 1,
-    "notes": "thus, in the same way"
+    "notes": "This adverbial form occurs only once in the NT (1 Tim 2:9), where it denotes manner or analogy. The word carries the sense of equivalence or parallel action—'in the same way' or 'likewise'—rather than logical consequence alone. Context determines whether it signals method, comparison, or sequence.",
+    "pronunciation": "TAH-oo-tah",
+    "semanticRange": [
+      "in this manner; in the same way",
+      "therefore; as a result or consequence",
+      "likewise; similarly to what precedes"
+    ],
+    "related": [
+      {
+        "lemma": "οὕτως",
+        "translit": "houtōs",
+        "note": "More common adverb for 'thus'; broader range in NT usage"
+      },
+      {
+        "lemma": "ὡσαύτως",
+        "translit": "hōsautōs",
+        "note": "Emphatic form meaning 'in exactly the same way'; rarer variant"
+      }
+    ],
+    "loaded": false
   },
   "te": {
     "lemma": "τε",
@@ -395776,7 +396476,32 @@
     "pos": "Noun (masc.)",
     "basicGloss": "lamb",
     "otFrequency": 989,
-    "notes": "lamb, sheep (may be a typographical error for 'seh')Another spelling of seh (שֶׂה \"sheep\" H7716)"
+    "notes": "זֶה denotes a young sheep or lamb, with strong ritual-cultic associations in OT sacrifice (Exodus 12:3-7, Isaiah 53:7). The word accrues symbolic weight when applied to innocent suffering or substitutionary atonement. LXX renders it ἀμνός, which becomes theologically charged in the NT christological reading (Revelation 5:6-13).",
+    "pronunciation": "ZEH",
+    "semanticRange": [
+      "a young sheep; lamb (especially for sacrifice)",
+      "sheep in general; ovine animal",
+      "figuratively, an innocent or helpless person",
+      "in cultic contexts, the prescribed sacrificial victim"
+    ],
+    "related": [
+      {
+        "lemma": "שֶׂה",
+        "translit": "seh",
+        "note": "Primary form; זֶה appears as variant spelling of this lemma"
+      },
+      {
+        "lemma": "צֹאן",
+        "translit": "tso'n",
+        "note": "Broader term for flocks and herds; includes both sheep and goats"
+      },
+      {
+        "lemma": "ἀμνός",
+        "translit": "amnos",
+        "note": "LXX equivalent; carries cultic weight in NT (John 1:29 'Lamb of God')"
+      }
+    ],
+    "loaded": true
   },
   "zo": {
     "lemma": "זוֹ",
