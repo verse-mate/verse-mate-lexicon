@@ -45,12 +45,15 @@ export interface LexEntry {
 
 export interface AlignedToken {
   /**
-   * English surface as it appears in the displayed translation, exactly as
-   * rendered (case + punctuation preserved). Match is case-insensitive and
-   * whole-word; multi-word entries (e.g. "double-minded") are matched as a
-   * contiguous span.
+   * English surface(s) as they appear in displayed translations. Match is
+   * case-insensitive and whole-word; multi-word entries ("double-minded")
+   * are matched as a contiguous span. Generated alignments emit a single
+   * BSB string; loadAlignmentFor expands this to a string[] by joining the
+   * BSB surface with any cross-translation aliases registered for the
+   * lemma in `_aliases.json` (KJV, NASB, ESV, NIV variants). The renderer
+   * normalizes both shapes by treating a bare string as a one-element list.
    */
-  surface: string;
+  surface: string | readonly string[];
   /** Lemma key into the chapter's lexicon map. */
   lemma: LemmaKey;
   /**

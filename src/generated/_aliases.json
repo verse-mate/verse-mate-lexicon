@@ -1,0 +1,7 @@
+{
+  "_meta": {
+    "description": "Cross-translation English surface aliases keyed by lemma slug. Run scripts/generate_aliases.py with ANTHROPIC_API_KEY set to populate. Each lemma maps to a list of distinct English surfaces (lowercase, no leading article) used across KJV, NASB, ESV, NIV, BSB, NLT, ASV, NRSV. The loader unions these with the BSB surface from the generated alignment so the renderer's substring scan finds a match regardless of which translation the API serves.",
+    "generated": "empty seed — run generate_aliases.py to populate",
+    "schema": "Record<lemma_slug, string[]>"
+  }
+}
