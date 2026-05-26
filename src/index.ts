@@ -177,6 +177,64 @@ export async function loadAlignmentFor(
   return alignment;
 }
 
+/**
+ * Strong's-number → lemma entry index.
+ *
+ * Keyed on canonical `G####` / `H####` form (4-digit zero-padded), the same
+ * format the backend stores in `verses.tokens` and emits over the wire when
+ * a chapter is requested with `?tagged=1`. The renderer's per-token lookup
+ * is then a simple `STRONGS_INDEX[token.strongs]` — no normalization needed
+ * at render time.
+ *
+ * Built from the same `_lemmas.json` blob `loadAlignmentFor` uses, overlaid
+ * with `HAND_LEXICON` so theologically loaded words (logos, sarx, hupomonē,
+ * dikaiosynē, …) keep their hand-curated semantic ranges + notes. The
+ * collision rule mirrors `loadAlignmentFor`'s mergedLexicon: hand entries
+ * win.
+ *
+ * Async, lazy-loaded, cached — same pattern as `loadGeneratedLexicon`. The
+ * underlying JSON only fetches the first time a tagged chapter renders.
+ */
+function normalizeStrongs(raw: string | undefined): string | null {
+  if (!raw) return null;
+  // Drop disambiguator suffix letters (e.g. "G0007a" → "G0007"), zero-pad
+  // to 4 digits. Matches the backend's parse_tbe normalization so frontend
+  // lookups land on the same canonical key the wire uses.
+  const m = /^([GH])(\d+)([A-Za-z]?)$/.exec(raw.trim());
+  if (!m) return null;
+  return `${m[1]}${m[2].padStart(4, '0')}`;
+}
+
+let strongsIndexPromise: Promise<Readonly<Record<string, LexEntry>>> | null = null;
+
+/**
+ * Returns the lazy-loaded Strong's index. Pre-load this alongside chapter
+ * data so render-time `STRONGS_INDEX[token.strongs]` lookups are
+ * synchronous. Safe to call concurrently — the underlying JSON fetch and
+ * merge happens at most once per session.
+ */
+export function loadStrongsIndex(): Promise<Readonly<Record<string, LexEntry>>> {
+  if (!strongsIndexPromise) {
+    strongsIndexPromise = loadGeneratedLexicon().then((generatedLexicon) => {
+      const index: Record<string, LexEntry> = {};
+      // 1. Index every generated entry by its Strong's (already padded).
+      for (const entry of Object.values(generatedLexicon)) {
+        if (!entry) continue;
+        const key = normalizeStrongs(entry.strongs);
+        if (key) index[key] = entry;
+      }
+      // 2. Overlay HAND_LEXICON — wins on collision. HAND_LEXICON uses
+      // unpadded form ("G80"); normalize to match backend wire shape.
+      for (const entry of Object.values(HAND_LEXICON)) {
+        const key = normalizeStrongs(entry.strongs);
+        if (key) index[key] = entry;
+      }
+      return Object.freeze(index);
+    });
+  }
+  return strongsIndexPromise;
+}
+
 export { getBookSlug, BOOK_SLUGS } from './book-slugs';
 export type {
   ChapterAlignment,
