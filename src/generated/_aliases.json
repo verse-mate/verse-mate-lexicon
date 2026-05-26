@@ -1,7 +1,7 @@
 {
   "_meta": {
     "description": "Cross-translation English surface aliases keyed by lemma slug. Run scripts/generate_aliases.py with ANTHROPIC_API_KEY set to populate. Each lemma maps to a list of distinct English surfaces (lowercase, no leading article) used across KJV, NASB, ESV, NIV, BSB, NLT, ASV, NRSV. The loader unions these with the BSB surface from the generated alignment so the renderer's substring scan finds a match regardless of which translation the API serves.",
-    "generated": "empty seed — run generate_aliases.py to populate",
+    "generated": "augmented with KJV archaic forms by scripts/kjv_aliases.py",
     "schema": "Record<lemma_slug, string[]>"
   },
   "ben": [
@@ -147,7 +147,17 @@
     "take place",
     "takes place",
     "shall happen",
-    "will happen"
+    "will happen",
+    "becometh",
+    "becomest",
+    "cometh",
+    "comest",
+    "hath",
+    "hast",
+    "doeth",
+    "doth",
+    "doest",
+    "dost"
   ],
   "elohim": [
     "god",
@@ -202,7 +212,28 @@
     "insist",
     "asked",
     "ask",
-    "saith"
+    "saith",
+    "sayest",
+    "speaketh",
+    "speakest",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest",
+    "answereth",
+    "answerest",
+    "promiseth",
+    "promisest",
+    "commandeth",
+    "commandest",
+    "crieth",
+    "criest",
+    "calleth",
+    "callest",
+    "giveth",
+    "givest",
+    "asketh",
+    "askest"
   ],
   "yisrael": [
     "israel"
@@ -367,7 +398,29 @@
     "discussing",
     "discoursed",
     "discourse",
-    "discoursing"
+    "discoursing",
+    "speaketh",
+    "speakest",
+    "saith",
+    "sayest",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest",
+    "talketh",
+    "talkest",
+    "promiseth",
+    "promisest",
+    "commandeth",
+    "commandest",
+    "sweareth",
+    "swearest",
+    "calleth",
+    "callest",
+    "proclaimeth",
+    "proclaimest",
+    "answereth",
+    "answerest"
   ],
   "am": [
     "people",
@@ -518,7 +571,33 @@
     "fulfilled",
     "fulfilling",
     "fulfil",
-    "fulfils"
+    "fulfils",
+    "maketh",
+    "makest",
+    "doeth",
+    "doth",
+    "doest",
+    "dost",
+    "worketh",
+    "workest",
+    "buildeth",
+    "buildest",
+    "causeth",
+    "causest",
+    "prepareth",
+    "preparest",
+    "bringeth",
+    "bringest",
+    "committeth",
+    "committest",
+    "establisheth",
+    "establishest",
+    "giveth",
+    "givest",
+    "keepeth",
+    "keepest",
+    "fulfilleth",
+    "fulfillest"
   ],
   "bo": [
     "come",
@@ -645,7 +724,31 @@
     "arrive at",
     "arrives at",
     "arriving at",
-    "arrived at"
+    "arrived at",
+    "cometh",
+    "comest",
+    "entereth",
+    "enterest",
+    "goeth",
+    "goest",
+    "bringeth",
+    "bringest",
+    "reacheth",
+    "reachest",
+    "appeareth",
+    "appearest",
+    "falleth",
+    "fallest",
+    "walketh",
+    "walkest",
+    "moveth",
+    "movest",
+    "setteth",
+    "settest",
+    "poureth",
+    "pourest",
+    "riseth",
+    "risest"
   ],
   "hos": [
     "which",
@@ -761,7 +864,33 @@
     "deal",
     "dealt",
     "deals",
-    "dealing"
+    "dealing",
+    "giveth",
+    "givest",
+    "granteth",
+    "grantest",
+    "putteth",
+    "puttest",
+    "setteth",
+    "settest",
+    "delivereth",
+    "deliverest",
+    "provideth",
+    "providest",
+    "sendeth",
+    "sendest",
+    "committeth",
+    "committest",
+    "maketh",
+    "makest",
+    "offereth",
+    "offerest",
+    "showeth",
+    "showest",
+    "turneth",
+    "turnest",
+    "layeth",
+    "layest"
   ],
   "ayin": [
     "nothing",
@@ -895,7 +1024,17 @@
     "examine",
     "examined",
     "examining",
-    "examines"
+    "examines",
+    "seeth",
+    "seest",
+    "looketh",
+    "lookest",
+    "beholdeth",
+    "beholdest",
+    "considereth",
+    "considerest",
+    "appeareth",
+    "appearest"
   ],
   "halakh": [
     "go",
@@ -984,7 +1123,27 @@
     "wander",
     "wandered",
     "wandering",
-    "wanders"
+    "wanders",
+    "goeth",
+    "goest",
+    "walketh",
+    "walkest",
+    "cometh",
+    "comest",
+    "departeth",
+    "departest",
+    "moveth",
+    "movest",
+    "passeth",
+    "passest",
+    "followeth",
+    "followest",
+    "leadeth",
+    "leadest",
+    "turneth",
+    "turnest",
+    "liveth",
+    "livest"
   ],
   "ish": [
     "man",
@@ -1041,7 +1200,13 @@
     "harked",
     "perceive",
     "perceived",
-    "perceiving"
+    "perceiving",
+    "heareth",
+    "hearest",
+    "obeyeth",
+    "obeyest",
+    "understandeth",
+    "understandest"
   ],
   "zeh": [
     "this",
@@ -1103,7 +1268,19 @@
     "positioning",
     "throne",
     "enthroned",
-    "entroned"
+    "entroned",
+    "dwelleth",
+    "dwellest",
+    "sitteth",
+    "sittest",
+    "remaineth",
+    "remainest",
+    "liveth",
+    "livest",
+    "abideth",
+    "abidest",
+    "stayeth",
+    "stayest"
   ],
   "hoti": [
     "that",
@@ -1169,7 +1346,27 @@
     "exclaim",
     "exclaims",
     "exclaimed",
-    "exclaiming"
+    "exclaiming",
+    "saith",
+    "sayest",
+    "speaketh",
+    "speakest",
+    "telleth",
+    "tellest",
+    "calleth",
+    "callest",
+    "declareth",
+    "declarest",
+    "asketh",
+    "askest",
+    "answereth",
+    "answerest",
+    "writeth",
+    "writest",
+    "commandeth",
+    "commandest",
+    "promiseth",
+    "promisest"
   ],
   "eis": [
     "to",
@@ -1246,7 +1443,13 @@
     "reversing",
     "revert",
     "reverted",
-    "reverting"
+    "reverting",
+    "returneth",
+    "returnest",
+    "turneth",
+    "turnest",
+    "repenteth",
+    "repentest"
   ],
   "iesous": [
     "jesus"
@@ -1293,7 +1496,20 @@
     "assume",
     "assumed",
     "undertake",
-    "undertook"
+    "undertook",
+    "takest",
+    "receiveth",
+    "receivest",
+    "carrieth",
+    "carriest",
+    "chooseth",
+    "choosest",
+    "accepteth",
+    "acceptest",
+    "bringeth",
+    "bringest",
+    "removeth",
+    "removest"
   ],
   "eipon": [
     "said",
@@ -1343,7 +1559,25 @@
     "said unto him",
     "utterance",
     "uttered",
-    "uttering"
+    "uttering",
+    "saith",
+    "sayest",
+    "speaketh",
+    "speakest",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest",
+    "answereth",
+    "answerest",
+    "calleth",
+    "callest",
+    "commandeth",
+    "commandest",
+    "crieth",
+    "criest",
+    "promiseth",
+    "promisest"
   ],
   "yada": [
     "know",
@@ -1373,7 +1607,11 @@
     "acknowledge",
     "acknowledged",
     "discern",
-    "discerned"
+    "discerned",
+    "knoweth",
+    "knowest",
+    "understandeth",
+    "understandest"
   ],
   "yatsa": [
     "come",
@@ -1480,7 +1718,23 @@
     "came in",
     "go in",
     "went in",
-    "goes in"
+    "goes in",
+    "cometh",
+    "comest",
+    "goeth",
+    "goest",
+    "bringeth",
+    "bringest",
+    "departeth",
+    "departest",
+    "leaveth",
+    "leavest",
+    "appeareth",
+    "appearest",
+    "draweth",
+    "drawest",
+    "returneth",
+    "returnest"
   ],
   "im": [
     "if",
@@ -1541,7 +1795,15 @@
     "invoking",
     "address",
     "addressed",
-    "addressing"
+    "addressing",
+    "calleth",
+    "callest",
+    "crieth",
+    "criest",
+    "proclaimeth",
+    "proclaimest",
+    "readeth",
+    "readest"
   ],
   "gar": [
     "for"
@@ -1631,7 +1893,15 @@
     "away",
     "forth",
     "out",
-    "off"
+    "off",
+    "sendeth",
+    "sendest",
+    "casteth",
+    "castest",
+    "goeth",
+    "goest",
+    "departeth",
+    "departest"
   ],
   "mosheh": [
     "moses"
@@ -1663,7 +1933,9 @@
     "consuming",
     "feed",
     "feeds",
-    "fed"
+    "fed",
+    "eateth",
+    "eatest"
   ],
   "nasa": [
     "journeyed",
@@ -1745,7 +2017,15 @@
     "executed",
     "condemned to death",
     "die in the land",
-    "die without issue"
+    "die without issue",
+    "dieth",
+    "diest",
+    "perisheth",
+    "perishest",
+    "slayeth",
+    "slayest",
+    "killeth",
+    "killest"
   ],
   "al": [
     "not",
@@ -1775,7 +2055,8 @@
     "creature",
     "being",
     "spirit",
-    "living being"
+    "living being",
+    "ghost"
   ],
   "derekh": [
     "way",
@@ -1894,7 +2175,21 @@
     "suffers",
     "suffered",
     "suffering",
-    "with"
+    "with",
+    "hath",
+    "hast",
+    "holdeth",
+    "holdest",
+    "keepeth",
+    "keepest",
+    "weareth",
+    "wearest",
+    "beareth",
+    "bearest",
+    "carrieth",
+    "carriest",
+    "suffereth",
+    "sufferest"
   ],
   "dia": [
     "through",
@@ -1942,7 +2237,14 @@
     "go forth",
     "walk about",
     "return",
-    "returned"
+    "returned",
+    "comest",
+    "goeth",
+    "goest",
+    "appeareth",
+    "appearest",
+    "returneth",
+    "returnest"
   ],
   "alla": [
     "but",
@@ -2036,7 +2338,13 @@
     "slack",
     "slacked",
     "slacken",
-    "slackened"
+    "slackened",
+    "stayeth",
+    "stayest",
+    "remaineth",
+    "remainest",
+    "waiteth",
+    "waitest"
   ],
   "qamay": [
     "arise",
@@ -2102,7 +2410,23 @@
     "come forth",
     "came forth",
     "sprang up",
-    "spring up"
+    "spring up",
+    "ariseth",
+    "arisest",
+    "riseth",
+    "risest",
+    "standeth",
+    "standest",
+    "raiseth",
+    "raisest",
+    "appeareth",
+    "appearest",
+    "cometh",
+    "comest",
+    "establisheth",
+    "establishest",
+    "stayeth",
+    "stayest"
   ],
   "ginomai": [
     "be",
@@ -2156,7 +2480,19 @@
     "are born",
     "was born",
     "were born",
-    "been born"
+    "been born",
+    "becometh",
+    "becomest",
+    "cometh",
+    "comest",
+    "ariseth",
+    "arisest",
+    "appeareth",
+    "appearest",
+    "proveth",
+    "provest",
+    "groweth",
+    "growest"
   ],
   "sum": [
     "set",
@@ -2234,7 +2570,21 @@
     "install as",
     "set up",
     "setting up",
-    "sets up"
+    "sets up",
+    "setteth",
+    "settest",
+    "maketh",
+    "makest",
+    "putteth",
+    "puttest",
+    "establisheth",
+    "establishest",
+    "layeth",
+    "layest",
+    "giveth",
+    "givest",
+    "prepareth",
+    "preparest"
   ],
   "pros": [
     "to",
@@ -2263,7 +2613,8 @@
     "gentile",
     "gentiles",
     "people",
-    "peoples"
+    "peoples",
+    "heathen"
   ],
   "mayim": [
     "water",
@@ -2425,7 +2776,25 @@
     "ordain",
     "ordains",
     "ordained",
-    "ordaining"
+    "ordaining",
+    "doeth",
+    "doth",
+    "doest",
+    "dost",
+    "maketh",
+    "makest",
+    "causeth",
+    "causest",
+    "worketh",
+    "workest",
+    "bringeth",
+    "bringest",
+    "committeth",
+    "committest",
+    "spendeth",
+    "spendest",
+    "giveth",
+    "givest"
   ],
   "gadol": [
     "great",
@@ -2473,7 +2842,13 @@
     "wasting",
     "ruin",
     "ruined",
-    "ruining"
+    "ruining",
+    "perisheth",
+    "perishest",
+    "destroyeth",
+    "destroyest",
+    "loseth",
+    "losest"
   ],
   "ken": [
     "right",
@@ -2544,7 +2919,19 @@
     "beats",
     "punish",
     "punished",
-    "punishing"
+    "punishing",
+    "smiteth",
+    "smitest",
+    "striketh",
+    "strikest",
+    "slayeth",
+    "slayest",
+    "killeth",
+    "killest",
+    "putteth",
+    "puttest",
+    "bringeth",
+    "bringest"
   ],
   "enosh": [
     "man",
@@ -2635,7 +3022,31 @@
     "maintain",
     "retained",
     "resist",
-    "resisted"
+    "resisted",
+    "standeth",
+    "standest",
+    "riseth",
+    "risest",
+    "establisheth",
+    "establishest",
+    "remaineth",
+    "remainest",
+    "continueth",
+    "continuest",
+    "stayeth",
+    "stayest",
+    "presenteth",
+    "presentest",
+    "appeareth",
+    "appearest",
+    "holdeth",
+    "holdest",
+    "waiteth",
+    "waitest",
+    "setteth",
+    "settest",
+    "putteth",
+    "puttest"
   ],
   "ei": [
     "if"
@@ -2661,7 +3072,13 @@
     "leaving",
     "be remaining",
     "those who remain",
-    "those remaining"
+    "those remaining",
+    "remaineth",
+    "remainest",
+    "resteth",
+    "restest",
+    "leaveth",
+    "leavest"
   ],
   "yalad": [
     "beget",
@@ -2691,7 +3108,12 @@
     "produced",
     "mother",
     "fathered",
-    "father"
+    "father",
+    "beareth",
+    "bearest",
+    "delivereth",
+    "deliverest",
+    "seed"
   ],
   "tsava": [
     "serve",
@@ -2720,7 +3142,13 @@
     "laboring",
     "minister",
     "ministered",
-    "ministering"
+    "ministering",
+    "serveth",
+    "servest",
+    "fighteth",
+    "fightest",
+    "worketh",
+    "workest"
   ],
   "tachat": [
     "under",
@@ -2819,7 +3247,15 @@
     "safeguard",
     "safeguards",
     "safeguarding",
-    "safeguarded"
+    "safeguarded",
+    "keepeth",
+    "keepest",
+    "obeyeth",
+    "obeyest",
+    "watcheth",
+    "watchest",
+    "holdeth",
+    "holdest"
   ],
   "horao": [
     "see",
@@ -2852,7 +3288,15 @@
     "view",
     "viewed",
     "viewing",
-    "witness"
+    "witness",
+    "seeth",
+    "seest",
+    "beholdeth",
+    "beholdest",
+    "looketh",
+    "lookest",
+    "watcheth",
+    "watchest"
   ],
   "kata": [
     "according to",
@@ -2899,7 +3343,11 @@
     "perceive",
     "perceived",
     "detect",
-    "come across"
+    "come across",
+    "findeth",
+    "findest",
+    "meeteth",
+    "meetest"
   ],
   "hemmah": [
     "they"
@@ -2918,7 +3366,9 @@
     "hearken",
     "hearkened",
     "hearkening",
-    "hearken to"
+    "hearken to",
+    "heareth",
+    "hearest"
   ],
   "mi": [
     "who",
@@ -3036,7 +3486,21 @@
     "render",
     "renders",
     "rendered",
-    "rendering"
+    "rendering",
+    "giveth",
+    "givest",
+    "granteth",
+    "grantest",
+    "delivereth",
+    "deliverest",
+    "provideth",
+    "providest",
+    "putteth",
+    "puttest",
+    "committeth",
+    "committest",
+    "offereth",
+    "offerest"
   ],
   "oun": [
     "therefore",
@@ -3150,7 +3614,15 @@
     "strike",
     "struck",
     "crumble",
-    "crumbled"
+    "crumbled",
+    "falleth",
+    "fallest",
+    "lieth",
+    "liest",
+    "perisheth",
+    "perishest",
+    "striketh",
+    "strikest"
   ],
   "tavekh": [
     "midst",
@@ -3187,7 +3659,9 @@
     "terrified",
     "dread",
     "dreaded",
-    "stand in awe"
+    "stand in awe",
+    "feareth",
+    "fearest"
   ],
   "neum": [
     "utterance",
@@ -3209,7 +3683,8 @@
     "builded",
     "rebuild",
     "rebuilding",
-    "rebuilt"
+    "rebuilt",
+    "buildest"
   ],
   "hemera": [
     "day",
@@ -3259,7 +3734,11 @@
     "remove",
     "removed",
     "removes",
-    "removing"
+    "removing",
+    "falleth",
+    "fallest",
+    "removeth",
+    "removest"
   ],
   "polus": [
     "much",
@@ -3362,7 +3841,21 @@
     "uttering",
     "signify",
     "signified",
-    "signifying"
+    "signifying",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest",
+    "showeth",
+    "showest",
+    "speaketh",
+    "speakest",
+    "saith",
+    "sayest",
+    "revealeth",
+    "revealest",
+    "proclaimeth",
+    "proclaimest"
   ],
   "malakh": [
     "angel",
@@ -3408,7 +3901,9 @@
     "blesses",
     "blessing",
     "blessings",
-    "blest"
+    "blest",
+    "blesseth",
+    "blessest"
   ],
   "logos": [
     "word",
@@ -3448,7 +3943,19 @@
     "recognize",
     "discern",
     "appears",
-    "realize"
+    "realize",
+    "seeth",
+    "seest",
+    "beholdeth",
+    "beholdest",
+    "understandeth",
+    "understandest",
+    "knoweth",
+    "knowest",
+    "looketh",
+    "lookest",
+    "watcheth",
+    "watchest"
   ],
   "navi": [
     "prophet",
@@ -3498,7 +4005,13 @@
     "saying",
     "says",
     "bear witness",
-    "give answer"
+    "give answer",
+    "answereth",
+    "answerest",
+    "speaketh",
+    "speakest",
+    "saith",
+    "sayest"
   ],
   "yehovih": [
     "lord"
@@ -3521,7 +4034,9 @@
     "mentioning",
     "come to mind",
     "be mindful",
-    "mindful"
+    "mindful",
+    "remembereth",
+    "rememberest"
   ],
   "meah": [
     "hundred",
@@ -3573,7 +4088,11 @@
     "came true",
     "comes true",
     "coming true",
-    "be fulfilled"
+    "be fulfilled",
+    "filleth",
+    "fillest",
+    "fulfilleth",
+    "fulfillest"
   ],
   "bayin": [
     "between"
@@ -3615,7 +4134,17 @@
     "leave",
     "go away",
     "withdraw",
-    "away"
+    "away",
+    "removeth",
+    "removest",
+    "departeth",
+    "departest",
+    "turneth",
+    "turnest",
+    "ceaseth",
+    "ceasest",
+    "leaveth",
+    "leavest"
   ],
   "rasah": [
     "wicked",
@@ -3669,7 +4198,15 @@
     "uttering",
     "word",
     "words",
-    "voice"
+    "voice",
+    "speaketh",
+    "speakest",
+    "saith",
+    "sayest",
+    "telleth",
+    "tellest",
+    "talketh",
+    "talkest"
   ],
   "mishpachah": [
     "family",
@@ -3735,7 +4272,9 @@
     "cataloged",
     "enlist",
     "enlisted",
-    "enlisted men"
+    "enlisted men",
+    "remembereth",
+    "rememberest"
   ],
   "olah": [
     "burnt offering",
@@ -3788,7 +4327,11 @@
     "covenant",
     "covenants",
     "covenant made",
-    "covenant cut"
+    "covenant cut",
+    "cutteth",
+    "cuttest",
+    "maketh",
+    "makest"
   ],
   "o": [
     "o",
@@ -3839,7 +4382,17 @@
     "offers",
     "offered",
     "approach near",
-    "drawn near"
+    "drawn near",
+    "cometh",
+    "comest",
+    "bringeth",
+    "bringest",
+    "presenteth",
+    "presentest",
+    "offereth",
+    "offerest",
+    "draweth",
+    "drawest"
   ],
   "heautou": [
     "himself",
@@ -3890,7 +4443,9 @@
     "stay alive",
     "shall live",
     "have life",
-    "life"
+    "life",
+    "liveth",
+    "livest"
   ],
   "midbar": [
     "wilderness",
@@ -3934,7 +4489,13 @@
     "one who brings good tidings",
     "declare",
     "declared",
-    "telling"
+    "telling",
+    "preacheth",
+    "preachest",
+    "proclaimeth",
+    "proclaimest",
+    "declareth",
+    "declarest"
   ],
   "chamesh": [
     "five",
@@ -4006,7 +4567,15 @@
     "assume",
     "assumes",
     "assuming",
-    "assumed"
+    "assumed",
+    "taketh",
+    "takest",
+    "receiveth",
+    "receivest",
+    "accepteth",
+    "acceptest",
+    "holdeth",
+    "holdest"
   ],
   "ge": [
     "indeed",
@@ -4043,7 +4612,11 @@
     "slain",
     "sacrifice",
     "sacrificed",
-    "sacrificing"
+    "sacrificing",
+    "killeth",
+    "killest",
+    "slayeth",
+    "slayest"
   ],
   "or": [
     "light",
@@ -4137,7 +4710,13 @@
     "put one's faith",
     "have faith",
     "have confidence",
-    "confidence"
+    "confidence",
+    "believeth",
+    "believest",
+    "trusteth",
+    "trustest",
+    "committeth",
+    "committest"
   ],
   "el": [
     "god"
@@ -4175,7 +4754,15 @@
     "destroyed",
     "destroys",
     "sweep away",
-    "swept away"
+    "swept away",
+    "gathereth",
+    "gatherest",
+    "taketh",
+    "takest",
+    "removeth",
+    "removest",
+    "destroyeth",
+    "destroyest"
   ],
   "ammah": [
     "cubit",
@@ -4246,7 +4833,9 @@
     "describing",
     "penned",
     "pen",
-    "pens"
+    "pens",
+    "writeth",
+    "writest"
   ],
   "chata": [
     "sin",
@@ -4292,7 +4881,9 @@
     "made great",
     "magnified",
     "magnify",
-    "magnifies"
+    "magnifies",
+    "groweth",
+    "growest"
   ],
   "yarash": [
     "possess",
@@ -4350,7 +4941,13 @@
     "offer",
     "offers",
     "offered",
-    "offering"
+    "offering",
+    "cometh",
+    "comest",
+    "bringeth",
+    "bringest",
+    "offereth",
+    "offerest"
   ],
   "shalom": [
     "peace",
@@ -4422,7 +5019,15 @@
     "opens",
     "opening",
     "make common",
-    "treat as common"
+    "treat as common",
+    "beginneth",
+    "beginnest",
+    "slayeth",
+    "slayest",
+    "breaketh",
+    "breakest",
+    "openeth",
+    "openest"
   ],
   "maaseh": [
     "work",
@@ -4493,7 +5098,9 @@
     "made an end",
     "put an end",
     "bring to completion",
-    "brought to completion"
+    "brought to completion",
+    "fulfilleth",
+    "fulfillest"
   ],
   "baqash": [
     "seek",
@@ -4526,7 +5133,17 @@
     "find",
     "finds",
     "finding",
-    "found"
+    "found",
+    "seeketh",
+    "seekest",
+    "looketh",
+    "lookest",
+    "desireth",
+    "desirest",
+    "asketh",
+    "askest",
+    "findeth",
+    "findest"
   ],
   "matteh": [
     "tribe",
@@ -4555,7 +5172,9 @@
     "said",
     "speaks",
     "spoke",
-    "speaking"
+    "speaking",
+    "answereth",
+    "answerest"
   ],
   "onoma": [
     "name",
@@ -4613,7 +5232,13 @@
     "perceive",
     "perceived",
     "discern",
-    "experience"
+    "experience",
+    "knoweth",
+    "knowest",
+    "understandeth",
+    "understandest",
+    "learneth",
+    "learnest"
   ],
   "achaz": [
     "ahaz"
@@ -4625,7 +5250,9 @@
     "drank",
     "drunk",
     "drinker",
-    "drinkers"
+    "drinkers",
+    "drinketh",
+    "drinkest"
   ],
   "gune": [
     "woman",
@@ -4677,7 +5304,11 @@
     "defending",
     "execute judgment",
     "give judgment",
-    "render judgment"
+    "render judgment",
+    "judgeth",
+    "judgest",
+    "ruleth",
+    "rulest"
   ],
   "exerchomai": [
     "go out",
@@ -4721,7 +5352,11 @@
     "escape",
     "escapes",
     "escaped",
-    "escaping"
+    "escaping",
+    "departeth",
+    "departest",
+    "leaveth",
+    "leavest"
   ],
   "natah": [
     "stretch",
@@ -4760,7 +5395,13 @@
     "declined to",
     "tend",
     "tended",
-    "tendeth"
+    "tendeth",
+    "spreadeth",
+    "spreadest",
+    "turneth",
+    "turnest",
+    "layeth",
+    "layest"
   ],
   "azav": [
     "leave",
@@ -4777,7 +5418,11 @@
     "failed",
     "reject",
     "rejected",
-    "give up"
+    "give up",
+    "leaveth",
+    "leavest",
+    "forsaketh",
+    "forsakest"
   ],
   "maleakh": [
     "messenger",
@@ -4810,7 +5455,9 @@
     "cherish",
     "cherished",
     "cherishes",
-    "cherishing"
+    "cherishing",
+    "loveth",
+    "lovest"
   ],
   "yoseph": [
     "joseph"
@@ -4836,7 +5483,8 @@
     "loving",
     "lover",
     "lovers",
-    "loveth"
+    "loveth",
+    "lovest"
   ],
   "gevul": [
     "border",
@@ -4867,7 +5515,13 @@
     "sleep",
     "slept",
     "sleeps",
-    "sleeping"
+    "sleeping",
+    "lieth",
+    "liest",
+    "layeth",
+    "layest",
+    "sleepeth",
+    "sleepest"
   ],
   "shava": [
     "swear",
@@ -4879,7 +5533,8 @@
     "took an oath",
     "take an oath",
     "takes an oath",
-    "took oath"
+    "took oath",
+    "swearest"
   ],
   "kun": [
     "establish",
@@ -4953,7 +5608,17 @@
     "securing",
     "supplied",
     "supply",
-    "supplying"
+    "supplying",
+    "establisheth",
+    "establishest",
+    "prepareth",
+    "preparest",
+    "setteth",
+    "settest",
+    "standeth",
+    "standest",
+    "maketh",
+    "makest"
   ],
   "thelo": [
     "will",
@@ -4969,7 +5634,11 @@
     "pleased",
     "intends",
     "purpose",
-    "chooses"
+    "chooses",
+    "desireth",
+    "desirest",
+    "chooseth",
+    "choosest"
   ],
   "minchah": [
     "offering",
@@ -5041,7 +5710,11 @@
     "recovered",
     "recovers",
     "recovering",
-    "recovery"
+    "recovery",
+    "delivereth",
+    "deliverest",
+    "saveth",
+    "savest"
   ],
   "kavod": [
     "glory",
@@ -5085,7 +5758,13 @@
     "preserved",
     "safeguard",
     "gave victory",
-    "grant victory"
+    "grant victory",
+    "saveth",
+    "savest",
+    "delivereth",
+    "deliverest",
+    "helpeth",
+    "helpest"
   ],
   "aron": [
     "ark"
@@ -5120,7 +5799,9 @@
     "proceed",
     "repeat",
     "return",
-    "yet again"
+    "yet again",
+    "returneth",
+    "returnest"
   ],
   "meod": [
     "much",
@@ -5202,7 +5883,13 @@
     "exaltation",
     "proud",
     "proudly",
-    "proud heart"
+    "proud heart",
+    "lifteth",
+    "liftest",
+    "raiseth",
+    "raisest",
+    "riseth",
+    "risest"
   ],
   "ioudaios": [
     "jew",
@@ -5241,7 +5928,11 @@
     "receive",
     "receives",
     "received",
-    "receiving"
+    "receiving",
+    "taketh",
+    "takest",
+    "receiveth",
+    "receivest"
   ],
   "shemen": [
     "oil",
@@ -5267,7 +5958,13 @@
     "goes in",
     "enter in",
     "entered in",
-    "entering in"
+    "entering in",
+    "entereth",
+    "enterest",
+    "cometh",
+    "comest",
+    "goeth",
+    "goest"
   ],
   "grapho": [
     "write",
@@ -5278,7 +5975,9 @@
     "inscribed",
     "inscribe",
     "recorded",
-    "record"
+    "record",
+    "writeth",
+    "writest"
   ],
   "behemah": [
     "animal",
@@ -5308,7 +6007,17 @@
     "take",
     "carry",
     "wash",
-    "wipe"
+    "wipe",
+    "destroyeth",
+    "destroyest",
+    "removeth",
+    "removest",
+    "taketh",
+    "takest",
+    "carrieth",
+    "carriest",
+    "washeth",
+    "washest"
   ],
   "ayil": [
     "ram",
@@ -5425,7 +6134,9 @@
     "sings",
     "sung to",
     "sing to",
-    "sang to"
+    "sang to",
+    "singeth",
+    "singest"
   ],
   "lacham": [
     "fight",
@@ -5450,7 +6161,9 @@
     "struggles",
     "combat",
     "combated",
-    "combating"
+    "combating",
+    "fighteth",
+    "fightest"
   ],
   "ephrayim": [
     "ephraim"
@@ -5488,7 +6201,9 @@
     "fall down",
     "fell down",
     "falls down",
-    "falling down"
+    "falling down",
+    "worshippeth",
+    "worshippest"
   ],
   "edah": [
     "congregation",
@@ -5502,7 +6217,9 @@
     "choosing",
     "select",
     "selected",
-    "prefer"
+    "prefer",
+    "chooseth",
+    "choosest"
   ],
   "hupo": [
     "by",
@@ -5561,7 +6278,15 @@
     "departed",
     "departing",
     "leave",
-    "left"
+    "left",
+    "revealeth",
+    "revealest",
+    "removeth",
+    "removest",
+    "departeth",
+    "departest",
+    "leaveth",
+    "leavest"
   ],
   "ergon": [
     "work",
@@ -5660,7 +6385,13 @@
     "sense",
     "sensible",
     "distinguish",
-    "distinguished"
+    "distinguished",
+    "understandeth",
+    "understandest",
+    "considereth",
+    "considerest",
+    "knoweth",
+    "knowest"
   ],
   "shaal": [
     "ask",
@@ -5687,7 +6418,11 @@
     "seeks",
     "seeking",
     "require",
-    "required"
+    "required",
+    "asketh",
+    "askest",
+    "seeketh",
+    "seekest"
   ],
   "heurisko": [
     "find",
@@ -5704,7 +6439,11 @@
     "obtains",
     "discover",
     "discovers",
-    "discovered"
+    "discovered",
+    "findeth",
+    "findest",
+    "meeteth",
+    "meetest"
   ],
   "ethnos": [
     "gentiles",
@@ -5767,7 +6506,8 @@
     "loose",
     "loosed",
     "break forth",
-    "broke forth"
+    "broke forth",
+    "openest"
   ],
   "halal": [
     "praise",
@@ -5796,7 +6536,11 @@
     "glory in",
     "gloried in",
     "make a joyful noise",
-    "make a joyful sound"
+    "make a joyful sound",
+    "praiseth",
+    "praisest",
+    "rejoiceth",
+    "rejoicest"
   ],
   "polis": [
     "city",
@@ -5832,7 +6576,9 @@
     "escaping",
     "away",
     "scatter",
-    "scattered"
+    "scattered",
+    "fleeth",
+    "fleest"
   ],
   "darash": [
     "seek",
@@ -5883,7 +6629,15 @@
     "follow",
     "follows",
     "followed",
-    "following"
+    "following",
+    "seeketh",
+    "seekest",
+    "asketh",
+    "askest",
+    "looketh",
+    "lookest",
+    "followeth",
+    "followest"
   ],
   "paulos": [
     "paul"
@@ -5907,7 +6661,9 @@
     "called together",
     "convene",
     "convened",
-    "convening"
+    "convening",
+    "gathereth",
+    "gatherest"
   ],
   "zevach": [
     "sacrifice",
@@ -5998,7 +6754,17 @@
     "speak of",
     "make known",
     "rehearsed",
-    "rehearse"
+    "rehearse",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest",
+    "speaketh",
+    "speakest",
+    "proclaimeth",
+    "proclaimest",
+    "talketh",
+    "talkest"
   ],
   "tsiyyon": [
     "zion"
@@ -6048,7 +6814,9 @@
     "be broken",
     "breach",
     "breached",
-    "breaches"
+    "breaches",
+    "breaketh",
+    "breakest"
   ],
   "samach": [
     "rejoice",
@@ -6069,7 +6837,9 @@
     "cheered",
     "be joyful",
     "celebrate",
-    "celebrated"
+    "celebrated",
+    "rejoiceth",
+    "rejoicest"
   ],
   "allos": [
     "another",
@@ -6105,7 +6875,12 @@
     "inlaid",
     "spread",
     "spreading",
-    "spreads"
+    "spreads",
+    "hideth",
+    "hidest",
+    "spreadeth",
+    "spreadest",
+    "raiment"
   ],
   "savav": [
     "turn",
@@ -6147,7 +6922,11 @@
     "circle around",
     "circled around",
     "encamped around",
-    "hemmed in"
+    "hemmed in",
+    "turneth",
+    "turnest",
+    "goeth",
+    "goest"
   ],
   "histemi": [
     "stand",
@@ -6187,7 +6966,25 @@
     "take stand",
     "took stand",
     "be",
-    "been"
+    "been",
+    "standeth",
+    "standest",
+    "setteth",
+    "settest",
+    "establisheth",
+    "establishest",
+    "riseth",
+    "risest",
+    "raiseth",
+    "raisest",
+    "presenteth",
+    "presentest",
+    "remaineth",
+    "remainest",
+    "holdeth",
+    "holdest",
+    "keepeth",
+    "keepest"
   ],
   "baqar": [
     "enquire",
@@ -6208,7 +7005,13 @@
     "looking",
     "seeks",
     "inquires",
-    "examines"
+    "examines",
+    "seeketh",
+    "seekest",
+    "asketh",
+    "askest",
+    "looketh",
+    "lookest"
   ],
   "erev": [
     "ambush",
@@ -6236,7 +7039,11 @@
     "put...to death",
     "death",
     "execute",
-    "executed"
+    "executed",
+    "killeth",
+    "killest",
+    "slayeth",
+    "slayest"
   ],
   "huper": [
     "for",
@@ -6321,7 +7128,21 @@
     "advancing",
     "progress",
     "progressed",
-    "head"
+    "head",
+    "goeth",
+    "goest",
+    "cometh",
+    "comest",
+    "walketh",
+    "walkest",
+    "departeth",
+    "departest",
+    "passeth",
+    "passest",
+    "moveth",
+    "movest",
+    "turneth",
+    "turnest"
   ],
   "egeiro": [
     "raise",
@@ -6355,7 +7176,19 @@
     "uprouse",
     "build",
     "erected",
-    "erect"
+    "erect",
+    "raiseth",
+    "raisest",
+    "ariseth",
+    "arisest",
+    "riseth",
+    "risest",
+    "standeth",
+    "standest",
+    "lifteth",
+    "liftest",
+    "buildeth",
+    "buildest"
   ],
   "melakhah": [
     "work",
@@ -6401,7 +7234,8 @@
     "summon",
     "summoned",
     "summoning",
-    "summoned forth"
+    "summoned forth",
+    "callest"
   ],
   "yashar": [
     "make straight",
@@ -6419,7 +7253,9 @@
     "prepared",
     "direct your paths",
     "guide",
-    "guided"
+    "guided",
+    "prepareth",
+    "preparest"
   ],
   "menashsheh": [
     "manasseh"
@@ -6462,7 +7298,21 @@
     "laid",
     "lain",
     "attach",
-    "attached"
+    "attached",
+    "toucheth",
+    "touchest",
+    "reacheth",
+    "reachest",
+    "striketh",
+    "strikest",
+    "smiteth",
+    "smitest",
+    "cometh",
+    "comest",
+    "falleth",
+    "fallest",
+    "layeth",
+    "layest"
   ],
   "sane": [
     "hate",
@@ -6470,7 +7320,9 @@
     "hates",
     "hating",
     "hatred",
-    "hateful"
+    "hateful",
+    "hateth",
+    "hatest"
   ],
   "rov": [
     "abundance",
@@ -6542,7 +7394,15 @@
     "dismiss",
     "dismissed",
     "keep silence",
-    "kept silence"
+    "kept silence",
+    "leaveth",
+    "leavest",
+    "forgiveth",
+    "forgivest",
+    "forsaketh",
+    "forsakest",
+    "suffereth",
+    "sufferest"
   ],
   "radaph": [
     "pursue",
@@ -6567,7 +7427,9 @@
     "chases",
     "chasing",
     "hunted",
-    "hunt"
+    "hunt",
+    "followeth",
+    "followest"
   ],
   "patach": [
     "open",
@@ -6582,14 +7444,17 @@
     "loose",
     "loosened",
     "uncover",
-    "uncovered"
+    "uncovered",
+    "openest"
   ],
   "zao": [
     "live",
     "lives",
     "lived",
     "living",
-    "alive"
+    "alive",
+    "liveth",
+    "livest"
   ],
   "laos": [
     "people",
@@ -6635,7 +7500,19 @@
     "dwells",
     "dwelling",
     "be at rest",
-    "reposed"
+    "reposed",
+    "resteth",
+    "restest",
+    "remaineth",
+    "remainest",
+    "lieth",
+    "liest",
+    "abideth",
+    "abidest",
+    "stayeth",
+    "stayest",
+    "dwelleth",
+    "dwellest"
   ],
   "chanah": [
     "camp",
@@ -6657,7 +7534,9 @@
     "loved",
     "loving",
     "lover",
-    "lovers"
+    "lovers",
+    "loveth",
+    "lovest"
   ],
   "akh": [
     "surely",
@@ -6745,7 +7624,11 @@
     "void",
     "voids",
     "voided",
-    "voiding"
+    "voiding",
+    "ceaseth",
+    "ceasest",
+    "breaketh",
+    "breakest"
   ],
   "oude": [
     "nor",
@@ -6817,7 +7700,9 @@
     "exercise rule",
     "governs",
     "governed",
-    "govern"
+    "govern",
+    "ruleth",
+    "rulest"
   ],
   "zavach": [
     "sacrifice",
@@ -6832,14 +7717,21 @@
     "slew",
     "slain",
     "kill",
-    "killed"
+    "killed",
+    "offereth",
+    "offerest",
+    "slayeth",
+    "slayest",
+    "killeth",
+    "killest"
   ],
   "apostello": [
     "send",
     "sends",
     "sent",
     "sending",
-    "sendeth"
+    "sendeth",
+    "sendest"
   ],
   "qavar": [
     "bury",
@@ -6871,7 +7763,15 @@
     "behold",
     "watch",
     "regard",
-    "perceive"
+    "perceive",
+    "seeth",
+    "seest",
+    "looketh",
+    "lookest",
+    "beholdeth",
+    "beholdest",
+    "watcheth",
+    "watchest"
   ],
   "panah": [
     "turn",
@@ -6895,7 +7795,11 @@
     "direct",
     "directed",
     "toward",
-    "away"
+    "away",
+    "turneth",
+    "turnest",
+    "looketh",
+    "lookest"
   ],
   "gaal": [
     "redeem",
@@ -6990,7 +7894,19 @@
     "been",
     "made their home",
     "make their home",
-    "makes their home"
+    "makes their home",
+    "dwelleth",
+    "dwellest",
+    "abideth",
+    "abidest",
+    "liveth",
+    "livest",
+    "resteth",
+    "restest",
+    "remaineth",
+    "remainest",
+    "stayeth",
+    "stayest"
   ],
   "avodah": [
     "service",
@@ -7043,7 +7959,9 @@
     "come together",
     "muster",
     "mustered",
-    "mustering"
+    "mustering",
+    "gathereth",
+    "gatherest"
   ],
   "shalakh": [
     "throw",
@@ -7061,7 +7979,11 @@
     "flung",
     "hurl",
     "hurled",
-    "hurls"
+    "hurls",
+    "throweth",
+    "throwest",
+    "casteth",
+    "castest"
   ],
   "bush": [
     "ashamed",
@@ -7169,7 +8091,9 @@
     "reason",
     "reasons",
     "reasoned",
-    "reasoning"
+    "reasoning",
+    "fighteth",
+    "fightest"
   ],
   "kalos": [
     "good",
@@ -7201,7 +8125,11 @@
     "combine",
     "combined",
     "meet",
-    "met"
+    "met",
+    "gathereth",
+    "gatherest",
+    "meeteth",
+    "meetest"
   ],
   "nagash": [
     "approach",
@@ -7235,7 +8163,13 @@
     "draw up",
     "drew up",
     "advance",
-    "advanced"
+    "advanced",
+    "cometh",
+    "comest",
+    "presenteth",
+    "presentest",
+    "standeth",
+    "standest"
   ],
   "chetsi": [
     "half",
@@ -7266,7 +8200,19 @@
     "sent",
     "strike",
     "struck",
-    "thrust"
+    "thrust",
+    "throweth",
+    "throwest",
+    "casteth",
+    "castest",
+    "putteth",
+    "puttest",
+    "layeth",
+    "layest",
+    "sendeth",
+    "sendest",
+    "striketh",
+    "strikest"
   ],
   "nahar": [
     "flow",
@@ -7306,7 +8252,9 @@
     "consume",
     "consumed",
     "consuming",
-    "consumes"
+    "consumes",
+    "burneth",
+    "burnest"
   ],
   "batach": [
     "trust",
@@ -7325,7 +8273,9 @@
     "assured",
     "assurance",
     "secure",
-    "safety"
+    "safety",
+    "trusteth",
+    "trustest"
   ],
   "lakhad": [
     "took",
@@ -7348,7 +8298,9 @@
     "overtaken",
     "overtake",
     "apprehended",
-    "apprehend"
+    "apprehend",
+    "taketh",
+    "takest"
   ],
   "anah": [
     "lament",
@@ -7368,7 +8320,9 @@
     "groaning",
     "sigh",
     "sighed",
-    "sighing"
+    "sighing",
+    "crieth",
+    "criest"
   ],
   "emet": [
     "truth",
@@ -7447,7 +8401,11 @@
     "delivering",
     "betraying",
     "handing over",
-    "giving over"
+    "giving over",
+    "delivereth",
+    "deliverest",
+    "committeth",
+    "committest"
   ],
   "koach": [
     "strength",
@@ -7509,7 +8467,15 @@
     "continues",
     "endure",
     "endures",
-    "enduring"
+    "enduring",
+    "abideth",
+    "abidest",
+    "remaineth",
+    "remainest",
+    "stayeth",
+    "stayest",
+    "continueth",
+    "continuest"
   ],
   "chashav": [
     "think",
@@ -7546,7 +8512,11 @@
     "impute",
     "imputed",
     "charge",
-    "charged"
+    "charged",
+    "thinketh",
+    "thinkest",
+    "considereth",
+    "considerest"
   ],
   "zeteo": [
     "seek",
@@ -7569,7 +8539,12 @@
     "want",
     "attempt",
     "trying",
-    "try"
+    "try",
+    "seekest",
+    "looketh",
+    "lookest",
+    "desireth",
+    "desirest"
   ],
   "mamlakhah": [
     "kingdom",
@@ -7659,7 +8634,11 @@
     "burns incense",
     "offer incense",
     "offered incense",
-    "offering incense"
+    "offering incense",
+    "burneth",
+    "burnest",
+    "offereth",
+    "offerest"
   ],
   "ekklesia": [
     "church",
@@ -7700,7 +8679,13 @@
     "proceed",
     "proceeded",
     "proceeds",
-    "proceeding"
+    "proceeding",
+    "goeth",
+    "goest",
+    "departeth",
+    "departest",
+    "leaveth",
+    "leavest"
   ],
   "gadal": [
     "magnify",
@@ -7749,7 +8734,11 @@
     "mightily",
     "mighty",
     "conceited",
-    "arrogant"
+    "arrogant",
+    "groweth",
+    "growest",
+    "riseth",
+    "risest"
   ],
   "krino": [
     "judge",
@@ -7781,7 +8770,13 @@
     "think",
     "prefer",
     "suppose",
-    "consider"
+    "consider",
+    "judgeth",
+    "judgest",
+    "thinketh",
+    "thinkest",
+    "considereth",
+    "considerest"
   ],
   "hotan": [
     "when",
@@ -7829,7 +8824,11 @@
     "acknowledges",
     "acknowledged",
     "acknowledging",
-    "acknowledgment"
+    "acknowledgment",
+    "praiseth",
+    "praisest",
+    "confesseth",
+    "confessest"
   ],
   "givah": [
     "hill",
@@ -7852,7 +8851,9 @@
     "gushed",
     "gush",
     "poured out",
-    "shed abroad"
+    "shed abroad",
+    "poureth",
+    "pourest"
   ],
   "aphar": [
     "dust",
@@ -7873,7 +8874,9 @@
     "casting",
     "cover",
     "covered",
-    "covering"
+    "covering",
+    "casteth",
+    "castest"
   ],
   "sava": [
     "drink",
@@ -7883,7 +8886,9 @@
     "drunk",
     "drink in",
     "drinker",
-    "drinkers"
+    "drinkers",
+    "drinketh",
+    "drinkest"
   ],
   "yakhol": [
     "able",
@@ -7955,7 +8960,9 @@
     "part",
     "parts",
     "parted",
-    "partition"
+    "partition",
+    "spreadeth",
+    "spreadest"
   ],
   "chamor": [
     "donkey",
@@ -7987,7 +8994,11 @@
     "assured",
     "steadfast",
     "steadfastness",
-    "faithfulness"
+    "faithfulness",
+    "believeth",
+    "believest",
+    "trusteth",
+    "trustest"
   ],
   "yatav": [
     "good",
@@ -8030,7 +9041,10 @@
     "dress",
     "garment",
     "covered",
-    "cover"
+    "cover",
+    "weareth",
+    "wearest",
+    "raiment"
   ],
   "kavad": [
     "honor",
@@ -8051,7 +9065,9 @@
     "made heavy",
     "made . . . heavy",
     "weighty",
-    "grievous"
+    "grievous",
+    "honoureth",
+    "honourest"
   ],
   "pos": [
     "how"
@@ -8085,7 +9101,9 @@
     "are dead",
     "be dead",
     "shall die",
-    "should die"
+    "should die",
+    "dieth",
+    "diest"
   ],
   "achot": [
     "sister",
@@ -8132,7 +9150,9 @@
     "console",
     "consoled",
     "pitied",
-    "pity"
+    "pity",
+    "repenteth",
+    "repentest"
   ],
   "avishalom": [
     "absalom"
@@ -8172,7 +9192,17 @@
     "raised",
     "raising",
     "appear",
-    "appeared"
+    "appeared",
+    "ariseth",
+    "arisest",
+    "riseth",
+    "risest",
+    "standeth",
+    "standest",
+    "raiseth",
+    "raisest",
+    "appeareth",
+    "appearest"
   ],
   "idios": [
     "own",
@@ -8209,7 +9239,11 @@
     "recover",
     "keep safe",
     "preserve",
-    "deliver"
+    "deliver",
+    "saveth",
+    "savest",
+    "delivereth",
+    "deliverest"
   ],
   "hora": [
     "hour",
@@ -8301,7 +9335,9 @@
     "patient",
     "patience",
     "slow to anger",
-    "longsuffering"
+    "longsuffering",
+    "continueth",
+    "continuest"
   ],
   "yatar": [
     "remain",
@@ -8318,7 +9354,13 @@
     "excels",
     "excel beyond",
     "rest",
-    "rested"
+    "rested",
+    "remaineth",
+    "remainest",
+    "leaveth",
+    "leavest",
+    "resteth",
+    "restest"
   ],
   "shabbat": [
     "sabbath"
@@ -8381,7 +9423,9 @@
     "ran",
     "runnings",
     "runner",
-    "runners"
+    "runners",
+    "runneth",
+    "runnest"
   ],
   "sheqer": [
     "lie",
@@ -8436,7 +9480,9 @@
     "neglect",
     "neglected",
     "neglects",
-    "overlooked"
+    "overlooked",
+    "forgetteth",
+    "forgettest"
   ],
   "agathos": [
     "good",
@@ -8464,7 +9510,11 @@
     "expound",
     "expounded",
     "clarify",
-    "clarified"
+    "clarified",
+    "declareth",
+    "declarest",
+    "telleth",
+    "tellest"
   ],
   "dei": [
     "must",
@@ -8542,7 +9592,21 @@
     "puts",
     "putting",
     "away",
-    "hoist"
+    "hoist",
+    "taketh",
+    "takest",
+    "lifteth",
+    "liftest",
+    "raiseth",
+    "raisest",
+    "removeth",
+    "removest",
+    "carrieth",
+    "carriest",
+    "beareth",
+    "bearest",
+    "putteth",
+    "puttest"
   ],
   "tithemi": [
     "set",
@@ -8572,7 +9636,25 @@
     "choose",
     "deposit",
     "arrange",
-    "propose"
+    "propose",
+    "setteth",
+    "settest",
+    "layeth",
+    "layest",
+    "putteth",
+    "puttest",
+    "maketh",
+    "makest",
+    "establisheth",
+    "establishest",
+    "holdeth",
+    "holdest",
+    "committeth",
+    "committest",
+    "giveth",
+    "givest",
+    "chooseth",
+    "choosest"
   ],
   "exousia": [
     "authority",
@@ -8647,7 +9729,8 @@
     "children",
     "son",
     "offspring",
-    "descendant"
+    "descendant",
+    "seed"
   ],
   "keves": [
     "lamb",
@@ -8674,7 +9757,8 @@
     "teacheth",
     "teacher",
     "instructing",
-    "instruction"
+    "instruction",
+    "teachest"
   ],
   "rapah": [
     "heal",
@@ -8691,7 +9775,9 @@
     "restored",
     "restores",
     "restoring",
-    "make whole"
+    "make whole",
+    "healeth",
+    "healest"
   ],
   "gennao": [
     "beget",
@@ -8705,7 +9791,9 @@
     "birth",
     "conceive",
     "fathered",
-    "produced"
+    "produced",
+    "beareth",
+    "bearest"
   ],
   "hodos": [
     "way",
@@ -8727,7 +9815,9 @@
     "cornered",
     "edge",
     "wings",
-    "winged"
+    "winged",
+    "gathereth",
+    "gatherest"
   ],
   "haima": [
     "blood",
@@ -8745,7 +9835,13 @@
     "will say",
     "shall say",
     "speak",
-    "tell"
+    "tell",
+    "saith",
+    "sayest",
+    "speaketh",
+    "speakest",
+    "telleth",
+    "tellest"
   ],
   "azar": [
     "gird",
@@ -8793,7 +9889,13 @@
     "settling",
     "inhabit",
     "inhabited",
-    "inhabits"
+    "inhabits",
+    "dwelleth",
+    "dwellest",
+    "liveth",
+    "livest",
+    "stayeth",
+    "stayest"
   ],
   "raa": [
     "evil",
@@ -8832,7 +9934,9 @@
     "worse",
     "worsen",
     "worsened",
-    "act despitefully"
+    "act despitefully",
+    "breaketh",
+    "breakest"
   ],
   "peripateo": [
     "walk",
@@ -8851,7 +9955,11 @@
     "behave",
     "behaves",
     "behaved",
-    "behaving"
+    "behaving",
+    "walketh",
+    "walkest",
+    "liveth",
+    "livest"
   ],
   "protos": [
     "first",
@@ -8886,7 +9994,9 @@
     "was afraid",
     "being afraid",
     "do not be afraid",
-    "don't be afraid"
+    "don't be afraid",
+    "feareth",
+    "fearest"
   ],
   "orekh": [
     "length",
@@ -8935,7 +10045,9 @@
     "flipped",
     "overturns",
     "turning",
-    "turning over"
+    "turning over",
+    "turneth",
+    "turnest"
   ],
   "malat": [
     "escape",
@@ -8954,7 +10066,13 @@
     "survivor",
     "survivors",
     "survivor's",
-    "remnant"
+    "remnant",
+    "delivereth",
+    "deliverest",
+    "saveth",
+    "savest",
+    "fleeth",
+    "fleest"
   ],
   "sharat": [
     "minister",
@@ -8967,7 +10085,9 @@
     "service",
     "attendance",
     "attend",
-    "attended"
+    "attended",
+    "serveth",
+    "servest"
   ],
   "ger": [
     "sojourner",
@@ -8991,7 +10111,9 @@
     "eaten",
     "eating",
     "ate",
-    "eats"
+    "eats",
+    "eateth",
+    "eatest"
   ],
   "kerem": [
     "vineyard",
@@ -9068,7 +10190,9 @@
     "horrified",
     "horror",
     "be desolate",
-    "make desolate"
+    "make desolate",
+    "destroyeth",
+    "destroyest"
   ],
   "pipto": [
     "fall",
@@ -9079,7 +10203,9 @@
     "fall away",
     "falls away",
     "fallen away",
-    "falling away"
+    "falling away",
+    "falleth",
+    "fallest"
   ],
   "simchah": [
     "joy",
@@ -9169,7 +10295,15 @@
     "killed",
     "kills",
     "killing",
-    "put to death"
+    "put to death",
+    "destroyeth",
+    "destroyest",
+    "loseth",
+    "losest",
+    "perisheth",
+    "perishest",
+    "killeth",
+    "killest"
   ],
   "qeren": [
     "horn",
@@ -9231,7 +10365,11 @@
     "pen",
     "penned",
     "locked",
-    "lock"
+    "lock",
+    "shutteth",
+    "shuttest",
+    "delivereth",
+    "deliverest"
   ],
   "pous": [
     "foot",
@@ -9241,7 +10379,9 @@
     "follow",
     "followed",
     "follows",
-    "following"
+    "following",
+    "followeth",
+    "followest"
   ],
   "thalassa": [
     "sea"
@@ -9300,7 +10440,9 @@
     "hot",
     "displeased",
     "displease",
-    "infuriated"
+    "infuriated",
+    "burneth",
+    "burnest"
   ],
   "etsah": [
     "tree",
@@ -9366,7 +10508,9 @@
     "seize",
     "seized",
     "carry off",
-    "carried off"
+    "carried off",
+    "taketh",
+    "takest"
   ],
   "yeled": [
     "child",
@@ -9396,7 +10540,11 @@
     "exterminated",
     "cut off",
     "utterly destroy",
-    "utterly destroyed"
+    "utterly destroyed",
+    "destroyeth",
+    "destroyest",
+    "perisheth",
+    "perishest"
   ],
   "malkhut": [
     "kingdom",
@@ -9472,7 +10620,13 @@
     "gaze",
     "gazed",
     "catch sight of",
-    "caught sight of"
+    "caught sight of",
+    "seeth",
+    "seest",
+    "beholdeth",
+    "beholdest",
+    "looketh",
+    "lookest"
   ],
   "pleroo": [
     "fulfill",
@@ -9497,7 +10651,11 @@
     "fully preach",
     "carry out",
     "end",
-    "finish"
+    "finish",
+    "fulfilleth",
+    "fulfillest",
+    "filleth",
+    "fillest"
   ],
   "palal": [
     "pray",
@@ -9507,7 +10665,9 @@
     "prayer",
     "prayers",
     "make prayer",
-    "made prayer"
+    "made prayer",
+    "prayeth",
+    "prayest"
   ],
   "qanah": [
     "buy",
@@ -9554,7 +10714,9 @@
     "came to",
     "coming to",
     "step forward",
-    "stepped forward"
+    "stepped forward",
+    "cometh",
+    "comest"
   ],
   "shelem": [
     "peace offering",
@@ -9580,7 +10742,11 @@
     "rule",
     "ruled",
     "rules",
-    "ruling"
+    "ruling",
+    "beginneth",
+    "beginnest",
+    "ruleth",
+    "rulest"
   ],
   "chaphets": [
     "delight",
@@ -9610,7 +10776,9 @@
     "willing to do",
     "willing to go",
     "willing to give",
-    "willing to accept"
+    "willing to accept",
+    "desireth",
+    "desirest"
   ],
   "daat": [
     "knowledge",
@@ -9624,7 +10792,9 @@
     "praying",
     "prays",
     "prayer",
-    "prayers"
+    "prayers",
+    "prayeth",
+    "prayest"
   ],
   "kathemai": [
     "sit",
@@ -9641,7 +10811,13 @@
     "remains",
     "throne",
     "thrones",
-    "enthroned"
+    "enthroned",
+    "sitteth",
+    "sittest",
+    "dwelleth",
+    "dwellest",
+    "remaineth",
+    "remainest"
   ],
   "artos": [
     "bread",
@@ -9742,7 +10918,9 @@
     "climbs",
     "climbed",
     "climbing",
-    "travel up"
+    "travel up",
+    "riseth",
+    "risest"
   ],
   "bar": [
     "bar",
@@ -9763,7 +10941,17 @@
     "placing",
     "made",
     "set up",
-    "laid"
+    "laid",
+    "setteth",
+    "settest",
+    "putteth",
+    "puttest",
+    "maketh",
+    "makest",
+    "layeth",
+    "layest",
+    "establisheth",
+    "establishest"
   ],
   "lamad": [
     "learn",
@@ -9774,7 +10962,11 @@
     "teaching",
     "accustomed",
     "taught them",
-    "skilled"
+    "skilled",
+    "learneth",
+    "learnest",
+    "teacheth",
+    "teachest"
   ],
   "ekh": [
     "how",
@@ -9817,7 +11009,9 @@
     "travail",
     "travailed",
     "exhausted",
-    "exhaust"
+    "exhaust",
+    "weareth",
+    "wearest"
   ],
   "asar": [
     "bind",
@@ -9858,7 +11052,9 @@
     "bonds",
     "bonded",
     "bondage",
-    "put in bonds"
+    "put in bonds",
+    "bindeth",
+    "bindest"
   ],
   "katabaino": [
     "come down",
@@ -10002,7 +11198,13 @@
     "observer",
     "look",
     "looking",
-    "looked"
+    "looked",
+    "watcheth",
+    "watchest",
+    "waiteth",
+    "waitest",
+    "looketh",
+    "lookest"
   ],
   "hekastos": [
     "each",
@@ -10035,7 +11237,11 @@
     "go away",
     "go back",
     "go on",
-    "depart"
+    "depart",
+    "goeth",
+    "goest",
+    "departeth",
+    "departest"
   ],
   "lun": [
     "lodge",
@@ -10056,13 +11262,21 @@
     "pass the night",
     "passed the night",
     "tarry",
-    "tarried"
+    "tarried",
+    "stayeth",
+    "stayest",
+    "remaineth",
+    "remainest",
+    "abideth",
+    "abidest"
   ],
   "pempo": [
     "send",
     "sent",
     "sending",
-    "sends"
+    "sends",
+    "sendeth",
+    "sendest"
   ],
   "keruv": [
     "cherub",
@@ -10091,7 +11305,9 @@
     "unfamiliar",
     "foreign",
     "wander",
-    "wandered"
+    "wandered",
+    "departeth",
+    "departest"
   ],
   "mouses": [
     "moses"
@@ -10126,7 +11342,9 @@
     "seller",
     "sold out",
     "betray",
-    "betrayed"
+    "betrayed",
+    "selleth",
+    "sellest"
   ],
   "yehudi": [
     "jew",
@@ -10240,7 +11458,9 @@
     "be opened",
     "was opened",
     "were opened",
-    "being opened"
+    "being opened",
+    "openeth",
+    "openest"
   ],
   "kaas": [
     "provoke",
@@ -10287,7 +11507,9 @@
     "riding",
     "ridden",
     "rider",
-    "riders"
+    "riders",
+    "rideth",
+    "ridest"
   ],
   "euangelion": [
     "gospel"
@@ -10406,7 +11628,9 @@
     "fearing",
     "dreaded",
     "be afraid",
-    "be fearful"
+    "be fearful",
+    "feareth",
+    "fearest"
   ],
   "kesil": [
     "fool",
@@ -10481,7 +11705,11 @@
     "tormented",
     "torment",
     "torments",
-    "tormentors"
+    "tormentors",
+    "suffereth",
+    "sufferest",
+    "overcometh",
+    "overcomest"
   ],
   "maas": [
     "reject",
@@ -10593,7 +11821,11 @@
     "put to death",
     "slay",
     "slain",
-    "slew"
+    "slew",
+    "killeth",
+    "killest",
+    "slayeth",
+    "slayest"
   ],
   "pino": [
     "drink",
@@ -10601,7 +11833,9 @@
     "drinking",
     "drank",
     "drunk",
-    "drunken"
+    "drunken",
+    "drinketh",
+    "drinkest"
   ],
   "barzel": [
     "iron"
@@ -10707,7 +11941,9 @@
     "washing",
     "washes",
     "bathed",
-    "bathing"
+    "bathing",
+    "washeth",
+    "washest"
   ],
   "kenaani": [
     "canaanite",
@@ -10766,7 +12002,9 @@
     "greeting",
     "greeted",
     "greetings",
-    "farewell"
+    "farewell",
+    "rejoiceth",
+    "rejoicest"
   ],
   "zaaq": [
     "cry",
@@ -10798,7 +12036,13 @@
     "exclaiming",
     "proclaim",
     "proclaimed",
-    "proclaiming"
+    "proclaiming",
+    "crieth",
+    "criest",
+    "calleth",
+    "callest",
+    "proclaimeth",
+    "proclaimest"
   ],
   "eliyyah": [
     "elijah"
@@ -10826,7 +12070,11 @@
     "end",
     "ended",
     "ends",
-    "ending"
+    "ending",
+    "ceaseth",
+    "ceasest",
+    "resteth",
+    "restest"
   ],
   "aionios": [
     "eternal",
@@ -10872,7 +12120,9 @@
     "demanded",
     "demanding",
     "demands",
-    "demand"
+    "demand",
+    "asketh",
+    "askest"
   ],
   "eden": [
     "socket",
@@ -10912,7 +12162,15 @@
     "watchful",
     "watch",
     "watched",
-    "watching"
+    "watching",
+    "keepeth",
+    "keepest",
+    "obeyeth",
+    "obeyest",
+    "followeth",
+    "followest",
+    "watcheth",
+    "watchest"
   ],
   "chevron": [
     "hebron"
@@ -10938,7 +12196,11 @@
     "took a stand",
     "stationed himself",
     "remained standing",
-    "stayed"
+    "stayed",
+    "standeth",
+    "standest",
+    "setteth",
+    "settest"
   ],
   "eli": [
     "eli"
@@ -11045,7 +12307,15 @@
     "notice",
     "noticed",
     "glance",
-    "glanced"
+    "glanced",
+    "looketh",
+    "lookest",
+    "beholdeth",
+    "beholdest",
+    "seeth",
+    "seest",
+    "considereth",
+    "considerest"
   ],
   "entole": [
     "commandment",
@@ -11134,7 +12404,17 @@
     "conducted",
     "go",
     "goes",
-    "went"
+    "went",
+    "bringeth",
+    "bringest",
+    "leadeth",
+    "leadest",
+    "taketh",
+    "takest",
+    "carrieth",
+    "carriest",
+    "goeth",
+    "goest"
   ],
   "apoluo": [
     "release",
@@ -11148,7 +12428,9 @@
     "put away",
     "loose",
     "send forth",
-    "grant"
+    "grant",
+    "granteth",
+    "grantest"
   ],
   "presbuteros": [
     "elder",
@@ -11206,7 +12488,11 @@
     "divide",
     "divided",
     "divides",
-    "dividing"
+    "dividing",
+    "spreadeth",
+    "spreadest",
+    "breaketh",
+    "breakest"
   ],
   "mitsri": [
     "egyptian"
@@ -11277,7 +12563,9 @@
     "plant",
     "planted",
     "strike",
-    "struck"
+    "struck",
+    "striketh",
+    "strikest"
   ],
   "kos": [
     "cos"
@@ -11316,7 +12604,9 @@
     "eating",
     "ate",
     "eaten",
-    "eaters"
+    "eaters",
+    "eateth",
+    "eatest"
   ],
   "beersheva": [
     "beersheba"
@@ -11371,7 +12661,19 @@
     "move",
     "moves",
     "moving",
-    "moved"
+    "moved",
+    "beareth",
+    "bearest",
+    "bringeth",
+    "bringest",
+    "carrieth",
+    "carriest",
+    "leadeth",
+    "leadest",
+    "taketh",
+    "takest",
+    "moveth",
+    "movest"
   ],
   "aravah": [
     "arabah",
@@ -11469,7 +12771,8 @@
     "spirit",
     "spirits",
     "unclean spirit",
-    "unclean spirits"
+    "unclean spirits",
+    "ghost"
   ],
   "mul": [
     "circumcise",
@@ -11517,7 +12820,11 @@
     "escape",
     "run",
     "ran",
-    "running"
+    "running",
+    "fleeth",
+    "fleest",
+    "runneth",
+    "runnest"
   ],
   "taphas": [
     "take",
@@ -11547,7 +12854,9 @@
     "apprehending",
     "grip",
     "gripped",
-    "grab"
+    "grab",
+    "taketh",
+    "takest"
   ],
   "gaver": [
     "man",
@@ -11572,7 +12881,8 @@
     "said",
     "says",
     "say",
-    "saith"
+    "saith",
+    "sayest"
   ],
   "chadash": [
     "renew",
@@ -11618,7 +12928,11 @@
     "implore",
     "implored",
     "imploring",
-    "implores"
+    "implores",
+    "asketh",
+    "askest",
+    "prayeth",
+    "prayest"
   ],
   "kashal": [
     "stumble",
@@ -11649,7 +12963,9 @@
     "trip",
     "tripped",
     "totter",
-    "reel"
+    "reel",
+    "falleth",
+    "fallest"
   ],
   "acharit": [
     "end",
@@ -11687,7 +13003,9 @@
     "droop",
     "drooping",
     "wane",
-    "waning"
+    "waning",
+    "falleth",
+    "fallest"
   ],
   "shaqah": [
     "water",
@@ -11703,7 +13021,9 @@
     "satiate",
     "made to drink",
     "drink from",
-    "cause to drink"
+    "cause to drink",
+    "drinketh",
+    "drinkest"
   ],
   "chag": [
     "feast",
@@ -11722,7 +13042,11 @@
     "be",
     "repute",
     "regarded",
-    "considered"
+    "considered",
+    "thinketh",
+    "thinkest",
+    "appeareth",
+    "appearest"
   ],
   "ner": [
     "lamp",
@@ -11779,7 +13103,11 @@
     "herald",
     "heralded",
     "heralds",
-    "heralding"
+    "heralding",
+    "preacheth",
+    "preachest",
+    "proclaimeth",
+    "proclaimest"
   ],
   "man": [
     "manna"
@@ -11821,7 +13149,11 @@
     "rejected",
     "slack",
     "left behind",
-    "turn away from"
+    "turn away from",
+    "leaveth",
+    "leavest",
+    "forsaketh",
+    "forsakest"
   ],
   "evyon": [
     "needy",
@@ -11855,7 +13187,9 @@
     "trampling",
     "walked",
     "walk",
-    "stepping"
+    "stepping",
+    "walketh",
+    "walkest"
   ],
   "magen": [
     "shield",
@@ -11911,7 +13245,9 @@
     "worshipping",
     "worships",
     "worshiper",
-    "worshipers"
+    "worshipers",
+    "worshippeth",
+    "worshippest"
   ],
   "shiphchah": [
     "maidservant",
@@ -11953,7 +13289,15 @@
     "open",
     "opened",
     "opening",
-    "plainness"
+    "plainness",
+    "declareth",
+    "declarest",
+    "spreadeth",
+    "spreadest",
+    "telleth",
+    "tellest",
+    "openeth",
+    "openest"
   ],
   "mordekhay": [
     "mordecai"
@@ -12017,7 +13361,9 @@
     "collect",
     "collected",
     "bring together",
-    "brought together"
+    "brought together",
+    "gathereth",
+    "gatherest"
   ],
   "orach": [
     "way",
@@ -12047,7 +13393,9 @@
     "unfold",
     "unfolded",
     "opens",
-    "opened"
+    "opened",
+    "spreadeth",
+    "spreadest"
   ],
   "natsar": [
     "keep",
@@ -12075,7 +13423,11 @@
     "observe",
     "observes",
     "observed",
-    "observing"
+    "observing",
+    "keepeth",
+    "keepest",
+    "watcheth",
+    "watchest"
   ],
   "theoreo": [
     "see",
@@ -12090,7 +13442,15 @@
     "seen",
     "perceive",
     "perceived",
-    "perceiving"
+    "perceiving",
+    "seeth",
+    "seest",
+    "beholdeth",
+    "beholdest",
+    "looketh",
+    "lookest",
+    "watcheth",
+    "watchest"
   ],
   "nata": [
     "plant",
@@ -12185,7 +13545,8 @@
     "robe",
     "robes",
     "cloak",
-    "cloaks"
+    "cloaks",
+    "raiment"
   ],
   "hava": [
     "fall",
@@ -12195,7 +13556,9 @@
     "falls",
     "befell",
     "befall",
-    "befalling"
+    "befalling",
+    "falleth",
+    "fallest"
   ],
   "prosopon": [
     "face",
@@ -12296,7 +13659,15 @@
     "forbare",
     "forsake",
     "forsaken",
-    "idle"
+    "idle",
+    "ceaseth",
+    "ceasest",
+    "leaveth",
+    "leavest",
+    "keepeth",
+    "keepest",
+    "forsaketh",
+    "forsakest"
   ],
   "dod": [
     "beloved",
@@ -12324,7 +13695,9 @@
     "consent",
     "be favorable",
     "regard",
-    "take pleasure"
+    "take pleasure",
+    "accepteth",
+    "acceptest"
   ],
   "mizmor": [
     "psalm"
@@ -12410,7 +13783,11 @@
     "gone far away",
     "apart",
     "keeping away",
-    "keep oneself far from"
+    "keep oneself far from",
+    "removeth",
+    "removest",
+    "departeth",
+    "departest"
   ],
   "paal": [
     "work",
@@ -12440,7 +13817,17 @@
     "practice",
     "practiced",
     "wrought",
-    "wrought out"
+    "wrought out",
+    "worketh",
+    "workest",
+    "doeth",
+    "doth",
+    "doest",
+    "dost",
+    "maketh",
+    "makest",
+    "committeth",
+    "committest"
   ],
   "dechomai": [
     "receive",
@@ -12458,7 +13845,13 @@
     "take",
     "takes",
     "took",
-    "taking"
+    "taking",
+    "receiveth",
+    "receivest",
+    "accepteth",
+    "acceptest",
+    "taketh",
+    "takest"
   ],
   "sunagoge": [
     "synagogue",
@@ -12474,7 +13867,9 @@
     "questioning",
     "questions",
     "inquire",
-    "inquired"
+    "inquired",
+    "asketh",
+    "askest"
   ],
   "nesekh": [
     "drink offering",
@@ -12499,7 +13894,9 @@
     "possess",
     "possessed",
     "own",
-    "owns"
+    "owns",
+    "hath",
+    "hast"
   ],
   "dan": [
     "dan"
@@ -12574,7 +13971,11 @@
     "go back",
     "recede",
     "receded",
-    "remove away"
+    "remove away",
+    "removeth",
+    "removest",
+    "departeth",
+    "departest"
   ],
   "shemamah": [
     "desolation",
@@ -12616,7 +14017,9 @@
     "desolate",
     "made desolate",
     "despoiled",
-    "despoil"
+    "despoil",
+    "destroyeth",
+    "destroyest"
   ],
   "pilatos": [
     "pilate"
@@ -12657,7 +14060,11 @@
     "proving",
     "proof",
     "assay",
-    "assayed"
+    "assayed",
+    "tempteth",
+    "temptest",
+    "proveth",
+    "provest"
   ],
   "medinah": [
     "province",
@@ -12721,7 +14128,11 @@
     "appealed",
     "appealing",
     "beseech",
-    "beseeching"
+    "beseeching",
+    "crieth",
+    "criest",
+    "calleth",
+    "callest"
   ],
   "maria": [
     "mary"
@@ -12758,7 +14169,9 @@
     "proclaimed good news",
     "proclaim good news",
     "announce good news",
-    "declare good news"
+    "declare good news",
+    "preacheth",
+    "preachest"
   ],
   "shever": [
     "breaking",
@@ -12798,7 +14211,9 @@
     "shout",
     "shouted",
     "shouting",
-    "shouts"
+    "shouts",
+    "crieth",
+    "criest"
   ],
   "ester": [
     "esther"
@@ -12856,7 +14271,8 @@
     "adhere",
     "adhered",
     "adhering",
-    "adhesion"
+    "adhesion",
+    "cleavest"
   ],
   "taah": [
     "stray",
@@ -12896,7 +14312,9 @@
     "alarmed",
     "astonished",
     "confounded",
-    "troubled"
+    "troubled",
+    "feareth",
+    "fearest"
   ],
   "eschatos": [
     "last",
@@ -12926,7 +14344,9 @@
     "sowed",
     "sowing",
     "seed",
-    "seeds"
+    "seeds",
+    "soweth",
+    "sowest"
   ],
   "alam": [
     "be silent",
@@ -12979,7 +14399,11 @@
     "sent forth",
     "chase away",
     "chased away",
-    "chasing away"
+    "chasing away",
+    "casteth",
+    "castest",
+    "removeth",
+    "removest"
   ],
   "semol": [
     "left"
@@ -13037,7 +14461,9 @@
     "straiten",
     "narrow",
     "stress",
-    "bind"
+    "bind",
+    "bindeth",
+    "bindest"
   ],
   "marom": [
     "height",
@@ -13183,7 +14609,12 @@
     "coming in",
     "arrived",
     "go",
-    "enter"
+    "enter",
+    "comest",
+    "goeth",
+    "goest",
+    "entereth",
+    "enterest"
   ],
   "gil": [
     "rejoice",
@@ -13198,7 +14629,9 @@
     "gladden",
     "glad",
     "delight",
-    "triumph"
+    "triumph",
+    "rejoiceth",
+    "rejoicest"
   ],
   "qatser": [
     "short",
@@ -13272,7 +14705,13 @@
     "believe",
     "believed",
     "confident",
-    "comply"
+    "comply",
+    "trusteth",
+    "trustest",
+    "obeyeth",
+    "obeyest",
+    "believeth",
+    "believest"
   ],
   "betulah": [
     "virgin",
@@ -13301,7 +14740,11 @@
     "casts",
     "cast out",
     "molten",
-    "founded"
+    "founded",
+    "poureth",
+    "pourest",
+    "casteth",
+    "castest"
   ],
   "yonah": [
     "dove",
@@ -13331,7 +14774,9 @@
     "hem in",
     "hemmed in",
     "enclose",
-    "enclosed"
+    "enclosed",
+    "shutteth",
+    "shuttest"
   ],
   "nachash": [
     "divine",
@@ -13383,7 +14828,11 @@
     "withdraw",
     "withdrew",
     "withdraws",
-    "withdrawing"
+    "withdrawing",
+    "delivereth",
+    "deliverest",
+    "saveth",
+    "savest"
   ],
   "rechavam": [
     "rehoboam"
@@ -13433,7 +14882,13 @@
     "took along",
     "taken along",
     "adopt",
-    "adopted"
+    "adopted",
+    "taketh",
+    "takest",
+    "receiveth",
+    "receivest",
+    "accepteth",
+    "acceptest"
   ],
   "acharon": [
     "last",
@@ -13476,7 +14931,15 @@
     "expose",
     "exposed",
     "open",
-    "opened"
+    "opened",
+    "revealeth",
+    "revealest",
+    "appeareth",
+    "appearest",
+    "showeth",
+    "showest",
+    "openeth",
+    "openest"
   ],
   "emer": [
     "word",
@@ -13508,14 +14971,22 @@
     "hoard",
     "hoarded",
     "reserve",
-    "reserved"
+    "reserved",
+    "layeth",
+    "layest",
+    "keepeth",
+    "keepest",
+    "gathereth",
+    "gatherest"
   ],
   "kavas": [
     "wash",
     "washed",
     "washing",
     "washes",
-    "washer's"
+    "washer's",
+    "washeth",
+    "washest"
   ],
   "naqam": [
     "avenge",
@@ -13604,7 +15075,15 @@
     "cracked",
     "divide",
     "divides",
-    "divided"
+    "divided",
+    "breaketh",
+    "breakest",
+    "openeth",
+    "openest",
+    "cleaveth",
+    "cleavest",
+    "rendeth",
+    "rendest"
   ],
   "azaryah": [
     "azariah"
@@ -13631,7 +15110,9 @@
     "doom",
     "curse",
     "cursed",
-    "accursed"
+    "accursed",
+    "destroyeth",
+    "destroyest"
   ],
   "machar": [
     "tomorrow"
@@ -13685,7 +15166,11 @@
     "poured out",
     "overflow",
     "overflowed",
-    "overflowing"
+    "overflowing",
+    "breaketh",
+    "breakest",
+    "spreadeth",
+    "spreadest"
   ],
   "ede": [
     "already",
@@ -13755,7 +15240,13 @@
     "sustaining",
     "stay",
     "stayed",
-    "stayed upon"
+    "stayed upon",
+    "layeth",
+    "layest",
+    "resteth",
+    "restest",
+    "stayeth",
+    "stayest"
   ],
   "charev": [
     "dry",
@@ -13790,7 +15281,9 @@
     "disguise",
     "disguised",
     "feign",
-    "feigned"
+    "feigned",
+    "knoweth",
+    "knowest"
   ],
   "ephod": [
     "ephod"
@@ -13815,7 +15308,13 @@
     "look for",
     "await",
     "awaited",
-    "line up"
+    "line up",
+    "waiteth",
+    "waitest",
+    "hopeth",
+    "hopest",
+    "looketh",
+    "lookest"
   ],
   "nagaph": [
     "strike",
@@ -13835,7 +15334,13 @@
     "wounded",
     "break",
     "broken",
-    "hit"
+    "hit",
+    "striketh",
+    "strikest",
+    "smiteth",
+    "smitest",
+    "breaketh",
+    "breakest"
   ],
   "pesach": [
     "passover"
@@ -13849,7 +15354,9 @@
     "sings",
     "singing",
     "sung",
-    "sang"
+    "sang",
+    "singeth",
+    "singest"
   ],
   "chronos": [
     "time",
@@ -13878,7 +15385,9 @@
     "pleaded",
     "vindicate",
     "vindicated",
-    "governing"
+    "governing",
+    "judgeth",
+    "judgest"
   ],
   "apodidomi": [
     "pay",
@@ -13925,7 +15434,15 @@
     "hand over",
     "handed over",
     "handed",
-    "hand"
+    "hand",
+    "payeth",
+    "payest",
+    "giveth",
+    "givest",
+    "returneth",
+    "returnest",
+    "fulfilleth",
+    "fulfillest"
   ],
   "krateo": [
     "hold",
@@ -13960,7 +15477,13 @@
     "gripped",
     "overtake",
     "overtakes",
-    "overtaken"
+    "overtaken",
+    "holdeth",
+    "holdest",
+    "keepeth",
+    "keepest",
+    "taketh",
+    "takest"
   ],
   "naphtali": [
     "naphtali"
@@ -14017,7 +15540,11 @@
     "presented himself",
     "set",
     "set himself",
-    "positioned"
+    "positioned",
+    "standeth",
+    "standest",
+    "setteth",
+    "settest"
   ],
   "yoash": [
     "joash"
@@ -14051,7 +15578,11 @@
     "made known",
     "make known",
     "informed",
-    "inform"
+    "inform",
+    "telleth",
+    "tellest",
+    "declareth",
+    "declarest"
   ],
   "parar": [
     "break",
@@ -14099,7 +15630,9 @@
     "invalidate",
     "invalidates",
     "invalidated",
-    "invalidating"
+    "invalidating",
+    "breaketh",
+    "breakest"
   ],
   "kathizo": [
     "sit",
@@ -14111,7 +15644,9 @@
     "throne",
     "seated himself",
     "taken his seat",
-    "took his seat"
+    "took his seat",
+    "sitteth",
+    "sittest"
   ],
   "axios": [
     "worthy",
@@ -14146,7 +15681,13 @@
     "bring to",
     "brought to",
     "bring before",
-    "brought before"
+    "brought before",
+    "offereth",
+    "offerest",
+    "bringeth",
+    "bringest",
+    "presenteth",
+    "presentest"
   ],
   "krisis": [
     "judgment",
@@ -14194,7 +15735,9 @@
     "turned away",
     "divorce",
     "divorced",
-    "divorcing"
+    "divorcing",
+    "casteth",
+    "castest"
   ],
   "shammah": [
     "desolation",
@@ -14237,7 +15780,9 @@
     "forgives",
     "forgiving",
     "will forgive",
-    "did forgive"
+    "did forgive",
+    "forgiveth",
+    "forgivest"
   ],
   "bagad": [
     "deal treacherously",
@@ -14290,7 +15835,9 @@
     "attend",
     "attends",
     "attended",
-    "attending"
+    "attending",
+    "heareth",
+    "hearest"
   ],
   "raash": [
     "shake",
@@ -14308,7 +15855,9 @@
     "moved",
     "move",
     "moves",
-    "moving"
+    "moving",
+    "moveth",
+    "movest"
   ],
   "yeriah": [
     "curtain",
@@ -14344,7 +15893,11 @@
     "acknowledge",
     "acknowledged",
     "acknowledges",
-    "acknowledging"
+    "acknowledging",
+    "praiseth",
+    "praisest",
+    "confesseth",
+    "confessest"
   ],
   "achri": [
     "until",
@@ -14384,7 +15937,9 @@
     "chased",
     "chase",
     "follow",
-    "following"
+    "following",
+    "followeth",
+    "followest"
   ],
   "soteria": [
     "salvation",
@@ -14412,7 +15967,11 @@
     "reside",
     "resides",
     "resided",
-    "residing"
+    "residing",
+    "dwelleth",
+    "dwellest",
+    "liveth",
+    "livest"
   ],
   "chamishi": [
     "fifth"
@@ -14474,7 +16033,9 @@
     "worried",
     "worry",
     "anxious",
-    "anxiety"
+    "anxiety",
+    "feareth",
+    "fearest"
   ],
   "chanit": [
     "spear",
@@ -14502,7 +16063,9 @@
     "intercession",
     "entreat",
     "entreated",
-    "entreatings"
+    "entreatings",
+    "meeteth",
+    "meetest"
   ],
   "yaal": [
     "be foolish",
@@ -14540,7 +16103,11 @@
     "slew",
     "slain",
     "slaying",
-    "slays"
+    "slays",
+    "killeth",
+    "killest",
+    "slayeth",
+    "slayest"
   ],
   "lishkah": [
     "chamber",
@@ -14604,7 +16171,11 @@
     "perceived",
     "perceive",
     "discern",
-    "discerned"
+    "discerned",
+    "knoweth",
+    "knowest",
+    "understandeth",
+    "understandest"
   ],
   "maen": [
     "refuse",
@@ -14644,7 +16215,9 @@
     "prayed",
     "prays",
     "praying",
-    "prayer"
+    "prayer",
+    "prayeth",
+    "prayest"
   ],
   "bayit": [
     "house",
@@ -14729,7 +16302,9 @@
     "be bound",
     "being bound",
     "tied",
-    "tied up"
+    "tied up",
+    "bindeth",
+    "bindest"
   ],
   "mesos": [
     "midst",
@@ -14760,7 +16335,9 @@
     "drop",
     "dropped",
     "cease",
-    "ceased"
+    "ceased",
+    "ceaseth",
+    "ceasest"
   ],
   "makkah": [
     "wound",
@@ -14821,7 +16398,9 @@
     "acclaimed",
     "give a shout",
     "gave a shout",
-    "gave a mighty shout"
+    "gave a mighty shout",
+    "crieth",
+    "criest"
   ],
   "therapeuo": [
     "heal",
@@ -14831,7 +16410,9 @@
     "cure",
     "cured",
     "cures",
-    "curing"
+    "curing",
+    "healeth",
+    "healest"
   ],
   "mishteh": [
     "feast",
@@ -14864,7 +16445,11 @@
     "removed",
     "spread",
     "spreading",
-    "spread out"
+    "spread out",
+    "removeth",
+    "removest",
+    "spreadeth",
+    "spreadest"
   ],
   "hadar": [
     "honor",
@@ -14934,7 +16519,11 @@
     "think",
     "thought",
     "imagine",
-    "imagined"
+    "imagined",
+    "appeareth",
+    "appearest",
+    "thinketh",
+    "thinkest"
   ],
   "kazav": [
     "lie",
@@ -14947,7 +16536,9 @@
     "falsely",
     "deceive",
     "deceived",
-    "deceiving"
+    "deceiving",
+    "lieth",
+    "liest"
   ],
   "zekharyah": [
     "zechariah"
@@ -14977,14 +16568,20 @@
     "stumbled",
     "waver",
     "wavering",
-    "give way"
+    "give way",
+    "moveth",
+    "movest",
+    "falleth",
+    "fallest"
   ],
   "eulogeo": [
     "bless",
     "blessed",
     "blesses",
     "blessing",
-    "blessings"
+    "blessings",
+    "blesseth",
+    "blessest"
   ],
   "oligos": [
     "little",
@@ -15001,7 +16598,9 @@
     "endured",
     "endure",
     "endures",
-    "enduring"
+    "enduring",
+    "suffereth",
+    "sufferest"
   ],
   "sperma": [
     "seed",
@@ -15033,7 +16632,11 @@
     "destroy",
     "destroyed",
     "unloose",
-    "unloosed"
+    "unloosed",
+    "breaketh",
+    "breakest",
+    "destroyeth",
+    "destroyest"
   ],
   "dierchomai": [
     "pass through",
@@ -15065,7 +16668,9 @@
     "move about",
     "moved about",
     "travel",
-    "traveled"
+    "traveled",
+    "spreadeth",
+    "spreadest"
   ],
   "yasad": [
     "founded",
@@ -15075,7 +16680,9 @@
     "established",
     "laid",
     "laid the foundation",
-    "foundations"
+    "foundations",
+    "establisheth",
+    "establishest"
   ],
   "phoneo": [
     "call",
@@ -15099,7 +16706,11 @@
     "shouts",
     "shouting",
     "cry out",
-    "cried out"
+    "cried out",
+    "calleth",
+    "callest",
+    "crieth",
+    "criest"
   ],
   "badal": [
     "separate",
@@ -15121,7 +16732,9 @@
     "made distinctions",
     "make a distinction",
     "sever",
-    "severed"
+    "severed",
+    "setteth",
+    "settest"
   ],
   "azan": [
     "listen",
@@ -15137,13 +16750,18 @@
     "pay attention",
     "attend",
     "turn",
-    "turned"
+    "turned",
+    "heareth",
+    "hearest",
+    "turneth",
+    "turnest"
   ],
   "eder": [
     "robe",
     "robes",
     "mantle",
-    "garment"
+    "garment",
+    "raiment"
   ],
   "bazaz": [
     "plunder",
@@ -15270,7 +16888,9 @@
     "bound",
     "tie",
     "tied",
-    "girdeth"
+    "girdeth",
+    "bindeth",
+    "bindest"
   ],
   "yatom": [
     "orphan",
@@ -15306,7 +16926,13 @@
     "demolishing",
     "raze",
     "razed",
-    "razing"
+    "razing",
+    "breaketh",
+    "breakest",
+    "destroyeth",
+    "destroyest",
+    "pulleth",
+    "pullest"
   ],
   "kainos": [
     "new"
@@ -15363,7 +16989,9 @@
     "edify",
     "edifies",
     "edified",
-    "edifying"
+    "edifying",
+    "buildeth",
+    "buildest"
   ],
   "paristemi": [
     "stand by",
@@ -15380,7 +17008,19 @@
     "standing",
     "presented",
     "presenting",
-    "approves"
+    "approves",
+    "presenteth",
+    "presentest",
+    "proveth",
+    "provest",
+    "showeth",
+    "showest",
+    "standeth",
+    "standest",
+    "appeareth",
+    "appearest",
+    "bringeth",
+    "bringest"
   ],
   "amats": [
     "strengthen",
@@ -15452,7 +17092,11 @@
     "portioned",
     "reckon",
     "reckoned",
-    "tell"
+    "tell",
+    "prepareth",
+    "preparest",
+    "telleth",
+    "tellest"
   ],
   "shimon": [
     "simon"
@@ -15501,7 +17145,9 @@
     "wear out",
     "wearing out",
     "spend",
-    "spent"
+    "spent",
+    "spendeth",
+    "spendest"
   ],
   "yevusi": [
     "jebusite",
@@ -15514,7 +17160,8 @@
     "archways",
     "vault",
     "vaults",
-    "vaulted"
+    "vaulted",
+    "firmament"
   ],
   "cheshbon": [
     "account",
@@ -15584,7 +17231,9 @@
     "at hand",
     "coming",
     "nigh",
-    "approaching"
+    "approaching",
+    "cometh",
+    "comest"
   ],
   "hapto": [
     "touch",
@@ -15600,7 +17249,9 @@
     "handled",
     "laid hands on",
     "lay hands on",
-    "laid a hand on"
+    "laid a hand on",
+    "toucheth",
+    "touchest"
   ],
   "yasar": [
     "discipline",
@@ -15659,7 +17310,13 @@
     "earning",
     "earned",
     "bring about",
-    "brings about"
+    "brings about",
+    "worketh",
+    "workest",
+    "doeth",
+    "doth",
+    "doest",
+    "dost"
   ],
   "hetoimazo": [
     "prepare",
@@ -15668,7 +17325,9 @@
     "preparing",
     "make ready",
     "made ready",
-    "ready"
+    "ready",
+    "prepareth",
+    "preparest"
   ],
   "klaio": [
     "weep",
@@ -15680,7 +17339,11 @@
     "cried",
     "tears",
     "mourning",
-    "mourn"
+    "mourn",
+    "weepeth",
+    "weepest",
+    "crieth",
+    "criest"
   ],
   "logizomai": [
     "count",
@@ -15716,7 +17379,11 @@
     "imputing",
     "suppose",
     "supposed",
-    "supposing"
+    "supposing",
+    "considereth",
+    "considerest",
+    "thinketh",
+    "thinkest"
   ],
   "meros": [
     "part",
@@ -15736,7 +17403,9 @@
     "hated",
     "hates",
     "hating",
-    "hateful"
+    "hateful",
+    "hateth",
+    "hatest"
   ],
   "loipos": [
     "rest",
@@ -15816,7 +17485,11 @@
     "hope for",
     "look for",
     "expect",
-    "expectation"
+    "expectation",
+    "waiteth",
+    "waitest",
+    "hopeth",
+    "hopest"
   ],
   "yissaskhar": [
     "issachar"
@@ -15896,7 +17569,9 @@
     "calm",
     "silent",
     "grew quiet",
-    "become quiet"
+    "become quiet",
+    "resteth",
+    "restest"
   ],
   "genea": [
     "generation",
@@ -15946,7 +17621,11 @@
     "charge",
     "charged",
     "press charges",
-    "thrusting upon"
+    "thrusting upon",
+    "layeth",
+    "layest",
+    "putteth",
+    "puttest"
   ],
   "telos": [
     "end",
@@ -16012,7 +17691,9 @@
     "quaked",
     "quaking",
     "stand in awe",
-    "tremblings"
+    "tremblings",
+    "feareth",
+    "fearest"
   ],
   "mitspah": [
     "mizpah",
@@ -16053,7 +17734,9 @@
     "guiding",
     "conduct",
     "conducted",
-    "conducting"
+    "conducting",
+    "leadeth",
+    "leadest"
   ],
   "mivtsar": [
     "fortress",
@@ -16083,7 +17766,8 @@
     "account",
     "history",
     "record",
-    "descendants"
+    "descendants",
+    "seed"
   ],
   "mashiach": [
     "messiah",
@@ -16147,7 +17831,9 @@
     "rejoice",
     "rejoiced",
     "rejoicing",
-    "rejoices"
+    "rejoices",
+    "rejoiceth",
+    "rejoicest"
   ],
   "zarah": [
     "scatter",
@@ -16164,7 +17850,9 @@
     "dispersing",
     "spread",
     "spreads",
-    "spreading"
+    "spreading",
+    "spreadeth",
+    "spreadest"
   ],
   "hupotasso": [
     "subject",
@@ -16181,7 +17869,9 @@
     "in subjection",
     "in submission",
     "obey",
-    "obedient"
+    "obedient",
+    "obeyeth",
+    "obeyest"
   ],
   "peirazo": [
     "tempt",
@@ -16198,7 +17888,10 @@
     "trying",
     "prove",
     "proved",
-    "proveth"
+    "proveth",
+    "tempteth",
+    "temptest",
+    "provest"
   ],
   "thura": [
     "door",
@@ -16232,7 +17925,13 @@
     "require",
     "requires",
     "requiring",
-    "required"
+    "required",
+    "doeth",
+    "doth",
+    "doest",
+    "dost",
+    "committeth",
+    "committest"
   ],
   "perisseuo": [
     "abound",
@@ -16251,7 +17950,9 @@
     "remain",
     "surplus",
     "left over",
-    "extra"
+    "extra",
+    "remaineth",
+    "remainest"
   ],
   "ervah": [
     "nakedness",
@@ -16314,7 +18015,9 @@
     "bearing",
     "maintain",
     "maintains",
-    "maintained"
+    "maintained",
+    "beareth",
+    "bearest"
   ],
   "siach": [
     "muse",
@@ -16330,7 +18033,11 @@
     "murmur",
     "mourn",
     "lament",
-    "ponder"
+    "ponder",
+    "speaketh",
+    "speakest",
+    "talketh",
+    "talkest"
   ],
   "tirosh": [
     "new wine",
@@ -16464,7 +18171,11 @@
     "attending",
     "attends",
     "table",
-    "tabled"
+    "tabled",
+    "serveth",
+    "servest",
+    "waiteth",
+    "waitest"
   ],
   "nachor": [
     "nahor"
@@ -16484,7 +18195,9 @@
     "gleans",
     "gathering",
     "picked",
-    "pick"
+    "pick",
+    "gathereth",
+    "gatherest"
   ],
   "bahal": [
     "dismayed",
@@ -16615,7 +18328,11 @@
     "given",
     "give",
     "prompt",
-    "prompted"
+    "prompted",
+    "offereth",
+    "offerest",
+    "giveth",
+    "givest"
   ],
   "shamayin": [
     "heaven",
@@ -16649,7 +18366,9 @@
     "heaving",
     "offer",
     "offered",
-    "offering"
+    "offering",
+    "offereth",
+    "offerest"
   ],
   "saar": [
     "rage",
@@ -16715,7 +18434,11 @@
     "conversion",
     "come back",
     "came back",
-    "coming back"
+    "coming back",
+    "turneth",
+    "turnest",
+    "returneth",
+    "returnest"
   ],
   "tevel": [
     "perversion",
@@ -16748,7 +18471,13 @@
     "stand",
     "standing",
     "stands",
-    "stood"
+    "stood",
+    "cometh",
+    "comest",
+    "presenteth",
+    "presentest",
+    "standeth",
+    "standest"
   ],
   "peritome": [
     "circumcision",
@@ -16799,7 +18528,11 @@
     "flee",
     "fleeing",
     "shelter",
-    "put trust"
+    "put trust",
+    "trusteth",
+    "trustest",
+    "fleeth",
+    "fleest"
   ],
   "mophet": [
     "wonder",
@@ -16890,7 +18623,9 @@
     "shortened",
     "short",
     "bounds",
-    "limit"
+    "limit",
+    "cutteth",
+    "cuttest"
   ],
   "ioudas": [
     "judas"
@@ -16934,7 +18669,11 @@
     "wished",
     "desires",
     "wishing",
-    "willing to"
+    "willing to",
+    "desireth",
+    "desirest",
+    "chooseth",
+    "choosest"
   ],
   "ashan": [
     "angry",
@@ -16993,7 +18732,11 @@
     "encircle",
     "surrounded",
     "confine",
-    "confined"
+    "confined",
+    "gathereth",
+    "gatherest",
+    "shutteth",
+    "shuttest"
   ],
   "cheder": [
     "chamber",
@@ -17104,7 +18847,9 @@
     "finish",
     "finished",
     "come to an end",
-    "made an end"
+    "made an end",
+    "ceaseth",
+    "ceasest"
   ],
   "diakonia": [
     "service",
@@ -17165,7 +18910,9 @@
     "come back",
     "came back",
     "go back",
-    "went back"
+    "went back",
+    "returneth",
+    "returnest"
   ],
   "philippos": [
     "philip"
@@ -17244,7 +18991,9 @@
     "lengthen",
     "stretched",
     "stretch",
-    "stretching"
+    "stretching",
+    "draweth",
+    "drawest"
   ],
   "arel": [
     "uncircumcised",
@@ -17305,7 +19054,9 @@
     "hurt",
     "hurting",
     "forfeited",
-    "forfeits"
+    "forfeits",
+    "destroyeth",
+    "destroyest"
   ],
   "gavah": [
     "exalt",
@@ -17361,7 +19112,9 @@
     "excelled",
     "prove superior",
     "be superior",
-    "superiority"
+    "superiority",
+    "overcometh",
+    "overcomest"
   ],
   "para": [
     "from",
@@ -17420,7 +19173,21 @@
     "set",
     "endure",
     "establish",
-    "established"
+    "established",
+    "standeth",
+    "standest",
+    "riseth",
+    "risest",
+    "ariseth",
+    "arisest",
+    "raiseth",
+    "raisest",
+    "lifteth",
+    "liftest",
+    "setteth",
+    "settest",
+    "establisheth",
+    "establishest"
   ],
   "rinnah": [
     "cry",
@@ -17457,7 +19224,11 @@
     "throw",
     "threw",
     "fling",
-    "flung"
+    "flung",
+    "casteth",
+    "castest",
+    "throweth",
+    "throwest"
   ],
   "diatheke": [
     "covenant",
@@ -17471,7 +19242,9 @@
     "repents",
     "repented",
     "repenting",
-    "repentance"
+    "repentance",
+    "repenteth",
+    "repentest"
   ],
   "chava": [
     "hide",
@@ -17484,7 +19257,8 @@
     "concealed",
     "concealing",
     "lurk",
-    "lurking"
+    "lurking",
+    "hidest"
   ],
   "deiknuo": [
     "show",
@@ -17509,7 +19283,13 @@
     "reveal",
     "revealed",
     "revealing",
-    "reveals"
+    "reveals",
+    "showeth",
+    "showest",
+    "proveth",
+    "provest",
+    "revealeth",
+    "revealest"
   ],
   "ez": [
     "goat",
@@ -17519,7 +19299,9 @@
     "blessed",
     "bless",
     "blesses",
-    "blest"
+    "blest",
+    "blesseth",
+    "blessest"
   ],
   "leah": [
     "leah"
@@ -17548,7 +19330,11 @@
     "turn",
     "turned",
     "tumble",
-    "tumbled"
+    "tumbled",
+    "committeth",
+    "committest",
+    "turneth",
+    "turnest"
   ],
   "astheneo": [
     "weak",
@@ -17579,7 +19365,9 @@
     "seek diligently",
     "morning",
     "light",
-    "dawn's light"
+    "dawn's light",
+    "seeketh",
+    "seekest"
   ],
   "shelach": [
     "send",
@@ -17595,7 +19383,9 @@
     "release",
     "shoot",
     "shoots",
-    "shot"
+    "shot",
+    "sendeth",
+    "sendest"
   ],
   "tsad": [
     "side",
@@ -17631,7 +19421,11 @@
     "bestowing",
     "allow",
     "allowed",
-    "allowing"
+    "allowing",
+    "giveth",
+    "givest",
+    "granteth",
+    "grantest"
   ],
   "day": [
     "enough",
@@ -17671,7 +19465,9 @@
     "flourish",
     "flourished",
     "flourishing",
-    "flourishes"
+    "flourishes",
+    "groweth",
+    "growest"
   ],
   "shema": [
     "hear",
@@ -17682,7 +19478,11 @@
     "listening",
     "obey",
     "obeyed",
-    "obedience"
+    "obedience",
+    "heareth",
+    "hearest",
+    "obeyeth",
+    "obeyest"
   ],
   "machah": [
     "wipe",
@@ -17762,7 +19562,9 @@
     "read",
     "reads",
     "reading",
-    "read aloud"
+    "read aloud",
+    "readeth",
+    "readest"
   ],
   "tsevi": [
     "beauty",
@@ -17865,7 +19667,13 @@
     "emerge",
     "emerges",
     "emerged",
-    "emerging"
+    "emerging",
+    "cometh",
+    "comest",
+    "goeth",
+    "goest",
+    "departeth",
+    "departest"
   ],
   "aton": [
     "donkey",
@@ -17926,7 +19734,9 @@
     "bound",
     "binding",
     "put on",
-    "wrap"
+    "wrap",
+    "bindeth",
+    "bindest"
   ],
   "kachad": [
     "hide",
@@ -17936,7 +19746,8 @@
     "concealed",
     "hides",
     "hid",
-    "hideth"
+    "hideth",
+    "hidest"
   ],
   "mochorat": [
     "morrow",
@@ -17988,7 +19799,9 @@
     "travel",
     "turn",
     "turned",
-    "went their way"
+    "went their way",
+    "turneth",
+    "turnest"
   ],
   "gedalyah": [
     "gedaliah"
@@ -18038,7 +19851,9 @@
     "interpreting",
     "make known",
     "declare",
-    "explained"
+    "explained",
+    "declareth",
+    "declarest"
   ],
   "zimmah": [
     "wickedness",
@@ -18094,7 +19909,11 @@
     "trust",
     "trusted",
     "trusts",
-    "trusting"
+    "trusting",
+    "hopeth",
+    "hopest",
+    "trusteth",
+    "trustest"
   ],
   "phule": [
     "tribe",
@@ -18141,7 +19960,11 @@
     "show",
     "shown",
     "light",
-    "revealed"
+    "revealed",
+    "appeareth",
+    "appearest",
+    "showeth",
+    "showest"
   ],
   "phulasso": [
     "keep",
@@ -18158,7 +19981,9 @@
     "beware",
     "beware of",
     "be on guard",
-    "be on your guard"
+    "be on your guard",
+    "keepeth",
+    "keepest"
   ],
   "plethos": [
     "multitude",
@@ -18186,7 +20011,11 @@
     "change",
     "changed",
     "renew",
-    "renewed"
+    "renewed",
+    "passeth",
+    "passest",
+    "goeth",
+    "goest"
   ],
   "chittah": [
     "wheat"
@@ -18265,7 +20094,9 @@
     "conceal",
     "conceals",
     "stored",
-    "store"
+    "store",
+    "hideth",
+    "hidest"
   ],
   "kilyah": [
     "kidney",
@@ -18353,7 +20184,11 @@
     "conceal",
     "concealed",
     "reserve",
-    "reserved"
+    "reserved",
+    "hideth",
+    "hidest",
+    "keepeth",
+    "keepest"
   ],
   "mete": [
     "neither",
@@ -18405,7 +20240,9 @@
     "appeals",
     "name",
     "named",
-    "surname"
+    "surname",
+    "calleth",
+    "callest"
   ],
   "tessares": [
     "four"
@@ -18431,7 +20268,13 @@
     "assembled together",
     "go",
     "accompanying",
-    "accompany"
+    "accompany",
+    "gathereth",
+    "gatherest",
+    "cometh",
+    "comest",
+    "goeth",
+    "goest"
   ],
   "erekh": [
     "erech",
@@ -18464,7 +20307,9 @@
     "bar",
     "barred",
     "bars",
-    "bolted"
+    "bolted",
+    "shutteth",
+    "shuttest"
   ],
   "rivqah": [
     "rebekah"
@@ -18499,7 +20344,11 @@
     "carry",
     "carried",
     "carrying",
-    "conducts"
+    "conducts",
+    "leadeth",
+    "leadest",
+    "carrieth",
+    "carriest"
   ],
   "chomer": [
     "clay",
@@ -18660,7 +20509,9 @@
     "prove",
     "proved",
     "proves",
-    "proving"
+    "proving",
+    "proveth",
+    "provest"
   ],
   "yalal": [
     "wail",
@@ -18674,7 +20525,9 @@
     "crying",
     "lament",
     "lamented",
-    "lamenting"
+    "lamenting",
+    "crieth",
+    "criest"
   ],
   "yemani": [
     "right",
@@ -18751,7 +20604,9 @@
     "escaped",
     "escaping",
     "run away",
-    "run from"
+    "run from",
+    "fleeth",
+    "fleest"
   ],
   "philos": [
     "friend",
@@ -18771,7 +20626,9 @@
     "calls",
     "calls to",
     "have called",
-    "had called"
+    "had called",
+    "calleth",
+    "callest"
   ],
   "achor": [
     "back",
@@ -18815,7 +20672,8 @@
   "ketonet": [
     "coat",
     "tunic",
-    "garment"
+    "garment",
+    "raiment"
   ],
   "parangello": [
     "command",
@@ -18840,7 +20698,9 @@
     "directs",
     "give orders",
     "gave orders",
-    "giving orders"
+    "giving orders",
+    "commandeth",
+    "commandest"
   ],
   "suneidesis": [
     "conscience"
@@ -18864,7 +20724,9 @@
     "scrutinized",
     "scrutinizing",
     "assay",
-    "assayed"
+    "assayed",
+    "proveth",
+    "provest"
   ],
   "maakhal": [
     "food",
@@ -18886,7 +20748,8 @@
     "cloak",
     "robe",
     "clothes",
-    "clothing"
+    "clothing",
+    "raiment"
   ],
   "yarekh": [
     "thigh",
@@ -18898,7 +20761,9 @@
     "sleeps",
     "slept",
     "sleeping",
-    "asleep"
+    "asleep",
+    "sleepeth",
+    "sleepest"
   ],
   "mana": [
     "withhold",
@@ -18926,7 +20791,9 @@
     "prevents",
     "prevented",
     "hinder",
-    "hindered"
+    "hindered",
+    "keepeth",
+    "keepest"
   ],
   "chelqah": [
     "portion",
@@ -19025,7 +20892,13 @@
     "gather",
     "gathered",
     "assembly",
-    "assemblies"
+    "assemblies",
+    "setteth",
+    "settest",
+    "meeteth",
+    "meetest",
+    "gathereth",
+    "gatherest"
   ],
   "alethinos": [
     "true",
@@ -19112,7 +20985,17 @@
     "account",
     "accounted",
     "hold",
-    "held"
+    "held",
+    "considereth",
+    "considerest",
+    "thinketh",
+    "thinkest",
+    "leadeth",
+    "leadest",
+    "ruleth",
+    "rulest",
+    "holdeth",
+    "holdest"
   ],
   "ischuo": [
     "able",
@@ -19142,7 +21025,9 @@
     "prevailed",
     "win",
     "winning",
-    "wins"
+    "wins",
+    "overcometh",
+    "overcomest"
   ],
   "kome": [
     "hair"
@@ -19166,7 +21051,11 @@
     "passing",
     "passed away",
     "passes by",
-    "passes away"
+    "passes away",
+    "passeth",
+    "passest",
+    "goeth",
+    "goest"
   ],
   "thugater": [
     "daughter",
@@ -19183,7 +21072,9 @@
     "fulfilled",
     "fulfill",
     "end",
-    "ended"
+    "ended",
+    "fulfilleth",
+    "fulfillest"
   ],
   "thusia": [
     "sacrifice",
@@ -19234,7 +21125,9 @@
     "disowned",
     "fail",
     "failed",
-    "fails"
+    "fails",
+    "lieth",
+    "liest"
   ],
   "shishshi": [
     "sixth"
@@ -19292,7 +21185,9 @@
     "deprive",
     "deprived",
     "deprives",
-    "depriving"
+    "depriving",
+    "taketh",
+    "takest"
   ],
   "luts": [
     "mock",
@@ -19344,7 +21239,11 @@
     "stop",
     "stopped",
     "shut",
-    "shut up"
+    "shut up",
+    "holdeth",
+    "holdest",
+    "shutteth",
+    "shuttest"
   ],
   "shemini": [
     "eighth"
@@ -19410,7 +21309,13 @@
     "took",
     "endure",
     "endures",
-    "endured"
+    "endured",
+    "carrieth",
+    "carriest",
+    "beareth",
+    "bearest",
+    "taketh",
+    "takest"
   ],
   "deka": [
     "ten"
@@ -19430,7 +21335,9 @@
     "wear",
     "dressed",
     "arrayed",
-    "wearing"
+    "wearing",
+    "weareth",
+    "wearest"
   ],
   "katharos": [
     "clean",
@@ -19470,7 +21377,11 @@
     "render powerless",
     "set aside",
     "set at nought",
-    "void"
+    "void",
+    "ceaseth",
+    "ceasest",
+    "destroyeth",
+    "destroyest"
   ],
   "misthos": [
     "wages",
@@ -19496,7 +21407,9 @@
     "seduced",
     "simple",
     "open",
-    "opened"
+    "opened",
+    "openeth",
+    "openest"
   ],
   "stauros": [
     "cross"
@@ -19529,7 +21442,9 @@
     "poured",
     "pour",
     "spill out",
-    "spilled out"
+    "spilled out",
+    "poureth",
+    "pourest"
   ],
   "talah": [
     "hang",
@@ -19552,7 +21467,9 @@
     "sell",
     "commerce",
     "trafficked",
-    "traffic"
+    "traffic",
+    "selleth",
+    "sellest"
   ],
   "shalem": [
     "complete",
@@ -19666,7 +21583,9 @@
     "growl",
     "growling",
     "moan",
-    "moaning"
+    "moaning",
+    "speaketh",
+    "speakest"
   ],
   "mesillah": [
     "highway",
@@ -19773,7 +21692,9 @@
     "shown",
     "uncovered",
     "laid bare",
-    "exposed"
+    "exposed",
+    "revealeth",
+    "revealest"
   ],
   "asthenes": [
     "weak",
@@ -19795,7 +21716,9 @@
     "heals",
     "be healed",
     "cure",
-    "cured"
+    "cured",
+    "healeth",
+    "healest"
   ],
   "eleos": [
     "mercy",
@@ -19811,14 +21734,18 @@
     "swears",
     "swore",
     "sworn",
-    "swearing"
+    "swearing",
+    "sweareth",
+    "swearest"
   ],
   "yehav": [
     "give",
     "gave",
     "given",
     "gives",
-    "giving"
+    "giving",
+    "giveth",
+    "givest"
   ],
   "epher": [
     "ashes",
@@ -19849,7 +21776,9 @@
     "perceiving",
     "comprehend",
     "comprehends",
-    "comprehended"
+    "comprehended",
+    "understandeth",
+    "understandest"
   ],
   "adah": [
     "pass",
@@ -19862,7 +21791,13 @@
     "go",
     "gone",
     "move",
-    "moved"
+    "moved",
+    "passeth",
+    "passest",
+    "goeth",
+    "goest",
+    "moveth",
+    "movest"
   ],
   "ezer": [
     "ezer"
@@ -19916,7 +21851,9 @@
     "accompany",
     "accompanied",
     "borrow",
-    "borrowed"
+    "borrowed",
+    "cleaveth",
+    "cleavest"
   ],
   "nadad": [
     "flee",
@@ -19929,7 +21866,9 @@
     "scatter",
     "scattered",
     "go away",
-    "away"
+    "away",
+    "fleeth",
+    "fleest"
   ],
   "nasakh": [
     "pour",
@@ -19939,7 +21878,11 @@
     "libation",
     "drink offering",
     "cast",
-    "casted"
+    "casted",
+    "poureth",
+    "pourest",
+    "casteth",
+    "castest"
   ],
   "barukh": [
     "baruch"
@@ -19953,7 +21896,9 @@
     "soar",
     "soars",
     "soaring",
-    "soared"
+    "soared",
+    "flieth",
+    "fliest"
   ],
   "shaah": [
     "desolate",
@@ -19970,7 +21915,9 @@
     "overthrown",
     "overthrow",
     "waste",
-    "wasted"
+    "wasted",
+    "destroyeth",
+    "destroyest"
   ],
   "radah": [
     "rule",
@@ -19988,7 +21935,9 @@
     "exercise dominion",
     "tread",
     "trod",
-    "trodden"
+    "trodden",
+    "ruleth",
+    "rulest"
   ],
   "betchoron": [
     "beth-horon",
@@ -20033,7 +21982,13 @@
     "rent",
     "rending",
     "snap",
-    "snapped"
+    "snapped",
+    "breaketh",
+    "breakest",
+    "pulleth",
+    "pullest",
+    "rendeth",
+    "rendest"
   ],
   "palat": [
     "escape",
@@ -20044,7 +21999,11 @@
     "delivered",
     "save",
     "saved",
-    "salvage"
+    "salvage",
+    "delivereth",
+    "deliverest",
+    "saveth",
+    "savest"
   ],
   "chaqar": [
     "search",
@@ -20079,7 +22038,9 @@
     "fathom",
     "fathomed",
     "discern",
-    "discerned"
+    "discerned",
+    "looketh",
+    "lookest"
   ],
   "hon": [
     "wealth",
@@ -20134,7 +22095,9 @@
     "set on fire",
     "set fire to",
     "ignite",
-    "ignited"
+    "ignited",
+    "burneth",
+    "burnest"
   ],
   "anablepo": [
     "look up",
@@ -20183,7 +22146,9 @@
     "advanced",
     "precede",
     "preceded",
-    "come forth"
+    "come forth",
+    "meeteth",
+    "meetest"
   ],
   "heorte": [
     "feast",
@@ -20193,7 +22158,8 @@
     "greek",
     "gentile",
     "greeks",
-    "gentiles"
+    "gentiles",
+    "heathen"
   ],
   "gnorizo": [
     "make known",
@@ -20210,7 +22176,17 @@
     "inform",
     "informed",
     "tell",
-    "told"
+    "told",
+    "knoweth",
+    "knowest",
+    "maketh",
+    "makest",
+    "declareth",
+    "declarest",
+    "revealeth",
+    "revealest",
+    "telleth",
+    "tellest"
   ],
   "heko": [
     "come",
@@ -20226,7 +22202,11 @@
     "present",
     "arrived",
     "have arrived",
-    "has arrived"
+    "has arrived",
+    "cometh",
+    "comest",
+    "presenteth",
+    "presentest"
   ],
   "leukos": [
     "white"
@@ -20239,7 +22219,9 @@
     "servant",
     "enslaved",
     "be slaves",
-    "slaves"
+    "slaves",
+    "serveth",
+    "servest"
   ],
   "homologeo": [
     "confess",
@@ -20259,7 +22241,11 @@
     "admit",
     "admitted",
     "declare",
-    "declared"
+    "declared",
+    "confesseth",
+    "confessest",
+    "declareth",
+    "declarest"
   ],
   "nephele": [
     "cloud",
@@ -20275,14 +22261,17 @@
     "orders",
     "bid",
     "bade",
-    "bidden"
+    "bidden",
+    "commandest"
   ],
   "manthano": [
     "learn",
     "learned",
     "learning",
     "learns",
-    "learnt"
+    "learnt",
+    "learneth",
+    "learnest"
   ],
   "oupo": [
     "not yet",
@@ -20304,7 +22293,9 @@
     "kiss",
     "kisses",
     "kissed",
-    "kissing"
+    "kissing",
+    "loveth",
+    "lovest"
   ],
   "agalah": [
     "cart",
@@ -20396,7 +22387,11 @@
     "fluttering",
     "move",
     "moving",
-    "moved"
+    "moved",
+    "fleeth",
+    "fleest",
+    "moveth",
+    "movest"
   ],
   "avishay": [
     "abishai"
@@ -20419,7 +22414,9 @@
     "showed his strength",
     "proved mightier",
     "got the upper hand",
-    "be too strong"
+    "be too strong",
+    "overcometh",
+    "overcomest"
   ],
   "shaan": [
     "rest",
@@ -20434,7 +22431,9 @@
     "security",
     "secure",
     "safely",
-    "in safety"
+    "in safety",
+    "resteth",
+    "restest"
   ],
   "aviyyah": [
     "abijah"
@@ -20463,14 +22462,17 @@
     "conceal",
     "conceals",
     "concealed",
-    "concealing"
+    "concealing",
+    "hideth",
+    "hidest"
   ],
   "lechi": [
     "lehi"
   ],
   "meil": [
     "robe",
-    "garment"
+    "garment",
+    "raiment"
   ],
   "laag": [
     "mock",
@@ -20610,7 +22612,13 @@
     "executed",
     "destroy",
     "destroyed",
-    "death"
+    "death",
+    "killeth",
+    "killest",
+    "slayeth",
+    "slayest",
+    "destroyeth",
+    "destroyest"
   ],
   "pais": [
     "child",
@@ -20628,7 +22636,11 @@
     "forsake",
     "forsaken",
     "desert",
-    "deserted"
+    "deserted",
+    "leaveth",
+    "leavest",
+    "forsaketh",
+    "forsakest"
   ],
   "parousia": [
     "coming",
@@ -20650,7 +22662,9 @@
     "filling",
     "fills",
     "be filled",
-    "full"
+    "full",
+    "filleth",
+    "fillest"
   ],
   "phroneo": [
     "mind",
@@ -20663,7 +22677,9 @@
     "be minded",
     "be of one mind",
     "regard",
-    "ponder"
+    "ponder",
+    "thinketh",
+    "thinkest"
   ],
   "porneia": [
     "fornication",
@@ -20689,7 +22705,8 @@
   "neshamah": [
     "breath",
     "spirit",
-    "soul"
+    "soul",
+    "ghost"
   ],
   "palit": [
     "survivor",
@@ -20774,7 +22791,9 @@
     "hewer",
     "carved",
     "cut",
-    "quarried"
+    "quarried",
+    "cutteth",
+    "cuttest"
   ],
   "piqqud": [
     "precept",
@@ -20838,7 +22857,9 @@
     "desire",
     "desired",
     "desires",
-    "desiring"
+    "desiring",
+    "desireth",
+    "desirest"
   ],
   "naats": [
     "spurn",
@@ -20877,7 +22898,15 @@
     "put out to sea",
     "set sail",
     "sail",
-    "depart"
+    "depart",
+    "leadeth",
+    "leadest",
+    "bringeth",
+    "bringest",
+    "taketh",
+    "takest",
+    "departeth",
+    "departest"
   ],
   "apistos": [
     "unbelieving",
@@ -20907,7 +22936,11 @@
     "increasing",
     "be increased",
     "spread",
-    "expanding"
+    "expanding",
+    "groweth",
+    "growest",
+    "spreadeth",
+    "spreadest"
   ],
   "charizo": [
     "forgave",
@@ -20924,7 +22957,9 @@
     "granted",
     "pardon",
     "pardoned",
-    "pardons"
+    "pardons",
+    "forgiveth",
+    "forgivest"
   ],
   "koluo": [
     "prevent",
@@ -20943,7 +22978,11 @@
     "kept",
     "keep",
     "restraining",
-    "restrain"
+    "restrain",
+    "forbiddeth",
+    "forbiddest",
+    "keepeth",
+    "keepest"
   ],
   "nous": [
     "mind",
@@ -20965,7 +23004,9 @@
     "weary",
     "wearied",
     "tired",
-    "exhausted"
+    "exhausted",
+    "worketh",
+    "workest"
   ],
   "periballo": [
     "clothed",
@@ -20989,7 +23030,9 @@
     "be mindful",
     "mindful",
     "call to mind",
-    "recalled"
+    "recalled",
+    "remembereth",
+    "rememberest"
   ],
   "chaphas": [
     "search",
@@ -20999,7 +23042,9 @@
     "seek",
     "sought",
     "examine",
-    "examined"
+    "examined",
+    "seeketh",
+    "seekest"
   ],
   "teleioo": [
     "perfect",
@@ -21012,7 +23057,9 @@
     "completed",
     "completing",
     "fulfill",
-    "fulfilled"
+    "fulfilled",
+    "fulfilleth",
+    "fulfillest"
   ],
   "thusiasterion": [
     "altar"
@@ -21041,7 +23088,11 @@
     "come",
     "have come",
     "here",
-    "at hand"
+    "at hand",
+    "presenteth",
+    "presentest",
+    "cometh",
+    "comest"
   ],
   "mayan": [
     "spring",
@@ -21062,7 +23113,11 @@
     "expiring",
     "gave up the ghost",
     "breathed his last",
-    "gave up their ghosts"
+    "gave up their ghosts",
+    "dieth",
+    "diest",
+    "perisheth",
+    "perishest"
   ],
   "keimai": [
     "laid",
@@ -21075,7 +23130,11 @@
     "is lying",
     "be laid",
     "placed",
-    "am laid"
+    "am laid",
+    "layeth",
+    "layest",
+    "setteth",
+    "settest"
   ],
   "melach": [
     "eat salt",
@@ -21104,7 +23163,9 @@
     "grows",
     "grew",
     "become many",
-    "became many"
+    "became many",
+    "groweth",
+    "growest"
   ],
   "asahel": [
     "asahel"
@@ -21146,7 +23207,9 @@
     "devours",
     "devoured",
     "devouring",
-    "consume"
+    "consume",
+    "rendeth",
+    "rendest"
   ],
   "chiram": [
     "hiram"
@@ -21194,7 +23257,9 @@
     "craved",
     "pleasant",
     "lovely",
-    "attracted"
+    "attracted",
+    "desireth",
+    "desirest"
   ],
   "choli": [
     "sickness",
@@ -21234,7 +23299,9 @@
     "officiate as a priest",
     "serve",
     "minister",
-    "officiating as a priest"
+    "officiating as a priest",
+    "serveth",
+    "servest"
   ],
   "mishor": [
     "plain",
@@ -21330,7 +23397,9 @@
     "understand",
     "unaware",
     "fail to recognize",
-    "know nothing of"
+    "know nothing of",
+    "understandeth",
+    "understandest"
   ],
   "eklektos": [
     "elect",
@@ -21367,7 +23436,9 @@
     "chosen",
     "elect",
     "selected",
-    "selection"
+    "selection",
+    "chooseth",
+    "choosest"
   ],
   "hesaias": [
     "isaiah"
@@ -21392,7 +23463,11 @@
     "ask",
     "asked",
     "plead",
-    "pleaded"
+    "pleaded",
+    "prayeth",
+    "prayest",
+    "asketh",
+    "askest"
   ],
   "dokimazo": [
     "test",
@@ -21412,7 +23487,9 @@
     "approves",
     "approve",
     "approved",
-    "approving"
+    "approving",
+    "proveth",
+    "provest"
   ],
   "gregoreo": [
     "watch",
@@ -21427,7 +23504,9 @@
     "remain alert",
     "be alert",
     "stay awake",
-    "staying awake"
+    "staying awake",
+    "watcheth",
+    "watchest"
   ],
   "kategoreo": [
     "accuse",
@@ -21448,7 +23527,9 @@
     "sleeps",
     "slept",
     "fall asleep",
-    "fallen asleep"
+    "fallen asleep",
+    "sleepeth",
+    "sleepest"
   ],
   "koilia": [
     "belly",
@@ -21493,13 +23574,23 @@
     "practice",
     "practices",
     "practiced",
-    "practising"
+    "practising",
+    "worketh",
+    "workest",
+    "causeth",
+    "causest",
+    "doeth",
+    "doth",
+    "doest",
+    "dost"
   ],
   "poleo": [
     "sell",
     "sells",
     "selling",
-    "sold"
+    "sold",
+    "selleth",
+    "sellest"
   ],
   "sunedrion": [
     "council",
@@ -21529,7 +23620,11 @@
     "beheld",
     "gaze",
     "gazing",
-    "observe"
+    "observe",
+    "beholdeth",
+    "beholdest",
+    "seeth",
+    "seest"
   ],
   "ayeph": [
     "faint",
@@ -21583,7 +23678,9 @@
     "touched",
     "handle",
     "handled",
-    "handling"
+    "handling",
+    "toucheth",
+    "touchest"
   ],
   "qehat": [
     "kohath"
@@ -21615,7 +23712,9 @@
     "gazing",
     "gaze",
     "gazed",
-    "came into view"
+    "came into view",
+    "looketh",
+    "lookest"
   ],
   "nachat": [
     "descend",
@@ -21669,7 +23768,9 @@
     "bereft",
     "childless",
     "lose",
-    "lost"
+    "lost",
+    "loseth",
+    "losest"
   ],
   "batsheva": [
     "bathsheba"
@@ -21690,7 +23791,9 @@
     "disperse",
     "dispersed",
     "splinter",
-    "splinter into pieces"
+    "splinter into pieces",
+    "breaketh",
+    "breakest"
   ],
   "shanah": [
     "change",
@@ -21745,7 +23848,9 @@
     "hewn down",
     "hew down",
     "chop down",
-    "cut asunder"
+    "cut asunder",
+    "cutteth",
+    "cuttest"
   ],
   "izevel": [
     "jezebel"
@@ -21770,7 +23875,9 @@
     "curtailed",
     "lessen",
     "lessened",
-    "lessening"
+    "lessening",
+    "cutteth",
+    "cuttest"
   ],
   "levonah": [
     "frankincense"
@@ -21783,7 +23890,9 @@
     "builder",
     "builders",
     "rebuild",
-    "rebuilding"
+    "rebuilding",
+    "buildeth",
+    "buildest"
   ],
   "navot": [
     "naboth"
@@ -21879,7 +23988,11 @@
     "pulled",
     "pull",
     "unsheathed",
-    "unsheathe"
+    "unsheathe",
+    "draweth",
+    "drawest",
+    "pulleth",
+    "pullest"
   ],
   "zerubbavel": [
     "zerubbabel"
@@ -21898,7 +24011,9 @@
     "rule",
     "rules",
     "ruled",
-    "ruling"
+    "ruling",
+    "ruleth",
+    "rulest"
   ],
   "er": [
     "er"
@@ -21914,7 +24029,9 @@
     "is at work",
     "at work",
     "effectual",
-    "effectiveness"
+    "effectiveness",
+    "worketh",
+    "workest"
   ],
   "gog": [
     "gog"
@@ -21931,7 +24048,9 @@
     "obeys",
     "obeyed",
     "obeying",
-    "obedience"
+    "obedience",
+    "obeyeth",
+    "obeyest"
   ],
   "eudokeo": [
     "delight",
@@ -21962,7 +24081,15 @@
     "place",
     "put",
     "install",
-    "installed"
+    "installed",
+    "establisheth",
+    "establishest",
+    "maketh",
+    "makest",
+    "setteth",
+    "settest",
+    "putteth",
+    "puttest"
   ],
   "zahar": [
     "shine",
@@ -21992,7 +24119,11 @@
     "minister",
     "ministered",
     "ministering",
-    "service"
+    "service",
+    "serveth",
+    "servest",
+    "worshippeth",
+    "worshippest"
   ],
   "mnemoneuo": [
     "remember",
@@ -22005,7 +24136,9 @@
     "recalls",
     "bring to mind",
     "brought to mind",
-    "think of"
+    "think of",
+    "remembereth",
+    "rememberest"
   ],
   "peirasmos": [
     "temptation",
@@ -22045,7 +24178,11 @@
     "converted",
     "converting",
     "be converted",
-    "return"
+    "return",
+    "turneth",
+    "turnest",
+    "returneth",
+    "returnest"
   ],
   "makhir": [
     "machir"
@@ -22062,7 +24199,9 @@
     "harvest",
     "harvests",
     "harvested",
-    "harvesting"
+    "harvesting",
+    "gathereth",
+    "gatherest"
   ],
   "chaphar": [
     "search",
@@ -22142,7 +24281,15 @@
     "led",
     "lead",
     "take",
-    "taken"
+    "taken",
+    "bringeth",
+    "bringest",
+    "carrieth",
+    "carriest",
+    "leadeth",
+    "leadest",
+    "taketh",
+    "takest"
   ],
   "baz": [
     "plunder",
@@ -22184,7 +24331,11 @@
     "keep",
     "keeps",
     "kept",
-    "keeping"
+    "keeping",
+    "holdeth",
+    "holdest",
+    "keepeth",
+    "keepest"
   ],
   "chor": [
     "linen",
@@ -22225,7 +24376,11 @@
     "pass",
     "passes",
     "passed",
-    "passing"
+    "passing",
+    "flieth",
+    "fliest",
+    "passeth",
+    "passest"
   ],
   "bakhah": [
     "weep",
@@ -22235,7 +24390,11 @@
     "cried",
     "crying",
     "cry",
-    "tears"
+    "tears",
+    "weepeth",
+    "weepest",
+    "crieth",
+    "criest"
   ],
   "ruach": [
     "smell",
@@ -22275,7 +24434,11 @@
     "bewail",
     "bewailing",
     "bewails",
-    "bewailed"
+    "bewailed",
+    "weepeth",
+    "weepest",
+    "crieth",
+    "criest"
   ],
   "avan": [
     "watch",
@@ -22301,7 +24464,9 @@
     "awaiteth",
     "lie awake",
     "lie in wait",
-    "lying in wait"
+    "lying in wait",
+    "watcheth",
+    "watchest"
   ],
   "chazaq": [
     "strengthen",
@@ -22358,7 +24523,9 @@
     "emboldened",
     "encouraged",
     "encourage",
-    "encouragement"
+    "encouragement",
+    "holdeth",
+    "holdest"
   ],
   "parakaleo": [
     "beseech",
@@ -22396,7 +24563,9 @@
     "implored",
     "imploring",
     "entreated",
-    "entreating"
+    "entreating",
+    "asketh",
+    "askest"
   ],
   "taam": [
     "taam"
