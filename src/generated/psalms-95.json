@@ -7,317 +7,384 @@
     "1": [
       {
         "surface": "Come",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "let us sing for joy",
-        "lemma": "run"
+        "lemma": "run",
+        "strongs": "H7442"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "let us shout",
-        "lemma": "rua"
+        "lemma": "rua",
+        "strongs": "H7321"
       },
       {
         "surface": "to the Rock",
-        "lemma": "tsur"
+        "lemma": "tsur",
+        "strongs": "H6697"
       },
       {
         "surface": "of our salvation",
-        "lemma": "yesah"
+        "lemma": "yesah",
+        "strongs": "H3468"
       }
     ],
     "2": [
       {
         "surface": "Let us enter",
-        "lemma": "qadam"
+        "lemma": "qadam",
+        "strongs": "H6923"
       },
       {
         "surface": "His presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "with thanksgiving",
-        "lemma": "todah"
+        "lemma": "todah",
+        "strongs": "H8426"
       },
       {
         "surface": "let us make a joyful noise",
-        "lemma": "rua"
+        "lemma": "rua",
+        "strongs": "H7321"
       },
       {
         "surface": "in song",
-        "lemma": "zamir"
+        "lemma": "zamir",
+        "strongs": "H2158"
       }
     ],
     "3": [
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is a great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "a great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "gods",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "4": [
       {
         "surface": "His hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "are the depths",
-        "lemma": "mechqar"
+        "lemma": "mechqar",
+        "strongs": "H4278"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and the mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "peaks",
-        "lemma": "toaphah"
+        "lemma": "toaphah",
+        "strongs": "H8443"
       }
     ],
     "5": [
       {
         "surface": "The sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "made it",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "and His hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "formed",
-        "lemma": "yatsar"
+        "lemma": "yatsar",
+        "strongs": "H3335"
       },
       {
         "surface": "the dry land",
-        "lemma": "yabbeshet"
+        "lemma": "yabbeshet",
+        "strongs": "H3006"
       }
     ],
     "6": [
       {
         "surface": "O come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "let us worship",
-        "lemma": "shachah"
+        "lemma": "shachah",
+        "strongs": "H7812"
       },
       {
         "surface": "and bow down",
-        "lemma": "kara"
+        "lemma": "kara",
+        "strongs": "H3766"
       },
       {
         "surface": "let us kneel",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our Maker",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "7": [
       {
         "surface": "is our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "are the people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "of His pasture",
-        "lemma": "mirit"
+        "lemma": "mirit",
+        "strongs": "H4830"
       },
       {
         "surface": "the sheep",
-        "lemma": "tson"
+        "lemma": "tson",
+        "strongs": "H6629"
       },
       {
         "surface": "under His care",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Today",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "you hear",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "His voice",
-        "lemma": "qol"
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "8": [
       {
         "surface": "do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "harden",
-        "lemma": "qashah"
+        "lemma": "qashah",
+        "strongs": "H7185"
       },
       {
         "surface": "your hearts",
-        "lemma": "levav"
+        "lemma": "levav",
+        "strongs": "H3824"
       },
       {
         "surface": "as you did at Meribah",
-        "lemma": "merivah"
+        "lemma": "merivah",
+        "strongs": "H4809"
       },
       {
         "surface": "in the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "at Massah",
-        "lemma": "massah"
+        "lemma": "massah",
+        "strongs": "H4532"
       },
       {
         "surface": "in the wilderness",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       }
     ],
     "9": [
       {
         "surface": "your fathers",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "tested",
-        "lemma": "nasah"
+        "lemma": "nasah",
+        "strongs": "H5254"
       },
       {
         "surface": "and tried Me",
-        "lemma": "bachan"
+        "lemma": "bachan",
+        "strongs": "H0974"
       },
       {
         "surface": "they had seen",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "My work",
-        "lemma": "poal"
+        "lemma": "poal",
+        "strongs": "H6467"
       }
     ],
     "10": [
       {
         "surface": "For forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "I was angry",
-        "lemma": "qut"
+        "lemma": "qut",
+        "strongs": "H6962"
       },
       {
         "surface": "with that generation",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "and I said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "are a people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "whose hearts",
-        "lemma": "levav"
+        "lemma": "levav",
+        "strongs": "H3824"
       },
       {
         "surface": "go astray",
-        "lemma": "taah"
+        "lemma": "taah",
+        "strongs": "H8582"
       },
       {
         "surface": "have not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "known",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "My ways",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "11": [
       {
         "surface": "I swore on oath",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "in My anger",
-        "lemma": "aph"
+        "lemma": "aph",
+        "strongs": "H0639"
       },
       {
         "surface": "They shall never",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "My rest",
-        "lemma": "menuchah"
+        "lemma": "menuchah",
+        "strongs": "H4496"
       }
     ]
-  },
-  "themeLemmas": [
-    "rua",
-    "paneh",
-    "levav"
-  ]
+  }
 }

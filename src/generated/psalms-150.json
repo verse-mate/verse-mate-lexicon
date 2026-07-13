@@ -7,158 +7,189 @@
     "1": [
       {
         "surface": "Hallelujah",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "Praise",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "in His sanctuary",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "Praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "in His mighty",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "heavens",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       }
     ],
     "2": [
       {
         "surface": "Praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "for His mighty acts",
-        "lemma": "gevurah"
+        "lemma": "gevurah",
+        "strongs": "H1369"
       },
       {
         "surface": "praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "for His excellent",
-        "lemma": "rov"
+        "lemma": "rov",
+        "strongs": "H7230"
       },
       {
         "surface": "greatness",
-        "lemma": "godel"
+        "lemma": "godel",
+        "strongs": "H1433"
       }
     ],
     "3": [
       {
         "surface": "Praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with the sound",
-        "lemma": "teqa"
+        "lemma": "teqa",
+        "strongs": "H8629"
       },
       {
         "surface": "of the horn",
-        "lemma": "shophar"
+        "lemma": "shophar",
+        "strongs": "H7782"
       },
       {
         "surface": "praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with the harp",
-        "lemma": "nevel"
+        "lemma": "nevel",
+        "strongs": "H5035"
       },
       {
         "surface": "and lyre",
-        "lemma": "kinnor"
+        "lemma": "kinnor",
+        "strongs": "H3658"
       }
     ],
     "4": [
       {
         "surface": "Praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with tambourine",
-        "lemma": "toph"
+        "lemma": "toph",
+        "strongs": "H8596"
       },
       {
         "surface": "and dancing",
-        "lemma": "machol"
+        "lemma": "machol",
+        "strongs": "H4234"
       },
       {
         "surface": "praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with strings",
-        "lemma": "men"
+        "lemma": "men",
+        "strongs": "H4482"
       },
       {
         "surface": "and flute",
-        "lemma": "ugav"
+        "lemma": "ugav",
+        "strongs": "H5748"
       }
     ],
     "5": [
       {
         "surface": "Praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with clashing",
-        "lemma": "shema"
+        "lemma": "shema",
+        "strongs": "H8088"
       },
       {
         "surface": "cymbals",
-        "lemma": "tsiltsal"
+        "lemma": "tsiltsal",
+        "strongs": "H6767"
       },
       {
         "surface": "praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "with resounding",
-        "lemma": "teruah"
+        "lemma": "teruah",
+        "strongs": "H8643"
       },
       {
         "surface": "cymbals",
-        "lemma": "tsiltsal"
+        "lemma": "tsiltsal",
+        "strongs": "H6767"
       }
     ],
     "6": [
       {
         "surface": "Let everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "that has breath",
-        "lemma": "neshamah"
+        "lemma": "neshamah",
+        "strongs": "H5397"
       },
       {
         "surface": "praise",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "the LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "Hallelujah",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       }
     ]
-  },
-  "themeLemmas": [
-    "halal",
-    "tsiltsal"
-  ]
+  }
 }

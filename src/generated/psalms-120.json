@@ -7,169 +7,201 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "of ascents",
-        "lemma": "maalah"
+        "lemma": "maalah",
+        "strongs": "H4609"
       },
       {
         "surface": "In my distress",
-        "lemma": "batstsarah"
+        "lemma": "batstsarah",
+        "strongs": "H6869"
       },
       {
         "surface": "I cried",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "and He answered me",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "2": [
       {
         "surface": "Deliver",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "from lying",
-        "lemma": "sheqer"
+        "lemma": "sheqer",
+        "strongs": "H8267"
       },
       {
         "surface": "lips",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H8193"
       },
       {
         "surface": "and a deceitful",
-        "lemma": "remiyyah"
+        "lemma": "remiyyah",
+        "strongs": "H7423"
       },
       {
         "surface": "tongue",
-        "lemma": "lashon"
+        "lemma": "lashon",
+        "strongs": "H3956"
       }
     ],
     "3": [
       {
         "surface": "What",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "will He do",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "and what",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "will be added",
-        "lemma": "yasaph"
+        "lemma": "yasaph",
+        "strongs": "H3254"
       },
       {
         "surface": "O deceitful",
-        "lemma": "remiyyah"
+        "lemma": "remiyyah",
+        "strongs": "H7423"
       },
       {
         "surface": "tongue",
-        "lemma": "lashon"
+        "lemma": "lashon",
+        "strongs": "H3956"
       }
     ],
     "4": [
       {
         "surface": "Sharp",
-        "lemma": "shanan"
+        "lemma": "shanan",
+        "strongs": "H8150"
       },
       {
         "surface": "arrows will come",
-        "lemma": "chets"
+        "lemma": "chets",
+        "strongs": "H2671"
       },
       {
         "surface": "from the warrior",
-        "lemma": "gibbor"
+        "lemma": "gibbor",
+        "strongs": "H1368"
       },
       {
         "surface": "burning coals",
-        "lemma": "gechel"
+        "lemma": "gechel",
+        "strongs": "H1513"
       },
       {
         "surface": "of the broom tree",
-        "lemma": "retem"
+        "lemma": "retem",
+        "strongs": "H7574"
       }
     ],
     "5": [
       {
         "surface": "I dwell",
-        "lemma": "gur"
+        "lemma": "gur",
+        "strongs": "H1481"
       },
       {
         "surface": "in Meshech",
-        "lemma": "meshekh"
+        "lemma": "meshekh",
+        "strongs": "H4902"
       },
       {
         "surface": "that I live",
-        "lemma": "shakhan"
+        "lemma": "shakhan",
+        "strongs": "H7931"
       },
       {
         "surface": "the tents",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Kedar",
-        "lemma": "qedar"
+        "lemma": "qedar",
+        "strongs": "H6938"
       }
     ],
     "6": [
       {
         "surface": "Too long",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "have I",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "dwelt",
-        "lemma": "shakhan"
+        "lemma": "shakhan",
+        "strongs": "H7931"
       },
       {
         "surface": "those who hate",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       },
       {
         "surface": "peace",
-        "lemma": "shalom"
+        "lemma": "shalom",
+        "strongs": "H7965"
       }
     ],
     "7": [
       {
         "surface": "am in favor of peace",
-        "lemma": "shalom"
+        "lemma": "shalom",
+        "strongs": "H7965"
       },
       {
         "surface": "I speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "want war",
-        "lemma": "milchamah"
+        "lemma": "milchamah",
+        "strongs": "H4421"
       }
     ]
-  },
-  "themeLemmas": [
-    "shalom",
-    "shakhan",
-    "remiyyah"
-  ]
+  }
 }

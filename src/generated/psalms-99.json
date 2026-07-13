@@ -7,301 +7,365 @@
     "1": [
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "reigns",
-        "lemma": "malakh"
+        "lemma": "malakh",
+        "strongs": "H4427"
       },
       {
         "surface": "let the nations",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "tremble",
-        "lemma": "ragaz"
+        "lemma": "ragaz",
+        "strongs": "H7264"
       },
       {
         "surface": "He is enthroned",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "above the cherubim",
-        "lemma": "keruv"
+        "lemma": "keruv",
+        "strongs": "H3742"
       },
       {
         "surface": "let the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "quake",
-        "lemma": "nut"
+        "lemma": "nut",
+        "strongs": "H5120"
       }
     ],
     "2": [
       {
         "surface": "Great is",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "in Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "is exalted",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the peoples",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "3": [
       {
         "surface": "Let them praise",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "Your great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "and awesome",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "is holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       }
     ],
     "4": [
       {
         "surface": "The mighty",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "loves",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "justice",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "have established",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       },
       {
         "surface": "equity",
-        "lemma": "meshar"
+        "lemma": "meshar",
+        "strongs": "H4339"
       },
       {
         "surface": "have exercised",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "justice",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "and righteousness",
-        "lemma": "tsedaqah"
+        "lemma": "tsedaqah",
+        "strongs": "H6666"
       },
       {
         "surface": "in Jacob",
-        "lemma": "yaaqov"
+        "lemma": "yaaqov",
+        "strongs": "H3290"
       }
     ],
     "5": [
       {
         "surface": "Exalt",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "and worship",
-        "lemma": "shachah"
+        "lemma": "shachah",
+        "strongs": "H7812"
       },
       {
         "surface": "at",
-        "lemma": "hadom"
+        "lemma": "hadom",
+        "strongs": "H1916"
       },
       {
         "surface": "His footstool",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       },
       {
         "surface": "is holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       }
     ],
     "6": [
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "were among His priests",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "Samuel",
-        "lemma": "shemuel"
+        "lemma": "shemuel",
+        "strongs": "H8050"
       },
       {
         "surface": "was among those who called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "on His name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "They called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "answered",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "7": [
       {
         "surface": "He spoke",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "from the pillar",
-        "lemma": "ammud"
+        "lemma": "ammud",
+        "strongs": "H5982"
       },
       {
         "surface": "of cloud",
-        "lemma": "anan"
+        "lemma": "anan",
+        "strongs": "H6051"
       },
       {
         "surface": "they kept",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "His decrees",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5713"
       },
       {
         "surface": "and the statutes",
-        "lemma": "choq"
+        "lemma": "choq",
+        "strongs": "H2706"
       },
       {
         "surface": "He gave",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "8": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "answered them",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "You were",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a forgiving",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "yet an avenger",
-        "lemma": "naqam"
+        "lemma": "naqam",
+        "strongs": "H5358"
       },
       {
         "surface": "their misdeeds",
-        "lemma": "alilah"
+        "lemma": "alilah",
+        "strongs": "H5949"
       }
     ],
     "9": [
       {
         "surface": "Exalt",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "and worship",
-        "lemma": "shachah"
+        "lemma": "shachah",
+        "strongs": "H7812"
       },
       {
         "surface": "at His holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "is holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       }
     ]
-  },
-  "themeLemmas": [
-    "rum",
-    "qadosh",
-    "un"
-  ]
+  }
 }

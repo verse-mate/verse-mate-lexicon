@@ -7,1045 +7,1289 @@
     "1": [
       {
         "surface": "Nebuchadnezzar",
-        "lemma": "nevukhadnetstsar"
+        "lemma": "nevukhadnetstsar",
+        "strongs": "H5019"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Babylon",
-        "lemma": "bavel"
+        "lemma": "bavel",
+        "strongs": "H0894"
       },
       {
         "surface": "made} Zedekiah",
-        "lemma": "tsidqiyyah"
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Josiah",
-        "lemma": "yoshiyyah"
+        "lemma": "yoshiyyah",
+        "strongs": "H2977"
       },
       {
         "surface": "the king",
-        "lemma": "malakh"
+        "lemma": "malakh",
+        "strongs": "H4427"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "and he reigned",
-        "lemma": "malakh"
+        "lemma": "malakh",
+        "strongs": "H4427"
       },
       {
         "surface": "in place",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "of Coniah",
-        "lemma": "konyahu"
+        "lemma": "konyahu",
+        "strongs": "H3659"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Jehoiakim",
-        "lemma": "yehoyaqim"
+        "lemma": "yehoyaqim",
+        "strongs": "H3079"
       }
     ],
     "2": [
       {
         "surface": "and his officers",
-        "lemma": "eved"
+        "lemma": "eved",
+        "strongs": "H5650"
       },
       {
         "surface": "and the people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "refused",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to obey",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "the words",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "that the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "had spoken",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "through",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "the prophet",
-        "lemma": "navi"
+        "lemma": "navi",
+        "strongs": "H5030"
       }
     ],
     "3": [
       {
         "surface": "Yet King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "Zedekiah",
-        "lemma": "tsidqiyyah"
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
       },
       {
         "surface": "sent",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "Jehucal",
-        "lemma": "yehukhal"
+        "lemma": "yehukhal",
+        "strongs": "H3081"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Shelemiah",
-        "lemma": "shelemyah"
+        "lemma": "shelemyah",
+        "strongs": "H8018"
       },
       {
         "surface": "and Zephaniah",
-        "lemma": "tsephanyah"
+        "lemma": "tsephanyah",
+        "strongs": "H6846"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Maaseiah",
-        "lemma": "maaseyah"
+        "lemma": "maaseyah",
+        "strongs": "H4641"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "the prophet",
-        "lemma": "navi"
+        "lemma": "navi",
+        "strongs": "H5030"
       },
       {
         "surface": "with the message",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "pray",
-        "lemma": "palal"
+        "lemma": "palal",
+        "strongs": "H6419"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "for us",
-        "lemma": "bead"
+        "lemma": "bead",
+        "strongs": "H1157"
       }
     ],
     "4": [
       {
         "surface": "Now Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "was free to come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and go",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "among",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "the people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "for they had not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "yet put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "in prison",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "5": [
       {
         "surface": "Pharaoh’s",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "army",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "had left",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "and when the Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "who were besieging",
-        "lemma": "tsur"
+        "lemma": "tsur",
+        "strongs": "H6696"
       },
       {
         "surface": "Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       },
       {
         "surface": "heard",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "the report",
-        "lemma": "shema"
+        "lemma": "shema",
+        "strongs": "H8088"
       },
       {
         "surface": "they withdrew",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       }
     ],
     "6": [
       {
         "surface": "Then the word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "came",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "the prophet",
-        "lemma": "navi"
+        "lemma": "navi",
+        "strongs": "H5030"
       }
     ],
     "7": [
       {
         "surface": "This is what",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "says",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "that",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "you are to tell",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "the king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "who sent",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "to",
-        "lemma": "darash"
+        "lemma": "darash",
+        "strongs": "H1875"
       },
       {
         "surface": "Pharaoh’s",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "army",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "which has marched out",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "to help",
-        "lemma": "ezrah"
+        "lemma": "ezrah",
+        "strongs": "H5833"
       },
       {
         "surface": "will go back",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "to its own land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "8": [
       {
         "surface": "Then the Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "will return",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "and fight",
-        "lemma": "lacham"
+        "lemma": "lacham",
+        "strongs": "H3898"
       },
       {
         "surface": "city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "They will capture",
-        "lemma": "lakhad"
+        "lemma": "lakhad",
+        "strongs": "H3920"
       },
       {
         "surface": "it and burn it down",
-        "lemma": "saraph"
+        "lemma": "saraph",
+        "strongs": "H8313"
       }
     ],
     "9": [
       {
         "surface": "This is what",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "says",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "deceive",
-        "lemma": "nasah"
+        "lemma": "nasah",
+        "strongs": "H5377"
       },
       {
         "surface": "yourselves",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "by saying",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "The Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "will go away for good",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "they will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       }
     ],
     "10": [
       {
         "surface": "if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "you were to strike down",
-        "lemma": "nakhah"
+        "lemma": "nakhah",
+        "strongs": "H5221"
       },
       {
         "surface": "the entire",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "army",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "of the Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "that is fighting",
-        "lemma": "lacham"
+        "lemma": "lacham",
+        "strongs": "H3898"
       },
       {
         "surface": "and only wounded",
-        "lemma": "daqar"
+        "lemma": "daqar",
+        "strongs": "H1856"
       },
       {
         "surface": "men",
-        "lemma": "enosh"
+        "lemma": "enosh",
+        "strongs": "H0582"
       },
       {
         "surface": "remained",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H7604"
       },
       {
         "surface": "vvv",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "in their tents",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "they would still get up",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "down",
-        "lemma": "saraph"
+        "lemma": "saraph",
+        "strongs": "H8313"
       }
     ],
     "11": [
       {
         "surface": "When the Chaldean",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "army",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "withdrew",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       },
       {
         "surface": "for fear",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of Pharaoh’s",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "army",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       }
     ],
     "12": [
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "started to leave",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       },
       {
         "surface": "to go",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "to the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Benjamin",
-        "lemma": "binyamin"
+        "lemma": "binyamin",
+        "strongs": "H1144"
       },
       {
         "surface": "to claim his portion",
-        "lemma": "chalaq"
+        "lemma": "chalaq",
+        "strongs": "H2505"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "among",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "the people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "13": [
       {
         "surface": "reached",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the Gate",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "of Benjamin",
-        "lemma": "binyamin"
+        "lemma": "binyamin",
+        "strongs": "H1144"
       },
       {
         "surface": "the captain",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "of the guard",
-        "lemma": "peqidut"
+        "lemma": "peqidut",
+        "strongs": "H6488"
       },
       {
         "surface": "whose name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "was Irijah",
-        "lemma": "yiriyyah"
+        "lemma": "yiriyyah",
+        "strongs": "H3376"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Shelemiah",
-        "lemma": "shelemyah"
+        "lemma": "shelemyah",
+        "strongs": "H8018"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Hananiah",
-        "lemma": "chananyah"
+        "lemma": "chananyah",
+        "strongs": "H2608"
       },
       {
         "surface": "seized",
-        "lemma": "taphas"
+        "lemma": "taphas",
+        "strongs": "H8610"
       },
       {
         "surface": "him",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "and said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "are deserting",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "the Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       }
     ],
     "14": [
       {
         "surface": "That is a lie",
-        "lemma": "sheqer"
+        "lemma": "sheqer",
+        "strongs": "H8267"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "replied",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "I am not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "deserting",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "the Chaldeans",
-        "lemma": "kasdi"
+        "lemma": "kasdi",
+        "strongs": "H3778"
       },
       {
         "surface": "But Irijah",
-        "lemma": "yiriyyah"
+        "lemma": "yiriyyah",
+        "strongs": "H3376"
       },
       {
         "surface": "would not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "instead, he arrested",
-        "lemma": "taphas"
+        "lemma": "taphas",
+        "strongs": "H8610"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "and took him",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the officials",
-        "lemma": "sar"
+        "lemma": "sar",
+        "strongs": "H8269"
       }
     ],
     "15": [
       {
         "surface": "The officials",
-        "lemma": "sar"
+        "lemma": "sar",
+        "strongs": "H8269"
       },
       {
         "surface": "were angry",
-        "lemma": "qatsaph"
+        "lemma": "qatsaph",
+        "strongs": "H7107"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "and they beat",
-        "lemma": "nakhah"
+        "lemma": "nakhah",
+        "strongs": "H5221"
       },
       {
         "surface": "and placed",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "in jail",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "in the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of Jonathan",
-        "lemma": "yehonatan"
+        "lemma": "yehonatan",
+        "strongs": "H3083"
       },
       {
         "surface": "the scribe",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "it had been made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "into a prison",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "16": [
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "went",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "a cell",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "the dungeon",
-        "lemma": "chanut"
+        "lemma": "chanut",
+        "strongs": "H2588"
       },
       {
         "surface": "and remained",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "a long time",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "17": [
       {
         "surface": "Later, King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "Zedekiah",
-        "lemma": "tsidqiyyah"
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
       },
       {
         "surface": "sent for Jeremiah",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "and received him",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "in his palace",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "where he asked him",
-        "lemma": "shaal"
+        "lemma": "shaal",
+        "strongs": "H7592"
       },
       {
         "surface": "privately",
-        "lemma": "seter"
+        "lemma": "seter",
+        "strongs": "H5643"
       },
       {
         "surface": "Is there",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "a word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "from the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "There is",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "replied",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "You will be delivered",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "into the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of the king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Babylon",
-        "lemma": "bavel"
+        "lemma": "bavel",
+        "strongs": "H0894"
       }
     ],
     "18": [
       {
         "surface": "Then Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "asked",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "Zedekiah",
-        "lemma": "tsidqiyyah"
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
       },
       {
         "surface": "How",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "have I sinned",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       },
       {
         "surface": "or your servants",
-        "lemma": "eved"
+        "lemma": "eved",
+        "strongs": "H5650"
       },
       {
         "surface": "people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "you have put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "prison",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "19": [
       {
         "surface": "Where",
-        "lemma": "ay"
+        "lemma": "ay",
+        "strongs": "H0335"
       },
       {
         "surface": "are your prophets",
-        "lemma": "navi"
+        "lemma": "navi",
+        "strongs": "H5030"
       },
       {
         "surface": "prophesied",
-        "lemma": "nava"
+        "lemma": "nava",
+        "strongs": "H5012"
       },
       {
         "surface": "claiming",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "The king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Babylon",
-        "lemma": "bavel"
+        "lemma": "bavel",
+        "strongs": "H0894"
       },
       {
         "surface": "will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "20": [
       {
         "surface": "But now",
-        "lemma": "attah"
+        "lemma": "attah",
+        "strongs": "H6258"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "O my lord",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "the king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "May my petition",
-        "lemma": "techinnah"
+        "lemma": "techinnah",
+        "strongs": "H8467"
       },
       {
         "surface": "come",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "before you",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "send me back",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "to the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of Jonathan",
-        "lemma": "yehonatan"
+        "lemma": "yehonatan",
+        "strongs": "H3083"
       },
       {
         "surface": "the scribe",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "I will die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       }
     ],
     "21": [
       {
         "surface": "So King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "Zedekiah",
-        "lemma": "tsidqiyyah"
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
       },
       {
         "surface": "gave orders",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "for Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "to be placed",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the courtyard",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "of the guard",
-        "lemma": "mattarah"
+        "lemma": "mattarah",
+        "strongs": "H4307"
       },
       {
         "surface": "and given",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "a loaf",
-        "lemma": "kikkar"
+        "lemma": "kikkar",
+        "strongs": "H3603"
       },
       {
         "surface": "of bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "daily",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the street",
-        "lemma": "chuts"
+        "lemma": "chuts",
+        "strongs": "H2351"
       },
       {
         "surface": "of the bakers",
-        "lemma": "aphah"
+        "lemma": "aphah",
+        "strongs": "H0644"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "in the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "was gone",
-        "lemma": "tamam"
+        "lemma": "tamam",
+        "strongs": "H8552"
       },
       {
         "surface": "So Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "remained",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in the courtyard",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "of the guard",
-        "lemma": "mattarah"
+        "lemma": "mattarah",
+        "strongs": "H4307"
       }
     ]
-  },
-  "themeLemmas": [
-    "yirmeyah",
-    "amar",
-    "bet"
-  ]
+  }
 }

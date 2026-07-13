@@ -7,117 +7,138 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "of ascents",
-        "lemma": "maalah"
+        "lemma": "maalah",
+        "strongs": "H4609"
       },
       {
         "surface": "Of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "My heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "proud",
-        "lemma": "gavah"
+        "lemma": "gavah",
+        "strongs": "H1361"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "my eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "haughty",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "I do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "aspire",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "to great things",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "or matters too lofty",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       }
     ],
     "2": [
       {
         "surface": "Surely",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "I have stilled",
-        "lemma": "shavah"
+        "lemma": "shavah",
+        "strongs": "H7737"
       },
       {
         "surface": "and quieted",
-        "lemma": "damam"
+        "lemma": "damam",
+        "strongs": "H1826"
       },
       {
         "surface": "my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "like a weaned child",
-        "lemma": "gamal"
+        "lemma": "gamal",
+        "strongs": "H1580"
       },
       {
         "surface": "with his mother",
-        "lemma": "em"
+        "lemma": "em",
+        "strongs": "H0517"
       },
       {
         "surface": "like a weaned child",
-        "lemma": "gamal"
+        "lemma": "gamal",
+        "strongs": "H1580"
       },
       {
         "surface": "is my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "3": [
       {
         "surface": "O Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "put your hope",
-        "lemma": "yachal"
+        "lemma": "yachal",
+        "strongs": "H3176"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "both now",
-        "lemma": "attah"
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ]
-  },
-  "themeLemmas": [
-    "lo",
-    "nephesh",
-    "gamal"
-  ]
+  }
 }

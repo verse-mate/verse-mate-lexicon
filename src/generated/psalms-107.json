@@ -7,1089 +7,1333 @@
     "1": [
       {
         "surface": "Give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "He is good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "2": [
       {
         "surface": "Let the redeemed",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "say so",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "He has redeemed",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "from the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of the enemy",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       }
     ],
     "3": [
       {
         "surface": "and gathered",
-        "lemma": "qavats"
+        "lemma": "qavats",
+        "strongs": "H6908"
       },
       {
         "surface": "from the lands",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "from east",
-        "lemma": "mizrach"
+        "lemma": "mizrach",
+        "strongs": "H4217"
       },
       {
         "surface": "and west",
-        "lemma": "maarav"
+        "lemma": "maarav",
+        "strongs": "H4628"
       },
       {
         "surface": "from north",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       },
       {
         "surface": "and south",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "4": [
       {
         "surface": "Some wandered",
-        "lemma": "taah"
+        "lemma": "taah",
+        "strongs": "H8582"
       },
       {
         "surface": "in desert",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "wastelands",
-        "lemma": "yeshimon"
+        "lemma": "yeshimon",
+        "strongs": "H3452"
       },
       {
         "surface": "finding",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "path",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "to a city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "in which to dwell",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "5": [
       {
         "surface": "They were hungry",
-        "lemma": "raev"
+        "lemma": "raev",
+        "strongs": "H7457"
       },
       {
         "surface": "thirsty",
-        "lemma": "tsame"
+        "lemma": "tsame",
+        "strongs": "H6771"
       },
       {
         "surface": "their soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "fainted",
-        "lemma": "ataph"
+        "lemma": "ataph",
+        "strongs": "H5848"
       }
     ],
     "6": [
       {
         "surface": "Then they cried out",
-        "lemma": "tsaaq"
+        "lemma": "tsaaq",
+        "strongs": "H6817"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "in their trouble",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "and He delivered",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "from their distress",
-        "lemma": "metsuqah"
+        "lemma": "metsuqah",
+        "strongs": "H4691"
       }
     ],
     "7": [
       {
         "surface": "He led them",
-        "lemma": "darakh"
+        "lemma": "darakh",
+        "strongs": "H1869"
       },
       {
         "surface": "on a straight",
-        "lemma": "yashar"
+        "lemma": "yashar",
+        "strongs": "H3477"
       },
       {
         "surface": "path",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "to reach",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "a city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "where they could live",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "8": [
       {
         "surface": "Let them give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "and His wonders",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "to the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of men",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "9": [
       {
         "surface": "He satisfies",
-        "lemma": "sava"
+        "lemma": "sava",
+        "strongs": "H7646"
       },
       {
         "surface": "the thirsty",
-        "lemma": "shaqaq"
+        "lemma": "shaqaq",
+        "strongs": "H8264"
       },
       {
         "surface": "and fills",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "the hungry",
-        "lemma": "raev"
+        "lemma": "raev",
+        "strongs": "H7457"
       },
       {
         "surface": "with good things",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "10": [
       {
         "surface": "Some sat",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "and in the shadow of death",
-        "lemma": "tsalmavet"
+        "lemma": "tsalmavet",
+        "strongs": "H6757"
       },
       {
         "surface": "prisoners",
-        "lemma": "asir"
+        "lemma": "asir",
+        "strongs": "H0615"
       },
       {
         "surface": "in affliction",
-        "lemma": "oni"
+        "lemma": "oni",
+        "strongs": "H6040"
       },
       {
         "surface": "and chains",
-        "lemma": "barzel"
+        "lemma": "barzel",
+        "strongs": "H1270"
       }
     ],
     "11": [
       {
         "surface": "they rebelled",
-        "lemma": "marah"
+        "lemma": "marah",
+        "strongs": "H4784"
       },
       {
         "surface": "against the words",
-        "lemma": "emer"
+        "lemma": "emer",
+        "strongs": "H0561"
       },
       {
         "surface": "of God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "and despised",
-        "lemma": "naats"
+        "lemma": "naats",
+        "strongs": "H5006"
       },
       {
         "surface": "the counsel",
-        "lemma": "etsah"
+        "lemma": "etsah",
+        "strongs": "H6098"
       },
       {
         "surface": "of the Most High",
-        "lemma": "elyon"
+        "lemma": "elyon",
+        "strongs": "H5945"
       }
     ],
     "12": [
       {
         "surface": "He humbled",
-        "lemma": "kana"
+        "lemma": "kana",
+        "strongs": "H3665"
       },
       {
         "surface": "their hearts",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "with hard labor",
-        "lemma": "amal"
+        "lemma": "amal",
+        "strongs": "H5999"
       },
       {
         "surface": "they stumbled",
-        "lemma": "kashal"
+        "lemma": "kashal",
+        "strongs": "H3782"
       },
       {
         "surface": "and there was no",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "one to help",
-        "lemma": "azar"
+        "lemma": "azar",
+        "strongs": "H5826"
       }
     ],
     "13": [
       {
         "surface": "Then they cried out",
-        "lemma": "zaaq"
+        "lemma": "zaaq",
+        "strongs": "H2199"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "in their trouble",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "and He saved",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "from their distress",
-        "lemma": "metsuqah"
+        "lemma": "metsuqah",
+        "strongs": "H4691"
       }
     ],
     "14": [
       {
         "surface": "He brought them out",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "of darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "and the shadow of death",
-        "lemma": "tsalmavet"
+        "lemma": "tsalmavet",
+        "strongs": "H6757"
       },
       {
         "surface": "and broke away their chains",
-        "lemma": "moser"
+        "lemma": "moser",
+        "strongs": "H4147"
       }
     ],
     "15": [
       {
         "surface": "Let them give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "and His wonders",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "to the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of men",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "16": [
       {
         "surface": "He has broken down",
-        "lemma": "shavar"
+        "lemma": "shavar",
+        "strongs": "H7665"
       },
       {
         "surface": "the gates",
-        "lemma": "dal"
+        "lemma": "dal",
+        "strongs": "H1817"
       },
       {
         "surface": "of bronze",
-        "lemma": "nechoshet"
+        "lemma": "nechoshet",
+        "strongs": "H5178"
       },
       {
         "surface": "and cut through",
-        "lemma": "gada"
+        "lemma": "gada",
+        "strongs": "H1438"
       },
       {
         "surface": "the bars",
-        "lemma": "beriach"
+        "lemma": "beriach",
+        "strongs": "H1280"
       },
       {
         "surface": "of iron",
-        "lemma": "barzel"
+        "lemma": "barzel",
+        "strongs": "H1270"
       }
     ],
     "17": [
       {
         "surface": "Fools",
-        "lemma": "evil"
+        "lemma": "evil",
+        "strongs": "H0191"
       },
       {
         "surface": "in their rebellious",
-        "lemma": "pesah"
+        "lemma": "pesah",
+        "strongs": "H6588"
       },
       {
         "surface": "ways",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "and through their iniquities",
-        "lemma": "avan"
+        "lemma": "avan",
+        "strongs": "H5771"
       },
       {
         "surface": "suffered affliction",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       }
     ],
     "18": [
       {
         "surface": "They",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "loathed",
-        "lemma": "taav"
+        "lemma": "taav",
+        "strongs": "H8581"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "food",
-        "lemma": "okhel"
+        "lemma": "okhel",
+        "strongs": "H0400"
       },
       {
         "surface": "and drew near",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "the gates",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "of death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       }
     ],
     "19": [
       {
         "surface": "Then they cried out",
-        "lemma": "zaaq"
+        "lemma": "zaaq",
+        "strongs": "H2199"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "in their trouble",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "and He saved them",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "from their distress",
-        "lemma": "metsuqah"
+        "lemma": "metsuqah",
+        "strongs": "H4691"
       }
     ],
     "20": [
       {
         "surface": "He sent forth",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "His word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "and healed them",
-        "lemma": "rapah"
+        "lemma": "rapah",
+        "strongs": "H7495"
       },
       {
         "surface": "He rescued them",
-        "lemma": "malat"
+        "lemma": "malat",
+        "strongs": "H4422"
       },
       {
         "surface": "from the Pit",
-        "lemma": "shechit"
+        "lemma": "shechit",
+        "strongs": "H7825"
       }
     ],
     "21": [
       {
         "surface": "Let them give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "and His wonders",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "to the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of men",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "22": [
       {
         "surface": "Let them offer",
-        "lemma": "zavach"
+        "lemma": "zavach",
+        "strongs": "H2076"
       },
       {
         "surface": "sacrifices",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "of thanksgiving",
-        "lemma": "todah"
+        "lemma": "todah",
+        "strongs": "H8426"
       },
       {
         "surface": "and declare",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "His works",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "with rejoicing",
-        "lemma": "rinnah"
+        "lemma": "rinnah",
+        "strongs": "H7440"
       }
     ],
     "23": [
       {
         "surface": "Others went",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "out to sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "in ships",
-        "lemma": "oniyyah"
+        "lemma": "oniyyah",
+        "strongs": "H0591"
       },
       {
         "surface": "conducting",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "trade",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "on the mighty",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "24": [
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "the works",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "and His wonders",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "in the deep",
-        "lemma": "metsolah"
+        "lemma": "metsolah",
+        "strongs": "H4688"
       }
     ],
     "25": [
       {
         "surface": "For He spoke",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "and raised",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "vvv",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "a tempest",
-        "lemma": "saar"
+        "lemma": "saar",
+        "strongs": "H5591"
       },
       {
         "surface": "that lifted",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "the waves of the sea",
-        "lemma": "gal"
+        "lemma": "gal",
+        "strongs": "H1530"
       }
     ],
     "26": [
       {
         "surface": "They mounted up",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "to the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "then sunk",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "to the depths",
-        "lemma": "tehom"
+        "lemma": "tehom",
+        "strongs": "H8415"
       },
       {
         "surface": "their courage",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "melted",
-        "lemma": "mug"
+        "lemma": "mug",
+        "strongs": "H4127"
       },
       {
         "surface": "in their anguish",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "27": [
       {
         "surface": "They reeled",
-        "lemma": "chagag"
+        "lemma": "chagag",
+        "strongs": "H2287"
       },
       {
         "surface": "and staggered",
-        "lemma": "nua"
+        "lemma": "nua",
+        "strongs": "H5128"
       },
       {
         "surface": "like drunkards",
-        "lemma": "shikkor"
+        "lemma": "shikkor",
+        "strongs": "H7910"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their skill",
-        "lemma": "chokhmah"
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       },
       {
         "surface": "was useless",
-        "lemma": "bala"
+        "lemma": "bala",
+        "strongs": "H1104"
       }
     ],
     "28": [
       {
         "surface": "Then they cried out",
-        "lemma": "tsaaq"
+        "lemma": "tsaaq",
+        "strongs": "H6817"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "in their trouble",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "and He brought them",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "of their distress",
-        "lemma": "metsuqah"
+        "lemma": "metsuqah",
+        "strongs": "H4691"
       }
     ],
     "29": [
       {
         "surface": "He calmed",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "the storm",
-        "lemma": "saar"
+        "lemma": "saar",
+        "strongs": "H5591"
       },
       {
         "surface": "to a whisper",
-        "lemma": "demamah"
+        "lemma": "demamah",
+        "strongs": "H1827"
       },
       {
         "surface": "and the waves of the sea",
-        "lemma": "gal"
+        "lemma": "gal",
+        "strongs": "H1530"
       },
       {
         "surface": "were hushed",
-        "lemma": "chashah"
+        "lemma": "chashah",
+        "strongs": "H2814"
       }
     ],
     "30": [
       {
         "surface": "They rejoiced",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "the silence",
-        "lemma": "shataq"
+        "lemma": "shataq",
+        "strongs": "H8367"
       },
       {
         "surface": "and He guided them",
-        "lemma": "nachah"
+        "lemma": "nachah",
+        "strongs": "H5148"
       },
       {
         "surface": "the harbor",
-        "lemma": "machoz"
+        "lemma": "machoz",
+        "strongs": "H4231"
       },
       {
         "surface": "they desired",
-        "lemma": "chephets"
+        "lemma": "chephets",
+        "strongs": "H2656"
       }
     ],
     "31": [
       {
         "surface": "Let them give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "and His wonders",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "to the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of men",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "32": [
       {
         "surface": "Let them exalt Him",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "in the assembly",
-        "lemma": "qahal"
+        "lemma": "qahal",
+        "strongs": "H6951"
       },
       {
         "surface": "of the people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "and praise Him",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "in the council",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       },
       {
         "surface": "of the elders",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       }
     ],
     "33": [
       {
         "surface": "He turns",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "rivers",
-        "lemma": "nahar"
+        "lemma": "nahar",
+        "strongs": "H5104"
       },
       {
         "surface": "into deserts",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "springs",
-        "lemma": "motsa"
+        "lemma": "motsa",
+        "strongs": "H4161"
       },
       {
         "surface": "of water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "into thirsty ground",
-        "lemma": "tsimmaon"
+        "lemma": "tsimmaon",
+        "strongs": "H6774"
       }
     ],
     "34": [
       {
         "surface": "and fruitful",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "into fields of salt",
-        "lemma": "melechah"
+        "lemma": "melechah",
+        "strongs": "H4420"
       },
       {
         "surface": "because of the wickedness",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "of its dwellers",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "35": [
       {
         "surface": "He turns",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "a desert",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "into pools",
-        "lemma": "agam"
+        "lemma": "agam",
+        "strongs": "H0098"
       },
       {
         "surface": "of water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and a dry",
-        "lemma": "tsiyyah"
+        "lemma": "tsiyyah",
+        "strongs": "H6723"
       },
       {
         "surface": "land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "into flowing springs",
-        "lemma": "motsa"
+        "lemma": "motsa",
+        "strongs": "H4161"
       }
     ],
     "36": [
       {
         "surface": "He causes the hungry",
-        "lemma": "raev"
+        "lemma": "raev",
+        "strongs": "H7457"
       },
       {
         "surface": "to settle",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "that they may establish",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       },
       {
         "surface": "a city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "in which to dwell",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "37": [
       {
         "surface": "They sow",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "fields",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "and plant",
-        "lemma": "nata"
+        "lemma": "nata",
+        "strongs": "H5193"
       },
       {
         "surface": "vineyards",
-        "lemma": "kerem"
+        "lemma": "kerem",
+        "strongs": "H3754"
       },
       {
         "surface": "that yield",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a fruitful",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "harvest",
-        "lemma": "tevuah"
+        "lemma": "tevuah",
+        "strongs": "H8393"
       }
     ],
     "38": [
       {
         "surface": "He blesses them",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "and they multiply",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "greatly",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "He does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "let their herds",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "diminish",
-        "lemma": "maat"
+        "lemma": "maat",
+        "strongs": "H4591"
       }
     ],
     "39": [
       {
         "surface": "When they are decreased",
-        "lemma": "maat"
+        "lemma": "maat",
+        "strongs": "H4591"
       },
       {
         "surface": "and humbled",
-        "lemma": "shachach"
+        "lemma": "shachach",
+        "strongs": "H7817"
       },
       {
         "surface": "by oppression",
-        "lemma": "otser"
+        "lemma": "otser",
+        "strongs": "H6115"
       },
       {
         "surface": "evil",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "and sorrow",
-        "lemma": "yagon"
+        "lemma": "yagon",
+        "strongs": "H3015"
       }
     ],
     "40": [
       {
         "surface": "He pours out",
-        "lemma": "shaphakh"
+        "lemma": "shaphakh",
+        "strongs": "H8210"
       },
       {
         "surface": "contempt",
-        "lemma": "buz"
+        "lemma": "buz",
+        "strongs": "H0937"
       },
       {
         "surface": "the nobles",
-        "lemma": "nadiv"
+        "lemma": "nadiv",
+        "strongs": "H5081"
       },
       {
         "surface": "and makes them wander",
-        "lemma": "taah"
+        "lemma": "taah",
+        "strongs": "H8582"
       },
       {
         "surface": "in a trackless",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "wasteland",
-        "lemma": "tohu"
+        "lemma": "tohu",
+        "strongs": "H8414"
       }
     ],
     "41": [
       {
         "surface": "But He lifts",
-        "lemma": "sagav"
+        "lemma": "sagav",
+        "strongs": "H7682"
       },
       {
         "surface": "the needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       },
       {
         "surface": "from affliction",
-        "lemma": "oni"
+        "lemma": "oni",
+        "strongs": "H6040"
       },
       {
         "surface": "and increases",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "their families",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "like flocks",
-        "lemma": "tson"
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "42": [
       {
         "surface": "The upright",
-        "lemma": "yashar"
+        "lemma": "yashar",
+        "strongs": "H3477"
       },
       {
         "surface": "see",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "and rejoice",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "iniquity",
-        "lemma": "evel"
+        "lemma": "evel",
+        "strongs": "H5766"
       },
       {
         "surface": "shuts",
-        "lemma": "qaphats"
+        "lemma": "qaphats",
+        "strongs": "H7092"
       },
       {
         "surface": "its mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "43": [
       {
         "surface": "Let him who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "is wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "pay heed",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "and consider",
-        "lemma": "bin"
+        "lemma": "bin",
+        "strongs": "H0995"
       },
       {
         "surface": "the loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ]
-  },
-  "themeLemmas": [
-    "chesed",
-    "yadah",
-    "tsar"
-  ]
+  }
 }

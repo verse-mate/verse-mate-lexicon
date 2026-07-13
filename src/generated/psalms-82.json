@@ -7,235 +7,283 @@
     "1": [
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of Asaph",
-        "lemma": "asaph"
+        "lemma": "asaph",
+        "strongs": "H0623"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "presides",
-        "lemma": "natsav"
+        "lemma": "natsav",
+        "strongs": "H5324"
       },
       {
         "surface": "in the divine",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "assembly",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5712"
       },
       {
         "surface": "He renders judgment",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "among",
-        "lemma": "qerev"
+        "lemma": "qerev",
+        "strongs": "H7130"
       },
       {
         "surface": "the gods",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "2": [
       {
         "surface": "will you judge",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "unjustly",
-        "lemma": "evel"
+        "lemma": "evel",
+        "strongs": "H5766"
       },
       {
         "surface": "and show partiality",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "to the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "Selah",
-        "lemma": "selah"
+        "lemma": "selah",
+        "strongs": "H5542"
       }
     ],
     "3": [
       {
         "surface": "Defend the cause",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "of the weak",
-        "lemma": "dal"
+        "lemma": "dal",
+        "strongs": "H1800"
       },
       {
         "surface": "and fatherless",
-        "lemma": "yatom"
+        "lemma": "yatom",
+        "strongs": "H3490"
       },
       {
         "surface": "uphold the rights",
-        "lemma": "tsadaq"
+        "lemma": "tsadaq",
+        "strongs": "H6663"
       },
       {
         "surface": "of the afflicted",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and oppressed",
-        "lemma": "rush"
+        "lemma": "rush",
+        "strongs": "H7326"
       }
     ],
     "4": [
       {
         "surface": "Rescue",
-        "lemma": "palat"
+        "lemma": "palat",
+        "strongs": "H6403"
       },
       {
         "surface": "the weak",
-        "lemma": "dal"
+        "lemma": "dal",
+        "strongs": "H1800"
       },
       {
         "surface": "and needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       },
       {
         "surface": "save them",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "from the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       }
     ],
     "5": [
       {
         "surface": "They do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "or understand",
-        "lemma": "bin"
+        "lemma": "bin",
+        "strongs": "H0995"
       },
       {
         "surface": "they wander",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "in the darkness",
-        "lemma": "chashekhah"
+        "lemma": "chashekhah",
+        "strongs": "H2825"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the foundations",
-        "lemma": "mosad"
+        "lemma": "mosad",
+        "strongs": "H4144"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "are shaken",
-        "lemma": "mot"
+        "lemma": "mot",
+        "strongs": "H4131"
       }
     ],
     "6": [
       {
         "surface": "have said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "are gods",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "you are all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of the Most High",
-        "lemma": "elyon"
+        "lemma": "elyon",
+        "strongs": "H5945"
       }
     ],
     "7": [
       {
         "surface": "But",
-        "lemma": "akhen"
+        "lemma": "akhen",
+        "strongs": "H0403"
       },
       {
         "surface": "like mortals",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "you will die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "and like",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "rulers",
-        "lemma": "sar"
+        "lemma": "sar",
+        "strongs": "H8269"
       },
       {
         "surface": "you will fall",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       }
     ],
     "8": [
       {
         "surface": "Arise",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "judge",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "inheritance",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       }
     ]
-  },
-  "themeLemmas": [
-    "shaphat",
-    "kol",
-    "rasah"
-  ]
+  }
 }

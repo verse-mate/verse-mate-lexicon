@@ -7,99 +7,118 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "of ascents",
-        "lemma": "maalah"
+        "lemma": "maalah",
+        "strongs": "H4609"
       },
       {
         "surface": "bless",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you servants",
-        "lemma": "eved"
+        "lemma": "eved",
+        "strongs": "H5650"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "who serve",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "by night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "in the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "2": [
       {
         "surface": "Lift up",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "your hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "to the sanctuary",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "and bless",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
       {
         "surface": "May the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the Maker",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "of heaven",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "bless you",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "from Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       }
     ]
-  },
-  "themeLemmas": [
-    "barakh"
-  ]
+  }
 }

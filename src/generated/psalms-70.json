@@ -7,169 +7,202 @@
     "1": [
       {
         "surface": "For the choirmaster",
-        "lemma": "natsach"
+        "lemma": "natsach",
+        "strongs": "H5329"
       },
       {
         "surface": "Of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "To bring remembrance",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2142"
       },
       {
         "surface": "Make haste, O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "to deliver me",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "Hurry",
-        "lemma": "chush"
+        "lemma": "chush",
+        "strongs": "H2363"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "to help me",
-        "lemma": "ezrah"
+        "lemma": "ezrah",
+        "strongs": "H5833"
       }
     ],
     "2": [
       {
         "surface": "May those who seek",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "my life",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "be ashamed",
-        "lemma": "bush"
+        "lemma": "bush",
+        "strongs": "H0954"
       },
       {
         "surface": "and confounded",
-        "lemma": "chapher"
+        "lemma": "chapher",
+        "strongs": "H2659"
       },
       {
         "surface": "may those who wish me",
-        "lemma": "chaphets"
+        "lemma": "chaphets",
+        "strongs": "H2655"
       },
       {
         "surface": "harm",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "be repelled",
-        "lemma": "sug"
+        "lemma": "sug",
+        "strongs": "H5472"
       },
       {
         "surface": "and humiliated",
-        "lemma": "kalam"
+        "lemma": "kalam",
+        "strongs": "H3637"
       }
     ],
     "3": [
       {
         "surface": "May those who say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "retreat",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "their shame",
-        "lemma": "boshet"
+        "lemma": "boshet",
+        "strongs": "H1322"
       }
     ],
     "4": [
       {
         "surface": "May all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who seek You",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "rejoice",
-        "lemma": "sus"
+        "lemma": "sus",
+        "strongs": "H7797"
       },
       {
         "surface": "and be glad",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "may those who love",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "Your salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       },
       {
         "surface": "always",
-        "lemma": "tamid"
+        "lemma": "tamid",
+        "strongs": "H8548"
       },
       {
         "surface": "say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "be magnified",
-        "lemma": "gadal"
+        "lemma": "gadal",
+        "strongs": "H1431"
       }
     ],
     "5": [
       {
         "surface": "poor",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       },
       {
         "surface": "hurry",
-        "lemma": "chush"
+        "lemma": "chush",
+        "strongs": "H2363"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "are my help",
-        "lemma": "ezer"
+        "lemma": "ezer",
+        "strongs": "H5828"
       },
       {
         "surface": "and my deliverer",
-        "lemma": "palat"
+        "lemma": "palat",
+        "strongs": "H6403"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "delay",
-        "lemma": "achar"
+        "lemma": "achar",
+        "strongs": "H0309"
       }
     ]
-  },
-  "themeLemmas": [
-    "chush",
-    "baqash",
-    "amar"
-  ]
+  }
 }

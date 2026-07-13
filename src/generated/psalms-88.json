@@ -7,531 +7,648 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Korah",
-        "lemma": "qorach"
+        "lemma": "qorach",
+        "strongs": "H7141"
       },
       {
         "surface": "For the choirmaster",
-        "lemma": "natsach"
+        "lemma": "natsach",
+        "strongs": "H5329"
       },
       {
         "surface": "Mahalath",
-        "lemma": "machalat"
+        "lemma": "machalat",
+        "strongs": "H4257"
       },
       {
         "surface": "Leannoth",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "A Maskil",
-        "lemma": "maskil"
+        "lemma": "maskil",
+        "strongs": "H4905"
       },
       {
         "surface": "of Heman",
-        "lemma": "heman"
+        "lemma": "heman",
+        "strongs": "H1968"
       },
       {
         "surface": "the Ezrahite",
-        "lemma": "ezrachi"
+        "lemma": "ezrachi",
+        "strongs": "H0250"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "of my salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "I cry out",
-        "lemma": "tsaaq"
+        "lemma": "tsaaq",
+        "strongs": "H6817"
       },
       {
         "surface": "before You",
-        "lemma": "neged"
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "2": [
       {
         "surface": "May my prayer",
-        "lemma": "tephillah"
+        "lemma": "tephillah",
+        "strongs": "H8605"
       },
       {
         "surface": "come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "before You",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "incline",
-        "lemma": "natah"
+        "lemma": "natah",
+        "strongs": "H5186"
       },
       {
         "surface": "Your ear",
-        "lemma": "ozen"
+        "lemma": "ozen",
+        "strongs": "H0241"
       },
       {
         "surface": "to my cry",
-        "lemma": "rinnah"
+        "lemma": "rinnah",
+        "strongs": "H7440"
       }
     ],
     "3": [
       {
         "surface": "my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "is full",
-        "lemma": "sava"
+        "lemma": "sava",
+        "strongs": "H7646"
       },
       {
         "surface": "of troubles",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "and my life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "draws near",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "to Sheol",
-        "lemma": "sheol"
+        "lemma": "sheol",
+        "strongs": "H7585"
       }
     ],
     "4": [
       {
         "surface": "I am counted",
-        "lemma": "chashav"
+        "lemma": "chashav",
+        "strongs": "H2803"
       },
       {
         "surface": "those descending",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "to the Pit",
-        "lemma": "bor"
+        "lemma": "bor",
+        "strongs": "H0953"
       },
       {
         "surface": "I am",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "like a man",
-        "lemma": "gaver"
+        "lemma": "gaver",
+        "strongs": "H1397"
       },
       {
         "surface": "without",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "strength",
-        "lemma": "eyal"
+        "lemma": "eyal",
+        "strongs": "H0353"
       }
     ],
     "5": [
       {
         "surface": "I am forsaken",
-        "lemma": "chophshi"
+        "lemma": "chophshi",
+        "strongs": "H2670"
       },
       {
         "surface": "among the dead",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "the slain",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2491"
       },
       {
         "surface": "who lie",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "in the grave",
-        "lemma": "qever"
+        "lemma": "qever",
+        "strongs": "H6913"
       },
       {
         "surface": "You",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "remember",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2142"
       },
       {
         "surface": "no more",
-        "lemma": "od"
+        "lemma": "od",
+        "strongs": "H5750"
       },
       {
         "surface": "are cut off",
-        "lemma": "gazar"
+        "lemma": "gazar",
+        "strongs": "H1504"
       },
       {
         "surface": "from Your care",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "6": [
       {
         "surface": "You have laid me",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "in the lowest",
-        "lemma": "tachti"
+        "lemma": "tachti",
+        "strongs": "H8482"
       },
       {
         "surface": "Pit",
-        "lemma": "bor"
+        "lemma": "bor",
+        "strongs": "H0953"
       },
       {
         "surface": "in the darkest",
-        "lemma": "machshakh"
+        "lemma": "machshakh",
+        "strongs": "H4285"
       },
       {
         "surface": "of the depths",
-        "lemma": "metsolah"
+        "lemma": "metsolah",
+        "strongs": "H4688"
       }
     ],
     "7": [
       {
         "surface": "Your wrath",
-        "lemma": "chemah"
+        "lemma": "chemah",
+        "strongs": "H2534"
       },
       {
         "surface": "weighs heavily",
-        "lemma": "samakh"
+        "lemma": "samakh",
+        "strongs": "H5564"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "Your waves",
-        "lemma": "mishbar"
+        "lemma": "mishbar",
+        "strongs": "H4867"
       },
       {
         "surface": "have submerged me",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       },
       {
         "surface": "Selah",
-        "lemma": "selah"
+        "lemma": "selah",
+        "strongs": "H5542"
       }
     ],
     "8": [
       {
         "surface": "You have removed",
-        "lemma": "rachaq"
+        "lemma": "rachaq",
+        "strongs": "H7368"
       },
       {
         "surface": "my friends",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "You have made me",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "repulsive",
-        "lemma": "toevah"
+        "lemma": "toevah",
+        "strongs": "H8441"
       },
       {
         "surface": "I am confined",
-        "lemma": "kala"
+        "lemma": "kala",
+        "strongs": "H3607"
       },
       {
         "surface": "and cannot",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "escape",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "9": [
       {
         "surface": "My eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "grow dim",
-        "lemma": "daav"
+        "lemma": "daav",
+        "strongs": "H1669"
       },
       {
         "surface": "grief",
-        "lemma": "oni"
+        "lemma": "oni",
+        "strongs": "H6040"
       },
       {
         "surface": "I call to You",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "daily",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I spread out",
-        "lemma": "shatach"
+        "lemma": "shatach",
+        "strongs": "H7849"
       },
       {
         "surface": "my hands",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       }
     ],
     "10": [
       {
         "surface": "Do You work",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "wonders",
-        "lemma": "pele"
+        "lemma": "pele",
+        "strongs": "H6382"
       },
       {
         "surface": "for the dead",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "Do departed spirits",
-        "lemma": "rapah"
+        "lemma": "rapah",
+        "strongs": "H7496"
       },
       {
         "surface": "rise up",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "to praise You",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "Selah",
-        "lemma": "selah"
+        "lemma": "selah",
+        "strongs": "H5542"
       }
     ],
     "11": [
       {
         "surface": "Can Your loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "be proclaimed",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "in the grave",
-        "lemma": "qever"
+        "lemma": "qever",
+        "strongs": "H6913"
       },
       {
         "surface": "Your faithfulness",
-        "lemma": "emunah"
+        "lemma": "emunah",
+        "strongs": "H0530"
       },
       {
         "surface": "in Abaddon",
-        "lemma": "avaddon"
+        "lemma": "avaddon",
+        "strongs": "H0011"
       }
     ],
     "12": [
       {
         "surface": "Will Your wonders",
-        "lemma": "pele"
+        "lemma": "pele",
+        "strongs": "H6382"
       },
       {
         "surface": "be known",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "in the darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "or Your righteousness",
-        "lemma": "tsedaqah"
+        "lemma": "tsedaqah",
+        "strongs": "H6666"
       },
       {
         "surface": "in the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of oblivion",
-        "lemma": "neshiyyah"
+        "lemma": "neshiyyah",
+        "strongs": "H5388"
       }
     ],
     "13": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I cry for help",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7768"
       },
       {
         "surface": "in the morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "my prayer",
-        "lemma": "tephillah"
+        "lemma": "tephillah",
+        "strongs": "H8605"
       },
       {
         "surface": "comes before You",
-        "lemma": "qadam"
+        "lemma": "qadam",
+        "strongs": "H6923"
       }
     ],
     "14": [
       {
         "surface": "Why",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "do You reject",
-        "lemma": "zanach"
+        "lemma": "zanach",
+        "strongs": "H2186"
       },
       {
         "surface": "me",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "Why do You hide",
-        "lemma": "satar"
+        "lemma": "satar",
+        "strongs": "H5641"
       },
       {
         "surface": "Your face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "15": [
       {
         "surface": "From my youth",
-        "lemma": "noar"
+        "lemma": "noar",
+        "strongs": "H5290"
       },
       {
         "surface": "afflicted",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and near death",
-        "lemma": "gava"
+        "lemma": "gava",
+        "strongs": "H1478"
       },
       {
         "surface": "I have borne",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "Your terrors",
-        "lemma": "emah"
+        "lemma": "emah",
+        "strongs": "H0367"
       },
       {
         "surface": "I am in despair",
-        "lemma": "pun"
+        "lemma": "pun",
+        "strongs": "H6323"
       }
     ],
     "16": [
       {
         "surface": "Your wrath",
-        "lemma": "charon"
+        "lemma": "charon",
+        "strongs": "H2740"
       },
       {
         "surface": "has swept",
-        "lemma": "avar"
+        "lemma": "avar",
+        "strongs": "H5674"
       },
       {
         "surface": "Your terrors",
-        "lemma": "biutim"
+        "lemma": "biutim",
+        "strongs": "H1161"
       },
       {
         "surface": "have destroyed me",
-        "lemma": "tsamat"
+        "lemma": "tsamat",
+        "strongs": "H6789"
       }
     ],
     "17": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "day long",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "they engulf me",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "like water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "they enclose me",
-        "lemma": "naqaph"
+        "lemma": "naqaph",
+        "strongs": "H5362"
       },
       {
         "surface": "every side",
-        "lemma": "yachad"
+        "lemma": "yachad",
+        "strongs": "H3162"
       }
     ],
     "18": [
       {
         "surface": "You have removed",
-        "lemma": "rachaq"
+        "lemma": "rachaq",
+        "strongs": "H7368"
       },
       {
         "surface": "beloved",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "and my friend",
-        "lemma": "rea"
+        "lemma": "rea",
+        "strongs": "H7453"
       },
       {
         "surface": "darkness",
-        "lemma": "machshakh"
+        "lemma": "machshakh",
+        "strongs": "H4285"
       },
       {
         "surface": "is my closest companion",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ]
-  },
-  "themeLemmas": [
-    "yada",
-    "kol",
-    "tephillah"
-  ]
+  }
 }

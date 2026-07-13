@@ -7,555 +7,679 @@
     "1": [
       {
         "surface": "came",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "brothers",
-        "lemma": "adelphos"
+        "lemma": "adelphos",
+        "strongs": "G0080"
       },
       {
         "surface": "I did not come",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "eloquence",
-        "lemma": "huperoche"
+        "lemma": "huperoche",
+        "strongs": "G5247"
       },
       {
         "surface": "wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "as I proclaimed",
-        "lemma": "katangello"
+        "lemma": "katangello",
+        "strongs": "G2605"
       },
       {
         "surface": "testimony",
-        "lemma": "marturion"
+        "lemma": "marturion",
+        "strongs": "G3142"
       },
       {
         "surface": "about God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "2": [
       {
         "surface": "I resolved",
-        "lemma": "krino"
+        "lemma": "krino",
+        "strongs": "G2919"
       },
       {
         "surface": "to know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "crucified",
-        "lemma": "stauroo"
+        "lemma": "stauroo",
+        "strongs": "G4717"
       }
     ],
     "3": [
       {
         "surface": "came",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "weakness",
-        "lemma": "astheneia"
+        "lemma": "astheneia",
+        "strongs": "G0769"
       },
       {
         "surface": "fear",
-        "lemma": "phobos"
+        "lemma": "phobos",
+        "strongs": "G5401"
       },
       {
         "surface": "much",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "trembling",
-        "lemma": "tromos"
+        "lemma": "tromos",
+        "strongs": "G5156"
       }
     ],
     "4": [
       {
         "surface": "message",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "preaching",
-        "lemma": "kerugma"
+        "lemma": "kerugma",
+        "strongs": "G2782"
       },
       {
         "surface": "persuasive",
-        "lemma": "peithos"
+        "lemma": "peithos",
+        "strongs": "G3981"
       },
       {
         "surface": "words",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "of wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "a demonstration",
-        "lemma": "apodeixis"
+        "lemma": "apodeixis",
+        "strongs": "G0585"
       },
       {
         "surface": "of the Spirit’s",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "power",
-        "lemma": "dunamis"
+        "lemma": "dunamis",
+        "strongs": "G1411"
       }
     ],
     "5": [
       {
         "surface": "faith",
-        "lemma": "pistis"
+        "lemma": "pistis",
+        "strongs": "G4102"
       },
       {
         "surface": "would not rest",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "men’s",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "God’s",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "power",
-        "lemma": "dunamis"
+        "lemma": "dunamis",
+        "strongs": "G1411"
       }
     ],
     "6": [
       {
         "surface": "mature",
-        "lemma": "teleios"
+        "lemma": "teleios",
+        "strongs": "G5046"
       },
       {
         "surface": "we speak a message",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "of wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "the wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "age",
-        "lemma": "aion"
+        "lemma": "aion",
+        "strongs": "G0165"
       },
       {
         "surface": "rulers",
-        "lemma": "archon"
+        "lemma": "archon",
+        "strongs": "G0758"
       },
       {
         "surface": "age",
-        "lemma": "aion"
+        "lemma": "aion",
+        "strongs": "G0165"
       },
       {
         "surface": "are coming to nothing",
-        "lemma": "katargeo"
+        "lemma": "katargeo",
+        "strongs": "G2673"
       }
     ],
     "7": [
       {
         "surface": "we speak of",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "the mysterious",
-        "lemma": "musterion"
+        "lemma": "musterion",
+        "strongs": "G3466"
       },
       {
         "surface": "and hidden",
-        "lemma": "apokrupto"
+        "lemma": "apokrupto",
+        "strongs": "G0613"
       },
       {
         "surface": "wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "He",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "destined",
-        "lemma": "proorizo"
+        "lemma": "proorizo",
+        "strongs": "G4309"
       },
       {
         "surface": "glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       },
       {
         "surface": "time began",
-        "lemma": "aion"
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "8": [
       {
         "surface": "None",
-        "lemma": "oudeis"
+        "lemma": "oudeis",
+        "strongs": "G3762"
       },
       {
         "surface": "rulers",
-        "lemma": "archon"
+        "lemma": "archon",
+        "strongs": "G0758"
       },
       {
         "surface": "age",
-        "lemma": "aion"
+        "lemma": "aion",
+        "strongs": "G0165"
       },
       {
         "surface": "understood",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "they had",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "they would not have crucified",
-        "lemma": "stauroo"
+        "lemma": "stauroo",
+        "strongs": "G4717"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "of glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       }
     ],
     "9": [
       {
         "surface": "it is written",
-        "lemma": "grapho"
+        "lemma": "grapho",
+        "strongs": "G1125"
       },
       {
         "surface": "eye",
-        "lemma": "ophthalmos"
+        "lemma": "ophthalmos",
+        "strongs": "G3788"
       },
       {
         "surface": "has seen",
-        "lemma": "horao"
+        "lemma": "horao",
+        "strongs": "G3708"
       },
       {
         "surface": "ear",
-        "lemma": "ous"
+        "lemma": "ous",
+        "strongs": "G3775"
       },
       {
         "surface": "has heard",
-        "lemma": "akouo"
+        "lemma": "akouo",
+        "strongs": "G0191"
       },
       {
         "surface": "heart",
-        "lemma": "kardia"
+        "lemma": "kardia",
+        "strongs": "G2588"
       },
       {
         "surface": "has imagined",
-        "lemma": "anabaino"
+        "lemma": "anabaino",
+        "strongs": "G0305"
       },
       {
         "surface": "what",
-        "lemma": "hosos"
+        "lemma": "hosos",
+        "strongs": "G3745"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "has prepared",
-        "lemma": "hetoimazo"
+        "lemma": "hetoimazo",
+        "strongs": "G2090"
       },
       {
         "surface": "love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       }
     ],
     "10": [
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "has revealed it",
-        "lemma": "apokalupto"
+        "lemma": "apokalupto",
+        "strongs": "G0601"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "searches",
-        "lemma": "ereunao"
+        "lemma": "ereunao",
+        "strongs": "G2045"
       },
       {
         "surface": "all things",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "deep  things",
-        "lemma": "bathos"
+        "lemma": "bathos",
+        "strongs": "G0899"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "11": [
       {
         "surface": "who",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "among men",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "knows",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "of man",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "his own",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "So",
-        "lemma": "houto"
+        "lemma": "houto",
+        "strongs": "G3779"
       },
       {
         "surface": "no one",
-        "lemma": "oudeis"
+        "lemma": "oudeis",
+        "strongs": "G3762"
       },
       {
         "surface": "knows",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "12": [
       {
         "surface": "have not received",
-        "lemma": "lambano"
+        "lemma": "lambano",
+        "strongs": "G2983"
       },
       {
         "surface": "spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "we may understand",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "has freely given",
-        "lemma": "charizo"
+        "lemma": "charizo",
+        "strongs": "G5483"
       }
     ],
     "13": [
       {
         "surface": "what we speak",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "words",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "taught us",
-        "lemma": "didaktos"
+        "lemma": "didaktos",
+        "strongs": "G1318"
       },
       {
         "surface": "by human",
-        "lemma": "anthropinos"
+        "lemma": "anthropinos",
+        "strongs": "G0442"
       },
       {
         "surface": "wisdom",
-        "lemma": "sophia"
+        "lemma": "sophia",
+        "strongs": "G4678"
       },
       {
         "surface": "taught",
-        "lemma": "didaktos"
+        "lemma": "didaktos",
+        "strongs": "G1318"
       },
       {
         "surface": "by the Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "expressing",
-        "lemma": "sugkrino"
+        "lemma": "sugkrino",
+        "strongs": "G4793"
       },
       {
         "surface": "spiritual truths",
-        "lemma": "pneumatikos"
+        "lemma": "pneumatikos",
+        "strongs": "G4152"
       },
       {
         "surface": "in spiritual words",
-        "lemma": "pneumatikos"
+        "lemma": "pneumatikos",
+        "strongs": "G4152"
       }
     ],
     "14": [
       {
         "surface": "The natural",
-        "lemma": "psuchikos"
+        "lemma": "psuchikos",
+        "strongs": "G5591"
       },
       {
         "surface": "man",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "accept",
-        "lemma": "dechomai"
+        "lemma": "dechomai",
+        "strongs": "G1209"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "they are",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "foolishness",
-        "lemma": "moria"
+        "lemma": "moria",
+        "strongs": "G3472"
       },
       {
         "surface": "he cannot",
-        "lemma": "dunamai"
+        "lemma": "dunamai",
+        "strongs": "G1410"
       },
       {
         "surface": "understand them",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "they are} spiritually",
-        "lemma": "pneumatikos"
+        "lemma": "pneumatikos",
+        "strongs": "G4153"
       },
       {
         "surface": "discerned",
-        "lemma": "anakrino"
+        "lemma": "anakrino",
+        "strongs": "G0350"
       }
     ],
     "15": [
       {
         "surface": "spiritual man",
-        "lemma": "pneumatikos"
+        "lemma": "pneumatikos",
+        "strongs": "G4152"
       },
       {
         "surface": "judges",
-        "lemma": "anakrino"
+        "lemma": "anakrino",
+        "strongs": "G0350"
       },
       {
         "surface": "all things",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "is not subject to anyone’s judgment",
-        "lemma": "anakrino"
+        "lemma": "anakrino",
+        "strongs": "G0350"
       }
     ],
     "16": [
       {
         "surface": "who",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "has known",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "the mind",
-        "lemma": "nous"
+        "lemma": "nous",
+        "strongs": "G3563"
       },
       {
         "surface": "of the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "to instruct",
-        "lemma": "sumbibazo"
+        "lemma": "sumbibazo",
+        "strongs": "G4822"
       },
       {
         "surface": "have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "the mind",
-        "lemma": "nous"
+        "lemma": "nous",
+        "strongs": "G3563"
       },
       {
         "surface": "of Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       }
     ]
-  },
-  "themeLemmas": [
-    "didaktos",
-    "anakrino",
-    "sophia"
-  ]
+  }
 }

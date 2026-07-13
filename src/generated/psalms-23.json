@@ -7,210 +7,254 @@
     "1": [
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is my shepherd",
-        "lemma": "beteqedharoim"
+        "lemma": "beteqedharoim",
+        "strongs": "H7462"
       },
       {
         "surface": "I shall not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "want",
-        "lemma": "chaser"
+        "lemma": "chaser",
+        "strongs": "H2637"
       }
     ],
     "2": [
       {
         "surface": "He makes me lie down",
-        "lemma": "ravats"
+        "lemma": "ravats",
+        "strongs": "H7257"
       },
       {
         "surface": "in green",
-        "lemma": "deshe"
+        "lemma": "deshe",
+        "strongs": "H1877"
       },
       {
         "surface": "pastures",
-        "lemma": "naah"
+        "lemma": "naah",
+        "strongs": "H4999"
       },
       {
         "surface": "He leads me",
-        "lemma": "nahal"
+        "lemma": "nahal",
+        "strongs": "H5095"
       },
       {
         "surface": "quiet",
-        "lemma": "menuchah"
+        "lemma": "menuchah",
+        "strongs": "H4496"
       },
       {
         "surface": "waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "3": [
       {
         "surface": "He restores",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "He guides me",
-        "lemma": "nachah"
+        "lemma": "nachah",
+        "strongs": "H5148"
       },
       {
         "surface": "in the paths",
-        "lemma": "magal"
+        "lemma": "magal",
+        "strongs": "H4570"
       },
       {
         "surface": "of righteousness",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "of His name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "4": [
       {
         "surface": "I walk",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "through the valley",
-        "lemma": "gay"
+        "lemma": "gay",
+        "strongs": "H1516"
       },
       {
         "surface": "of the shadow of death",
-        "lemma": "tsalmavet"
+        "lemma": "tsalmavet",
+        "strongs": "H6757"
       },
       {
         "surface": "I will fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "evil",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "Your rod",
-        "lemma": "shevet"
+        "lemma": "shevet",
+        "strongs": "H7626"
       },
       {
         "surface": "and Your staff",
-        "lemma": "mishenah"
+        "lemma": "mishenah",
+        "strongs": "H4938"
       },
       {
         "surface": "comfort me",
-        "lemma": "nacham"
+        "lemma": "nacham",
+        "strongs": "H5162"
       }
     ],
     "5": [
       {
         "surface": "You prepare",
-        "lemma": "arakh"
+        "lemma": "arakh",
+        "strongs": "H6186"
       },
       {
         "surface": "a table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "before me",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "in the presence of",
-        "lemma": "neged"
+        "lemma": "neged",
+        "strongs": "H5048"
       },
       {
         "surface": "my enemies",
-        "lemma": "tsarar"
+        "lemma": "tsarar",
+        "strongs": "H6887"
       },
       {
         "surface": "You anoint",
-        "lemma": "dashen"
+        "lemma": "dashen",
+        "strongs": "H1878"
       },
       {
         "surface": "my head",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "with oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "my cup",
-        "lemma": "kos"
+        "lemma": "kos",
+        "strongs": "H3563"
       },
       {
         "surface": "overflows",
-        "lemma": "revayah"
+        "lemma": "revayah",
+        "strongs": "H7310"
       }
     ],
     "6": [
       {
         "surface": "Surely",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "goodness",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and mercy",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "will follow me",
-        "lemma": "radaph"
+        "lemma": "radaph",
+        "strongs": "H7291"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of my life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "and I will dwell",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "in the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "forever",
-        "lemma": "orekh"
+        "lemma": "orekh",
+        "strongs": "H0753"
       }
     ]
-  },
-  "themeLemmas": [
-    "shuv",
-    "lo"
-  ]
+  }
 }

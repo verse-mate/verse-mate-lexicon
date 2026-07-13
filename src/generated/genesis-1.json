@@ -7,1513 +7,1869 @@
     "1": [
       {
         "surface": "In the beginning",
-        "lemma": "reshit"
+        "lemma": "reshit",
+        "strongs": "H7225"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "created",
-        "lemma": "bara"
+        "lemma": "bara",
+        "strongs": "H1254"
       },
       {
         "surface": "the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
       {
         "surface": "Now the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "formless",
-        "lemma": "tohu"
+        "lemma": "tohu",
+        "strongs": "H8414"
       },
       {
         "surface": "and void",
-        "lemma": "bohu"
+        "lemma": "bohu",
+        "strongs": "H0922"
       },
       {
         "surface": "and darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "the surface",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the deep",
-        "lemma": "tehom"
+        "lemma": "tehom",
+        "strongs": "H8415"
       },
       {
         "surface": "And the Spirit",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "of God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "was hovering",
-        "lemma": "rachaph"
+        "lemma": "rachaph",
+        "strongs": "H7363"
       },
       {
         "surface": "the surface",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "3": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let there be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       }
     ],
     "4": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "the light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and He",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "separated",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "the light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "from",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       }
     ],
     "5": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "the light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and the darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "He called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the first",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "6": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let there be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "an expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "between",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "to",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "separate",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "from the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "7": [
       {
         "surface": "So God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "and separated",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "beneath",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "it",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "from",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "8": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "the expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the second",
-        "lemma": "sheni"
+        "lemma": "sheni",
+        "strongs": "H8145"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "be gathered",
-        "lemma": "qavah"
+        "lemma": "qavah",
+        "strongs": "H6960"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "place",
-        "lemma": "maqom"
+        "lemma": "maqom",
+        "strongs": "H4725"
       },
       {
         "surface": "so that the dry land",
-        "lemma": "yabbashah"
+        "lemma": "yabbashah",
+        "strongs": "H3004"
       },
       {
         "surface": "may appear",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "10": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "the dry land",
-        "lemma": "yabbashah"
+        "lemma": "yabbashah",
+        "strongs": "H3004"
       },
       {
         "surface": "earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and the gathering",
-        "lemma": "qoveh"
+        "lemma": "qoveh",
+        "strongs": "H4723"
       },
       {
         "surface": "of waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "He called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "seas",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "it was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "11": [
       {
         "surface": "Then God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "bring forth",
-        "lemma": "dasah"
+        "lemma": "dasah",
+        "strongs": "H1876"
       },
       {
         "surface": "vegetation",
-        "lemma": "deshe"
+        "lemma": "deshe",
+        "strongs": "H1877"
       },
       {
         "surface": "seed-bearing",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "plants",
-        "lemma": "esev"
+        "lemma": "esev",
+        "strongs": "H6212"
       },
       {
         "surface": "and fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "each bearing",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "with seed",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "according to its kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
       {
         "surface": "The earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "produced",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "vegetation",
-        "lemma": "deshe"
+        "lemma": "deshe",
+        "strongs": "H1877"
       },
       {
         "surface": "seed-bearing",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "plants",
-        "lemma": "esev"
+        "lemma": "esev",
+        "strongs": "H6212"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "and trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "bearing",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "with seed",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "it was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "13": [
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the third",
-        "lemma": "shelishi"
+        "lemma": "shelishi",
+        "strongs": "H7992"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "14": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let there be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "lights",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "in the expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "of the sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "to distinguish",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "and let them be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "signs to mark",
-        "lemma": "ot"
+        "lemma": "ot",
+        "strongs": "H0226"
       },
       {
         "surface": "the seasons",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "and days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "15": [
       {
         "surface": "And let them serve",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "as lights",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "in the expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "of the sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "to shine",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "16": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "lights",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "the greater",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "light",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "to rule",
-        "lemma": "memshalah"
+        "lemma": "memshalah",
+        "strongs": "H4475"
       },
       {
         "surface": "the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the lesser",
-        "lemma": "qatan"
+        "lemma": "qatan",
+        "strongs": "H6996"
       },
       {
         "surface": "light",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "to rule",
-        "lemma": "memshalah"
+        "lemma": "memshalah",
+        "strongs": "H4475"
       },
       {
         "surface": "the night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "the stars {as well",
-        "lemma": "kokhav"
+        "lemma": "kokhav",
+        "strongs": "H3556"
       }
     ],
     "17": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "set",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "in the expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "of the sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "to shine",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "18": [
       {
         "surface": "to preside over",
-        "lemma": "mashal"
+        "lemma": "mashal",
+        "strongs": "H4910"
       },
       {
         "surface": "the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and the night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "and to separate",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "the light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "from",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "it was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "19": [
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the fourth",
-        "lemma": "revii"
+        "lemma": "revii",
+        "strongs": "H7243"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "20": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "teem",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "with living",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "creatures",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "and let birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "fly",
-        "lemma": "uph"
+        "lemma": "uph",
+        "strongs": "H5774"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "the open",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "expanse",
-        "lemma": "raqia"
+        "lemma": "raqia",
+        "strongs": "H7549"
       },
       {
         "surface": "of the sky",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "21": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "created",
-        "lemma": "bara"
+        "lemma": "bara",
+        "strongs": "H1254"
       },
       {
         "surface": "the great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "sea creatures",
-        "lemma": "tan"
+        "lemma": "tan",
+        "strongs": "H8577"
       },
       {
         "surface": "and every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "thing",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "that moves",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "teemed",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "winged",
-        "lemma": "kanaph"
+        "lemma": "kanaph",
+        "strongs": "H3671"
       },
       {
         "surface": "bird",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "after its kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "it was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "22": [
       {
         "surface": "Then God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "blessed",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "and said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Be fruitful",
-        "lemma": "parah"
+        "lemma": "parah",
+        "strongs": "H6509"
       },
       {
         "surface": "and multiply",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "and fill",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "of the seas",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "and let birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "multiply",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "on the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "23": [
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the fifth",
-        "lemma": "chamishi"
+        "lemma": "chamishi",
+        "strongs": "H2549"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "bring forth",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "living",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "creatures",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "land crawlers",
-        "lemma": "remes"
+        "lemma": "remes",
+        "strongs": "H7431"
       },
       {
         "surface": "and beasts",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "25": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the beasts",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "the livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "according to their kinds",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "that crawls",
-        "lemma": "remes"
+        "lemma": "remes",
+        "strongs": "H7431"
       },
       {
         "surface": "upon the earth",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "according to its kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "it was good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       }
     ],
     "26": [
       {
         "surface": "Then God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Let Us make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "in Our image",
-        "lemma": "tselem"
+        "lemma": "tselem",
+        "strongs": "H6754"
       },
       {
         "surface": "after Our likeness",
-        "lemma": "demut"
+        "lemma": "demut",
+        "strongs": "H1823"
       },
       {
         "surface": "to rule",
-        "lemma": "radah"
+        "lemma": "radah",
+        "strongs": "H7287"
       },
       {
         "surface": "over the fish",
-        "lemma": "dagah"
+        "lemma": "dagah",
+        "strongs": "H1710"
       },
       {
         "surface": "of the sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "and the birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "over the livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "and over all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth itself",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature",
-        "lemma": "remes"
+        "lemma": "remes",
+        "strongs": "H7431"
       },
       {
         "surface": "that crawls",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "it",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "27": [
       {
         "surface": "So God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "created",
-        "lemma": "bara"
+        "lemma": "bara",
+        "strongs": "H1254"
       },
       {
         "surface": "man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "in His own image",
-        "lemma": "tselem"
+        "lemma": "tselem",
+        "strongs": "H6754"
       },
       {
         "surface": "in the image",
-        "lemma": "tselem"
+        "lemma": "tselem",
+        "strongs": "H6754"
       },
       {
         "surface": "of God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "He created",
-        "lemma": "bara"
+        "lemma": "bara",
+        "strongs": "H1254"
       },
       {
         "surface": "male",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2145"
       },
       {
         "surface": "and female",
-        "lemma": "neqevah"
+        "lemma": "neqevah",
+        "strongs": "H5347"
       },
       {
         "surface": "He created",
-        "lemma": "bara"
+        "lemma": "bara",
+        "strongs": "H1254"
       }
     ],
     "28": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "blessed",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "and",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Be fruitful",
-        "lemma": "parah"
+        "lemma": "parah",
+        "strongs": "H6509"
       },
       {
         "surface": "and multiply",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "and fill",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and subdue it",
-        "lemma": "kavash"
+        "lemma": "kavash",
+        "strongs": "H3533"
       },
       {
         "surface": "rule",
-        "lemma": "radah"
+        "lemma": "radah",
+        "strongs": "H7287"
       },
       {
         "surface": "over the fish",
-        "lemma": "dagah"
+        "lemma": "dagah",
+        "strongs": "H1710"
       },
       {
         "surface": "of the sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "and the birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "that crawls",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "29": [
       {
         "surface": "Then God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "I have given",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "vvv",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "seed-bearing",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "plant",
-        "lemma": "esev"
+        "lemma": "esev",
+        "strongs": "H6212"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "tree",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "contains",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "seed",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "They will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "for food",
-        "lemma": "okhlah"
+        "lemma": "okhlah",
+        "strongs": "H0402"
       }
     ],
     "30": [
       {
         "surface": "And to every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "beast",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "bird",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature that crawls",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "the breath",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "of life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "I have given every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "green",
-        "lemma": "yereq"
+        "lemma": "yereq",
+        "strongs": "H3418"
       },
       {
         "surface": "plant",
-        "lemma": "esev"
+        "lemma": "esev",
+        "strongs": "H6212"
       },
       {
         "surface": "for food",
-        "lemma": "okhlah"
+        "lemma": "okhlah",
+        "strongs": "H0402"
       },
       {
         "surface": "And it was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "31": [
       {
         "surface": "And God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "looked upon",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "He had made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "it was very",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "And there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and there was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the sixth",
-        "lemma": "shishshi"
+        "lemma": "shishshi",
+        "strongs": "H8345"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
-  },
-  "themeLemmas": [
-    "hayah",
-    "kol",
-    "mayim"
-  ]
+  }
 }

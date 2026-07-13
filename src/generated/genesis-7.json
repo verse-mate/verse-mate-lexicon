@@ -7,1011 +7,1245 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "to Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "Go",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "your family",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "I have found",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "generation",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "2": [
       {
         "surface": "are to} take with you",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "seven pairs of",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "every kind of",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "animal",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "a male",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "and its mate",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "a pair",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "vvv",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "unclean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "animal",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "a male",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "and its mate",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       }
     ],
     "3": [
       {
         "surface": "seven pairs",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "of every kind of bird",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "male",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2145"
       },
       {
         "surface": "and female",
-        "lemma": "neqevah"
+        "lemma": "neqevah",
+        "strongs": "H5347"
       },
       {
         "surface": "to preserve",
-        "lemma": "chayah"
+        "lemma": "chayah",
+        "strongs": "H2421"
       },
       {
         "surface": "their offspring",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "4": [
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "from now",
-        "lemma": "od"
+        "lemma": "od",
+        "strongs": "H5750"
       },
       {
         "surface": "will send rain",
-        "lemma": "matar"
+        "lemma": "matar",
+        "strongs": "H4305"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "for forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "nights",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "and I will wipe",
-        "lemma": "machah"
+        "lemma": "machah",
+        "strongs": "H4229"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the earth",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living thing",
-        "lemma": "yequm"
+        "lemma": "yequm",
+        "strongs": "H3351"
       },
       {
         "surface": "I have made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "5": [
       {
         "surface": "And Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "did",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "had commanded him",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       }
     ],
     "6": [
       {
         "surface": "Now Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "was 600",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "when the floodwaters",
-        "lemma": "mabbul"
+        "lemma": "mabbul",
+        "strongs": "H3999"
       },
       {
         "surface": "came",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "7": [
       {
         "surface": "And Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "and his wife",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and their",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "wives",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "entered",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "to escape",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "of the flood",
-        "lemma": "mabbul"
+        "lemma": "mabbul",
+        "strongs": "H3999"
       }
     ],
     "8": [
       {
         "surface": "clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "vvv",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "unclean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "animals",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "the birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "and everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "crawls",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the ground",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       }
     ],
     "9": [
       {
         "surface": "came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "by two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "male",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2145"
       },
       {
         "surface": "and female",
-        "lemma": "neqevah"
+        "lemma": "neqevah",
+        "strongs": "H5347"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "had commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       }
     ],
     "10": [
       {
         "surface": "And after",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the floodwaters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "came",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "11": [
       {
         "surface": "In",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "the six",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "hundredth",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "year",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "of Noah’s",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "on the seventeenth",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the second",
-        "lemma": "sheni"
+        "lemma": "sheni",
+        "strongs": "H8145"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the fountains",
-        "lemma": "mayan"
+        "lemma": "mayan",
+        "strongs": "H4599"
       },
       {
         "surface": "of the great",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "deep",
-        "lemma": "tehom"
+        "lemma": "tehom",
+        "strongs": "H8415"
       },
       {
         "surface": "burst forth",
-        "lemma": "baqa"
+        "lemma": "baqa",
+        "strongs": "H1234"
       },
       {
         "surface": "and the floodgates",
-        "lemma": "arubbah"
+        "lemma": "arubbah",
+        "strongs": "H0699"
       },
       {
         "surface": "of the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "were opened",
-        "lemma": "patach"
+        "lemma": "patach",
+        "strongs": "H6605"
       }
     ],
     "12": [
       {
         "surface": "And the rain",
-        "lemma": "geshem"
+        "lemma": "geshem",
+        "strongs": "H1653"
       },
       {
         "surface": "fell",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "for forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "nights",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "13": [
       {
         "surface": "On that very",
-        "lemma": "etsem"
+        "lemma": "etsem",
+        "strongs": "H6106"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "entered",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "along with his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "Shem",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8035"
       },
       {
         "surface": "Ham",
-        "lemma": "cham"
+        "lemma": "cham",
+        "strongs": "H2526"
       },
       {
         "surface": "and Japheth",
-        "lemma": "yephet"
+        "lemma": "yephet",
+        "strongs": "H3315"
       },
       {
         "surface": "and his",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "wife",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "and the three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "wives",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "of his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "14": [
       {
         "surface": "and",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "kind of",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "wild animal",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "crawling creature",
-        "lemma": "remes"
+        "lemma": "remes",
+        "strongs": "H7431"
       },
       {
         "surface": "bird",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "and",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "winged creature",
-        "lemma": "tsippor"
+        "lemma": "tsippor",
+        "strongs": "H6833"
       }
     ],
     "15": [
       {
         "surface": "They came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "by two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "of every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "the breath",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "of life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ],
     "16": [
       {
         "surface": "And they entered",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the male",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2145"
       },
       {
         "surface": "and female",
-        "lemma": "neqevah"
+        "lemma": "neqevah",
+        "strongs": "H5347"
       },
       {
         "surface": "of every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living thing",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "had commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "shut him in",
-        "lemma": "sagar"
+        "lemma": "sagar",
+        "strongs": "H5462"
       }
     ],
     "17": [
       {
         "surface": "For forty",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the flood",
-        "lemma": "mabbul"
+        "lemma": "mabbul",
+        "strongs": "H3999"
       },
       {
         "surface": "kept coming",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "rose",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "and lifted",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "18": [
       {
         "surface": "So the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "continued to surge",
-        "lemma": "gavar"
+        "lemma": "gavar",
+        "strongs": "H1396"
       },
       {
         "surface": "and rise",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "greatly",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "the surface",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "19": [
       {
         "surface": "Finally, the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "completely",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "prevailed",
-        "lemma": "gavar"
+        "lemma": "gavar",
+        "strongs": "H1396"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "so that all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the high",
-        "lemma": "gavoah"
+        "lemma": "gavoah",
+        "strongs": "H1364"
       },
       {
         "surface": "mountains",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "were covered",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       }
     ],
     "20": [
       {
         "surface": "The waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "rose",
-        "lemma": "gavar"
+        "lemma": "gavar",
+        "strongs": "H1396"
       },
       {
         "surface": "and covered",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "the mountaintops",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "to a depth",
-        "lemma": "maal"
+        "lemma": "maal",
+        "strongs": "H4605"
       },
       {
         "surface": "of fifteen",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       },
       {
         "surface": "cubits",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "21": [
       {
         "surface": "And every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living thing",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "that moved",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "perished",
-        "lemma": "gava"
+        "lemma": "gava",
+        "strongs": "H1478"
       },
       {
         "surface": "birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "animals",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature that swarms",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "mankind",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "22": [
       {
         "surface": "Of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "on dry land",
-        "lemma": "charavah"
+        "lemma": "charavah",
+        "strongs": "H2724"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the breath",
-        "lemma": "neshamah"
+        "lemma": "neshamah",
+        "strongs": "H5397"
       },
       {
         "surface": "of",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "in its nostrils",
-        "lemma": "aph"
+        "lemma": "aph",
+        "strongs": "H0639"
       },
       {
         "surface": "died",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "23": [
       {
         "surface": "And every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living thing",
-        "lemma": "yequm"
+        "lemma": "yequm",
+        "strongs": "H3351"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the earth",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "was destroyed",
-        "lemma": "machah"
+        "lemma": "machah",
+        "strongs": "H4229"
       },
       {
         "surface": "man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "crawling creatures",
-        "lemma": "remes"
+        "lemma": "remes",
+        "strongs": "H7431"
       },
       {
         "surface": "and birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "they were blotted out",
-        "lemma": "machah"
+        "lemma": "machah",
+        "strongs": "H4229"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and only",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "Noah",
-        "lemma": "noach"
+        "lemma": "noach",
+        "strongs": "H5146"
       },
       {
         "surface": "in the ark",
-        "lemma": "tevah"
+        "lemma": "tevah",
+        "strongs": "H8392"
       },
       {
         "surface": "remained",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H7604"
       }
     ],
     "24": [
       {
         "surface": "And the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "prevailed",
-        "lemma": "gavar"
+        "lemma": "gavar",
+        "strongs": "H1396"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "for 150",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "noach",
-    "tevah"
-  ]
+  }
 }

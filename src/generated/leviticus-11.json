@@ -7,1625 +7,2001 @@
     "1": [
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "spoke again",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "telling",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
       {
         "surface": "Say",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "Of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the beasts",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "these ones",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "you may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "3": [
       {
         "surface": "You may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "animal",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "that has a split",
-        "lemma": "shesa"
+        "lemma": "shesa",
+        "strongs": "H8157"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "completely divided",
-        "lemma": "shasa"
+        "lemma": "shasa",
+        "strongs": "H8156"
       },
       {
         "surface": "and that chews",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       }
     ],
     "4": [
       {
         "surface": "But",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "that only chew",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "or only have a divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "you are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "The camel",
-        "lemma": "gamal"
+        "lemma": "gamal",
+        "strongs": "H1581"
       },
       {
         "surface": "chews",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "does not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "have a divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "5": [
       {
         "surface": "The rock badger",
-        "lemma": "shaphan"
+        "lemma": "shaphan",
+        "strongs": "H8227"
       },
       {
         "surface": "chews",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "have a divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "6": [
       {
         "surface": "The rabbit",
-        "lemma": "arnevet"
+        "lemma": "arnevet",
+        "strongs": "H0768"
       },
       {
         "surface": "chews",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "have a divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "7": [
       {
         "surface": "the pig",
-        "lemma": "chazir"
+        "lemma": "chazir",
+        "strongs": "H2386"
       },
       {
         "surface": "a split",
-        "lemma": "shesa"
+        "lemma": "shesa",
+        "strongs": "H8157"
       },
       {
         "surface": "hoof",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "completely divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "chew",
-        "lemma": "garar"
+        "lemma": "garar",
+        "strongs": "H1641"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "8": [
       {
         "surface": "vvv",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "You must not eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "their meat",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "or touch",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "are unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "9": [
       {
         "surface": "Of all the creatures",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "in the water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "whether in the seas",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "or in the streams",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5158"
       },
       {
         "surface": "you may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "anything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "with fins",
-        "lemma": "senappir"
+        "lemma": "senappir",
+        "strongs": "H5579"
       },
       {
         "surface": "and scales",
-        "lemma": "qasqeset"
+        "lemma": "qasqeset",
+        "strongs": "H7193"
       }
     ],
     "10": [
       {
         "surface": "among all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the teeming",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "and creatures",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "in the water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "are detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "in the seas",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "or streams",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5158"
       },
       {
         "surface": "does not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "have fins",
-        "lemma": "senappir"
+        "lemma": "senappir",
+        "strongs": "H5579"
       },
       {
         "surface": "and scales",
-        "lemma": "qasqeset"
+        "lemma": "qasqeset",
+        "strongs": "H7193"
       }
     ],
     "11": [
       {
         "surface": "They shall be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "an abomination",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "their meat",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "and you must detest",
-        "lemma": "shaqats"
+        "lemma": "shaqats",
+        "strongs": "H8262"
       },
       {
         "surface": "their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       }
     ],
     "12": [
       {
         "surface": "Everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "in the water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "does not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "fins",
-        "lemma": "senappir"
+        "lemma": "senappir",
+        "strongs": "H5579"
       },
       {
         "surface": "and scales",
-        "lemma": "qasqeset"
+        "lemma": "qasqeset",
+        "strongs": "H7193"
       },
       {
         "surface": "shall be detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       }
     ],
     "13": [
       {
         "surface": "you are to detest",
-        "lemma": "shaqats"
+        "lemma": "shaqats",
+        "strongs": "H8262"
       },
       {
         "surface": "birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "and they must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "are detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       },
       {
         "surface": "the eagle",
-        "lemma": "nesher"
+        "lemma": "nesher",
+        "strongs": "H5404"
       },
       {
         "surface": "the bearded vulture",
-        "lemma": "peres"
+        "lemma": "peres",
+        "strongs": "H6538"
       },
       {
         "surface": "the black vulture",
-        "lemma": "ozniyyah"
+        "lemma": "ozniyyah",
+        "strongs": "H5822"
       }
     ],
     "14": [
       {
         "surface": "the kite",
-        "lemma": "daah"
+        "lemma": "daah",
+        "strongs": "H1676"
       },
       {
         "surface": "any kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of falcon",
-        "lemma": "ayyah"
+        "lemma": "ayyah",
+        "strongs": "H0344"
       }
     ],
     "15": [
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of raven",
-        "lemma": "orev"
+        "lemma": "orev",
+        "strongs": "H6158"
       }
     ],
     "16": [
       {
         "surface": "vvv",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "the ostrich",
-        "lemma": "yaanah"
+        "lemma": "yaanah",
+        "strongs": "H3284"
       },
       {
         "surface": "the screech owl",
-        "lemma": "tachmas"
+        "lemma": "tachmas",
+        "strongs": "H8464"
       },
       {
         "surface": "the gull",
-        "lemma": "shachaph"
+        "lemma": "shachaph",
+        "strongs": "H7828"
       },
       {
         "surface": "any kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of hawk",
-        "lemma": "nets"
+        "lemma": "nets",
+        "strongs": "H5322"
       }
     ],
     "17": [
       {
         "surface": "the little owl",
-        "lemma": "kos"
+        "lemma": "kos",
+        "strongs": "H3563"
       },
       {
         "surface": "the cormorant",
-        "lemma": "shalakh"
+        "lemma": "shalakh",
+        "strongs": "H7994"
       },
       {
         "surface": "the great owl",
-        "lemma": "yanshuph"
+        "lemma": "yanshuph",
+        "strongs": "H3244"
       }
     ],
     "18": [
       {
         "surface": "the white owl",
-        "lemma": "tanshemet"
+        "lemma": "tanshemet",
+        "strongs": "H8580"
       },
       {
         "surface": "the desert owl",
-        "lemma": "qaat"
+        "lemma": "qaat",
+        "strongs": "H6893"
       },
       {
         "surface": "the osprey",
-        "lemma": "racham"
+        "lemma": "racham",
+        "strongs": "H7360"
       }
     ],
     "19": [
       {
         "surface": "the stork",
-        "lemma": "chasidah"
+        "lemma": "chasidah",
+        "strongs": "H2624"
       },
       {
         "surface": "any kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of heron",
-        "lemma": "anaphah"
+        "lemma": "anaphah",
+        "strongs": "H0601"
       },
       {
         "surface": "the hoopoe",
-        "lemma": "dukhiphat"
+        "lemma": "dukhiphat",
+        "strongs": "H1744"
       },
       {
         "surface": "the bat",
-        "lemma": "atalleph"
+        "lemma": "atalleph",
+        "strongs": "H5847"
       }
     ],
     "20": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "flying",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "insects",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that walk",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "all fours",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "are detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       }
     ],
     "21": [
       {
         "surface": "However",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "you may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "kinds of",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "flying",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "insects",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that walk",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "all fours",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "having jointed legs",
-        "lemma": "kara"
+        "lemma": "kara",
+        "strongs": "H3767"
       },
       {
         "surface": "above",
-        "lemma": "maal"
+        "lemma": "maal",
+        "strongs": "H4605"
       },
       {
         "surface": "their feet",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       },
       {
         "surface": "for hopping",
-        "lemma": "natar"
+        "lemma": "natar",
+        "strongs": "H5425"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "22": [
       {
         "surface": "you may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "any kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of locust",
-        "lemma": "arbeh"
+        "lemma": "arbeh",
+        "strongs": "H0697"
       },
       {
         "surface": "katydid",
-        "lemma": "solam"
+        "lemma": "solam",
+        "strongs": "H5556"
       },
       {
         "surface": "cricket",
-        "lemma": "charegol"
+        "lemma": "charegol",
+        "strongs": "H2728"
       },
       {
         "surface": "or grasshopper",
-        "lemma": "chagav"
+        "lemma": "chagav",
+        "strongs": "H2284"
       }
     ],
     "23": [
       {
         "surface": "All other",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "flying",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "insects",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "legs",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       },
       {
         "surface": "are detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       }
     ],
     "24": [
       {
         "surface": "will make you unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "Whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "25": [
       {
         "surface": "and whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "picks up",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "one of their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "26": [
       {
         "surface": "Every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "animal",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "vvv",
-        "lemma": "shesa"
+        "lemma": "shesa",
+        "strongs": "H8157"
       },
       {
         "surface": "hooves",
-        "lemma": "parsah"
+        "lemma": "parsah",
+        "strongs": "H6541"
       },
       {
         "surface": "not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "completely divided",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6536"
       },
       {
         "surface": "or that does not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "chew",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "the cud",
-        "lemma": "gerah"
+        "lemma": "gerah",
+        "strongs": "H1625"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "Whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "27": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the four-footed",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "animals",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "that walk",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "their paws",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       },
       {
         "surface": "are unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "28": [
       {
         "surface": "and anyone who picks up",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "a carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "are unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "29": [
       {
         "surface": "creatures",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that move",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "are unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "the mole",
-        "lemma": "choled"
+        "lemma": "choled",
+        "strongs": "H2467"
       },
       {
         "surface": "the mouse",
-        "lemma": "akhbar"
+        "lemma": "akhbar",
+        "strongs": "H5909"
       },
       {
         "surface": "any kind",
-        "lemma": "min"
+        "lemma": "min",
+        "strongs": "H4327"
       },
       {
         "surface": "of great lizard",
-        "lemma": "tsav"
+        "lemma": "tsav",
+        "strongs": "H6632"
       }
     ],
     "30": [
       {
         "surface": "the gecko",
-        "lemma": "anaqah"
+        "lemma": "anaqah",
+        "strongs": "H0604"
       },
       {
         "surface": "the monitor lizard",
-        "lemma": "koach"
+        "lemma": "koach",
+        "strongs": "H3581"
       },
       {
         "surface": "the common lizard",
-        "lemma": "letaah"
+        "lemma": "letaah",
+        "strongs": "H3911"
       },
       {
         "surface": "the skink",
-        "lemma": "chomet"
+        "lemma": "chomet",
+        "strongs": "H2546"
       },
       {
         "surface": "and the chameleon",
-        "lemma": "tanshemet"
+        "lemma": "tanshemet",
+        "strongs": "H8580"
       }
     ],
     "31": [
       {
         "surface": "are unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "among all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the crawling creatures",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "Whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "when they are dead",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       },
       {
         "surface": "shall be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "32": [
       {
         "surface": "When",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "dies",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       },
       {
         "surface": "and falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "that article becomes unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "article",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "of wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "clothing",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "leather",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H5785"
       },
       {
         "surface": "sackcloth",
-        "lemma": "saq"
+        "lemma": "saq",
+        "strongs": "H8242"
       },
       {
         "surface": "or any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "implement",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "used",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "for work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "must be rinsed with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and will remain unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "then it will be clean",
-        "lemma": "taher"
+        "lemma": "taher",
+        "strongs": "H2891"
       }
     ],
     "33": [
       {
         "surface": "falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "a",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "clay",
-        "lemma": "cheres"
+        "lemma": "cheres",
+        "strongs": "H2789"
       },
       {
         "surface": "pot",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "in",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "it will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "you must break the pot",
-        "lemma": "shavar"
+        "lemma": "shavar",
+        "strongs": "H7665"
       }
     ],
     "34": [
       {
         "surface": "Any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "vvv",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "food",
-        "lemma": "okhel"
+        "lemma": "okhel",
+        "strongs": "H0400"
       },
       {
         "surface": "coming",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "with water from that pot",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "and any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "in such a",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "container",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "35": [
       {
         "surface": "Anything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "one of their carcasses",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "If it is an oven",
-        "lemma": "tannur"
+        "lemma": "tannur",
+        "strongs": "H8574"
       },
       {
         "surface": "or cooking pot",
-        "lemma": "kir"
+        "lemma": "kir",
+        "strongs": "H3600"
       },
       {
         "surface": "it must be smashed",
-        "lemma": "natats"
+        "lemma": "natats",
+        "strongs": "H5422"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "and will remain",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "36": [
       {
         "surface": "Nevertheless",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "a spring",
-        "lemma": "mayan"
+        "lemma": "mayan",
+        "strongs": "H4599"
       },
       {
         "surface": "or cistern",
-        "lemma": "bor"
+        "lemma": "bor",
+        "strongs": "H0953"
       },
       {
         "surface": "containing",
-        "lemma": "qoveh"
+        "lemma": "qoveh",
+        "strongs": "H4723"
       },
       {
         "surface": "water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "will remain",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "but one who touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "a carcass in it",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "37": [
       {
         "surface": "a carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "seed",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "for sowing",
-        "lemma": "zerua"
+        "lemma": "zerua",
+        "strongs": "H2221"
       },
       {
         "surface": "is clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       }
     ],
     "38": [
       {
         "surface": "water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "has been put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the seed",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "and a carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "39": [
       {
         "surface": "animal",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "may eat",
-        "lemma": "okhlah"
+        "lemma": "okhlah",
+        "strongs": "H0402"
       },
       {
         "surface": "dies",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "anyone who touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "the carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "40": [
       {
         "surface": "Whoever eats",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "from the carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and anyone who picks up",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "the carcass",
-        "lemma": "nevelah"
+        "lemma": "nevelah",
+        "strongs": "H5038"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "41": [
       {
         "surface": "Every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that moves",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "is detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       },
       {
         "surface": "must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "42": [
       {
         "surface": "Do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "any creature",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that moves",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "whether",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "it crawls",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "its belly",
-        "lemma": "gachon"
+        "lemma": "gachon",
+        "strongs": "H1512"
       },
       {
         "surface": "or",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "walks",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "more",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       },
       {
         "surface": "feet",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       },
       {
         "surface": "are detestable",
-        "lemma": "sheqets"
+        "lemma": "sheqets",
+        "strongs": "H8263"
       }
     ],
     "43": [
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "defile",
-        "lemma": "shaqats"
+        "lemma": "shaqats",
+        "strongs": "H8262"
       },
       {
         "surface": "yourselves",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "by any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "crawling creature",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "become unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "or defiled",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "44": [
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "consecrate yourselves, therefore",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       },
       {
         "surface": "and be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "am holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "defile",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "yourselves",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "by any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creature",
-        "lemma": "sherets"
+        "lemma": "sherets",
+        "strongs": "H8318"
       },
       {
         "surface": "that crawls",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "45": [
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "who brought you up",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "out of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "so that I would be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "therefore be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "am holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       }
     ],
     "46": [
       {
         "surface": "is the law",
-        "lemma": "torah"
+        "lemma": "torah",
+        "strongs": "H8451"
       },
       {
         "surface": "regarding animals",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "creatures",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "that move",
-        "lemma": "ramas"
+        "lemma": "ramas",
+        "strongs": "H7430"
       },
       {
         "surface": "in the water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "creatures",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "that crawl",
-        "lemma": "sharats"
+        "lemma": "sharats",
+        "strongs": "H8317"
       },
       {
         "surface": "the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "47": [
       {
         "surface": "You must distinguish",
-        "lemma": "badal"
+        "lemma": "badal",
+        "strongs": "H0914"
       },
       {
         "surface": "between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "and the clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "animals",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "that may be eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "and those",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "may not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "tame",
-    "akhal"
-  ]
+  }
 }

@@ -131,6 +131,21 @@ export async function loadAlignmentFor(
     ...HAND_LEXICON,
   };
 
+  // Strong's-number → lemma slug, inverted from the merged lexicon. The
+  // generated alignment slug collapses homographs (Hebrew אֵת obj-marker H0853 /
+  // plowshare H0855 and עֵת "time" H6256 all slugify to "et"; רֵעַ "neighbor"
+  // H7453 / "shouting" H7452 both → "rea"), so a token's bare `lemma` alone
+  // resolves to the single slug-collision winner — the wrong sense for every
+  // other homograph occurrence. The per-token Strong's (now emitted into the
+  // chapter data) disambiguates: we map it to the displaced slug that carries
+  // the right sense (e.g. H6256 → "et_h6256" → "time"). Keyed via
+  // normalizeStrongs so it matches the token's canonical G####/H#### form.
+  const strongsToSlug: Record<string, LemmaKey> = {};
+  for (const [lemmaSlug, entry] of Object.entries(mergedLexicon)) {
+    const sKey = normalizeStrongs(entry?.strongs);
+    if (sKey && !(sKey in strongsToSlug)) strongsToSlug[sKey] = lemmaSlug;
+  }
+
   // Build each token's full surface list. The generated alignment file
   // ships ONE BSB-anchored surface; we union it with the cross-translation
   // aliases (KJV/NASB/ESV/NIV/...) so the renderer's substring scan can
@@ -139,7 +154,7 @@ export async function loadAlignmentFor(
   const mergedVerses: ChapterAlignment['verses'] = {};
   for (const [verseStr, tokens] of Object.entries(raw.verses)) {
     mergedVerses[Number(verseStr)] = (
-      tokens as { surface: string; lemma: string }[]
+      tokens as { surface: string; lemma: string; strongs?: string }[]
     ).map((t) => {
       const lemmaAliases = aliases[t.lemma];
       // Dedupe (case-insensitive) — BSB surface is often already in the
@@ -157,9 +172,19 @@ export async function loadAlignmentFor(
         }
       }
       const k = `${slug}:${raw.chapter}:${verseStr}:${t.lemma}`;
+      // Re-point the lemma the renderer resolves the DEFINITION from to the
+      // Strong's-correct slug (homograph disambiguation — see strongsToSlug).
+      // Underline matching still uses the original slug's cross-translation
+      // surfaces above, and contextual glosses stay keyed on the original
+      // lemma; only which lexicon entry the popover shows changes. Falls back
+      // to the original slug when the token has no Strong's or no distinct
+      // entry maps to it (the overwhelmingly common non-homograph case:
+      // strongsToSlug[token.strongs] === t.lemma, so this is a no-op).
+      const normStrongs = normalizeStrongs(t.strongs);
+      const effLemma = (normStrongs && strongsToSlug[normStrongs]) || t.lemma;
       const base = surfaces.length === 1
-        ? { surface: t.surface, lemma: t.lemma }
-        : { surface: surfaces, lemma: t.lemma };
+        ? { surface: t.surface, lemma: effLemma }
+        : { surface: surfaces, lemma: effLemma };
       return contextual[k] ? { ...base, contextual: contextual[k] } : base;
     });
   }

@@ -7,923 +7,1138 @@
     "1": [
       {
         "surface": "This is the word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "came",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "Zephaniah",
-        "lemma": "tsephanyah"
+        "lemma": "tsephanyah",
+        "strongs": "H6846"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Cushi",
-        "lemma": "kushi"
+        "lemma": "kushi",
+        "strongs": "H3569"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Gedaliah",
-        "lemma": "gedalyah"
+        "lemma": "gedalyah",
+        "strongs": "H1436"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Amariah",
-        "lemma": "amaryah"
+        "lemma": "amaryah",
+        "strongs": "H0568"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Hezekiah",
-        "lemma": "chizqiyyah"
+        "lemma": "chizqiyyah",
+        "strongs": "H2396"
       },
       {
         "surface": "in the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of Josiah",
-        "lemma": "yoshiyyah"
+        "lemma": "yoshiyyah",
+        "strongs": "H2977"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Amon",
-        "lemma": "amon"
+        "lemma": "amon",
+        "strongs": "H0526"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "2": [
       {
         "surface": "I will completely sweep away",
-        "lemma": "asaph"
+        "lemma": "asaph",
+        "strongs": "H0622"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the earth",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "declares",
-        "lemma": "neum"
+        "lemma": "neum",
+        "strongs": "H5002"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
       {
         "surface": "I will sweep away",
-        "lemma": "suph"
+        "lemma": "suph",
+        "strongs": "H5486"
       },
       {
         "surface": "man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "and beast",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "I will sweep away",
-        "lemma": "suph"
+        "lemma": "suph",
+        "strongs": "H5486"
       },
       {
         "surface": "the birds",
-        "lemma": "oph"
+        "lemma": "oph",
+        "strongs": "H5775"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and the fish",
-        "lemma": "dag"
+        "lemma": "dag",
+        "strongs": "H1709"
       },
       {
         "surface": "of the sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "and the idols",
-        "lemma": "makhshelah"
+        "lemma": "makhshelah",
+        "strongs": "H4384"
       },
       {
         "surface": "their wicked {worshipers",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "I will cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "mankind",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the earth",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "declares",
-        "lemma": "neum"
+        "lemma": "neum",
+        "strongs": "H5002"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "4": [
       {
         "surface": "I will stretch out",
-        "lemma": "natah"
+        "lemma": "natah",
+        "strongs": "H5186"
       },
       {
         "surface": "My hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       },
       {
         "surface": "I will cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "place",
-        "lemma": "maqom"
+        "lemma": "maqom",
+        "strongs": "H4725"
       },
       {
         "surface": "every remnant",
-        "lemma": "shear"
+        "lemma": "shear",
+        "strongs": "H7605"
       },
       {
         "surface": "of Baal",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1168"
       },
       {
         "surface": "the names",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the idolatrous",
-        "lemma": "kamar"
+        "lemma": "kamar",
+        "strongs": "H3649"
       },
       {
         "surface": "pagan priests",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "5": [
       {
         "surface": "those who bow",
-        "lemma": "shachah"
+        "lemma": "shachah",
+        "strongs": "H7812"
       },
       {
         "surface": "the rooftops",
-        "lemma": "gag"
+        "lemma": "gag",
+        "strongs": "H1406"
       },
       {
         "surface": "to worship} the host",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of heaven",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "those who bow down",
-        "lemma": "shachah"
+        "lemma": "shachah",
+        "strongs": "H7812"
       },
       {
         "surface": "and swear",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "by the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "but also swear",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "by Milcom",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "6": [
       {
         "surface": "those who turn back",
-        "lemma": "sug"
+        "lemma": "sug",
+        "strongs": "H5472"
       },
       {
         "surface": "from following",
-        "lemma": "achar"
+        "lemma": "achar",
+        "strongs": "H0310"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "neither",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "seeking",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "nor",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "inquiring of Him",
-        "lemma": "darash"
+        "lemma": "darash",
+        "strongs": "H1875"
       }
     ],
     "7": [
       {
         "surface": "Be silent",
-        "lemma": "hasah"
+        "lemma": "hasah",
+        "strongs": "H2013"
       },
       {
         "surface": "in the presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the Lord",
-        "lemma": "adonai"
+        "lemma": "adonai",
+        "strongs": "H0136"
       },
       {
         "surface": "GOD",
-        "lemma": "yehovih"
+        "lemma": "yehovih",
+        "strongs": "H3069"
       },
       {
         "surface": "the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is near",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has prepared",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       },
       {
         "surface": "a sacrifice",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "He has consecrated",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       },
       {
         "surface": "His guests",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "8": [
       {
         "surface": "On the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "sacrifice",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "I will punish",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the princes",
-        "lemma": "sar"
+        "lemma": "sar",
+        "strongs": "H8269"
       },
       {
         "surface": "the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of the king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who are dressed",
-        "lemma": "lavash"
+        "lemma": "lavash",
+        "strongs": "H3847"
       },
       {
         "surface": "in foreign",
-        "lemma": "nokhri"
+        "lemma": "nokhri",
+        "strongs": "H5237"
       },
       {
         "surface": "apparel",
-        "lemma": "malbush"
+        "lemma": "malbush",
+        "strongs": "H4403"
       }
     ],
     "9": [
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "I will punish",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who leap",
-        "lemma": "dalag"
+        "lemma": "dalag",
+        "strongs": "H1801"
       },
       {
         "surface": "the threshold",
-        "lemma": "miphtan"
+        "lemma": "miphtan",
+        "strongs": "H4670"
       },
       {
         "surface": "who fill",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of their master",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "with violence",
-        "lemma": "chamas"
+        "lemma": "chamas",
+        "strongs": "H2555"
       },
       {
         "surface": "and deceit",
-        "lemma": "mirmah"
+        "lemma": "mirmah",
+        "strongs": "H4820"
       }
     ],
     "10": [
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "declares",
-        "lemma": "neum"
+        "lemma": "neum",
+        "strongs": "H5002"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "a cry",
-        "lemma": "qol"
+        "lemma": "qol",
+        "strongs": "H6963"
       },
       {
         "surface": "will go up",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the Fish",
-        "lemma": "dag"
+        "lemma": "dag",
+        "strongs": "H1709"
       },
       {
         "surface": "Gate",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "a wail",
-        "lemma": "yelalah"
+        "lemma": "yelalah",
+        "strongs": "H3215"
       },
       {
         "surface": "from the Second District",
-        "lemma": "mishneh"
+        "lemma": "mishneh",
+        "strongs": "H4932"
       },
       {
         "surface": "and a loud",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "crashing",
-        "lemma": "shever"
+        "lemma": "shever",
+        "strongs": "H7667"
       },
       {
         "surface": "from the hills",
-        "lemma": "givah"
+        "lemma": "givah",
+        "strongs": "H1389"
       }
     ],
     "11": [
       {
         "surface": "Wail",
-        "lemma": "yalal"
+        "lemma": "yalal",
+        "strongs": "H3213"
       },
       {
         "surface": "O dwellers",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "of the Hollow",
-        "lemma": "makhtesh"
+        "lemma": "makhtesh",
+        "strongs": "H4389"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "your merchants",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "will be silenced",
-        "lemma": "damah"
+        "lemma": "damah",
+        "strongs": "H1820"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who weigh out",
-        "lemma": "netil"
+        "lemma": "netil",
+        "strongs": "H5187"
       },
       {
         "surface": "silver",
-        "lemma": "keseph"
+        "lemma": "keseph",
+        "strongs": "H3701"
       },
       {
         "surface": "will be cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       }
     ],
     "12": [
       {
         "surface": "And",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "time",
-        "lemma": "et"
+        "lemma": "et",
+        "strongs": "H6256"
       },
       {
         "surface": "I will search",
-        "lemma": "chaphas"
+        "lemma": "chaphas",
+        "strongs": "H2664"
       },
       {
         "surface": "Jerusalem",
-        "lemma": "yerushalaim"
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       },
       {
         "surface": "with lamps",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "and punish",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the men",
-        "lemma": "enosh"
+        "lemma": "enosh",
+        "strongs": "H0582"
       },
       {
         "surface": "settled",
-        "lemma": "qapah"
+        "lemma": "qapah",
+        "strongs": "H7087"
       },
       {
         "surface": "complacency",
-        "lemma": "shemer"
+        "lemma": "shemer",
+        "strongs": "H8105"
       },
       {
         "surface": "who say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "to themselves",
-        "lemma": "levav"
+        "lemma": "levav",
+        "strongs": "H3824"
       },
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "will do nothing",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "either good",
-        "lemma": "yatav"
+        "lemma": "yatav",
+        "strongs": "H3190"
       },
       {
         "surface": "or bad",
-        "lemma": "raa"
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ],
     "13": [
       {
         "surface": "Their wealth",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "plundered",
-        "lemma": "meshissah"
+        "lemma": "meshissah",
+        "strongs": "H4933"
       },
       {
         "surface": "and their houses",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "laid waste",
-        "lemma": "shemamah"
+        "lemma": "shemamah",
+        "strongs": "H8077"
       },
       {
         "surface": "They will build",
-        "lemma": "banah"
+        "lemma": "banah",
+        "strongs": "H1129"
       },
       {
         "surface": "houses",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "but not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "inhabit them",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "and plant",
-        "lemma": "nata"
+        "lemma": "nata",
+        "strongs": "H5193"
       },
       {
         "surface": "vineyards",
-        "lemma": "kerem"
+        "lemma": "kerem",
+        "strongs": "H3754"
       },
       {
         "surface": "but never",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "their wine",
-        "lemma": "yayin"
+        "lemma": "yayin",
+        "strongs": "H3196"
       }
     ],
     "14": [
       {
         "surface": "The great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is near",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "near",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "and coming",
-        "lemma": "maher"
+        "lemma": "maher",
+        "strongs": "H4118"
       },
       {
         "surface": "quickly",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "Listen",
-        "lemma": "qol"
+        "lemma": "qol",
+        "strongs": "H6963"
       },
       {
         "surface": "the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "Then",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "the cry",
-        "lemma": "tsarach"
+        "lemma": "tsarach",
+        "strongs": "H6873"
       },
       {
         "surface": "of the mighty",
-        "lemma": "gibbor"
+        "lemma": "gibbor",
+        "strongs": "H1368"
       },
       {
         "surface": "will be bitter",
-        "lemma": "mar"
+        "lemma": "mar",
+        "strongs": "H4751"
       }
     ],
     "15": [
       {
         "surface": "day will be",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of wrath",
-        "lemma": "evrah"
+        "lemma": "evrah",
+        "strongs": "H5678"
       },
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of trouble",
-        "lemma": "batstsarah"
+        "lemma": "batstsarah",
+        "strongs": "H6869"
       },
       {
         "surface": "and distress",
-        "lemma": "metsuqah"
+        "lemma": "metsuqah",
+        "strongs": "H4691"
       },
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of destruction",
-        "lemma": "sho"
+        "lemma": "sho",
+        "strongs": "H7722"
       },
       {
         "surface": "and desolation",
-        "lemma": "meshoah"
+        "lemma": "meshoah",
+        "strongs": "H4875"
       },
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       },
       {
         "surface": "and gloom",
-        "lemma": "aphelah"
+        "lemma": "aphelah",
+        "strongs": "H0653"
       },
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of clouds",
-        "lemma": "anan"
+        "lemma": "anan",
+        "strongs": "H6051"
       },
       {
         "surface": "and blackness",
-        "lemma": "araphel"
+        "lemma": "araphel",
+        "strongs": "H6205"
       }
     ],
     "16": [
       {
         "surface": "a day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of horn blast",
-        "lemma": "shophar"
+        "lemma": "shophar",
+        "strongs": "H7782"
       },
       {
         "surface": "and battle cry",
-        "lemma": "teruah"
+        "lemma": "teruah",
+        "strongs": "H8643"
       },
       {
         "surface": "the fortified",
-        "lemma": "batsar"
+        "lemma": "batsar",
+        "strongs": "H1219"
       },
       {
         "surface": "cities",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "the high",
-        "lemma": "gavoah"
+        "lemma": "gavoah",
+        "strongs": "H1364"
       },
       {
         "surface": "corner towers",
-        "lemma": "pinnah"
+        "lemma": "pinnah",
+        "strongs": "H6438"
       }
     ],
     "17": [
       {
         "surface": "I will bring such distress",
-        "lemma": "tsarar"
+        "lemma": "tsarar",
+        "strongs": "H6887"
       },
       {
         "surface": "on mankind",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "that they will walk",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "like the blind",
-        "lemma": "ivver"
+        "lemma": "ivver",
+        "strongs": "H5787"
       },
       {
         "surface": "they have sinned",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       },
       {
         "surface": "against the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "Their blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "will be poured out",
-        "lemma": "shaphakh"
+        "lemma": "shaphakh",
+        "strongs": "H8210"
       },
       {
         "surface": "like dust",
-        "lemma": "aphar"
+        "lemma": "aphar",
+        "strongs": "H6083"
       },
       {
         "surface": "and their flesh",
-        "lemma": "lachum"
+        "lemma": "lachum",
+        "strongs": "H3894"
       },
       {
         "surface": "like dung",
-        "lemma": "galal"
+        "lemma": "galal",
+        "strongs": "H1557"
       }
     ],
     "18": [
       {
         "surface": "Neither their silver",
-        "lemma": "keseph"
+        "lemma": "keseph",
+        "strongs": "H3701"
       },
       {
         "surface": "their gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "will be able",
-        "lemma": "yakhol"
+        "lemma": "yakhol",
+        "strongs": "H3201"
       },
       {
         "surface": "to deliver them",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "on the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "wrath",
-        "lemma": "evrah"
+        "lemma": "evrah",
+        "strongs": "H5678"
       },
       {
         "surface": "The whole",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "will be consumed",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "by the fire",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       },
       {
         "surface": "of His jealousy",
-        "lemma": "qinah"
+        "lemma": "qinah",
+        "strongs": "H7068"
       },
       {
         "surface": "indeed",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "He will make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a sudden",
-        "lemma": "bahal"
+        "lemma": "bahal",
+        "strongs": "H0926"
       },
       {
         "surface": "end",
-        "lemma": "kalah"
+        "lemma": "kalah",
+        "strongs": "H3617"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "on the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "lo",
-    "yashav"
-  ]
+  }
 }

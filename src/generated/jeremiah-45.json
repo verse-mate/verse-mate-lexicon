@@ -7,261 +7,317 @@
     "1": [
       {
         "surface": "This is the word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "the prophet",
-        "lemma": "navi"
+        "lemma": "navi",
+        "strongs": "H5030"
       },
       {
         "surface": "spoke",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Baruch",
-        "lemma": "barukh"
+        "lemma": "barukh",
+        "strongs": "H1263"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Neriah",
-        "lemma": "neriyyah"
+        "lemma": "neriyyah",
+        "strongs": "H5374"
       },
       {
         "surface": "when he wrote",
-        "lemma": "katav"
+        "lemma": "katav",
+        "strongs": "H3789"
       },
       {
         "surface": "words",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "a scroll",
-        "lemma": "sepher"
+        "lemma": "sepher",
+        "strongs": "H5612"
       },
       {
         "surface": "at the dictation",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "of Jeremiah",
-        "lemma": "yirmeyah"
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
       },
       {
         "surface": "in the fourth",
-        "lemma": "revii"
+        "lemma": "revii",
+        "strongs": "H7243"
       },
       {
         "surface": "year",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "of Jehoiakim",
-        "lemma": "yehoyaqim"
+        "lemma": "yehoyaqim",
+        "strongs": "H3079"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Josiah",
-        "lemma": "yoshiyyah"
+        "lemma": "yoshiyyah",
+        "strongs": "H2977"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "2": [
       {
         "surface": "This is what",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "says",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Baruch",
-        "lemma": "barukh"
+        "lemma": "barukh",
+        "strongs": "H1263"
       }
     ],
     "3": [
       {
         "surface": "You have said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has added",
-        "lemma": "yasaph"
+        "lemma": "yasaph",
+        "strongs": "H3254"
       },
       {
         "surface": "sorrow",
-        "lemma": "yagon"
+        "lemma": "yagon",
+        "strongs": "H3015"
       },
       {
         "surface": "my pain",
-        "lemma": "makhov"
+        "lemma": "makhov",
+        "strongs": "H4341"
       },
       {
         "surface": "I am worn out",
-        "lemma": "yaga"
+        "lemma": "yaga",
+        "strongs": "H3021"
       },
       {
         "surface": "with groaning",
-        "lemma": "anachah"
+        "lemma": "anachah",
+        "strongs": "H0585"
       },
       {
         "surface": "and have found",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "rest",
-        "lemma": "menuchah"
+        "lemma": "menuchah",
+        "strongs": "H4496"
       }
     ],
     "4": [
       {
         "surface": "Thus",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "Jeremiah was to say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "This is what",
-        "lemma": "koh"
+        "lemma": "koh",
+        "strongs": "H3541"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "says",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Throughout",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "will demolish",
-        "lemma": "haras"
+        "lemma": "haras",
+        "strongs": "H2040"
       },
       {
         "surface": "I have built",
-        "lemma": "banah"
+        "lemma": "banah",
+        "strongs": "H1129"
       },
       {
         "surface": "and uproot",
-        "lemma": "natash"
+        "lemma": "natash",
+        "strongs": "H5428"
       },
       {
         "surface": "I have planted",
-        "lemma": "nata"
+        "lemma": "nata",
+        "strongs": "H5193"
       }
     ],
     "5": [
       {
         "surface": "do you seek",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "great things",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "Stop",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "seeking",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "I will bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "disaster",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "living creature",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "declares",
-        "lemma": "neum"
+        "lemma": "neum",
+        "strongs": "H5002"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "but wherever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you go",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "I will grant",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "your life",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "as a spoil of war",
-        "lemma": "shalal"
+        "lemma": "shalal",
+        "strongs": "H7998"
       }
     ]
-  },
-  "themeLemmas": [
-    "amar",
-    "kol",
-    "koh"
-  ]
+  }
 }

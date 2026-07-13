@@ -9,7 +9,21 @@ export interface GeneratedAlignment {
   book: string;
   chapter: number;
   version: string;
-  verses: Record<string, { surface: string; lemma: string }[]>;
+  verses: Record<
+    string,
+    {
+      surface: string;
+      lemma: string;
+      /**
+       * Canonical per-token Strong's (G####/H####), emitted by the ingest so
+       * the renderer can disambiguate homographs the slugified `lemma`
+       * collapses (e.g. Hebrew "et" = obj-marker/plowshare/"time"). Optional
+       * for backward-compatibility with chapter files generated before the
+       * strongs pass.
+       */
+      strongs?: string;
+    }[]
+  >;
   themeLemmas?: string[];
 }
 

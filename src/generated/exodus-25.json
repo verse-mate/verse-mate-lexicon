@@ -7,1387 +7,1707 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "2": [
       {
         "surface": "Tell",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "to bring",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "an offering",
-        "lemma": "terumah"
+        "lemma": "terumah",
+        "strongs": "H8641"
       },
       {
         "surface": "You are to receive",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "My offering",
-        "lemma": "terumah"
+        "lemma": "terumah",
+        "strongs": "H8641"
       },
       {
         "surface": "from every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "compels him",
-        "lemma": "nadav"
+        "lemma": "nadav",
+        "strongs": "H5068"
       }
     ],
     "3": [
       {
         "surface": "is the offering",
-        "lemma": "terumah"
+        "lemma": "terumah",
+        "strongs": "H8641"
       },
       {
         "surface": "you are to accept",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "silver",
-        "lemma": "keseph"
+        "lemma": "keseph",
+        "strongs": "H3701"
       },
       {
         "surface": "and bronze",
-        "lemma": "nechoshet"
+        "lemma": "nechoshet",
+        "strongs": "H5178"
       }
     ],
     "4": [
       {
         "surface": "blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "purple",
-        "lemma": "argaman"
+        "lemma": "argaman",
+        "strongs": "H0713"
       },
       {
         "surface": "and scarlet yarn",
-        "lemma": "tola"
+        "lemma": "tola",
+        "strongs": "H8438"
       },
       {
         "surface": "fine linen",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8336"
       },
       {
         "surface": "and goat hair",
-        "lemma": "ez"
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "5": [
       {
         "surface": "ram",
-        "lemma": "ayil"
+        "lemma": "ayil",
+        "strongs": "H0352"
       },
       {
         "surface": "skins",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H5785"
       },
       {
         "surface": "dyed red",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0119"
       },
       {
         "surface": "vvv",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H5785"
       },
       {
         "surface": "and fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "acacia",
-        "lemma": "shittah"
+        "lemma": "shittah",
+        "strongs": "H7848"
       },
       {
         "surface": "wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "6": [
       {
         "surface": "olive oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "for the light",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "spices",
-        "lemma": "besem"
+        "lemma": "besem",
+        "strongs": "H1314"
       },
       {
         "surface": "for the anointing",
-        "lemma": "mishchah"
+        "lemma": "mishchah",
+        "strongs": "H4888"
       },
       {
         "surface": "oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "and for the fragrant",
-        "lemma": "sam"
+        "lemma": "sam",
+        "strongs": "H5561"
       },
       {
         "surface": "incense",
-        "lemma": "qetoret"
+        "lemma": "qetoret",
+        "strongs": "H7004"
       }
     ],
     "7": [
       {
         "surface": "and onyx stones",
-        "lemma": "even"
+        "lemma": "even",
+        "strongs": "H0068"
       },
       {
         "surface": "and gemstones",
-        "lemma": "even"
+        "lemma": "even",
+        "strongs": "H0068"
       },
       {
         "surface": "to be mounted",
-        "lemma": "millu"
+        "lemma": "millu",
+        "strongs": "H4394"
       },
       {
         "surface": "on the ephod",
-        "lemma": "ephod"
+        "lemma": "ephod",
+        "strongs": "H0646"
       },
       {
         "surface": "and breastpiece",
-        "lemma": "choshen"
+        "lemma": "choshen",
+        "strongs": "H2833"
       }
     ],
     "8": [
       {
         "surface": "And they are to make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a sanctuary",
-        "lemma": "miqdash"
+        "lemma": "miqdash",
+        "strongs": "H4720"
       },
       {
         "surface": "so that I may dwell",
-        "lemma": "shakhan"
+        "lemma": "shakhan",
+        "strongs": "H7931"
       },
       {
         "surface": "among them",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "9": [
       {
         "surface": "You must make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "design",
-        "lemma": "tavnit"
+        "lemma": "tavnit",
+        "strongs": "H8403"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "its furnishings",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "according to",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the pattern",
-        "lemma": "tavnit"
+        "lemma": "tavnit",
+        "strongs": "H8403"
       },
       {
         "surface": "show",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "10": [
       {
         "surface": "And they are to construct",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "an ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "of acacia",
-        "lemma": "shittah"
+        "lemma": "shittah",
+        "strongs": "H7848"
       },
       {
         "surface": "wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "two",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half cubits",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "long",
-        "lemma": "orekh"
+        "lemma": "orekh",
+        "strongs": "H0753"
       },
       {
         "surface": "a cubit",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "wide",
-        "lemma": "rochav"
+        "lemma": "rochav",
+        "strongs": "H7341"
       },
       {
         "surface": "and a cubit",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "high",
-        "lemma": "qomah"
+        "lemma": "qomah",
+        "strongs": "H6967"
       }
     ],
     "11": [
       {
         "surface": "Overlay",
-        "lemma": "tsaphah"
+        "lemma": "tsaphah",
+        "strongs": "H6823"
       },
       {
         "surface": "it with pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "both inside",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "and out",
-        "lemma": "chuts"
+        "lemma": "chuts",
+        "strongs": "H2351"
       },
       {
         "surface": "and make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "molding",
-        "lemma": "zer"
+        "lemma": "zer",
+        "strongs": "H2213"
       },
       {
         "surface": "around it",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       }
     ],
     "12": [
       {
         "surface": "Cast",
-        "lemma": "yatsaq"
+        "lemma": "yatsaq",
+        "strongs": "H3332"
       },
       {
         "surface": "four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "and fasten them",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "its four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "feet",
-        "lemma": "paam"
+        "lemma": "paam",
+        "strongs": "H6471"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "side",
-        "lemma": "tsela"
+        "lemma": "tsela",
+        "strongs": "H6763"
       },
       {
         "surface": "and two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "the other",
-        "lemma": "sheni"
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "13": [
       {
         "surface": "And make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "of acacia",
-        "lemma": "shittah"
+        "lemma": "shittah",
+        "strongs": "H7848"
       },
       {
         "surface": "wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "and overlay",
-        "lemma": "tsaphah"
+        "lemma": "tsaphah",
+        "strongs": "H6823"
       },
       {
         "surface": "with gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       }
     ],
     "14": [
       {
         "surface": "Insert",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "into the rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "the sides",
-        "lemma": "tsela"
+        "lemma": "tsela",
+        "strongs": "H6763"
       },
       {
         "surface": "of the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "in order to carry",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "it",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       }
     ],
     "15": [
       {
         "surface": "The poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "are to remain",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "in the rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "of the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "they must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be removed",
-        "lemma": "sur"
+        "lemma": "sur",
+        "strongs": "H5493"
       }
     ],
     "16": [
       {
         "surface": "And place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "the Testimony",
-        "lemma": "edut"
+        "lemma": "edut",
+        "strongs": "H5715"
       },
       {
         "surface": "I will give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "17": [
       {
         "surface": "And you are to construct",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       },
       {
         "surface": "of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "two",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half cubits",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "long",
-        "lemma": "orekh"
+        "lemma": "orekh",
+        "strongs": "H0753"
       },
       {
         "surface": "and a cubit",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "wide",
-        "lemma": "rochav"
+        "lemma": "rochav",
+        "strongs": "H7341"
       }
     ],
     "18": [
       {
         "surface": "Make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "cherubim",
-        "lemma": "keruv"
+        "lemma": "keruv",
+        "strongs": "H3742"
       },
       {
         "surface": "of hammered",
-        "lemma": "miqshah"
+        "lemma": "miqshah",
+        "strongs": "H4749"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "at the",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "ends",
-        "lemma": "qatsah"
+        "lemma": "qatsah",
+        "strongs": "H7098"
       },
       {
         "surface": "of the mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       }
     ],
     "19": [
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "cherub",
-        "lemma": "keruv"
+        "lemma": "keruv",
+        "strongs": "H3742"
       },
       {
         "surface": "end",
-        "lemma": "qatsah"
+        "lemma": "qatsah",
+        "strongs": "H7098"
       },
       {
         "surface": "and one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "on the other",
-        "lemma": "qatsah"
+        "lemma": "qatsah",
+        "strongs": "H7098"
       },
       {
         "surface": "all made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "from one piece of gold",
-        "lemma": "qatsah"
+        "lemma": "qatsah",
+        "strongs": "H7098"
       }
     ],
     "20": [
       {
         "surface": "And the cherubim",
-        "lemma": "keruv"
+        "lemma": "keruv",
+        "strongs": "H3742"
       },
       {
         "surface": "are to have",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "wings",
-        "lemma": "kanaph"
+        "lemma": "kanaph",
+        "strongs": "H3671"
       },
       {
         "surface": "that spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "upward",
-        "lemma": "maal"
+        "lemma": "maal",
+        "strongs": "H4605"
       },
       {
         "surface": "overshadowing",
-        "lemma": "sukh"
+        "lemma": "sukh",
+        "strongs": "H5526"
       },
       {
         "surface": "the mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       },
       {
         "surface": "The cherubim are to face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "each",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "other",
-        "lemma": "ach"
+        "lemma": "ach",
+        "strongs": "H0251"
       },
       {
         "surface": "looking",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       }
     ],
     "21": [
       {
         "surface": "Set",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       },
       {
         "surface": "the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "and put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the Testimony",
-        "lemma": "edut"
+        "lemma": "edut",
+        "strongs": "H5715"
       },
       {
         "surface": "I will give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       }
     ],
     "22": [
       {
         "surface": "And I will meet",
-        "lemma": "yaad"
+        "lemma": "yaad",
+        "strongs": "H3259"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "the mercy seat",
-        "lemma": "kapporet"
+        "lemma": "kapporet",
+        "strongs": "H3727"
       },
       {
         "surface": "between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "the two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "cherubim",
-        "lemma": "keruv"
+        "lemma": "keruv",
+        "strongs": "H3742"
       },
       {
         "surface": "the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "of the Testimony",
-        "lemma": "edut"
+        "lemma": "edut",
+        "strongs": "H5715"
       },
       {
         "surface": "I will speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "about all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "I command",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "23": [
       {
         "surface": "You are also to make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "of acacia",
-        "lemma": "shittah"
+        "lemma": "shittah",
+        "strongs": "H7848"
       },
       {
         "surface": "wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "two cubits",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "long",
-        "lemma": "orekh"
+        "lemma": "orekh",
+        "strongs": "H0753"
       },
       {
         "surface": "a cubit",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "wide",
-        "lemma": "rochav"
+        "lemma": "rochav",
+        "strongs": "H7341"
       },
       {
         "surface": "and a cubit",
-        "lemma": "ammah"
+        "lemma": "ammah",
+        "strongs": "H0520"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "high",
-        "lemma": "qomah"
+        "lemma": "qomah",
+        "strongs": "H6967"
       }
     ],
     "24": [
       {
         "surface": "Overlay",
-        "lemma": "tsaphah"
+        "lemma": "tsaphah",
+        "strongs": "H6823"
       },
       {
         "surface": "with pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "and make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "molding",
-        "lemma": "zer"
+        "lemma": "zer",
+        "strongs": "H2213"
       },
       {
         "surface": "around it",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       }
     ],
     "25": [
       {
         "surface": "And make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a rim",
-        "lemma": "misgeret"
+        "lemma": "misgeret",
+        "strongs": "H4526"
       },
       {
         "surface": "around it",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       },
       {
         "surface": "a handbreadth wide",
-        "lemma": "tophach"
+        "lemma": "tophach",
+        "strongs": "H2948"
       },
       {
         "surface": "and put",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "molding",
-        "lemma": "zer"
+        "lemma": "zer",
+        "strongs": "H2213"
       },
       {
         "surface": "on",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       },
       {
         "surface": "the rim",
-        "lemma": "misgeret"
+        "lemma": "misgeret",
+        "strongs": "H4526"
       }
     ],
     "26": [
       {
         "surface": "Make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "and fasten",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "them",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "the four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "corners",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "at its four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "legs",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "27": [
       {
         "surface": "The rings",
-        "lemma": "tabbaat"
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       },
       {
         "surface": "are to be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "close",
-        "lemma": "ummah"
+        "lemma": "ummah",
+        "strongs": "H5980"
       },
       {
         "surface": "to the rim",
-        "lemma": "misgeret"
+        "lemma": "misgeret",
+        "strongs": "H4526"
       },
       {
         "surface": "to serve as holders",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "for the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "used to carry",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "the table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       }
     ],
     "28": [
       {
         "surface": "Make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "of acacia",
-        "lemma": "shittah"
+        "lemma": "shittah",
+        "strongs": "H7848"
       },
       {
         "surface": "wood",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "and overlay",
-        "lemma": "tsaphah"
+        "lemma": "tsaphah",
+        "strongs": "H6823"
       },
       {
         "surface": "with gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "so that the table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "may be carried",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       }
     ],
     "29": [
       {
         "surface": "You are also to make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the plates",
-        "lemma": "qearah"
+        "lemma": "qearah",
+        "strongs": "H7086"
       },
       {
         "surface": "and dishes",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       },
       {
         "surface": "as well as the pitchers",
-        "lemma": "qasah"
+        "lemma": "qasah",
+        "strongs": "H7184"
       },
       {
         "surface": "and bowls",
-        "lemma": "menaqqiyyah"
+        "lemma": "menaqqiyyah",
+        "strongs": "H4518"
       },
       {
         "surface": "for pouring drink offerings",
-        "lemma": "nasakh"
+        "lemma": "nasakh",
+        "strongs": "H5258"
       },
       {
         "surface": "Make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "out of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       }
     ],
     "30": [
       {
         "surface": "And place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the Bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of the Presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "before Me",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "at all times",
-        "lemma": "tamid"
+        "lemma": "tamid",
+        "strongs": "H8548"
       }
     ],
     "31": [
       {
         "surface": "Then you are to make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "hammered",
-        "lemma": "miqshah"
+        "lemma": "miqshah",
+        "strongs": "H4749"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "It",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "shall be made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "including",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "its base",
-        "lemma": "yarekh"
+        "lemma": "yarekh",
+        "strongs": "H3409"
       },
       {
         "surface": "and shaft",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "its cups",
-        "lemma": "gevia"
+        "lemma": "gevia",
+        "strongs": "H1375"
       },
       {
         "surface": "and its buds",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "and petals",
-        "lemma": "perach"
+        "lemma": "perach",
+        "strongs": "H6525"
       }
     ],
     "32": [
       {
         "surface": "Six",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "branches",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "are to extend",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "from the sides",
-        "lemma": "tsad"
+        "lemma": "tsad",
+        "strongs": "H6654"
       },
       {
         "surface": "of the lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "on one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "side",
-        "lemma": "tsad"
+        "lemma": "tsad",
+        "strongs": "H6654"
       },
       {
         "surface": "and three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "on the other",
-        "lemma": "sheni"
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "33": [
       {
         "surface": "There are to be three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "cups",
-        "lemma": "gevia"
+        "lemma": "gevia",
+        "strongs": "H1375"
       },
       {
         "surface": "shaped like almond blossoms",
-        "lemma": "shaqad"
+        "lemma": "shaqad",
+        "strongs": "H8246"
       },
       {
         "surface": "on the first",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "branch",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "each with buds",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "and petals",
-        "lemma": "perach"
+        "lemma": "perach",
+        "strongs": "H6525"
       },
       {
         "surface": "three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "on the next",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "branch",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "and the same",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "for all six",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "branches",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "that extend",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "the lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       }
     ],
     "34": [
       {
         "surface": "And on the lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "there shall be four",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "cups",
-        "lemma": "gevia"
+        "lemma": "gevia",
+        "strongs": "H1375"
       },
       {
         "surface": "shaped like almond blossoms",
-        "lemma": "shaqad"
+        "lemma": "shaqad",
+        "strongs": "H8246"
       },
       {
         "surface": "with buds",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "and petals",
-        "lemma": "perach"
+        "lemma": "perach",
+        "strongs": "H6525"
       }
     ],
     "35": [
       {
         "surface": "For the six",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "branches",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "that extend",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "the lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "a bud",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "must be under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the first pair",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "of branches",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "a bud",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the second pair",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "and a bud",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the third pair",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "36": [
       {
         "surface": "The buds",
-        "lemma": "kaphtor"
+        "lemma": "kaphtor",
+        "strongs": "H3730"
       },
       {
         "surface": "and branches",
-        "lemma": "qaneh"
+        "lemma": "qaneh",
+        "strongs": "H7070"
       },
       {
         "surface": "are to be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "of one piece with the lampstand",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "hammered",
-        "lemma": "miqshah"
+        "lemma": "miqshah",
+        "strongs": "H4749"
       },
       {
         "surface": "out of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       }
     ],
     "37": [
       {
         "surface": "Make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "lamps",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "and set them up",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "so that they",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "illuminate",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "the area",
-        "lemma": "ever"
+        "lemma": "ever",
+        "strongs": "H5676"
       },
       {
         "surface": "front of it",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "38": [
       {
         "surface": "The wick trimmers",
-        "lemma": "melqach"
+        "lemma": "melqach",
+        "strongs": "H4457"
       },
       {
         "surface": "and their trays",
-        "lemma": "machtah"
+        "lemma": "machtah",
+        "strongs": "H4289"
       },
       {
         "surface": "must be of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       }
     ],
     "39": [
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "utensils",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "shall be made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a talent",
-        "lemma": "kikkar"
+        "lemma": "kikkar",
+        "strongs": "H3603"
       },
       {
         "surface": "of pure",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       }
     ],
     "40": [
       {
         "surface": "See to it that",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "you make everything",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "according to the pattern",
-        "lemma": "tavnit"
+        "lemma": "tavnit",
+        "strongs": "H8403"
       },
       {
         "surface": "shown",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "on the mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ]
-  },
-  "themeLemmas": [
-    "asah",
-    "zahav",
-    "tahor"
-  ]
+  }
 }

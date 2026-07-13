@@ -7,869 +7,1064 @@
     "1": [
       {
         "surface": "These are the words",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "of King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "Lemuel",
-        "lemma": "lemuel"
+        "lemma": "lemuel",
+        "strongs": "H3927"
       },
       {
         "surface": "the burden",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "his mother",
-        "lemma": "em"
+        "lemma": "em",
+        "strongs": "H0517"
       },
       {
         "surface": "taught him",
-        "lemma": "yasar"
+        "lemma": "yasar",
+        "strongs": "H3256"
       }
     ],
     "2": [
       {
         "surface": "What shall I say",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "O my son",
-        "lemma": "bar"
+        "lemma": "bar",
+        "strongs": "H1248"
       },
       {
         "surface": "What",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "O son",
-        "lemma": "bar"
+        "lemma": "bar",
+        "strongs": "H1248"
       },
       {
         "surface": "of my womb",
-        "lemma": "beten"
+        "lemma": "beten",
+        "strongs": "H0990"
       },
       {
         "surface": "What",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "O son",
-        "lemma": "bar"
+        "lemma": "bar",
+        "strongs": "H1248"
       },
       {
         "surface": "of my vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       }
     ],
     "3": [
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "spend",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "your strength",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "on women",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "or your vigor",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "on those who ruin",
-        "lemma": "machah"
+        "lemma": "machah",
+        "strongs": "H4229"
       },
       {
         "surface": "kings",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "4": [
       {
         "surface": "It is not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "for kings",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "O Lemuel",
-        "lemma": "lemuel"
+        "lemma": "lemuel",
+        "strongs": "H3927"
       },
       {
         "surface": "it is not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "for kings",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "to drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "wine",
-        "lemma": "yayin"
+        "lemma": "yayin",
+        "strongs": "H3196"
       },
       {
         "surface": "or for rulers",
-        "lemma": "razan"
+        "lemma": "razan",
+        "strongs": "H7336"
       },
       {
         "surface": "strong drink",
-        "lemma": "shekhar"
+        "lemma": "shekhar",
+        "strongs": "H7941"
       }
     ],
     "5": [
       {
         "surface": "they drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "and forget",
-        "lemma": "shakhach"
+        "lemma": "shakhach",
+        "strongs": "H7911"
       },
       {
         "surface": "what is decreed",
-        "lemma": "chaqaq"
+        "lemma": "chaqaq",
+        "strongs": "H2710"
       },
       {
         "surface": "depriving",
-        "lemma": "shanah"
+        "lemma": "shanah",
+        "strongs": "H8138"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the oppressed",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of justice",
-        "lemma": "din"
+        "lemma": "din",
+        "strongs": "H1779"
       }
     ],
     "6": [
       {
         "surface": "Give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "strong drink",
-        "lemma": "shekhar"
+        "lemma": "shekhar",
+        "strongs": "H7941"
       },
       {
         "surface": "to one who is perishing",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H0006"
       },
       {
         "surface": "and wine",
-        "lemma": "yayin"
+        "lemma": "yayin",
+        "strongs": "H3196"
       },
       {
         "surface": "to the bitter",
-        "lemma": "mar"
+        "lemma": "mar",
+        "strongs": "H4751"
       },
       {
         "surface": "in soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "7": [
       {
         "surface": "Let him drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "and forget",
-        "lemma": "shakhach"
+        "lemma": "shakhach",
+        "strongs": "H7911"
       },
       {
         "surface": "his poverty",
-        "lemma": "resh"
+        "lemma": "resh",
+        "strongs": "H7389"
       },
       {
         "surface": "and remember",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2142"
       },
       {
         "surface": "his misery",
-        "lemma": "amal"
+        "lemma": "amal",
+        "strongs": "H5999"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "more",
-        "lemma": "od"
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "8": [
       {
         "surface": "Open",
-        "lemma": "patach"
+        "lemma": "patach",
+        "strongs": "H6605"
       },
       {
         "surface": "your mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "for those with no voice",
-        "lemma": "illem"
+        "lemma": "illem",
+        "strongs": "H0483"
       },
       {
         "surface": "the cause",
-        "lemma": "din"
+        "lemma": "din",
+        "strongs": "H1779"
       },
       {
         "surface": "of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the dispossessed",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "9": [
       {
         "surface": "Open",
-        "lemma": "patach"
+        "lemma": "patach",
+        "strongs": "H6605"
       },
       {
         "surface": "your mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "judge",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "righteously",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "and defend the cause",
-        "lemma": "din"
+        "lemma": "din",
+        "strongs": "H1777"
       },
       {
         "surface": "of the poor",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       }
     ],
     "10": [
       {
         "surface": "A wife",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "of noble character",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "can find",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       },
       {
         "surface": "She is far",
-        "lemma": "rachoq"
+        "lemma": "rachoq",
+        "strongs": "H7350"
       },
       {
         "surface": "more precious",
-        "lemma": "mekher"
+        "lemma": "mekher",
+        "strongs": "H4377"
       },
       {
         "surface": "than rubies",
-        "lemma": "panin"
+        "lemma": "panin",
+        "strongs": "H6443"
       }
     ],
     "11": [
       {
         "surface": "The heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "of her husband",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "trusts",
-        "lemma": "batach"
+        "lemma": "batach",
+        "strongs": "H0982"
       },
       {
         "surface": "and he lacks",
-        "lemma": "chaser"
+        "lemma": "chaser",
+        "strongs": "H2637"
       },
       {
         "surface": "nothing",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "of value",
-        "lemma": "shalal"
+        "lemma": "shalal",
+        "strongs": "H7998"
       }
     ],
     "12": [
       {
         "surface": "She brings him",
-        "lemma": "gamal"
+        "lemma": "gamal",
+        "strongs": "H1580"
       },
       {
         "surface": "good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "harm",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of her life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ],
     "13": [
       {
         "surface": "She selects",
-        "lemma": "darash"
+        "lemma": "darash",
+        "strongs": "H1875"
       },
       {
         "surface": "wool",
-        "lemma": "tsemer"
+        "lemma": "tsemer",
+        "strongs": "H6785"
       },
       {
         "surface": "and flax",
-        "lemma": "pishteh"
+        "lemma": "pishteh",
+        "strongs": "H6593"
       },
       {
         "surface": "and works",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "with eager",
-        "lemma": "chephets"
+        "lemma": "chephets",
+        "strongs": "H2656"
       },
       {
         "surface": "hands",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       }
     ],
     "14": [
       {
         "surface": "She is",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "like the merchant",
-        "lemma": "sachar"
+        "lemma": "sachar",
+        "strongs": "H5503"
       },
       {
         "surface": "ships",
-        "lemma": "oniyyah"
+        "lemma": "oniyyah",
+        "strongs": "H0591"
       },
       {
         "surface": "bringing",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "her food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "from afar",
-        "lemma": "merchaq"
+        "lemma": "merchaq",
+        "strongs": "H4801"
       }
     ],
     "15": [
       {
         "surface": "She rises",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "while it is still",
-        "lemma": "od"
+        "lemma": "od",
+        "strongs": "H5750"
       },
       {
         "surface": "night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       },
       {
         "surface": "to provide",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "food",
-        "lemma": "tereph"
+        "lemma": "tereph",
+        "strongs": "H2964"
       },
       {
         "surface": "for her household",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "and portions",
-        "lemma": "choq"
+        "lemma": "choq",
+        "strongs": "H2706"
       },
       {
         "surface": "for her maidservants",
-        "lemma": "naarah"
+        "lemma": "naarah",
+        "strongs": "H5291"
       }
     ],
     "16": [
       {
         "surface": "She appraises",
-        "lemma": "zamam"
+        "lemma": "zamam",
+        "strongs": "H2161"
       },
       {
         "surface": "a field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "and buys it",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "from her earnings",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "she plants",
-        "lemma": "nata"
+        "lemma": "nata",
+        "strongs": "H5193"
       },
       {
         "surface": "a vineyard",
-        "lemma": "kerem"
+        "lemma": "kerem",
+        "strongs": "H3754"
       }
     ],
     "17": [
       {
         "surface": "She girds herself",
-        "lemma": "chagar"
+        "lemma": "chagar",
+        "strongs": "H2296"
       },
       {
         "surface": "with strength",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "and shows that her arms",
-        "lemma": "zeroa"
+        "lemma": "zeroa",
+        "strongs": "H2220"
       },
       {
         "surface": "are strong",
-        "lemma": "amats"
+        "lemma": "amats",
+        "strongs": "H0553"
       }
     ],
     "18": [
       {
         "surface": "She sees",
-        "lemma": "taam"
+        "lemma": "taam",
+        "strongs": "H2938"
       },
       {
         "surface": "her gain",
-        "lemma": "sachar"
+        "lemma": "sachar",
+        "strongs": "H5504"
       },
       {
         "surface": "is good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and her lamp",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "extinguished",
-        "lemma": "kavah"
+        "lemma": "kavah",
+        "strongs": "H3518"
       },
       {
         "surface": "at night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "19": [
       {
         "surface": "She stretches",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "out her hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "to the distaff",
-        "lemma": "kishor"
+        "lemma": "kishor",
+        "strongs": "H3601"
       },
       {
         "surface": "and grasps",
-        "lemma": "tamakh"
+        "lemma": "tamakh",
+        "strongs": "H8551"
       },
       {
         "surface": "the spindle",
-        "lemma": "pelekh"
+        "lemma": "pelekh",
+        "strongs": "H6418"
       },
       {
         "surface": "with her fingers",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       }
     ],
     "20": [
       {
         "surface": "She opens",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "her arms",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       },
       {
         "surface": "to the poor",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and reaches out",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "her hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "to the needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       }
     ],
     "21": [
       {
         "surface": "When it snows",
-        "lemma": "sheleg"
+        "lemma": "sheleg",
+        "strongs": "H7950"
       },
       {
         "surface": "she has no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "for her household",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "they are all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "clothed",
-        "lemma": "lavash"
+        "lemma": "lavash",
+        "strongs": "H3847"
       },
       {
         "surface": "in scarlet",
-        "lemma": "shani"
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "22": [
       {
         "surface": "She makes",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "coverings for her bed",
-        "lemma": "marvad"
+        "lemma": "marvad",
+        "strongs": "H4765"
       },
       {
         "surface": "her clothing",
-        "lemma": "levush"
+        "lemma": "levush",
+        "strongs": "H3830"
       },
       {
         "surface": "is fine linen",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8336"
       },
       {
         "surface": "and purple",
-        "lemma": "argaman"
+        "lemma": "argaman",
+        "strongs": "H0713"
       }
     ],
     "23": [
       {
         "surface": "Her husband",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "is known",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "at the city gates",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "where he sits",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "the elders",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "24": [
       {
         "surface": "She makes",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "linen garments",
-        "lemma": "sadin"
+        "lemma": "sadin",
+        "strongs": "H5466"
       },
       {
         "surface": "and sells them",
-        "lemma": "makhar"
+        "lemma": "makhar",
+        "strongs": "H4376"
       },
       {
         "surface": "she delivers",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "sashes",
-        "lemma": "chagor"
+        "lemma": "chagor",
+        "strongs": "H2290"
       },
       {
         "surface": "to the merchants",
-        "lemma": "kenaani"
+        "lemma": "kenaani",
+        "strongs": "H3669"
       }
     ],
     "25": [
       {
         "surface": "Strength",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "and honor",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1926"
       },
       {
         "surface": "are her clothing",
-        "lemma": "levush"
+        "lemma": "levush",
+        "strongs": "H3830"
       },
       {
         "surface": "and she can laugh",
-        "lemma": "sachaq"
+        "lemma": "sachaq",
+        "strongs": "H7832"
       },
       {
         "surface": "at the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "to come",
-        "lemma": "acharon"
+        "lemma": "acharon",
+        "strongs": "H0314"
       }
     ],
     "26": [
       {
         "surface": "She opens",
-        "lemma": "patach"
+        "lemma": "patach",
+        "strongs": "H6605"
       },
       {
         "surface": "her mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "with wisdom",
-        "lemma": "chokhmah"
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       },
       {
         "surface": "and faithful",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "instruction",
-        "lemma": "torah"
+        "lemma": "torah",
+        "strongs": "H8451"
       },
       {
         "surface": "her tongue",
-        "lemma": "lashon"
+        "lemma": "lashon",
+        "strongs": "H3956"
       }
     ],
     "27": [
       {
         "surface": "She watches over",
-        "lemma": "tsaphah"
+        "lemma": "tsaphah",
+        "strongs": "H6822"
       },
       {
         "surface": "the affairs",
-        "lemma": "halikhah"
+        "lemma": "halikhah",
+        "strongs": "H1979"
       },
       {
         "surface": "of her household",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "and does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "the bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of idleness",
-        "lemma": "atslut"
+        "lemma": "atslut",
+        "strongs": "H6104"
       }
     ],
     "28": [
       {
         "surface": "Her children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "rise up",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "and call her blessed",
-        "lemma": "ashar"
+        "lemma": "ashar",
+        "strongs": "H0833"
       },
       {
         "surface": "her husband",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "praises her as well",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       }
     ],
     "29": [
       {
         "surface": "Many",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "daughters",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "have done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "noble things",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "surpass",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "30": [
       {
         "surface": "Charm",
-        "lemma": "chen"
+        "lemma": "chen",
+        "strongs": "H2580"
       },
       {
         "surface": "is deceptive",
-        "lemma": "sheqer"
+        "lemma": "sheqer",
+        "strongs": "H8267"
       },
       {
         "surface": "and beauty",
-        "lemma": "yophi"
+        "lemma": "yophi",
+        "strongs": "H3308"
       },
       {
         "surface": "is fleeting",
-        "lemma": "hevel"
+        "lemma": "hevel",
+        "strongs": "H1892"
       },
       {
         "surface": "but a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "who fears",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3373"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is to be praised",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       }
     ],
     "31": [
       {
         "surface": "Give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "of her hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "and let her works",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "praise her",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "at the gates",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       }
     ]
-  },
-  "themeLemmas": [
-    "lo",
-    "natan",
-    "kol"
-  ]
+  }
 }

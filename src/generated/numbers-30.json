@@ -7,711 +7,874 @@
     "1": [
       {
         "surface": "Then Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "to the heads",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "of the tribes",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       }
     ],
     "2": [
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "makes",
-        "lemma": "nadar"
+        "lemma": "nadar",
+        "strongs": "H5087"
       },
       {
         "surface": "a vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "swears",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "an oath",
-        "lemma": "shevuah"
+        "lemma": "shevuah",
+        "strongs": "H7621"
       },
       {
         "surface": "to obligate",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "himself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "by a pledge",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "he must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "break",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "his word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "he must do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "he has promised",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "3": [
       {
         "surface": "a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "in her father’s",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "during her youth",
-        "lemma": "naur"
+        "lemma": "naur",
+        "strongs": "H5271"
       },
       {
         "surface": "makes",
-        "lemma": "nadar"
+        "lemma": "nadar",
+        "strongs": "H5087"
       },
       {
         "surface": "a vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "or obligates herself",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "by a pledge",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       }
     ],
     "4": [
       {
         "surface": "and her father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "hears about",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "her vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or pledge",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "but",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "says nothing",
-        "lemma": "charash"
+        "lemma": "charash",
+        "strongs": "H2790"
       },
       {
         "surface": "then all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "she has bound",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "herself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "shall stand",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "5": [
       {
         "surface": "But if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "her father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "prohibits her",
-        "lemma": "nu"
+        "lemma": "nu",
+        "strongs": "H5106"
       },
       {
         "surface": "on the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he hears",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "about it",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "then none",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "of the vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "she has bound",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "herself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "shall stand",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "will absolve",
-        "lemma": "salach"
+        "lemma": "salach",
+        "strongs": "H5545"
       },
       {
         "surface": "her father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "has prohibited her",
-        "lemma": "nu"
+        "lemma": "nu",
+        "strongs": "H5106"
       }
     ],
     "6": [
       {
         "surface": "If",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "a woman marries",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "while under a vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "rash promise",
-        "lemma": "mivta"
+        "lemma": "mivta",
+        "strongs": "H4008"
       },
       {
         "surface": "she",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "has bound",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       }
     ],
     "7": [
       {
         "surface": "and her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "hears of it",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "but says nothing",
-        "lemma": "charash"
+        "lemma": "charash",
+        "strongs": "H2790"
       },
       {
         "surface": "on that day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "then the vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "she",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "has bound",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "shall stand",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "8": [
       {
         "surface": "But if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "prohibits",
-        "lemma": "nu"
+        "lemma": "nu",
+        "strongs": "H5106"
       },
       {
         "surface": "when",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he hears of it",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "he nullifies",
-        "lemma": "parar"
+        "lemma": "parar",
+        "strongs": "H6565"
       },
       {
         "surface": "the vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or the rash promise",
-        "lemma": "mivta"
+        "lemma": "mivta",
+        "strongs": "H4008"
       },
       {
         "surface": "she",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "has made",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "and the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "will absolve",
-        "lemma": "salach"
+        "lemma": "salach",
+        "strongs": "H5545"
       }
     ],
     "9": [
       {
         "surface": "Every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "a widow",
-        "lemma": "almanah"
+        "lemma": "almanah",
+        "strongs": "H0490"
       },
       {
         "surface": "or divorced woman",
-        "lemma": "garash"
+        "lemma": "garash",
+        "strongs": "H1644"
       },
       {
         "surface": "pledges to fulfill",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "is binding",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "10": [
       {
         "surface": "If",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "a woman in her husband’s",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "has made a vow",
-        "lemma": "nadar"
+        "lemma": "nadar",
+        "strongs": "H5087"
       },
       {
         "surface": "put herself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "an obligation",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "with an oath",
-        "lemma": "shevuah"
+        "lemma": "shevuah",
+        "strongs": "H7621"
       }
     ],
     "11": [
       {
         "surface": "and her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "hears of it",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "but says nothing",
-        "lemma": "charash"
+        "lemma": "charash",
+        "strongs": "H2790"
       },
       {
         "surface": "and does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "prohibit her",
-        "lemma": "nu"
+        "lemma": "nu",
+        "strongs": "H5106"
       },
       {
         "surface": "then all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "she has bound",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "herself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "shall stand",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "12": [
       {
         "surface": "But if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "nullifies them",
-        "lemma": "parar"
+        "lemma": "parar",
+        "strongs": "H6565"
       },
       {
         "surface": "on the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he hears of them",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "then nothing",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "that came from",
-        "lemma": "motsa"
+        "lemma": "motsa",
+        "strongs": "H4161"
       },
       {
         "surface": "her lips",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H8193"
       },
       {
         "surface": "whether her vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "shall stand",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "Her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "has nullified them",
-        "lemma": "parar"
+        "lemma": "parar",
+        "strongs": "H6565"
       },
       {
         "surface": "and the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "will absolve",
-        "lemma": "salach"
+        "lemma": "salach",
+        "strongs": "H5545"
       }
     ],
     "13": [
       {
         "surface": "Her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "may confirm",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "or nullify",
-        "lemma": "parar"
+        "lemma": "parar",
+        "strongs": "H6565"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "vow",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "or any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "sworn",
-        "lemma": "shevuah"
+        "lemma": "shevuah",
+        "strongs": "H7621"
       },
       {
         "surface": "pledge",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "to deny",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       },
       {
         "surface": "herself",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "14": [
       {
         "surface": "But if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "says nothing",
-        "lemma": "charash"
+        "lemma": "charash",
+        "strongs": "H2790"
       },
       {
         "surface": "from day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "then he confirms",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the vows",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "pledges",
-        "lemma": "esar"
+        "lemma": "esar",
+        "strongs": "H0632"
       },
       {
         "surface": "He has confirmed",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "he said nothing",
-        "lemma": "charash"
+        "lemma": "charash",
+        "strongs": "H2790"
       },
       {
         "surface": "on the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he heard about them",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "15": [
       {
         "surface": "But if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "he nullifies",
-        "lemma": "parar"
+        "lemma": "parar",
+        "strongs": "H6565"
       },
       {
         "surface": "after",
-        "lemma": "achar"
+        "lemma": "achar",
+        "strongs": "H0310"
       },
       {
         "surface": "he hears of them",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "then he will bear",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "iniquity",
-        "lemma": "avan"
+        "lemma": "avan",
+        "strongs": "H5771"
       }
     ],
     "16": [
       {
         "surface": "are the statutes",
-        "lemma": "choq"
+        "lemma": "choq",
+        "strongs": "H2706"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "concerning the relationship between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "and his wife",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "and between",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "a father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "and a young daughter",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "still in his",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "home",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ]
-  },
-  "themeLemmas": [
-    "neder",
-    "kol",
-    "esar"
-  ]
+  }
 }

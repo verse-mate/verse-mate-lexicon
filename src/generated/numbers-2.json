@@ -7,979 +7,1200 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       }
     ],
     "2": [
       {
         "surface": "The Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "are to camp",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "around",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       },
       {
         "surface": "the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "at a distance from it",
-        "lemma": "neged"
+        "lemma": "neged",
+        "strongs": "H5048"
       },
       {
         "surface": "each man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "his standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "with the banners",
-        "lemma": "ot"
+        "lemma": "ot",
+        "strongs": "H0226"
       },
       {
         "surface": "of his family",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "3": [
       {
         "surface": "On the east side",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "toward the sunrise",
-        "lemma": "mizrach"
+        "lemma": "mizrach",
+        "strongs": "H4217"
       },
       {
         "surface": "the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "are to camp",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "under their standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of the Judahites",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "is Nahshon",
-        "lemma": "nachshon"
+        "lemma": "nachshon",
+        "strongs": "H5177"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Amminadab",
-        "lemma": "amminadav"
+        "lemma": "amminadav",
+        "strongs": "H5992"
       }
     ],
     "4": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "74600",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "5": [
       {
         "surface": "The tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Issachar",
-        "lemma": "yissaskhar"
+        "lemma": "yissaskhar",
+        "strongs": "H3485"
       },
       {
         "surface": "will camp",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Issacharites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Nethanel",
-        "lemma": "netanel"
+        "lemma": "netanel",
+        "strongs": "H5417"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Zuar",
-        "lemma": "tsuar"
+        "lemma": "tsuar",
+        "strongs": "H6686"
       }
     ],
     "6": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "54400",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "7": [
       {
         "surface": "Next will be the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Zebulun",
-        "lemma": "zevulun"
+        "lemma": "zevulun",
+        "strongs": "H2074"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Zebulunites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Eliab",
-        "lemma": "eliav"
+        "lemma": "eliav",
+        "strongs": "H0446"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Helon",
-        "lemma": "chelon"
+        "lemma": "chelon",
+        "strongs": "H2497"
       }
     ],
     "8": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "57400",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       }
     ],
     "9": [
       {
         "surface": "The total",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "number of men",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "is 186,400",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "they shall set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       }
     ],
     "10": [
       {
         "surface": "On the south side",
-        "lemma": "teman"
+        "lemma": "teman",
+        "strongs": "H8486"
       },
       {
         "surface": "the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of Reuben",
-        "lemma": "reuven"
+        "lemma": "reuven",
+        "strongs": "H7205"
       },
       {
         "surface": "are to camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "under their standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Reubenites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Elizur",
-        "lemma": "elitsur"
+        "lemma": "elitsur",
+        "strongs": "H0468"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Shedeur",
-        "lemma": "shedeur"
+        "lemma": "shedeur",
+        "strongs": "H7707"
       }
     ],
     "11": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "46500",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       }
     ],
     "12": [
       {
         "surface": "The tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Simeon",
-        "lemma": "shimon"
+        "lemma": "shimon",
+        "strongs": "H8095"
       },
       {
         "surface": "will camp",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Simeonites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Shelumiel",
-        "lemma": "shelumiel"
+        "lemma": "shelumiel",
+        "strongs": "H8017"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "vvv",
-        "lemma": "tsurishadday"
+        "lemma": "tsurishadday",
+        "strongs": "H6701"
       },
       {
         "surface": "of Zurishaddai",
-        "lemma": "tsurishadday"
+        "lemma": "tsurishadday",
+        "strongs": "H6701"
       }
     ],
     "13": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "59300",
-        "lemma": "tesah"
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "14": [
       {
         "surface": "Next will be the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Gad",
-        "lemma": "gad"
+        "lemma": "gad",
+        "strongs": "H1410"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Gadites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Eliasaph",
-        "lemma": "elyasaph"
+        "lemma": "elyasaph",
+        "strongs": "H0460"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Deuel",
-        "lemma": "reuel"
+        "lemma": "reuel",
+        "strongs": "H7467"
       }
     ],
     "15": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "45650",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "16": [
       {
         "surface": "The total",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "number of men",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "of Reuben",
-        "lemma": "reuven"
+        "lemma": "reuven",
+        "strongs": "H7205"
       },
       {
         "surface": "is 151,450",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "they shall set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "second",
-        "lemma": "sheni"
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "17": [
       {
         "surface": "In the middle",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "of the camps",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "is to travel",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "with the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "of the Levites",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       },
       {
         "surface": "They are to set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "they encamped",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "each",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "his own place",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "under his standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       }
     ],
     "18": [
       {
         "surface": "On the west side",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of Ephraim",
-        "lemma": "ephrayim"
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       },
       {
         "surface": "are to camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "under their standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Ephraimites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Elishama",
-        "lemma": "elishama"
+        "lemma": "elishama",
+        "strongs": "H0476"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ammihud",
-        "lemma": "ammihud"
+        "lemma": "ammihud",
+        "strongs": "H5989"
       }
     ],
     "19": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "40500",
-        "lemma": "arbaim"
+        "lemma": "arbaim",
+        "strongs": "H0705"
       }
     ],
     "20": [
       {
         "surface": "The tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Manasseh",
-        "lemma": "menashsheh"
+        "lemma": "menashsheh",
+        "strongs": "H4519"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Manassites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Gamaliel",
-        "lemma": "gamliel"
+        "lemma": "gamliel",
+        "strongs": "H1583"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Pedahzur",
-        "lemma": "pedahtsur"
+        "lemma": "pedahtsur",
+        "strongs": "H6301"
       }
     ],
     "21": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "32200",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "22": [
       {
         "surface": "Next will be the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Benjamin",
-        "lemma": "binyamin"
+        "lemma": "binyamin",
+        "strongs": "H1144"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Benjamites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Abidan",
-        "lemma": "avidan"
+        "lemma": "avidan",
+        "strongs": "H0027"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Gideoni",
-        "lemma": "gidoni"
+        "lemma": "gidoni",
+        "strongs": "H1441"
       }
     ],
     "23": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "35400",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "24": [
       {
         "surface": "The total",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "number of men",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "of Ephraim",
-        "lemma": "ephrayim"
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       },
       {
         "surface": "is 108,100",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "they shall set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "third",
-        "lemma": "shelishi"
+        "lemma": "shelishi",
+        "strongs": "H7992"
       }
     ],
     "25": [
       {
         "surface": "On the north side",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       },
       {
         "surface": "the divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "of Dan",
-        "lemma": "dan"
+        "lemma": "dan",
+        "strongs": "H1835"
       },
       {
         "surface": "are to camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "under their standard",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Danites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Ahiezer",
-        "lemma": "achiezer"
+        "lemma": "achiezer",
+        "strongs": "H0295"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ammishaddai",
-        "lemma": "ammishadday"
+        "lemma": "ammishadday",
+        "strongs": "H5996"
       }
     ],
     "26": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "62700",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "27": [
       {
         "surface": "The tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Asher",
-        "lemma": "asher"
+        "lemma": "asher",
+        "strongs": "H0836"
       },
       {
         "surface": "will camp",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Asherites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Pagiel",
-        "lemma": "pagiel"
+        "lemma": "pagiel",
+        "strongs": "H6295"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ocran",
-        "lemma": "okhran"
+        "lemma": "okhran",
+        "strongs": "H5918"
       }
     ],
     "28": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "41500",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       }
     ],
     "29": [
       {
         "surface": "Next will be the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Naphtali",
-        "lemma": "naphtali"
+        "lemma": "naphtali",
+        "strongs": "H5321"
       },
       {
         "surface": "The leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the Naphtalites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "is Ahira",
-        "lemma": "achira"
+        "lemma": "achira",
+        "strongs": "H0299"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Enan",
-        "lemma": "enan"
+        "lemma": "enan",
+        "strongs": "H5881"
       }
     ],
     "30": [
       {
         "surface": "and his division",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "numbers",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "53400",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "31": [
       {
         "surface": "The total",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "number of men",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "of Dan",
-        "lemma": "dan"
+        "lemma": "dan",
+        "strongs": "H1835"
       },
       {
         "surface": "is 157,600",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "they shall set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "last",
-        "lemma": "acharon"
+        "lemma": "acharon",
+        "strongs": "H0314"
       },
       {
         "surface": "under their standards",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       }
     ],
     "32": [
       {
         "surface": "are the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "according to their families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "The total",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "of those counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "in the camps",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "by their divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "was 603,550",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       }
     ],
     "33": [
       {
         "surface": "But the Levites",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       },
       {
         "surface": "were not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "among",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "the other Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "had commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "34": [
       {
         "surface": "So the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "did",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "they camped",
-        "lemma": "chanah"
+        "lemma": "chanah",
+        "strongs": "H2583"
       },
       {
         "surface": "under their standards",
-        "lemma": "degel"
+        "lemma": "degel",
+        "strongs": "H1714"
       },
       {
         "surface": "in this way",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "and set out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "in the same way",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "each man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "with his clan",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "his family",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ]
-  },
-  "themeLemmas": [
-    "tsava",
-    "paqad",
-    "nasi"
-  ]
+  }
 }

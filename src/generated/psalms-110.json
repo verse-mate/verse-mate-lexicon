@@ -7,245 +7,296 @@
     "1": [
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "neum"
+        "lemma": "neum",
+        "strongs": "H5002"
       },
       {
         "surface": "to my Lord",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "Sit",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "at My right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "I make",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "Your enemies",
-        "lemma": "oyev"
+        "lemma": "oyev",
+        "strongs": "H0341"
       },
       {
         "surface": "a footstool",
-        "lemma": "hadom"
+        "lemma": "hadom",
+        "strongs": "H1916"
       },
       {
         "surface": "for Your feet",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "2": [
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "extends",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "Your mighty",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "scepter",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "from Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "Rule",
-        "lemma": "radah"
+        "lemma": "radah",
+        "strongs": "H7287"
       },
       {
         "surface": "in the midst",
-        "lemma": "qerev"
+        "lemma": "qerev",
+        "strongs": "H7130"
       },
       {
         "surface": "of Your enemies",
-        "lemma": "oyev"
+        "lemma": "oyev",
+        "strongs": "H0341"
       }
     ],
     "3": [
       {
         "surface": "Your people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "shall be willing",
-        "lemma": "nedavah"
+        "lemma": "nedavah",
+        "strongs": "H5071"
       },
       {
         "surface": "on Your day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of battle",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "Arrayed in holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "splendor",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1926"
       },
       {
         "surface": "from the womb",
-        "lemma": "rechem"
+        "lemma": "rechem",
+        "strongs": "H7358"
       },
       {
         "surface": "of the dawn",
-        "lemma": "mishchar"
+        "lemma": "mishchar",
+        "strongs": "H4891"
       },
       {
         "surface": "the dew",
-        "lemma": "tal"
+        "lemma": "tal",
+        "strongs": "H2919"
       },
       {
         "surface": "of Your youth",
-        "lemma": "yaldut"
+        "lemma": "yaldut",
+        "strongs": "H3208"
       }
     ],
     "4": [
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has sworn",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "and will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "change His mind",
-        "lemma": "nacham"
+        "lemma": "nacham",
+        "strongs": "H5162"
       },
       {
         "surface": "are a priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "the order",
-        "lemma": "divrah"
+        "lemma": "divrah",
+        "strongs": "H1700"
       },
       {
         "surface": "vvv",
-        "lemma": "malkitsedeq"
+        "lemma": "malkitsedeq",
+        "strongs": "H4442"
       },
       {
         "surface": "of Melchizedek",
-        "lemma": "malkitsedeq"
+        "lemma": "malkitsedeq",
+        "strongs": "H4442"
       }
     ],
     "5": [
       {
         "surface": "The Lord",
-        "lemma": "adonai"
+        "lemma": "adonai",
+        "strongs": "H0136"
       },
       {
         "surface": "Your right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "He will crush",
-        "lemma": "machats"
+        "lemma": "machats",
+        "strongs": "H4272"
       },
       {
         "surface": "kings",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "in the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of His wrath",
-        "lemma": "aph"
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "6": [
       {
         "surface": "He will judge",
-        "lemma": "din"
+        "lemma": "din",
+        "strongs": "H1777"
       },
       {
         "surface": "the nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "heaping up",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "the dead",
-        "lemma": "geviyyah"
+        "lemma": "geviyyah",
+        "strongs": "H1472"
       },
       {
         "surface": "He will crush",
-        "lemma": "machats"
+        "lemma": "machats",
+        "strongs": "H4272"
       },
       {
         "surface": "the leaders",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "and wide",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "7": [
       {
         "surface": "He will drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "from the brook",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5158"
       },
       {
         "surface": "by the road",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "He will lift up",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "His head",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ]
-  },
-  "themeLemmas": [
-    "yamin",
-    "oyev",
-    "malkitsedeq"
-  ]
+  }
 }

@@ -7,1187 +7,1462 @@
     "1": [
       {
         "surface": "But the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "Now",
-        "lemma": "attah"
+        "lemma": "attah",
+        "strongs": "H6258"
       },
       {
         "surface": "you will see",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "I will do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "to Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "because of My mighty",
-        "lemma": "chazaq"
+        "lemma": "chazaq",
+        "strongs": "H2389"
       },
       {
         "surface": "hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "he will let the people go",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "because of My strong",
-        "lemma": "chazaq"
+        "lemma": "chazaq",
+        "strongs": "H2389"
       },
       {
         "surface": "hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "he will drive them out of",
-        "lemma": "garash"
+        "lemma": "garash",
+        "strongs": "H1644"
       },
       {
         "surface": "his land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
       {
         "surface": "God also",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "told",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
       {
         "surface": "I appeared",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "Abraham",
-        "lemma": "avraham"
+        "lemma": "avraham",
+        "strongs": "H0085"
       },
       {
         "surface": "Isaac",
-        "lemma": "yitschaq"
+        "lemma": "yitschaq",
+        "strongs": "H3327"
       },
       {
         "surface": "Jacob",
-        "lemma": "yaaqov"
+        "lemma": "yaaqov",
+        "strongs": "H3290"
       },
       {
         "surface": "as God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "Almighty",
-        "lemma": "shadday"
+        "lemma": "shadday",
+        "strongs": "H7706"
       },
       {
         "surface": "but by My name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I did not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "make Myself known",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "4": [
       {
         "surface": "established",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "My covenant",
-        "lemma": "berit"
+        "lemma": "berit",
+        "strongs": "H1285"
       },
       {
         "surface": "to give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Canaan",
-        "lemma": "kenaan"
+        "lemma": "kenaan",
+        "strongs": "H3667"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "they lived as foreigners",
-        "lemma": "gur"
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "5": [
       {
         "surface": "have heard",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "the groaning",
-        "lemma": "neaqah"
+        "lemma": "neaqah",
+        "strongs": "H5009"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of the Israelites",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "the Egyptians",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "are enslaving",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "and I have remembered",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2142"
       },
       {
         "surface": "My covenant",
-        "lemma": "berit"
+        "lemma": "berit",
+        "strongs": "H1285"
       }
     ],
     "6": [
       {
         "surface": "Therefore",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "tell",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "and I will bring",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "out from under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the yoke",
-        "lemma": "sevalah"
+        "lemma": "sevalah",
+        "strongs": "H5450"
       },
       {
         "surface": "of the Egyptians",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "and deliver",
-        "lemma": "natsal"
+        "lemma": "natsal",
+        "strongs": "H5337"
       },
       {
         "surface": "from their bondage",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "I will redeem",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "with an outstretched",
-        "lemma": "natah"
+        "lemma": "natah",
+        "strongs": "H5186"
       },
       {
         "surface": "arm",
-        "lemma": "zeroa"
+        "lemma": "zeroa",
+        "strongs": "H2220"
       },
       {
         "surface": "and with mighty",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "acts of judgment",
-        "lemma": "shephet"
+        "lemma": "shephet",
+        "strongs": "H8201"
       }
     ],
     "7": [
       {
         "surface": "I will take",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "and I will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "Then you will know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "who brought",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "out from under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the yoke",
-        "lemma": "sevalah"
+        "lemma": "sevalah",
+        "strongs": "H5450"
       },
       {
         "surface": "of the Egyptians",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "8": [
       {
         "surface": "And I will bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "I swore",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "to give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "to Abraham",
-        "lemma": "avraham"
+        "lemma": "avraham",
+        "strongs": "H0085"
       },
       {
         "surface": "Isaac",
-        "lemma": "yitschaq"
+        "lemma": "yitschaq",
+        "strongs": "H3327"
       },
       {
         "surface": "and Jacob",
-        "lemma": "yaaqov"
+        "lemma": "yaaqov",
+        "strongs": "H3290"
       },
       {
         "surface": "I will give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "as a possession",
-        "lemma": "morashah"
+        "lemma": "morashah",
+        "strongs": "H4181"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "9": [
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "relayed",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "this message",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "but on account of their broken",
-        "lemma": "qotser"
+        "lemma": "qotser",
+        "strongs": "H7115"
       },
       {
         "surface": "spirit",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "and cruel",
-        "lemma": "qasheh"
+        "lemma": "qasheh",
+        "strongs": "H7186"
       },
       {
         "surface": "bondage",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "they did not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "him",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "10": [
       {
         "surface": "So the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "11": [
       {
         "surface": "Go",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and tell",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "to let the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "go out",
-        "lemma": "shalach"
+        "lemma": "shalach",
+        "strongs": "H7971"
       },
       {
         "surface": "of his land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "12": [
       {
         "surface": "But in the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "replied",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "then why",
-        "lemma": "ekh"
+        "lemma": "ekh",
+        "strongs": "H0349"
       },
       {
         "surface": "would Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "listen to me",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "am unskilled",
-        "lemma": "arel"
+        "lemma": "arel",
+        "strongs": "H6189"
       },
       {
         "surface": "in speech",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H8193"
       }
     ],
     "13": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "spoke",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and gave them a charge",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "both the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "to bring",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "out of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "14": [
       {
         "surface": "were the heads",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "of their fathers’",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "houses",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Reuben",
-        "lemma": "reuven"
+        "lemma": "reuven",
+        "strongs": "H7205"
       },
       {
         "surface": "the firstborn",
-        "lemma": "bekhor"
+        "lemma": "bekhor",
+        "strongs": "H1060"
       },
       {
         "surface": "of Israel, were",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "Hanoch",
-        "lemma": "chanokh"
+        "lemma": "chanokh",
+        "strongs": "H2585"
       },
       {
         "surface": "and Pallu",
-        "lemma": "pallu"
+        "lemma": "pallu",
+        "strongs": "H6396"
       },
       {
         "surface": "Hezron",
-        "lemma": "chetsron"
+        "lemma": "chetsron",
+        "strongs": "H2696"
       },
       {
         "surface": "and Carmi",
-        "lemma": "karmi"
+        "lemma": "karmi",
+        "strongs": "H3756"
       },
       {
         "surface": "were the clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "of Reuben",
-        "lemma": "reuven"
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "15": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Simeon were",
-        "lemma": "shimon"
+        "lemma": "shimon",
+        "strongs": "H8095"
       },
       {
         "surface": "Jemuel",
-        "lemma": "yemuel"
+        "lemma": "yemuel",
+        "strongs": "H3223"
       },
       {
         "surface": "Jamin",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3226"
       },
       {
         "surface": "Ohad",
-        "lemma": "ohad"
+        "lemma": "ohad",
+        "strongs": "H0161"
       },
       {
         "surface": "Jachin",
-        "lemma": "yakhin"
+        "lemma": "yakhin",
+        "strongs": "H3199"
       },
       {
         "surface": "Zohar",
-        "lemma": "tsochar"
+        "lemma": "tsochar",
+        "strongs": "H6714"
       },
       {
         "surface": "and Shaul",
-        "lemma": "shaul"
+        "lemma": "shaul",
+        "strongs": "H7586"
       },
       {
         "surface": "the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of a Canaanite woman",
-        "lemma": "kenaani"
+        "lemma": "kenaani",
+        "strongs": "H3669"
       },
       {
         "surface": "were the clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "of Simeon",
-        "lemma": "shimon"
+        "lemma": "shimon",
+        "strongs": "H8095"
       }
     ],
     "16": [
       {
         "surface": "were the names",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Levi",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       },
       {
         "surface": "according to their records",
-        "lemma": "toledah"
+        "lemma": "toledah",
+        "strongs": "H8435"
       },
       {
         "surface": "Gershon",
-        "lemma": "gereshon"
+        "lemma": "gereshon",
+        "strongs": "H1648"
       },
       {
         "surface": "Kohath",
-        "lemma": "qehat"
+        "lemma": "qehat",
+        "strongs": "H6955"
       },
       {
         "surface": "and Merari",
-        "lemma": "merari"
+        "lemma": "merari",
+        "strongs": "H4847"
       },
       {
         "surface": "Levi",
-        "lemma": "levi"
+        "lemma": "levi",
+        "strongs": "H3878"
       },
       {
         "surface": "lived",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "137",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "17": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Gershon were",
-        "lemma": "gereshon"
+        "lemma": "gereshon",
+        "strongs": "H1648"
       },
       {
         "surface": "Libni",
-        "lemma": "livni"
+        "lemma": "livni",
+        "strongs": "H3845"
       },
       {
         "surface": "and Shimei",
-        "lemma": "shimi"
+        "lemma": "shimi",
+        "strongs": "H8096"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       }
     ],
     "18": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Kohath were",
-        "lemma": "qehat"
+        "lemma": "qehat",
+        "strongs": "H6955"
       },
       {
         "surface": "Amram",
-        "lemma": "amram"
+        "lemma": "amram",
+        "strongs": "H6019"
       },
       {
         "surface": "Izhar",
-        "lemma": "yitshar"
+        "lemma": "yitshar",
+        "strongs": "H3324"
       },
       {
         "surface": "Hebron",
-        "lemma": "chevron"
+        "lemma": "chevron",
+        "strongs": "H2275"
       },
       {
         "surface": "and Uzziel",
-        "lemma": "uzziel"
+        "lemma": "uzziel",
+        "strongs": "H5816"
       },
       {
         "surface": "Kohath",
-        "lemma": "qehat"
+        "lemma": "qehat",
+        "strongs": "H6955"
       },
       {
         "surface": "lived",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "133",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "19": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Merari were",
-        "lemma": "merari"
+        "lemma": "merari",
+        "strongs": "H4847"
       },
       {
         "surface": "Mahli",
-        "lemma": "machli"
+        "lemma": "machli",
+        "strongs": "H4249"
       },
       {
         "surface": "and Mushi",
-        "lemma": "mushi"
+        "lemma": "mushi",
+        "strongs": "H4187"
       },
       {
         "surface": "were the clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "of the Levites",
-        "lemma": "levi"
+        "lemma": "levi",
+        "strongs": "H3878"
       },
       {
         "surface": "according to their records",
-        "lemma": "toledah"
+        "lemma": "toledah",
+        "strongs": "H8435"
       }
     ],
     "20": [
       {
         "surface": "And Amram",
-        "lemma": "amram"
+        "lemma": "amram",
+        "strongs": "H6019"
       },
       {
         "surface": "married",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "his father’s sister",
-        "lemma": "dodah"
+        "lemma": "dodah",
+        "strongs": "H1733"
       },
       {
         "surface": "Jochebed",
-        "lemma": "yokheved"
+        "lemma": "yokheved",
+        "strongs": "H3115"
       },
       {
         "surface": "and she bore",
-        "lemma": "yalad"
+        "lemma": "yalad",
+        "strongs": "H3205"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "Amram",
-        "lemma": "amram"
+        "lemma": "amram",
+        "strongs": "H6019"
       },
       {
         "surface": "lived",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "137",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "21": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Izhar were",
-        "lemma": "yitshar"
+        "lemma": "yitshar",
+        "strongs": "H3324"
       },
       {
         "surface": "Korah",
-        "lemma": "qorach"
+        "lemma": "qorach",
+        "strongs": "H7141"
       },
       {
         "surface": "Nepheg",
-        "lemma": "nepheg"
+        "lemma": "nepheg",
+        "strongs": "H5298"
       },
       {
         "surface": "and Zichri",
-        "lemma": "zikhri"
+        "lemma": "zikhri",
+        "strongs": "H2147"
       }
     ],
     "22": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Uzziel were",
-        "lemma": "uzziel"
+        "lemma": "uzziel",
+        "strongs": "H5816"
       },
       {
         "surface": "Mishael",
-        "lemma": "mishael"
+        "lemma": "mishael",
+        "strongs": "H4332"
       },
       {
         "surface": "Elzaphan",
-        "lemma": "elitsaphan"
+        "lemma": "elitsaphan",
+        "strongs": "H0469"
       },
       {
         "surface": "and Sithri",
-        "lemma": "sitri"
+        "lemma": "sitri",
+        "strongs": "H5644"
       }
     ],
     "23": [
       {
         "surface": "And Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "married",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "Elisheba",
-        "lemma": "elisheva"
+        "lemma": "elisheva",
+        "strongs": "H0472"
       },
       {
         "surface": "the daughter",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "of Amminadab",
-        "lemma": "amminadav"
+        "lemma": "amminadav",
+        "strongs": "H5992"
       },
       {
         "surface": "and sister",
-        "lemma": "achot"
+        "lemma": "achot",
+        "strongs": "H0269"
       },
       {
         "surface": "of Nahshon",
-        "lemma": "nachshon"
+        "lemma": "nachshon",
+        "strongs": "H5177"
       },
       {
         "surface": "and she bore",
-        "lemma": "yalad"
+        "lemma": "yalad",
+        "strongs": "H3205"
       },
       {
         "surface": "Nadab",
-        "lemma": "nadav"
+        "lemma": "nadav",
+        "strongs": "H5070"
       },
       {
         "surface": "and Abihu",
-        "lemma": "avihu"
+        "lemma": "avihu",
+        "strongs": "H0030"
       },
       {
         "surface": "Eleazar",
-        "lemma": "elazar"
+        "lemma": "elazar",
+        "strongs": "H0499"
       },
       {
         "surface": "and Ithamar",
-        "lemma": "itamar"
+        "lemma": "itamar",
+        "strongs": "H0385"
       }
     ],
     "24": [
       {
         "surface": "The sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Korah were",
-        "lemma": "qorach"
+        "lemma": "qorach",
+        "strongs": "H7141"
       },
       {
         "surface": "Assir",
-        "lemma": "assir"
+        "lemma": "assir",
+        "strongs": "H0617"
       },
       {
         "surface": "Elkanah",
-        "lemma": "elqanah"
+        "lemma": "elqanah",
+        "strongs": "H0511"
       },
       {
         "surface": "and Abiasaph",
-        "lemma": "aviasaph"
+        "lemma": "aviasaph",
+        "strongs": "H0023"
       },
       {
         "surface": "were the clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "of the Korahites",
-        "lemma": "qorchi"
+        "lemma": "qorchi",
+        "strongs": "H7145"
       }
     ],
     "25": [
       {
         "surface": "Aaron’s",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "Eleazar",
-        "lemma": "elazar"
+        "lemma": "elazar",
+        "strongs": "H0499"
       },
       {
         "surface": "married",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "one of the daughters",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "of Putiel",
-        "lemma": "putiel"
+        "lemma": "putiel",
+        "strongs": "H6317"
       },
       {
         "surface": "and she bore",
-        "lemma": "yalad"
+        "lemma": "yalad",
+        "strongs": "H3205"
       },
       {
         "surface": "Phinehas",
-        "lemma": "pinchas"
+        "lemma": "pinchas",
+        "strongs": "H6372"
       },
       {
         "surface": "were the heads",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "of the Levite",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       },
       {
         "surface": "families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       }
     ],
     "26": [
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Bring the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "out",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "their divisions",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       }
     ],
     "27": [
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "were the ones who spoke",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "in order to bring",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "out of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "28": [
       {
         "surface": "Now",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "on the day that",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "spoke",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "vvv",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "in Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "29": [
       {
         "surface": "He",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "him",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "tell",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "king",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "say",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "30": [
       {
         "surface": "But in the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "replied",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "am unskilled",
-        "lemma": "arel"
+        "lemma": "arel",
+        "strongs": "H6189"
       },
       {
         "surface": "in speech",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H8193"
       },
       {
         "surface": "why",
-        "lemma": "ekh"
+        "lemma": "ekh",
+        "strongs": "H0349"
       },
       {
         "surface": "would Pharaoh",
-        "lemma": "paroh"
+        "lemma": "paroh",
+        "strongs": "H6547"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ]
-  },
-  "themeLemmas": [
-    "mosheh",
-    "mitsrayim",
-    "paroh"
-  ]
+  }
 }

@@ -7,1055 +7,1295 @@
     "1": [
       {
         "surface": "You are to",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "imitate",
-        "lemma": "mimetes"
+        "lemma": "mimetes",
+        "strongs": "G3402"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       }
     ],
     "2": [
       {
         "surface": "I commend",
-        "lemma": "epaineo"
+        "lemma": "epaineo",
+        "strongs": "G1867"
       },
       {
         "surface": "remembering",
-        "lemma": "mimnesko"
+        "lemma": "mimnesko",
+        "strongs": "G3403"
       },
       {
         "surface": "in everything",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "for maintaining",
-        "lemma": "katecho"
+        "lemma": "katecho",
+        "strongs": "G2722"
       },
       {
         "surface": "traditions",
-        "lemma": "paradosis"
+        "lemma": "paradosis",
+        "strongs": "G3862"
       },
       {
         "surface": "I passed them on",
-        "lemma": "paradidomi"
+        "lemma": "paradidomi",
+        "strongs": "G3860"
       }
     ],
     "3": [
       {
         "surface": "I want",
-        "lemma": "thelo"
+        "lemma": "thelo",
+        "strongs": "G2309"
       },
       {
         "surface": "to understand",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "of every",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "the head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "of the woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "is man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "the head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "of Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "is God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "4": [
       {
         "surface": "Every",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "who prays",
-        "lemma": "proseuchomai"
+        "lemma": "proseuchomai",
+        "strongs": "G4336"
       },
       {
         "surface": "prophesies",
-        "lemma": "propheteuo"
+        "lemma": "propheteuo",
+        "strongs": "G4395"
       },
       {
         "surface": "with",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "his head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "dishonors",
-        "lemma": "kataischuno"
+        "lemma": "kataischuno",
+        "strongs": "G2617"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       }
     ],
     "5": [
       {
         "surface": "every",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "who prays",
-        "lemma": "proseuchomai"
+        "lemma": "proseuchomai",
+        "strongs": "G4336"
       },
       {
         "surface": "prophesies",
-        "lemma": "propheteuo"
+        "lemma": "propheteuo",
+        "strongs": "G4395"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "uncovered",
-        "lemma": "akatakaluptos"
+        "lemma": "akatakaluptos",
+        "strongs": "G0177"
       },
       {
         "surface": "dishonors",
-        "lemma": "kataischuno"
+        "lemma": "kataischuno",
+        "strongs": "G2617"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "it is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "vvv",
-        "lemma": "heis"
+        "lemma": "heis",
+        "strongs": "G1520"
       },
       {
         "surface": "her head were shaved",
-        "lemma": "xurao"
+        "lemma": "xurao",
+        "strongs": "G3587"
       }
     ],
     "6": [
       {
         "surface": "a woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "cover her head",
-        "lemma": "katakalupto"
+        "lemma": "katakalupto",
+        "strongs": "G2619"
       },
       {
         "surface": "she should have her hair cut off",
-        "lemma": "keiro"
+        "lemma": "keiro",
+        "strongs": "G2751"
       },
       {
         "surface": "shameful",
-        "lemma": "aischros"
+        "lemma": "aischros",
+        "strongs": "G0150"
       },
       {
         "surface": "for a woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "to have her hair cut",
-        "lemma": "keiro"
+        "lemma": "keiro",
+        "strongs": "G2751"
       },
       {
         "surface": "shaved off",
-        "lemma": "xurao"
+        "lemma": "xurao",
+        "strongs": "G3587"
       },
       {
         "surface": "she should cover her head",
-        "lemma": "katakalupto"
+        "lemma": "katakalupto",
+        "strongs": "G2619"
       }
     ],
     "7": [
       {
         "surface": "A man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "ought",
-        "lemma": "opheilo"
+        "lemma": "opheilo",
+        "strongs": "G3784"
       },
       {
         "surface": "to cover",
-        "lemma": "katakalupto"
+        "lemma": "katakalupto",
+        "strongs": "G2619"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "since he is",
-        "lemma": "huparcho"
+        "lemma": "huparcho",
+        "strongs": "G5225"
       },
       {
         "surface": "the image",
-        "lemma": "eikon"
+        "lemma": "eikon",
+        "strongs": "G1504"
       },
       {
         "surface": "glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "the glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       },
       {
         "surface": "of man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "8": [
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "did not come",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "9": [
       {
         "surface": "was} man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "created",
-        "lemma": "ktizo"
+        "lemma": "ktizo",
+        "strongs": "G2936"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "10": [
       {
         "surface": "a woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "ought",
-        "lemma": "opheilo"
+        "lemma": "opheilo",
+        "strongs": "G3784"
       },
       {
         "surface": "to have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "a sign of authority",
-        "lemma": "exousia"
+        "lemma": "exousia",
+        "strongs": "G1849"
       },
       {
         "surface": "head",
-        "lemma": "kephale"
+        "lemma": "kephale",
+        "strongs": "G2776"
       },
       {
         "surface": "angels",
-        "lemma": "angelos"
+        "lemma": "angelos",
+        "strongs": "G0032"
       }
     ],
     "11": [
       {
         "surface": "the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "of man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "is man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "of woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       }
     ],
     "12": [
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "so",
-        "lemma": "houto"
+        "lemma": "houto",
+        "strongs": "G3779"
       },
       {
         "surface": "man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "everything",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "13": [
       {
         "surface": "Judge",
-        "lemma": "krino"
+        "lemma": "krino",
+        "strongs": "G2919"
       },
       {
         "surface": "Is it",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "proper",
-        "lemma": "prepo"
+        "lemma": "prepo",
+        "strongs": "G4241"
       },
       {
         "surface": "for a woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "to pray",
-        "lemma": "proseuchomai"
+        "lemma": "proseuchomai",
+        "strongs": "G4336"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "with her head uncovered",
-        "lemma": "akatakaluptos"
+        "lemma": "akatakaluptos",
+        "strongs": "G0177"
       }
     ],
     "14": [
       {
         "surface": "nature",
-        "lemma": "phusis"
+        "lemma": "phusis",
+        "strongs": "G5449"
       },
       {
         "surface": "teach",
-        "lemma": "didasko"
+        "lemma": "didasko",
+        "strongs": "G1321"
       },
       {
         "surface": "a man",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "has long hair",
-        "lemma": "komao"
+        "lemma": "komao",
+        "strongs": "G2863"
       },
       {
         "surface": "it is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "a disgrace",
-        "lemma": "atimia"
+        "lemma": "atimia",
+        "strongs": "G0819"
       }
     ],
     "15": [
       {
         "surface": "a woman",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "has long hair",
-        "lemma": "komao"
+        "lemma": "komao",
+        "strongs": "G2863"
       },
       {
         "surface": "it is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       },
       {
         "surface": "long hair",
-        "lemma": "kome"
+        "lemma": "kome",
+        "strongs": "G2864"
       },
       {
         "surface": "is given",
-        "lemma": "didomi"
+        "lemma": "didomi",
+        "strongs": "G1325"
       },
       {
         "surface": "a covering",
-        "lemma": "peribolaion"
+        "lemma": "peribolaion",
+        "strongs": "G4018"
       }
     ],
     "16": [
       {
         "surface": "is inclined to dispute this",
-        "lemma": "dokeo"
+        "lemma": "dokeo",
+        "strongs": "G1380"
       },
       {
         "surface": "have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "practice",
-        "lemma": "sunetheia"
+        "lemma": "sunetheia",
+        "strongs": "G4914"
       },
       {
         "surface": "churches",
-        "lemma": "ekklesia"
+        "lemma": "ekklesia",
+        "strongs": "G1577"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "17": [
       {
         "surface": "instructions",
-        "lemma": "parangello"
+        "lemma": "parangello",
+        "strongs": "G3853"
       },
       {
         "surface": "I have no praise to offer",
-        "lemma": "epaineo"
+        "lemma": "epaineo",
+        "strongs": "G1867"
       },
       {
         "surface": "your gatherings",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "do more harm",
-        "lemma": "hetton"
+        "lemma": "hetton",
+        "strongs": "G2276"
       },
       {
         "surface": "than good",
-        "lemma": "kreisson"
+        "lemma": "kreisson",
+        "strongs": "G2908"
       }
     ],
     "18": [
       {
         "surface": "First of all",
-        "lemma": "proton"
+        "lemma": "proton",
+        "strongs": "G4412"
       },
       {
         "surface": "I hear that",
-        "lemma": "akouo"
+        "lemma": "akouo",
+        "strongs": "G0191"
       },
       {
         "surface": "come together",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "a church",
-        "lemma": "ekklesia"
+        "lemma": "ekklesia",
+        "strongs": "G1577"
       },
       {
         "surface": "there are",
-        "lemma": "huparcho"
+        "lemma": "huparcho",
+        "strongs": "G5225"
       },
       {
         "surface": "divisions",
-        "lemma": "schisma"
+        "lemma": "schisma",
+        "strongs": "G4978"
       },
       {
         "surface": "in part",
-        "lemma": "meros"
+        "lemma": "meros",
+        "strongs": "G3313"
       },
       {
         "surface": "I believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       }
     ],
     "19": [
       {
         "surface": "there must",
-        "lemma": "dei"
+        "lemma": "dei",
+        "strongs": "G1163"
       },
       {
         "surface": "be",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "differences",
-        "lemma": "hairesis"
+        "lemma": "hairesis",
+        "strongs": "G0139"
       },
       {
         "surface": "vvv",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "show",
-        "lemma": "phaneros"
+        "lemma": "phaneros",
+        "strongs": "G5318"
       },
       {
         "surface": "are approved",
-        "lemma": "dokimos"
+        "lemma": "dokimos",
+        "strongs": "G1384"
       }
     ],
     "20": [
       {
         "surface": "come together",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "it is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "the Lord’s",
-        "lemma": "kuriakos"
+        "lemma": "kuriakos",
+        "strongs": "G2960"
       },
       {
         "surface": "Supper",
-        "lemma": "deipnon"
+        "lemma": "deipnon",
+        "strongs": "G1173"
       },
       {
         "surface": "you eat",
-        "lemma": "phagein"
+        "lemma": "phagein",
+        "strongs": "G5315"
       }
     ],
     "21": [
       {
         "surface": "you eat",
-        "lemma": "phagein"
+        "lemma": "phagein",
+        "strongs": "G5315"
       },
       {
         "surface": "each of you",
-        "lemma": "hekastos"
+        "lemma": "hekastos",
+        "strongs": "G1538"
       },
       {
         "surface": "goes ahead without sharing",
-        "lemma": "prolambano"
+        "lemma": "prolambano",
+        "strongs": "G4301"
       },
       {
         "surface": "meal",
-        "lemma": "deipnon"
+        "lemma": "deipnon",
+        "strongs": "G1173"
       },
       {
         "surface": "remains hungry",
-        "lemma": "peinao"
+        "lemma": "peinao",
+        "strongs": "G3983"
       },
       {
         "surface": "gets drunk",
-        "lemma": "methuo"
+        "lemma": "methuo",
+        "strongs": "G3184"
       }
     ],
     "22": [
       {
         "surface": "you have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "homes",
-        "lemma": "oikia"
+        "lemma": "oikia",
+        "strongs": "G3614"
       },
       {
         "surface": "to eat",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "drink",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "do you despise",
-        "lemma": "kataphroneo"
+        "lemma": "kataphroneo",
+        "strongs": "G2706"
       },
       {
         "surface": "church",
-        "lemma": "ekklesia"
+        "lemma": "ekklesia",
+        "strongs": "G1577"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "humiliate",
-        "lemma": "kataischuno"
+        "lemma": "kataischuno",
+        "strongs": "G2617"
       },
       {
         "surface": "have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "What",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "can I say",
-        "lemma": "eipon"
+        "lemma": "eipon",
+        "strongs": "G2036"
       },
       {
         "surface": "Shall I praise",
-        "lemma": "epaineo"
+        "lemma": "epaineo",
+        "strongs": "G1867"
       },
       {
         "surface": "I will not",
-        "lemma": "epaineo"
+        "lemma": "epaineo",
+        "strongs": "G1867"
       }
     ],
     "23": [
       {
         "surface": "received",
-        "lemma": "paralambano"
+        "lemma": "paralambano",
+        "strongs": "G3880"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "I also passed on",
-        "lemma": "paradidomi"
+        "lemma": "paradidomi",
+        "strongs": "G3860"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "night",
-        "lemma": "nux"
+        "lemma": "nux",
+        "strongs": "G3571"
       },
       {
         "surface": "He was betrayed",
-        "lemma": "paradidomi"
+        "lemma": "paradidomi",
+        "strongs": "G3860"
       },
       {
         "surface": "took",
-        "lemma": "lambano"
+        "lemma": "lambano",
+        "strongs": "G2983"
       },
       {
         "surface": "bread",
-        "lemma": "artos"
+        "lemma": "artos",
+        "strongs": "G0740"
       }
     ],
     "24": [
       {
         "surface": "when He had given thanks",
-        "lemma": "eucharisteo"
+        "lemma": "eucharisteo",
+        "strongs": "G2168"
       },
       {
         "surface": "He broke it",
-        "lemma": "klao"
+        "lemma": "klao",
+        "strongs": "G2806"
       },
       {
         "surface": "said",
-        "lemma": "eipon"
+        "lemma": "eipon",
+        "strongs": "G2036"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "body",
-        "lemma": "soma"
+        "lemma": "soma",
+        "strongs": "G4983"
       },
       {
         "surface": "do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "remembrance",
-        "lemma": "anamnesis"
+        "lemma": "anamnesis",
+        "strongs": "G0364"
       },
       {
         "surface": "of Me",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       }
     ],
     "25": [
       {
         "surface": "In the same way",
-        "lemma": "hosautos"
+        "lemma": "hosautos",
+        "strongs": "G5615"
       },
       {
         "surface": "supper",
-        "lemma": "deipneo"
+        "lemma": "deipneo",
+        "strongs": "G1172"
       },
       {
         "surface": "cup",
-        "lemma": "poterion"
+        "lemma": "poterion",
+        "strongs": "G4221"
       },
       {
         "surface": "saying",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "cup",
-        "lemma": "poterion"
+        "lemma": "poterion",
+        "strongs": "G4221"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "new",
-        "lemma": "kainos"
+        "lemma": "kainos",
+        "strongs": "G2537"
       },
       {
         "surface": "covenant",
-        "lemma": "diatheke"
+        "lemma": "diatheke",
+        "strongs": "G1242"
       },
       {
         "surface": "My",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       },
       {
         "surface": "blood",
-        "lemma": "haima"
+        "lemma": "haima",
+        "strongs": "G0129"
       },
       {
         "surface": "do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "you drink it",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "remembrance",
-        "lemma": "anamnesis"
+        "lemma": "anamnesis",
+        "strongs": "G0364"
       },
       {
         "surface": "of Me",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       }
     ],
     "26": [
       {
         "surface": "you eat",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "bread",
-        "lemma": "artos"
+        "lemma": "artos",
+        "strongs": "G0740"
       },
       {
         "surface": "drink",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "cup",
-        "lemma": "poterion"
+        "lemma": "poterion",
+        "strongs": "G4221"
       },
       {
         "surface": "you proclaim",
-        "lemma": "katangello"
+        "lemma": "katangello",
+        "strongs": "G2605"
       },
       {
         "surface": "Lord’s",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "He comes",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "27": [
       {
         "surface": "eats",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "bread",
-        "lemma": "artos"
+        "lemma": "artos",
+        "strongs": "G0740"
       },
       {
         "surface": "drinks",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "cup",
-        "lemma": "poterion"
+        "lemma": "poterion",
+        "strongs": "G4221"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "in an unworthy manner",
-        "lemma": "anaxios"
+        "lemma": "anaxios",
+        "strongs": "G0371"
       },
       {
         "surface": "will be",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "guilty of sinning",
-        "lemma": "enochos"
+        "lemma": "enochos",
+        "strongs": "G1777"
       },
       {
         "surface": "body",
-        "lemma": "soma"
+        "lemma": "soma",
+        "strongs": "G4983"
       },
       {
         "surface": "blood",
-        "lemma": "haima"
+        "lemma": "haima",
+        "strongs": "G0129"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       }
     ],
     "28": [
       {
         "surface": "Each one",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "must examine",
-        "lemma": "dokimazo"
+        "lemma": "dokimazo",
+        "strongs": "G1381"
       },
       {
         "surface": "he eats",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "bread",
-        "lemma": "artos"
+        "lemma": "artos",
+        "strongs": "G0740"
       },
       {
         "surface": "drinks",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "cup",
-        "lemma": "poterion"
+        "lemma": "poterion",
+        "strongs": "G4221"
       }
     ],
     "29": [
       {
         "surface": "eats",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "drinks",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "recognizing",
-        "lemma": "diakrino"
+        "lemma": "diakrino",
+        "strongs": "G1252"
       },
       {
         "surface": "body",
-        "lemma": "soma"
+        "lemma": "soma",
+        "strongs": "G4983"
       },
       {
         "surface": "eats",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "drinks",
-        "lemma": "pino"
+        "lemma": "pino",
+        "strongs": "G4095"
       },
       {
         "surface": "judgment",
-        "lemma": "krima"
+        "lemma": "krima",
+        "strongs": "G2917"
       }
     ],
     "30": [
       {
         "surface": "many",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "are weak",
-        "lemma": "asthenes"
+        "lemma": "asthenes",
+        "strongs": "G0772"
       },
       {
         "surface": "sick",
-        "lemma": "arrostos"
+        "lemma": "arrostos",
+        "strongs": "G0732"
       },
       {
         "surface": "a number of you",
-        "lemma": "hikanos"
+        "lemma": "hikanos",
+        "strongs": "G2425"
       },
       {
         "surface": "have fallen asleep",
-        "lemma": "koimao"
+        "lemma": "koimao",
+        "strongs": "G2837"
       }
     ],
     "31": [
       {
         "surface": "we judged",
-        "lemma": "diakrino"
+        "lemma": "diakrino",
+        "strongs": "G1252"
       },
       {
         "surface": "we would not come under judgment",
-        "lemma": "krino"
+        "lemma": "krino",
+        "strongs": "G2919"
       }
     ],
     "32": [
       {
         "surface": "when we are judged",
-        "lemma": "krino"
+        "lemma": "krino",
+        "strongs": "G2919"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "we are being disciplined",
-        "lemma": "paideuo"
+        "lemma": "paideuo",
+        "strongs": "G3811"
       },
       {
         "surface": "we will not be condemned",
-        "lemma": "katakrino"
+        "lemma": "katakrino",
+        "strongs": "G2632"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       }
     ],
     "33": [
       {
         "surface": "brothers",
-        "lemma": "adelphos"
+        "lemma": "adelphos",
+        "strongs": "G0080"
       },
       {
         "surface": "when you come together",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "eat",
-        "lemma": "phagein"
+        "lemma": "phagein",
+        "strongs": "G5315"
       },
       {
         "surface": "wait for",
-        "lemma": "ekdechomai"
+        "lemma": "ekdechomai",
+        "strongs": "G1551"
       },
       {
         "surface": "one another",
-        "lemma": "allelon"
+        "lemma": "allelon",
+        "strongs": "G0240"
       }
     ],
     "34": [
       {
         "surface": "is hungry",
-        "lemma": "peinao"
+        "lemma": "peinao",
+        "strongs": "G3983"
       },
       {
         "surface": "he should eat",
-        "lemma": "esthio"
+        "lemma": "esthio",
+        "strongs": "G2068"
       },
       {
         "surface": "home",
-        "lemma": "oikos"
+        "lemma": "oikos",
+        "strongs": "G3624"
       },
       {
         "surface": "when you come together",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "judgment",
-        "lemma": "krima"
+        "lemma": "krima",
+        "strongs": "G2917"
       },
       {
         "surface": "I come",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "I will give instructions",
-        "lemma": "diatasso"
+        "lemma": "diatasso",
+        "strongs": "G1299"
       },
       {
         "surface": "remaining matters",
-        "lemma": "loipos"
+        "lemma": "loipos",
+        "strongs": "G3062"
       }
     ]
-  },
-  "themeLemmas": [
-    "katakalupto",
-    "epaineo",
-    "komao"
-  ]
+  }
 }

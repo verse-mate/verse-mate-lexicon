@@ -7,371 +7,450 @@
     "1": [
       {
         "surface": "Then Job",
-        "lemma": "iyyov"
+        "lemma": "iyyov",
+        "strongs": "H0347"
       },
       {
         "surface": "answered",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "2": [
       {
         "surface": "How",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "you have helped",
-        "lemma": "azar"
+        "lemma": "azar",
+        "strongs": "H5826"
       },
       {
         "surface": "the powerless",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "and saved",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "the arm",
-        "lemma": "zeroa"
+        "lemma": "zeroa",
+        "strongs": "H2220"
       },
       {
         "surface": "that is feeble",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       }
     ],
     "3": [
       {
         "surface": "How",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "you have counseled",
-        "lemma": "yaats"
+        "lemma": "yaats",
+        "strongs": "H3289"
       },
       {
         "surface": "the unwise",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "and provided",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "fully sound",
-        "lemma": "rov"
+        "lemma": "rov",
+        "strongs": "H7230"
       },
       {
         "surface": "insight",
-        "lemma": "tushiyyah"
+        "lemma": "tushiyyah",
+        "strongs": "H8454"
       }
     ],
     "4": [
       {
         "surface": "whom",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "have you uttered",
-        "lemma": "nagad"
+        "lemma": "nagad",
+        "strongs": "H5046"
       },
       {
         "surface": "these words",
-        "lemma": "millah"
+        "lemma": "millah",
+        "strongs": "H4405"
       },
       {
         "surface": "And whose",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "spirit",
-        "lemma": "neshamah"
+        "lemma": "neshamah",
+        "strongs": "H5397"
       },
       {
         "surface": "spoke",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "5": [
       {
         "surface": "The dead",
-        "lemma": "rapah"
+        "lemma": "rapah",
+        "strongs": "H7496"
       },
       {
         "surface": "tremble",
-        "lemma": "chul"
+        "lemma": "chul",
+        "strongs": "H2342"
       },
       {
         "surface": "those beneath",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and those who dwell in them",
-        "lemma": "shakhan"
+        "lemma": "shakhan",
+        "strongs": "H7931"
       }
     ],
     "6": [
       {
         "surface": "Sheol",
-        "lemma": "sheol"
+        "lemma": "sheol",
+        "strongs": "H7585"
       },
       {
         "surface": "is naked",
-        "lemma": "arom"
+        "lemma": "arom",
+        "strongs": "H6174"
       },
       {
         "surface": "before God",
-        "lemma": "neged"
+        "lemma": "neged",
+        "strongs": "H5048"
       },
       {
         "surface": "and Abaddon",
-        "lemma": "avaddon"
+        "lemma": "avaddon",
+        "strongs": "H0011"
       },
       {
         "surface": "has no",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "covering",
-        "lemma": "kesut"
+        "lemma": "kesut",
+        "strongs": "H3682"
       }
     ],
     "7": [
       {
         "surface": "He stretches out",
-        "lemma": "natah"
+        "lemma": "natah",
+        "strongs": "H5186"
       },
       {
         "surface": "the north",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       },
       {
         "surface": "empty space",
-        "lemma": "tohu"
+        "lemma": "tohu",
+        "strongs": "H8414"
       },
       {
         "surface": "He hangs",
-        "lemma": "talah"
+        "lemma": "talah",
+        "strongs": "H8518"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "nothing",
-        "lemma": "beli"
+        "lemma": "beli",
+        "strongs": "H1097"
       }
     ],
     "8": [
       {
         "surface": "He wraps up",
-        "lemma": "tsarar"
+        "lemma": "tsarar",
+        "strongs": "H6887"
       },
       {
         "surface": "the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "in His clouds",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H5645"
       },
       {
         "surface": "yet the clouds",
-        "lemma": "anan"
+        "lemma": "anan",
+        "strongs": "H6051"
       },
       {
         "surface": "do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "burst",
-        "lemma": "baqa"
+        "lemma": "baqa",
+        "strongs": "H1234"
       },
       {
         "surface": "under their own weight",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "9": [
       {
         "surface": "He covers",
-        "lemma": "achaz"
+        "lemma": "achaz",
+        "strongs": "H0270"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the full moon",
-        "lemma": "kisse"
+        "lemma": "kisse",
+        "strongs": "H3678"
       },
       {
         "surface": "spreading",
-        "lemma": "parshez"
+        "lemma": "parshez",
+        "strongs": "H6576"
       },
       {
         "surface": "His cloud",
-        "lemma": "anan"
+        "lemma": "anan",
+        "strongs": "H6051"
       }
     ],
     "10": [
       {
         "surface": "He has inscribed",
-        "lemma": "chug"
+        "lemma": "chug",
+        "strongs": "H2328"
       },
       {
         "surface": "a horizon",
-        "lemma": "choq"
+        "lemma": "choq",
+        "strongs": "H2706"
       },
       {
         "surface": "the face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the waters",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "the boundary",
-        "lemma": "takhlit"
+        "lemma": "takhlit",
+        "strongs": "H8503"
       },
       {
         "surface": "light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "and darkness",
-        "lemma": "choshekh"
+        "lemma": "choshekh",
+        "strongs": "H2822"
       }
     ],
     "11": [
       {
         "surface": "The foundations",
-        "lemma": "ammud"
+        "lemma": "ammud",
+        "strongs": "H5982"
       },
       {
         "surface": "of heaven",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "quake",
-        "lemma": "ruph"
+        "lemma": "ruph",
+        "strongs": "H7322"
       },
       {
         "surface": "astounded",
-        "lemma": "tamah"
+        "lemma": "tamah",
+        "strongs": "H8539"
       },
       {
         "surface": "at His rebuke",
-        "lemma": "gearah"
+        "lemma": "gearah",
+        "strongs": "H1606"
       }
     ],
     "12": [
       {
         "surface": "By His power",
-        "lemma": "koach"
+        "lemma": "koach",
+        "strongs": "H3581"
       },
       {
         "surface": "He stirred",
-        "lemma": "raga"
+        "lemma": "raga",
+        "strongs": "H7280"
       },
       {
         "surface": "the sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "by His understanding",
-        "lemma": "tavunah"
+        "lemma": "tavunah",
+        "strongs": "H8394"
       },
       {
         "surface": "He shattered",
-        "lemma": "machats"
+        "lemma": "machats",
+        "strongs": "H4272"
       },
       {
         "surface": "Rahab",
-        "lemma": "rahav"
+        "lemma": "rahav",
+        "strongs": "H7294"
       }
     ],
     "13": [
       {
         "surface": "By His breath",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "the skies",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "were cleared",
-        "lemma": "shiphrah"
+        "lemma": "shiphrah",
+        "strongs": "H8235"
       },
       {
         "surface": "His hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "pierced",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "the fleeing",
-        "lemma": "bariach"
+        "lemma": "bariach",
+        "strongs": "H1281"
       },
       {
         "surface": "serpent",
-        "lemma": "nachash"
+        "lemma": "nachash",
+        "strongs": "H5175"
       }
     ],
     "14": [
       {
         "surface": "but the fringes",
-        "lemma": "qatsah"
+        "lemma": "qatsah",
+        "strongs": "H7098"
       },
       {
         "surface": "of His ways",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "how",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "faint",
-        "lemma": "shemets"
+        "lemma": "shemets",
+        "strongs": "H8102"
       },
       {
         "surface": "is the whisper",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "we hear",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "Who then",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "can understand",
-        "lemma": "bin"
+        "lemma": "bin",
+        "strongs": "H0995"
       },
       {
         "surface": "the thunder",
-        "lemma": "raam"
+        "lemma": "raam",
+        "strongs": "H7482"
       },
       {
         "surface": "of His power",
-        "lemma": "gevurah"
+        "lemma": "gevurah",
+        "strongs": "H1369"
       }
     ]
-  },
-  "themeLemmas": [
-    "lo",
-    "mi",
-    "mayim"
-  ]
+  }
 }
