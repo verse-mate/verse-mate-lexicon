@@ -7,407 +7,497 @@
     "1": [
       {
         "surface": "Paul",
-        "lemma": "paulos"
+        "lemma": "paulos",
+        "strongs": "G3972"
       },
       {
         "surface": "Silvanus",
-        "lemma": "silouanos"
+        "lemma": "silouanos",
+        "strongs": "G4610"
       },
       {
         "surface": "Timothy",
-        "lemma": "timotheos"
+        "lemma": "timotheos",
+        "strongs": "G5095"
       },
       {
         "surface": "church",
-        "lemma": "ekklesia"
+        "lemma": "ekklesia",
+        "strongs": "G1577"
       },
       {
         "surface": "of the Thessalonians",
-        "lemma": "thessalonikeus"
+        "lemma": "thessalonikeus",
+        "strongs": "G2331"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "the Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "Grace",
-        "lemma": "charis"
+        "lemma": "charis",
+        "strongs": "G5485"
       },
       {
         "surface": "peace",
-        "lemma": "eirene"
+        "lemma": "eirene",
+        "strongs": "G1515"
       }
     ],
     "2": [
       {
         "surface": "We always thank",
-        "lemma": "eucharisteo"
+        "lemma": "eucharisteo",
+        "strongs": "G2168"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "all",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "remembering you",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "prayers",
-        "lemma": "proseuche"
+        "lemma": "proseuche",
+        "strongs": "G4335"
       }
     ],
     "3": [
       {
         "surface": "and continually",
-        "lemma": "adialeiptos"
+        "lemma": "adialeiptos",
+        "strongs": "G0089"
       },
       {
         "surface": "recalling",
-        "lemma": "mnemoneuo"
+        "lemma": "mnemoneuo",
+        "strongs": "G3421"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "work",
-        "lemma": "ergon"
+        "lemma": "ergon",
+        "strongs": "G2041"
       },
       {
         "surface": "of faith",
-        "lemma": "pistis"
+        "lemma": "pistis",
+        "strongs": "G4102"
       },
       {
         "surface": "labor",
-        "lemma": "kopos"
+        "lemma": "kopos",
+        "strongs": "G2873"
       },
       {
         "surface": "of love",
-        "lemma": "agape"
+        "lemma": "agape",
+        "strongs": "G0026"
       },
       {
         "surface": "enduring",
-        "lemma": "hupomone"
+        "lemma": "hupomone",
+        "strongs": "G5281"
       },
       {
         "surface": "hope",
-        "lemma": "elpis"
+        "lemma": "elpis",
+        "strongs": "G1680"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       }
     ],
     "4": [
       {
         "surface": "Brothers",
-        "lemma": "adelphos"
+        "lemma": "adelphos",
+        "strongs": "G0080"
       },
       {
         "surface": "who are beloved",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "we know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "that He has chosen",
-        "lemma": "ekloge"
+        "lemma": "ekloge",
+        "strongs": "G1589"
       }
     ],
     "5": [
       {
         "surface": "gospel",
-        "lemma": "euangelion"
+        "lemma": "euangelion",
+        "strongs": "G2098"
       },
       {
         "surface": "came",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "only",
-        "lemma": "monon"
+        "lemma": "monon",
+        "strongs": "G3440"
       },
       {
         "surface": "word",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "power",
-        "lemma": "dunamis"
+        "lemma": "dunamis",
+        "strongs": "G1411"
       },
       {
         "surface": "the Holy",
-        "lemma": "hagios"
+        "lemma": "hagios",
+        "strongs": "G0040"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "great",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "conviction",
-        "lemma": "plerophoria"
+        "lemma": "plerophoria",
+        "strongs": "G4136"
       },
       {
         "surface": "you know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "we lived",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "6": [
       {
         "surface": "became",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "imitators",
-        "lemma": "mimetes"
+        "lemma": "mimetes",
+        "strongs": "G3402"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "when you welcomed",
-        "lemma": "dechomai"
+        "lemma": "dechomai",
+        "strongs": "G1209"
       },
       {
         "surface": "message",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "the joy",
-        "lemma": "chara"
+        "lemma": "chara",
+        "strongs": "G5479"
       },
       {
         "surface": "of the Holy",
-        "lemma": "hagios"
+        "lemma": "hagios",
+        "strongs": "G0040"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "great",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "suffering",
-        "lemma": "thlipsis"
+        "lemma": "thlipsis",
+        "strongs": "G2347"
       }
     ],
     "7": [
       {
         "surface": "have become",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "an example",
-        "lemma": "tupos"
+        "lemma": "tupos",
+        "strongs": "G5179"
       },
       {
         "surface": "to all",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "believers",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "Macedonia",
-        "lemma": "makedonia"
+        "lemma": "makedonia",
+        "strongs": "G3109"
       },
       {
         "surface": "Achaia",
-        "lemma": "achaia"
+        "lemma": "achaia",
+        "strongs": "G0882"
       }
     ],
     "8": [
       {
         "surface": "only",
-        "lemma": "monon"
+        "lemma": "monon",
+        "strongs": "G3440"
       },
       {
         "surface": "message",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "ring out",
-        "lemma": "execheo"
+        "lemma": "execheo",
+        "strongs": "G1837"
       },
       {
         "surface": "Macedonia",
-        "lemma": "makedonia"
+        "lemma": "makedonia",
+        "strongs": "G3109"
       },
       {
         "surface": "Achaia",
-        "lemma": "achaia"
+        "lemma": "achaia",
+        "strongs": "G0882"
       },
       {
         "surface": "faith",
-        "lemma": "pistis"
+        "lemma": "pistis",
+        "strongs": "G4102"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "has gone out",
-        "lemma": "exerchomai"
+        "lemma": "exerchomai",
+        "strongs": "G1831"
       },
       {
         "surface": "every",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "place",
-        "lemma": "topos"
+        "lemma": "topos",
+        "strongs": "G5117"
       },
       {
         "surface": "have",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "need",
-        "lemma": "chreia"
+        "lemma": "chreia",
+        "strongs": "G5532"
       },
       {
         "surface": "to say",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       }
     ],
     "9": [
       {
         "surface": "report",
-        "lemma": "apangello"
+        "lemma": "apangello",
+        "strongs": "G0518"
       },
       {
         "surface": "of welcome",
-        "lemma": "eisodos"
+        "lemma": "eisodos",
+        "strongs": "G1529"
       },
       {
         "surface": "you gave us",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "you turned",
-        "lemma": "epistrepho"
+        "lemma": "epistrepho",
+        "strongs": "G1994"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "idols",
-        "lemma": "eidolon"
+        "lemma": "eidolon",
+        "strongs": "G1497"
       },
       {
         "surface": "to serve",
-        "lemma": "douleuo"
+        "lemma": "douleuo",
+        "strongs": "G1398"
       },
       {
         "surface": "the living",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "true",
-        "lemma": "alethinos"
+        "lemma": "alethinos",
+        "strongs": "G0228"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "10": [
       {
         "surface": "to await",
-        "lemma": "anameno"
+        "lemma": "anameno",
+        "strongs": "G0362"
       },
       {
         "surface": "Son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "heaven",
-        "lemma": "ouranos"
+        "lemma": "ouranos",
+        "strongs": "G3772"
       },
       {
         "surface": "He raised",
-        "lemma": "egeiro"
+        "lemma": "egeiro",
+        "strongs": "G1453"
       },
       {
         "surface": "dead",
-        "lemma": "nekros"
+        "lemma": "nekros",
+        "strongs": "G3498"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "deliverer",
-        "lemma": "rhuomai"
+        "lemma": "rhuomai",
+        "strongs": "G4506"
       },
       {
         "surface": "coming",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "wrath",
-        "lemma": "orge"
+        "lemma": "orge",
+        "strongs": "G3709"
       }
     ]
-  },
-  "themeLemmas": [
-    "achaia",
-    "makedonia",
-    "monon"
-  ]
+  }
 }

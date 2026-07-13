@@ -7,133 +7,158 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "of ascents",
-        "lemma": "maalah"
+        "lemma": "maalah",
+        "strongs": "H4609"
       },
       {
         "surface": "Of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "how",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "pleasant it is",
-        "lemma": "naim"
+        "lemma": "naim",
+        "strongs": "H5273"
       },
       {
         "surface": "brothers",
-        "lemma": "ach"
+        "lemma": "ach",
+        "strongs": "H0251"
       },
       {
         "surface": "live",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "together in harmony",
-        "lemma": "yachad"
+        "lemma": "yachad",
+        "strongs": "H3162"
       }
     ],
     "2": [
       {
         "surface": "It is like fine",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "the head",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "running down",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "the beard",
-        "lemma": "zaqan"
+        "lemma": "zaqan",
+        "strongs": "H2206"
       },
       {
         "surface": "running down",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "Aaron’s",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "beard",
-        "lemma": "zaqan"
+        "lemma": "zaqan",
+        "strongs": "H2206"
       },
       {
         "surface": "the collar",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "of his robes",
-        "lemma": "middah"
+        "lemma": "middah",
+        "strongs": "H4060"
       }
     ],
     "3": [
       {
         "surface": "It is like the dew",
-        "lemma": "tal"
+        "lemma": "tal",
+        "strongs": "H2919"
       },
       {
         "surface": "of Hermon",
-        "lemma": "chermon"
+        "lemma": "chermon",
+        "strongs": "H2768"
       },
       {
         "surface": "falling",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "the mountains",
-        "lemma": "harar"
+        "lemma": "harar",
+        "strongs": "H2042"
       },
       {
         "surface": "of Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has bestowed",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "the blessing",
-        "lemma": "berakhah"
+        "lemma": "berakhah",
+        "strongs": "H1293"
       },
       {
         "surface": "of life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ]
-  },
-  "themeLemmas": [
-    "yarad",
-    "zaqan",
-    "tov"
-  ]
+  }
 }

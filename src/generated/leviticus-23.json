@@ -7,1951 +7,2410 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "2": [
       {
         "surface": "Speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "My appointed feasts",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "the feasts",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "you are to proclaim",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "as sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assemblies",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       }
     ],
     "3": [
       {
         "surface": "For six",
-        "lemma": "shesh"
+        "lemma": "shesh",
+        "strongs": "H8337"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "may be done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "but the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "is a Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "of complete rest",
-        "lemma": "shabbaton"
+        "lemma": "shabbaton",
+        "strongs": "H7677"
       },
       {
         "surface": "a day of sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "wherever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you live",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       },
       {
         "surface": "is a Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "4": [
       {
         "surface": "are the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "appointed feasts",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "the sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assemblies",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "you are to proclaim",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "at their appointed times",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "5": [
       {
         "surface": "The Passover",
-        "lemma": "pesach"
+        "lemma": "pesach",
+        "strongs": "H6453"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "begins at",
-        "lemma": "bayin"
+        "lemma": "bayin",
+        "strongs": "H0996"
       },
       {
         "surface": "twilight",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "on the fourteenth",
-        "lemma": "arba"
+        "lemma": "arba",
+        "strongs": "H0702"
       },
       {
         "surface": "day",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "of the first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "6": [
       {
         "surface": "On the fifteenth",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "month begins",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "the Feast",
-        "lemma": "chag"
+        "lemma": "chag",
+        "strongs": "H2282"
       },
       {
         "surface": "of Unleavened Bread",
-        "lemma": "matstsah"
+        "lemma": "matstsah",
+        "strongs": "H4682"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "For seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you must eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "unleavened bread",
-        "lemma": "matstsah"
+        "lemma": "matstsah",
+        "strongs": "H4682"
       }
     ],
     "7": [
       {
         "surface": "On the first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to hold",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "you are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "8": [
       {
         "surface": "For seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "On the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "there shall be a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "9": [
       {
         "surface": "And the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "10": [
       {
         "surface": "Speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "you enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "am giving",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "and you reap",
-        "lemma": "qatser"
+        "lemma": "qatser",
+        "strongs": "H7114"
       },
       {
         "surface": "its harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       },
       {
         "surface": "you are to bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "a sheaf",
-        "lemma": "omer"
+        "lemma": "omer",
+        "strongs": "H6016"
       },
       {
         "surface": "of the firstfruits",
-        "lemma": "reshit"
+        "lemma": "reshit",
+        "strongs": "H7225"
       },
       {
         "surface": "of your harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       }
     ],
     "11": [
       {
         "surface": "And he shall wave",
-        "lemma": "nuph"
+        "lemma": "nuph",
+        "strongs": "H5130"
       },
       {
         "surface": "the sheaf",
-        "lemma": "omer"
+        "lemma": "omer",
+        "strongs": "H6016"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "so that it may be accepted on your behalf",
-        "lemma": "ratson"
+        "lemma": "ratson",
+        "strongs": "H7522"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "is to wave it",
-        "lemma": "nuph"
+        "lemma": "nuph",
+        "strongs": "H5130"
       },
       {
         "surface": "on the day after",
-        "lemma": "mochorat"
+        "lemma": "mochorat",
+        "strongs": "H4283"
       },
       {
         "surface": "the Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "12": [
       {
         "surface": "On the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you wave",
-        "lemma": "nuph"
+        "lemma": "nuph",
+        "strongs": "H5130"
       },
       {
         "surface": "the sheaf",
-        "lemma": "omer"
+        "lemma": "omer",
+        "strongs": "H6016"
       },
       {
         "surface": "you shall offer",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a year-old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "lamb",
-        "lemma": "keves"
+        "lemma": "keves",
+        "strongs": "H3532"
       },
       {
         "surface": "without blemish",
-        "lemma": "tamim"
+        "lemma": "tamim",
+        "strongs": "H8549"
       },
       {
         "surface": "as a burnt offering",
-        "lemma": "olah"
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "13": [
       {
         "surface": "along with its grain offering",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "of two-tenths of an ephah",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "of fine flour",
-        "lemma": "solet"
+        "lemma": "solet",
+        "strongs": "H5560"
       },
       {
         "surface": "mixed",
-        "lemma": "balal"
+        "lemma": "balal",
+        "strongs": "H1101"
       },
       {
         "surface": "with oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "a pleasing",
-        "lemma": "nichoach"
+        "lemma": "nichoach",
+        "strongs": "H5207"
       },
       {
         "surface": "aroma",
-        "lemma": "reach"
+        "lemma": "reach",
+        "strongs": "H7381"
       },
       {
         "surface": "and its drink offering",
-        "lemma": "nesekh"
+        "lemma": "nesekh",
+        "strongs": "H5262"
       },
       {
         "surface": "of a quarter",
-        "lemma": "revii"
+        "lemma": "revii",
+        "strongs": "H7243"
       },
       {
         "surface": "hin",
-        "lemma": "hin"
+        "lemma": "hin",
+        "strongs": "H1969"
       },
       {
         "surface": "of wine",
-        "lemma": "yayin"
+        "lemma": "yayin",
+        "strongs": "H3196"
       }
     ],
     "14": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "any bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "or roasted",
-        "lemma": "qali"
+        "lemma": "qali",
+        "strongs": "H7039"
       },
       {
         "surface": "or new grain",
-        "lemma": "karmel"
+        "lemma": "karmel",
+        "strongs": "H3759"
       },
       {
         "surface": "very",
-        "lemma": "etsem"
+        "lemma": "etsem",
+        "strongs": "H6106"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you have brought",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "offering",
-        "lemma": "qorban"
+        "lemma": "qorban",
+        "strongs": "H7133"
       },
       {
         "surface": "to your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "This is to be a permanent",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "statute",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "for the generations to come",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "wherever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you live",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "15": [
       {
         "surface": "From the day after",
-        "lemma": "mochorat"
+        "lemma": "mochorat",
+        "strongs": "H4283"
       },
       {
         "surface": "the Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you brought",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the sheaf",
-        "lemma": "omer"
+        "lemma": "omer",
+        "strongs": "H6016"
       },
       {
         "surface": "of the wave offering",
-        "lemma": "tenuphah"
+        "lemma": "tenuphah",
+        "strongs": "H8573"
       },
       {
         "surface": "you are to count off",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "full",
-        "lemma": "tamim"
+        "lemma": "tamim",
+        "strongs": "H8549"
       },
       {
         "surface": "weeks",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "16": [
       {
         "surface": "You shall count off",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the day after",
-        "lemma": "mochorat"
+        "lemma": "mochorat",
+        "strongs": "H4283"
       },
       {
         "surface": "the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "and then present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "an offering of new",
-        "lemma": "chadash"
+        "lemma": "chadash",
+        "strongs": "H2319"
       },
       {
         "surface": "grain",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "17": [
       {
         "surface": "Bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "loaves of bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "from your dwellings",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       },
       {
         "surface": "as a wave offering",
-        "lemma": "tenuphah"
+        "lemma": "tenuphah",
+        "strongs": "H8573"
       },
       {
         "surface": "each made from two-tenths of an ephah",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "of fine flour",
-        "lemma": "solet"
+        "lemma": "solet",
+        "strongs": "H5560"
       },
       {
         "surface": "baked",
-        "lemma": "aphah"
+        "lemma": "aphah",
+        "strongs": "H0644"
       },
       {
         "surface": "with leaven",
-        "lemma": "chamets"
+        "lemma": "chamets",
+        "strongs": "H2557"
       },
       {
         "surface": "as the firstfruits",
-        "lemma": "bikkur"
+        "lemma": "bikkur",
+        "strongs": "H1061"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "18": [
       {
         "surface": "the bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "you are to present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "unblemished",
-        "lemma": "tamim"
+        "lemma": "tamim",
+        "strongs": "H8549"
       },
       {
         "surface": "male lambs",
-        "lemma": "keves"
+        "lemma": "keves",
+        "strongs": "H3532"
       },
       {
         "surface": "a year old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "young bull",
-        "lemma": "par"
+        "lemma": "par",
+        "strongs": "H6499"
       },
       {
         "surface": "and two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "rams",
-        "lemma": "ayil"
+        "lemma": "ayil",
+        "strongs": "H0352"
       },
       {
         "surface": "They will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a burnt offering",
-        "lemma": "olah"
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "together with their grain offerings",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "and drink offerings",
-        "lemma": "nesekh"
+        "lemma": "nesekh",
+        "strongs": "H5262"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "a pleasing",
-        "lemma": "nichoach"
+        "lemma": "nichoach",
+        "strongs": "H5207"
       },
       {
         "surface": "aroma",
-        "lemma": "reach"
+        "lemma": "reach",
+        "strongs": "H7381"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "19": [
       {
         "surface": "You shall also prepare",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "male goat",
-        "lemma": "sair"
+        "lemma": "sair",
+        "strongs": "H8163"
       },
       {
         "surface": "as a sin offering",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       },
       {
         "surface": "and two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "male lambs",
-        "lemma": "keves"
+        "lemma": "keves",
+        "strongs": "H3532"
       },
       {
         "surface": "a year old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "as a peace offering",
-        "lemma": "shelem"
+        "lemma": "shelem",
+        "strongs": "H8002"
       }
     ],
     "20": [
       {
         "surface": "The priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "is to wave",
-        "lemma": "nuph"
+        "lemma": "nuph",
+        "strongs": "H5130"
       },
       {
         "surface": "as a wave offering",
-        "lemma": "tenuphah"
+        "lemma": "tenuphah",
+        "strongs": "H8573"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of the firstfruits",
-        "lemma": "bikkur"
+        "lemma": "bikkur",
+        "strongs": "H1061"
       },
       {
         "surface": "The bread and the two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "lambs",
-        "lemma": "keves"
+        "lemma": "keves",
+        "strongs": "H3532"
       },
       {
         "surface": "shall be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "21": [
       {
         "surface": "same",
-        "lemma": "etsem"
+        "lemma": "etsem",
+        "strongs": "H6106"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to proclaim",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "This is to be a permanent",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "statute",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "wherever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you live",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       },
       {
         "surface": "for the generations to come",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "22": [
       {
         "surface": "When you reap",
-        "lemma": "qatser"
+        "lemma": "qatser",
+        "strongs": "H7114"
       },
       {
         "surface": "the harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       },
       {
         "surface": "of your land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "reap",
-        "lemma": "qatser"
+        "lemma": "qatser",
+        "strongs": "H7114"
       },
       {
         "surface": "all the way",
-        "lemma": "kalah"
+        "lemma": "kalah",
+        "strongs": "H3615"
       },
       {
         "surface": "to the edges",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "of your field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "or gather",
-        "lemma": "laqat"
+        "lemma": "laqat",
+        "strongs": "H3950"
       },
       {
         "surface": "the gleanings",
-        "lemma": "leqet"
+        "lemma": "leqet",
+        "strongs": "H3951"
       },
       {
         "surface": "of your harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       },
       {
         "surface": "Leave",
-        "lemma": "azav"
+        "lemma": "azav",
+        "strongs": "H5800"
       },
       {
         "surface": "for the poor",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and the foreign resident",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "23": [
       {
         "surface": "The LORD also",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "24": [
       {
         "surface": "Speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "On the first",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "day",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "of the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "you are to have",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a day of rest",
-        "lemma": "shabbaton"
+        "lemma": "shabbaton",
+        "strongs": "H7677"
       },
       {
         "surface": "a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "announced",
-        "lemma": "zikhron"
+        "lemma": "zikhron",
+        "strongs": "H2146"
       },
       {
         "surface": "by trumpet blasts",
-        "lemma": "teruah"
+        "lemma": "teruah",
+        "strongs": "H8643"
       }
     ],
     "25": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "but you are to present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "26": [
       {
         "surface": "Again the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "27": [
       {
         "surface": "vvv",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "The tenth",
-        "lemma": "asvor"
+        "lemma": "asvor",
+        "strongs": "H6218"
       },
       {
         "surface": "seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "is the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of Atonement",
-        "lemma": "kippur"
+        "lemma": "kippur",
+        "strongs": "H3725"
       },
       {
         "surface": "You shall hold",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "and humble",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       },
       {
         "surface": "yourselves",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "and present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "28": [
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "is the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of Atonement",
-        "lemma": "kippur"
+        "lemma": "kippur",
+        "strongs": "H3725"
       },
       {
         "surface": "when atonement is made",
-        "lemma": "kipher"
+        "lemma": "kipher",
+        "strongs": "H3722"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "29": [
       {
         "surface": "anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "humble himself",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he must be cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "from his people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "30": [
       {
         "surface": "I will destroy",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H0006"
       },
       {
         "surface": "from among",
-        "lemma": "qerev"
+        "lemma": "qerev",
+        "strongs": "H7130"
       },
       {
         "surface": "his people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "does",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "31": [
       {
         "surface": "You are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "work {at all",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "This is a permanent",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "statute",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "for the generations to come",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "wherever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you live",
-        "lemma": "moshav"
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "32": [
       {
         "surface": "will be a Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "of complete rest",
-        "lemma": "shabbaton"
+        "lemma": "shabbaton",
+        "strongs": "H7677"
       },
       {
         "surface": "and you shall humble",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       },
       {
         "surface": "yourselves",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "From the evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "of the ninth",
-        "lemma": "tesah"
+        "lemma": "tesah",
+        "strongs": "H8672"
       },
       {
         "surface": "day of the month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "the following evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "you are to keep",
-        "lemma": "shavat"
+        "lemma": "shavat",
+        "strongs": "H7673"
       },
       {
         "surface": "your Sabbath",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "33": [
       {
         "surface": "And the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "34": [
       {
         "surface": "Speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "On the fifteenth",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "the Feast",
-        "lemma": "chag"
+        "lemma": "chag",
+        "strongs": "H2282"
       },
       {
         "surface": "of Tabernacles",
-        "lemma": "sukkah"
+        "lemma": "sukkah",
+        "strongs": "H5521"
       },
       {
         "surface": "to the LORD begins",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "and it continues for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "35": [
       {
         "surface": "On the first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "there shall be a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "36": [
       {
         "surface": "For seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "On the eighth",
-        "lemma": "shemini"
+        "lemma": "shemini",
+        "strongs": "H8066"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to hold",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assembly",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "and present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "a food offering",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "a solemn assembly",
-        "lemma": "atsarah"
+        "lemma": "atsarah",
+        "strongs": "H6116"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "regular work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "37": [
       {
         "surface": "are the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "appointed feasts",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "you are to proclaim",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "as sacred",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "assemblies",
-        "lemma": "miqra"
+        "lemma": "miqra",
+        "strongs": "H4744"
       },
       {
         "surface": "for presenting",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "food offerings",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "burnt offerings",
-        "lemma": "olah"
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "and grain offerings",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "sacrifices",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "and drink offerings",
-        "lemma": "nesekh"
+        "lemma": "nesekh",
+        "strongs": "H5262"
       },
       {
         "surface": "each on",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "its designated",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "38": [
       {
         "surface": "These offerings are in addition to",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       },
       {
         "surface": "the offerings for the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "Sabbaths",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "and in addition to your gifts",
-        "lemma": "mattanah"
+        "lemma": "mattanah",
+        "strongs": "H4979"
       },
       {
         "surface": "to all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "your vow offerings",
-        "lemma": "neder"
+        "lemma": "neder",
+        "strongs": "H5088"
       },
       {
         "surface": "and to all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the freewill offerings",
-        "lemma": "nedavah"
+        "lemma": "nedavah",
+        "strongs": "H5071"
       },
       {
         "surface": "you give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "39": [
       {
         "surface": "On the fifteenth",
-        "lemma": "chamesh"
+        "lemma": "chamesh",
+        "strongs": "H2568"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       },
       {
         "surface": "after you have gathered",
-        "lemma": "asaph"
+        "lemma": "asaph",
+        "strongs": "H0622"
       },
       {
         "surface": "the produce",
-        "lemma": "tevuah"
+        "lemma": "tevuah",
+        "strongs": "H8393"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "you are to celebrate",
-        "lemma": "chagag"
+        "lemma": "chagag",
+        "strongs": "H2287"
       },
       {
         "surface": "a feast",
-        "lemma": "chag"
+        "lemma": "chag",
+        "strongs": "H2282"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "There shall be complete rest",
-        "lemma": "shabbaton"
+        "lemma": "shabbaton",
+        "strongs": "H7677"
       },
       {
         "surface": "on the first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and also",
-        "lemma": "shabbaton"
+        "lemma": "shabbaton",
+        "strongs": "H7677"
       },
       {
         "surface": "on the eighth",
-        "lemma": "shemini"
+        "lemma": "shemini",
+        "strongs": "H8066"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "40": [
       {
         "surface": "On the first",
-        "lemma": "rishon"
+        "lemma": "rishon",
+        "strongs": "H7223"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you are to gather",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "the fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "of majestic",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1926"
       },
       {
         "surface": "trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "the branches",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       },
       {
         "surface": "of palm trees",
-        "lemma": "tamar"
+        "lemma": "tamar",
+        "strongs": "H8558"
       },
       {
         "surface": "and the boughs",
-        "lemma": "anaph"
+        "lemma": "anaph",
+        "strongs": "H6057"
       },
       {
         "surface": "of leafy",
-        "lemma": "avot"
+        "lemma": "avot",
+        "strongs": "H5687"
       },
       {
         "surface": "trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "and of willows",
-        "lemma": "aravah"
+        "lemma": "aravah",
+        "strongs": "H6155"
       },
       {
         "surface": "of the brook",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5158"
       },
       {
         "surface": "And you are to rejoice",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "41": [
       {
         "surface": "You are to celebrate",
-        "lemma": "chagag"
+        "lemma": "chagag",
+        "strongs": "H2287"
       },
       {
         "surface": "as a feast",
-        "lemma": "chag"
+        "lemma": "chag",
+        "strongs": "H2282"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "each year",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "This is a permanent",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "statute",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "for the generations to come",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "you are to celebrate",
-        "lemma": "chagag"
+        "lemma": "chagag",
+        "strongs": "H2287"
       },
       {
         "surface": "in the seventh",
-        "lemma": "shevii"
+        "lemma": "shevii",
+        "strongs": "H7637"
       },
       {
         "surface": "month",
-        "lemma": "chodesh"
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "42": [
       {
         "surface": "You are to dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in booths",
-        "lemma": "sukkah"
+        "lemma": "sukkah",
+        "strongs": "H5521"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the native-born",
-        "lemma": "ezrach"
+        "lemma": "ezrach",
+        "strongs": "H0249"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "must dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in booths",
-        "lemma": "sukkah"
+        "lemma": "sukkah",
+        "strongs": "H5521"
       }
     ],
     "43": [
       {
         "surface": "your descendants",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "may know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "I made the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in booths",
-        "lemma": "sukkah"
+        "lemma": "sukkah",
+        "strongs": "H5521"
       },
       {
         "surface": "when I brought them out",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "44": [
       {
         "surface": "So Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "announced",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "the appointed feasts",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "asah",
-    "qodesh"
-  ]
+  }
 }

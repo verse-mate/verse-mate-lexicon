@@ -7,953 +7,1170 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "2": [
       {
         "surface": "Command",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Canaan",
-        "lemma": "kenaan"
+        "lemma": "kenaan",
+        "strongs": "H3667"
       },
       {
         "surface": "it",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "will be allotted",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "as an inheritance",
-        "lemma": "nachalah"
+        "lemma": "nachalah",
+        "strongs": "H5159"
       },
       {
         "surface": "with these boundaries",
-        "lemma": "gevulah"
+        "lemma": "gevulah",
+        "strongs": "H1367"
       }
     ],
     "3": [
       {
         "surface": "southern",
-        "lemma": "negev"
+        "lemma": "negev",
+        "strongs": "H5045"
       },
       {
         "surface": "border",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "will extend",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "from the Wilderness",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "of Zin",
-        "lemma": "tsin"
+        "lemma": "tsin",
+        "strongs": "H6790"
       },
       {
         "surface": "the border",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of Edom",
-        "lemma": "edom"
+        "lemma": "edom",
+        "strongs": "H0123"
       },
       {
         "surface": "On the east",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "your southern",
-        "lemma": "negev"
+        "lemma": "negev",
+        "strongs": "H5045"
       },
       {
         "surface": "border",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will run",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "from the end",
-        "lemma": "qatseh"
+        "lemma": "qatseh",
+        "strongs": "H7097"
       },
       {
         "surface": "of the Salt",
-        "lemma": "melach"
+        "lemma": "melach",
+        "strongs": "H4417"
       },
       {
         "surface": "Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "4": [
       {
         "surface": "cross",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "south",
-        "lemma": "negev"
+        "lemma": "negev",
+        "strongs": "H5045"
       },
       {
         "surface": "of the Ascent",
-        "lemma": "maalehaqrabbim"
+        "lemma": "maalehaqrabbim",
+        "strongs": "H4610"
       },
       {
         "surface": "of Akrabbim",
-        "lemma": "maalehaqrabbim"
+        "lemma": "maalehaqrabbim",
+        "strongs": "H4610"
       },
       {
         "surface": "continue",
-        "lemma": "avar"
+        "lemma": "avar",
+        "strongs": "H5674"
       },
       {
         "surface": "to Zin",
-        "lemma": "tsin"
+        "lemma": "tsin",
+        "strongs": "H6790"
       },
       {
         "surface": "and go",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "south",
-        "lemma": "negev"
+        "lemma": "negev",
+        "strongs": "H5045"
       },
       {
         "surface": "vvv",
-        "lemma": "qadeshbarnea"
+        "lemma": "qadeshbarnea",
+        "strongs": "H6947"
       },
       {
         "surface": "of Kadesh-barnea",
-        "lemma": "qadeshbarnea"
+        "lemma": "qadeshbarnea",
+        "strongs": "H6947"
       },
       {
         "surface": "Then it will go on",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "vvv",
-        "lemma": "chatsaraddar"
+        "lemma": "chatsaraddar",
+        "strongs": "H2692"
       },
       {
         "surface": "to Hazar-addar",
-        "lemma": "chatsaraddar"
+        "lemma": "chatsaraddar",
+        "strongs": "H2692"
       },
       {
         "surface": "and proceed",
-        "lemma": "avar"
+        "lemma": "avar",
+        "strongs": "H5674"
       },
       {
         "surface": "to Azmon",
-        "lemma": "atsmon"
+        "lemma": "atsmon",
+        "strongs": "H6111"
       }
     ],
     "5": [
       {
         "surface": "where it",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will turn",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "from Azmon",
-        "lemma": "atsmon"
+        "lemma": "atsmon",
+        "strongs": "H6111"
       },
       {
         "surface": "join the Brook",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5158"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "and end",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "at the Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "6": [
       {
         "surface": "western",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "border",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the coastline",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "of the Great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "boundary",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "on the west",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "7": [
       {
         "surface": "northern",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       },
       {
         "surface": "border",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will run",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the Great",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "directly",
-        "lemma": "taah"
+        "lemma": "taah",
+        "strongs": "H8376"
       },
       {
         "surface": "to Mount",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "Hor",
-        "lemma": "hor"
+        "lemma": "hor",
+        "strongs": "H2023"
       }
     ],
     "8": [
       {
         "surface": "and from Mount",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "Hor",
-        "lemma": "hor"
+        "lemma": "hor",
+        "strongs": "H2023"
       },
       {
         "surface": "vvv",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to Lebo-hamath",
-        "lemma": "chamat"
+        "lemma": "chamat",
+        "strongs": "H2574"
       },
       {
         "surface": "then",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "extend",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "to Zedad",
-        "lemma": "tsedad"
+        "lemma": "tsedad",
+        "strongs": "H6657"
       }
     ],
     "9": [
       {
         "surface": "continue",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "to Ziphron",
-        "lemma": "ziphron"
+        "lemma": "ziphron",
+        "strongs": "H2202"
       },
       {
         "surface": "and end",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "vvv",
-        "lemma": "chatsarenan"
+        "lemma": "chatsarenan",
+        "strongs": "H2704"
       },
       {
         "surface": "at Hazar-enan",
-        "lemma": "chatsarenan"
+        "lemma": "chatsarenan",
+        "strongs": "H2704"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "boundary",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "on the north",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       }
     ],
     "10": [
       {
         "surface": "And your eastern",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "border",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will run straight",
-        "lemma": "avah"
+        "lemma": "avah",
+        "strongs": "H0183"
       },
       {
         "surface": "Hazar-enan",
-        "lemma": "chatsarenan"
+        "lemma": "chatsarenan",
+        "strongs": "H2704"
       },
       {
         "surface": "to Shepham",
-        "lemma": "shepham"
+        "lemma": "shepham",
+        "strongs": "H8221"
       }
     ],
     "11": [
       {
         "surface": "then",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "go down",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "from Shepham",
-        "lemma": "shepham"
+        "lemma": "shepham",
+        "strongs": "H8221"
       },
       {
         "surface": "to Riblah",
-        "lemma": "rivlah"
+        "lemma": "rivlah",
+        "strongs": "H7247"
       },
       {
         "surface": "on the east side",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "of Ain",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5871"
       },
       {
         "surface": "and continue along",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "the slopes",
-        "lemma": "kateph"
+        "lemma": "kateph",
+        "strongs": "H3802"
       },
       {
         "surface": "east",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "of the Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "of Chinnereth",
-        "lemma": "kinnrot"
+        "lemma": "kinnrot",
+        "strongs": "H3672"
       }
     ],
     "12": [
       {
         "surface": "Then the border",
-        "lemma": "gevul"
+        "lemma": "gevul",
+        "strongs": "H1366"
       },
       {
         "surface": "will go down",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "along the Jordan",
-        "lemma": "yarden"
+        "lemma": "yarden",
+        "strongs": "H3383"
       },
       {
         "surface": "and end",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "at the Salt",
-        "lemma": "melach"
+        "lemma": "melach",
+        "strongs": "H4417"
       },
       {
         "surface": "Sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "defined by its borders",
-        "lemma": "gevulah"
+        "lemma": "gevulah",
+        "strongs": "H1367"
       },
       {
         "surface": "on all sides",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       }
     ],
     "13": [
       {
         "surface": "So Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "by lot",
-        "lemma": "goral"
+        "lemma": "goral",
+        "strongs": "H1486"
       },
       {
         "surface": "as an inheritance",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       },
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has commanded that",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "it be given",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "to the nine",
-        "lemma": "tesah"
+        "lemma": "tesah",
+        "strongs": "H8672"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "tribes",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "14": [
       {
         "surface": "the tribes",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of the Reubenites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "Gadites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "along with the half-tribe",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "of Manasseh",
-        "lemma": "menashsheh"
+        "lemma": "menashsheh",
+        "strongs": "H4519"
       },
       {
         "surface": "have already received",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "their inheritance",
-        "lemma": "nachalah"
+        "lemma": "nachalah",
+        "strongs": "H5159"
       }
     ],
     "15": [
       {
         "surface": "These two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "and a half",
-        "lemma": "chetsi"
+        "lemma": "chetsi",
+        "strongs": "H2677"
       },
       {
         "surface": "tribes",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "have received",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "their inheritance",
-        "lemma": "nachalah"
+        "lemma": "nachalah",
+        "strongs": "H5159"
       },
       {
         "surface": "across",
-        "lemma": "ever"
+        "lemma": "ever",
+        "strongs": "H5676"
       },
       {
         "surface": "the Jordan",
-        "lemma": "yarden"
+        "lemma": "yarden",
+        "strongs": "H3383"
       },
       {
         "surface": "from Jericho",
-        "lemma": "yericho"
+        "lemma": "yericho",
+        "strongs": "H3405"
       },
       {
         "surface": "vvv",
-        "lemma": "qedem"
+        "lemma": "qedem",
+        "strongs": "H6924"
       },
       {
         "surface": "toward the sunrise",
-        "lemma": "mizrach"
+        "lemma": "mizrach",
+        "strongs": "H4217"
       }
     ],
     "16": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "17": [
       {
         "surface": "are the names",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the men",
-        "lemma": "enosh"
+        "lemma": "enosh",
+        "strongs": "H0582"
       },
       {
         "surface": "are to assign the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "as an inheritance",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       },
       {
         "surface": "Eleazar",
-        "lemma": "elazar"
+        "lemma": "elazar",
+        "strongs": "H0499"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "and Joshua",
-        "lemma": "yehoshua"
+        "lemma": "yehoshua",
+        "strongs": "H3091"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Nun",
-        "lemma": "nun"
+        "lemma": "nun",
+        "strongs": "H5126"
       }
     ],
     "18": [
       {
         "surface": "Appoint",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from each",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "to distribute",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "19": [
       {
         "surface": "are their names",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "Caleb",
-        "lemma": "kalev"
+        "lemma": "kalev",
+        "strongs": "H3612"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Jephunneh",
-        "lemma": "yephunneh"
+        "lemma": "yephunneh",
+        "strongs": "H3312"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "20": [
       {
         "surface": "Shemuel",
-        "lemma": "shemuel"
+        "lemma": "shemuel",
+        "strongs": "H8050"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ammihud",
-        "lemma": "ammihud"
+        "lemma": "ammihud",
+        "strongs": "H5989"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Simeon",
-        "lemma": "shimon"
+        "lemma": "shimon",
+        "strongs": "H8095"
       }
     ],
     "21": [
       {
         "surface": "Elidad",
-        "lemma": "elidad"
+        "lemma": "elidad",
+        "strongs": "H0449"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Chislon",
-        "lemma": "kislon"
+        "lemma": "kislon",
+        "strongs": "H3692"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Benjamin",
-        "lemma": "binyamin"
+        "lemma": "binyamin",
+        "strongs": "H1144"
       }
     ],
     "22": [
       {
         "surface": "Bukki",
-        "lemma": "buqqi"
+        "lemma": "buqqi",
+        "strongs": "H1231"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Jogli",
-        "lemma": "yogli"
+        "lemma": "yogli",
+        "strongs": "H3020"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Dan",
-        "lemma": "dan"
+        "lemma": "dan",
+        "strongs": "H1835"
       }
     ],
     "23": [
       {
         "surface": "Hanniel",
-        "lemma": "channiel"
+        "lemma": "channiel",
+        "strongs": "H2592"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ephod",
-        "lemma": "ephod"
+        "lemma": "ephod",
+        "strongs": "H0641"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Manasseh",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Joseph",
-        "lemma": "yoseph"
+        "lemma": "yoseph",
+        "strongs": "H3130"
       }
     ],
     "24": [
       {
         "surface": "Kemuel",
-        "lemma": "qemuel"
+        "lemma": "qemuel",
+        "strongs": "H7055"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Shiphtan",
-        "lemma": "shiphtan"
+        "lemma": "shiphtan",
+        "strongs": "H8204"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Ephraim",
-        "lemma": "ephrayim"
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       }
     ],
     "25": [
       {
         "surface": "Eli-zaphan",
-        "lemma": "elitsaphan"
+        "lemma": "elitsaphan",
+        "strongs": "H0469"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Parnach",
-        "lemma": "parnakh"
+        "lemma": "parnakh",
+        "strongs": "H6535"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Zebulun",
-        "lemma": "zevulun"
+        "lemma": "zevulun",
+        "strongs": "H2074"
       }
     ],
     "26": [
       {
         "surface": "Paltiel",
-        "lemma": "paltiel"
+        "lemma": "paltiel",
+        "strongs": "H6409"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Azzan",
-        "lemma": "azzan"
+        "lemma": "azzan",
+        "strongs": "H5821"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Issachar",
-        "lemma": "yissaskhar"
+        "lemma": "yissaskhar",
+        "strongs": "H3485"
       }
     ],
     "27": [
       {
         "surface": "Ahihud",
-        "lemma": "achihud"
+        "lemma": "achihud",
+        "strongs": "H0282"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Shelomi",
-        "lemma": "shelomi"
+        "lemma": "shelomi",
+        "strongs": "H8015"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Asher",
-        "lemma": "asher"
+        "lemma": "asher",
+        "strongs": "H0836"
       }
     ],
     "28": [
       {
         "surface": "and Pedahel",
-        "lemma": "pedahel"
+        "lemma": "pedahel",
+        "strongs": "H6300"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Ammihud",
-        "lemma": "ammihud"
+        "lemma": "ammihud",
+        "strongs": "H5989"
       },
       {
         "surface": "a leader",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Naphtali",
-        "lemma": "naphtali"
+        "lemma": "naphtali",
+        "strongs": "H5321"
       }
     ],
     "29": [
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "to apportion the inheritance",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       },
       {
         "surface": "to the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "in the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Canaan",
-        "lemma": "kenaan"
+        "lemma": "kenaan",
+        "strongs": "H3667"
       }
     ]
-  },
-  "themeLemmas": [
-    "matteh",
-    "hayah",
-    "gevul"
-  ]
+  }
 }

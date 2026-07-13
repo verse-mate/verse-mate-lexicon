@@ -7,157 +7,187 @@
     "1": [
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of thanksgiving",
-        "lemma": "todah"
+        "lemma": "todah",
+        "strongs": "H8426"
       },
       {
         "surface": "Make a joyful noise",
-        "lemma": "rua"
+        "lemma": "rua",
+        "strongs": "H7321"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
       {
         "surface": "Serve",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "with gladness",
-        "lemma": "simchah"
+        "lemma": "simchah",
+        "strongs": "H8057"
       },
       {
         "surface": "come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "into His presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "with joyful songs",
-        "lemma": "renanah"
+        "lemma": "renanah",
+        "strongs": "H7445"
       }
     ],
     "3": [
       {
         "surface": "Know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "who made us",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "and",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "we are His people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "and the sheep",
-        "lemma": "tson"
+        "lemma": "tson",
+        "strongs": "H6629"
       },
       {
         "surface": "of His pasture",
-        "lemma": "mirit"
+        "lemma": "mirit",
+        "strongs": "H4830"
       }
     ],
     "4": [
       {
         "surface": "Enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "His gates",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "with thanksgiving",
-        "lemma": "todah"
+        "lemma": "todah",
+        "strongs": "H8426"
       },
       {
         "surface": "and His courts",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "with praise",
-        "lemma": "tehillah"
+        "lemma": "tehillah",
+        "strongs": "H8416"
       },
       {
         "surface": "give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "and bless",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "His name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "5": [
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "and His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "His faithfulness",
-        "lemma": "emunah"
+        "lemma": "emunah",
+        "strongs": "H0530"
       },
       {
         "surface": "to all",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "generations",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ]
-  },
-  "themeLemmas": [
-    "todah",
-    "dor",
-    "bo"
-  ]
+  }
 }

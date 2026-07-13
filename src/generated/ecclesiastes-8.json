@@ -7,877 +7,1081 @@
     "1": [
       {
         "surface": "Who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "is like the wise man",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "Who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "knows",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "the interpretation",
-        "lemma": "pesher"
+        "lemma": "pesher",
+        "strongs": "H6592"
       },
       {
         "surface": "of a matter",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "A man’s",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "wisdom",
-        "lemma": "chokhmah"
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       },
       {
         "surface": "brightens",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "his face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "and the sternness",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "of his face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "is changed",
-        "lemma": "shana"
+        "lemma": "shana",
+        "strongs": "H8132"
       }
     ],
     "2": [
       {
         "surface": "Keep",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "the king’s",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "command",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "your oath",
-        "lemma": "shevuah"
+        "lemma": "shevuah",
+        "strongs": "H7621"
       },
       {
         "surface": "before God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "3": [
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "hasten",
-        "lemma": "bahal"
+        "lemma": "bahal",
+        "strongs": "H0926"
       },
       {
         "surface": "to leave",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "his presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "and do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "persist",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "in a bad",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "cause",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "he will do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "whatever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "he pleases",
-        "lemma": "chaphets"
+        "lemma": "chaphets",
+        "strongs": "H2654"
       }
     ],
     "4": [
       {
         "surface": "the king’s",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "is supreme",
-        "lemma": "shilton"
+        "lemma": "shilton",
+        "strongs": "H7983"
       },
       {
         "surface": "and who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "can say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "What",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "are you doing",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "5": [
       {
         "surface": "Whoever keeps",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "his command",
-        "lemma": "mitsvah"
+        "lemma": "mitsvah",
+        "strongs": "H4687"
       },
       {
         "surface": "will come to",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "harm",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "and a wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "knows",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "the right time",
-        "lemma": "et"
+        "lemma": "et",
+        "strongs": "H6256"
       },
       {
         "surface": "and procedure",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "6": [
       {
         "surface": "there is",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "a right time",
-        "lemma": "et"
+        "lemma": "et",
+        "strongs": "H6256"
       },
       {
         "surface": "and procedure",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "to every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "purpose",
-        "lemma": "chephets"
+        "lemma": "chephets",
+        "strongs": "H2656"
       },
       {
         "surface": "a man’s",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "misery",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "weighs heavily",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "7": [
       {
         "surface": "no one",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "knows",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "what",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "will happen",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "can tell",
-        "lemma": "nagad"
+        "lemma": "nagad",
+        "strongs": "H5046"
       },
       {
         "surface": "is to come",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "8": [
       {
         "surface": "As no",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "has power",
-        "lemma": "shallit"
+        "lemma": "shallit",
+        "strongs": "H7989"
       },
       {
         "surface": "over the wind",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "to contain",
-        "lemma": "kala"
+        "lemma": "kala",
+        "strongs": "H3607"
       },
       {
         "surface": "it",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "so no one",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "has authority",
-        "lemma": "shilton"
+        "lemma": "shilton",
+        "strongs": "H7983"
       },
       {
         "surface": "over his day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       },
       {
         "surface": "As no one",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "can be discharged",
-        "lemma": "mishlachat"
+        "lemma": "mishlachat",
+        "strongs": "H4917"
       },
       {
         "surface": "in wartime",
-        "lemma": "milchamah"
+        "lemma": "milchamah",
+        "strongs": "H4421"
       },
       {
         "surface": "so wickedness",
-        "lemma": "resah"
+        "lemma": "resah",
+        "strongs": "H7562"
       },
       {
         "surface": "will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "release",
-        "lemma": "malat"
+        "lemma": "malat",
+        "strongs": "H4422"
       },
       {
         "surface": "those who practice it",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       }
     ],
     "9": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "I have seen",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "applying",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "my mind",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "to every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "deed",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "is done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the sun",
-        "lemma": "shemesh"
+        "lemma": "shemesh",
+        "strongs": "H8121"
       },
       {
         "surface": "there is a time",
-        "lemma": "et"
+        "lemma": "et",
+        "strongs": "H6256"
       },
       {
         "surface": "one man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "lords it",
-        "lemma": "shalat"
+        "lemma": "shalat",
+        "strongs": "H7980"
       },
       {
         "surface": "over another",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "to his own detriment",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "10": [
       {
         "surface": "Then too",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "I saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "the burial",
-        "lemma": "qavar"
+        "lemma": "qavar",
+        "strongs": "H6912"
       },
       {
         "surface": "of the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "who used to go in",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and out",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "of the holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "place",
-        "lemma": "maqom"
+        "lemma": "maqom",
+        "strongs": "H4725"
       },
       {
         "surface": "and they were praised",
-        "lemma": "shakhach"
+        "lemma": "shakhach",
+        "strongs": "H7911"
       },
       {
         "surface": "in the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "they had done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "is futile",
-        "lemma": "hevel"
+        "lemma": "hevel",
+        "strongs": "H1892"
       }
     ],
     "11": [
       {
         "surface": "the sentence",
-        "lemma": "pitgam"
+        "lemma": "pitgam",
+        "strongs": "H6599"
       },
       {
         "surface": "for a crime",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "is not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "speedily",
-        "lemma": "meherah"
+        "lemma": "meherah",
+        "strongs": "H4120"
       },
       {
         "surface": "executed",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the hearts",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of men",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "become fully set",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "on doing",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "evil",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "12": [
       {
         "surface": "a sinner",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       },
       {
         "surface": "does",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "evil",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "a hundred times",
-        "lemma": "meah"
+        "lemma": "meah",
+        "strongs": "H3967"
       },
       {
         "surface": "and still lives long",
-        "lemma": "arakh"
+        "lemma": "arakh",
+        "strongs": "H0748"
       },
       {
         "surface": "know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "it will go",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "well",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "who are reverent",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3373"
       },
       {
         "surface": "in His presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "13": [
       {
         "surface": "the wicked do not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3373"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "it will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "go",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "well",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "with them",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "and their days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "lengthen",
-        "lemma": "arakh"
+        "lemma": "arakh",
+        "strongs": "H0748"
       },
       {
         "surface": "like a shadow",
-        "lemma": "tsel"
+        "lemma": "tsel",
+        "strongs": "H6738"
       }
     ],
     "14": [
       {
         "surface": "There is",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "a futility",
-        "lemma": "hevel"
+        "lemma": "hevel",
+        "strongs": "H1892"
       },
       {
         "surface": "is done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "There are",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "righteous men",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "get",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "what the actions",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of the wicked deserve",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "and there are",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "wicked men",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "get",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "what the actions",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of the righteous deserve",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "I say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "is futile",
-        "lemma": "hevel"
+        "lemma": "hevel",
+        "strongs": "H1892"
       }
     ],
     "15": [
       {
         "surface": "commended",
-        "lemma": "shavach"
+        "lemma": "shavach",
+        "strongs": "H7623"
       },
       {
         "surface": "the enjoyment of life",
-        "lemma": "simchah"
+        "lemma": "simchah",
+        "strongs": "H8057"
       },
       {
         "surface": "there is nothing",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "better",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "for a man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the sun",
-        "lemma": "shemesh"
+        "lemma": "shemesh",
+        "strongs": "H8121"
       },
       {
         "surface": "to eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "and drink",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "and be merry",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "will accompany him",
-        "lemma": "lavah"
+        "lemma": "lavah",
+        "strongs": "H3867"
       },
       {
         "surface": "in his labor",
-        "lemma": "amal"
+        "lemma": "amal",
+        "strongs": "H5999"
       },
       {
         "surface": "during the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of his life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "gives",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the sun",
-        "lemma": "shemesh"
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "16": [
       {
         "surface": "I applied",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "my mind",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "to know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "wisdom",
-        "lemma": "chokhmah"
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       },
       {
         "surface": "and to observe",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "the task",
-        "lemma": "inyan"
+        "lemma": "inyan",
+        "strongs": "H6045"
       },
       {
         "surface": "one performs",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "his eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "do not",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "see",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "sleep",
-        "lemma": "shenah"
+        "lemma": "shenah",
+        "strongs": "H8142"
       },
       {
         "surface": "in the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "or even in the night",
-        "lemma": "laylah"
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "17": [
       {
         "surface": "I saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "work",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "a man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "is unable",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to comprehend",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       },
       {
         "surface": "the work",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "is done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the sun",
-        "lemma": "shemesh"
+        "lemma": "shemesh",
+        "strongs": "H8121"
       },
       {
         "surface": "his",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "efforts",
-        "lemma": "amal"
+        "lemma": "amal",
+        "strongs": "H5998"
       },
       {
         "surface": "to search it out",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "he cannot",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "find its meaning",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       },
       {
         "surface": "if",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "the wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "man claims",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "to know",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "he is unable",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to comprehend",
-        "lemma": "matsa"
+        "lemma": "matsa",
+        "strongs": "H4672"
       }
     ]
-  },
-  "themeLemmas": [
-    "asah",
-    "yada",
-    "ra"
-  ]
+  }
 }

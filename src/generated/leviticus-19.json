@@ -7,1389 +7,1711 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "2": [
       {
         "surface": "Speak",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the whole",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "congregation",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5712"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "and tell",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       }
     ],
     "3": [
       {
         "surface": "Each",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "of you must respect",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "his mother",
-        "lemma": "em"
+        "lemma": "em",
+        "strongs": "H0517"
       },
       {
         "surface": "and father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "and you must keep",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "My Sabbaths",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "4": [
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "turn",
-        "lemma": "panah"
+        "lemma": "panah",
+        "strongs": "H6437"
       },
       {
         "surface": "idols",
-        "lemma": "elil"
+        "lemma": "elil",
+        "strongs": "H0457"
       },
       {
         "surface": "or make",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "molten",
-        "lemma": "massekhah"
+        "lemma": "massekhah",
+        "strongs": "H4541"
       },
       {
         "surface": "gods",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "5": [
       {
         "surface": "you sacrifice",
-        "lemma": "zavach"
+        "lemma": "zavach",
+        "strongs": "H2076"
       },
       {
         "surface": "vvv",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "a peace offering",
-        "lemma": "shelem"
+        "lemma": "shelem",
+        "strongs": "H8002"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "you shall offer it",
-        "lemma": "zavach"
+        "lemma": "zavach",
+        "strongs": "H2076"
       },
       {
         "surface": "for your acceptance",
-        "lemma": "ratson"
+        "lemma": "ratson",
+        "strongs": "H7522"
       }
     ],
     "6": [
       {
         "surface": "It shall be eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "on the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "you sacrifice it",
-        "lemma": "zevach"
+        "lemma": "zevach",
+        "strongs": "H2077"
       },
       {
         "surface": "or on the next day",
-        "lemma": "mochorat"
+        "lemma": "mochorat",
+        "strongs": "H4283"
       },
       {
         "surface": "but what remains",
-        "lemma": "yatar"
+        "lemma": "yatar",
+        "strongs": "H3498"
       },
       {
         "surface": "on the third",
-        "lemma": "shelishi"
+        "lemma": "shelishi",
+        "strongs": "H7992"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "must be burned up",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "7": [
       {
         "surface": "If",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "any of it is eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "on the third",
-        "lemma": "shelishi"
+        "lemma": "shelishi",
+        "strongs": "H7992"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "is tainted",
-        "lemma": "piggul"
+        "lemma": "piggul",
+        "strongs": "H6292"
       },
       {
         "surface": "and will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be accepted",
-        "lemma": "ratsah"
+        "lemma": "ratsah",
+        "strongs": "H7521"
       }
     ],
     "8": [
       {
         "surface": "Whoever eats",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "it will bear",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "his iniquity",
-        "lemma": "avan"
+        "lemma": "avan",
+        "strongs": "H5771"
       },
       {
         "surface": "he has profaned",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "what is holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "person",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "must be cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "from his people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "9": [
       {
         "surface": "When you reap",
-        "lemma": "qatser"
+        "lemma": "qatser",
+        "strongs": "H7114"
       },
       {
         "surface": "the harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       },
       {
         "surface": "of your land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "you are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to reap",
-        "lemma": "kalah"
+        "lemma": "kalah",
+        "strongs": "H3615"
       },
       {
         "surface": "to the very edges",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "of your field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "or gather",
-        "lemma": "laqat"
+        "lemma": "laqat",
+        "strongs": "H3950"
       },
       {
         "surface": "the gleanings",
-        "lemma": "leqet"
+        "lemma": "leqet",
+        "strongs": "H3951"
       },
       {
         "surface": "of your harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       }
     ],
     "10": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "strip your vineyard",
-        "lemma": "kerem"
+        "lemma": "kerem",
+        "strongs": "H3754"
       },
       {
         "surface": "bare",
-        "lemma": "alal"
+        "lemma": "alal",
+        "strongs": "H5953"
       },
       {
         "surface": "or gather",
-        "lemma": "laqat"
+        "lemma": "laqat",
+        "strongs": "H3950"
       },
       {
         "surface": "its",
-        "lemma": "kerem"
+        "lemma": "kerem",
+        "strongs": "H3754"
       },
       {
         "surface": "fallen grapes",
-        "lemma": "peret"
+        "lemma": "peret",
+        "strongs": "H6528"
       },
       {
         "surface": "Leave",
-        "lemma": "azav"
+        "lemma": "azav",
+        "strongs": "H5800"
       },
       {
         "surface": "for the poor",
-        "lemma": "ani"
+        "lemma": "ani",
+        "strongs": "H6041"
       },
       {
         "surface": "and the foreigner",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "11": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "steal",
-        "lemma": "ganav"
+        "lemma": "ganav",
+        "strongs": "H1589"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "lie",
-        "lemma": "kachash"
+        "lemma": "kachash",
+        "strongs": "H3584"
       },
       {
         "surface": "or deceive",
-        "lemma": "shaqar"
+        "lemma": "shaqar",
+        "strongs": "H8266"
       },
       {
         "surface": "one",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "another",
-        "lemma": "amit"
+        "lemma": "amit",
+        "strongs": "H5997"
       }
     ],
     "12": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "swear",
-        "lemma": "shava"
+        "lemma": "shava",
+        "strongs": "H7650"
       },
       {
         "surface": "falsely",
-        "lemma": "sheqer"
+        "lemma": "sheqer",
+        "strongs": "H8267"
       },
       {
         "surface": "by My name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "and so profane",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "13": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "defraud",
-        "lemma": "ashaq"
+        "lemma": "ashaq",
+        "strongs": "H6231"
       },
       {
         "surface": "your neighbor",
-        "lemma": "rea"
+        "lemma": "rea",
+        "strongs": "H7453"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "rob him",
-        "lemma": "gazal"
+        "lemma": "gazal",
+        "strongs": "H1497"
       },
       {
         "surface": "must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "withhold",
-        "lemma": "lun"
+        "lemma": "lun",
+        "strongs": "H3885"
       },
       {
         "surface": "morning",
-        "lemma": "boqer"
+        "lemma": "boqer",
+        "strongs": "H1242"
       },
       {
         "surface": "the wages",
-        "lemma": "peullah"
+        "lemma": "peullah",
+        "strongs": "H6468"
       },
       {
         "surface": "due a hired hand",
-        "lemma": "sakhir"
+        "lemma": "sakhir",
+        "strongs": "H7916"
       }
     ],
     "14": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "curse",
-        "lemma": "qalal"
+        "lemma": "qalal",
+        "strongs": "H7043"
       },
       {
         "surface": "the deaf",
-        "lemma": "cheresh"
+        "lemma": "cheresh",
+        "strongs": "H2795"
       },
       {
         "surface": "or place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "a stumbling block",
-        "lemma": "mikhshol"
+        "lemma": "mikhshol",
+        "strongs": "H4383"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the blind",
-        "lemma": "ivver"
+        "lemma": "ivver",
+        "strongs": "H5787"
       },
       {
         "surface": "but you shall fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "15": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "pervert",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "justice",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "show partiality",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "to the poor",
-        "lemma": "dal"
+        "lemma": "dal",
+        "strongs": "H1800"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "favoritism",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1921"
       },
       {
         "surface": "to the rich",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "you are to judge",
-        "lemma": "shaphat"
+        "lemma": "shaphat",
+        "strongs": "H8199"
       },
       {
         "surface": "your neighbor",
-        "lemma": "amit"
+        "lemma": "amit",
+        "strongs": "H5997"
       },
       {
         "surface": "fairly",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       }
     ],
     "16": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "go",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "about spreading slander",
-        "lemma": "rakhil"
+        "lemma": "rakhil",
+        "strongs": "H7400"
       },
       {
         "surface": "among your people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "endanger",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "the life",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "of your neighbor",
-        "lemma": "rea"
+        "lemma": "rea",
+        "strongs": "H7453"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "17": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "harbor hatred",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       },
       {
         "surface": "against your brother",
-        "lemma": "ach"
+        "lemma": "ach",
+        "strongs": "H0251"
       },
       {
         "surface": "in your heart",
-        "lemma": "levav"
+        "lemma": "levav",
+        "strongs": "H3824"
       },
       {
         "surface": "Directly rebuke",
-        "lemma": "yakhach"
+        "lemma": "yakhach",
+        "strongs": "H3198"
       },
       {
         "surface": "your neighbor",
-        "lemma": "amit"
+        "lemma": "amit",
+        "strongs": "H5997"
       },
       {
         "surface": "so that you will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "incur",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "guilt",
-        "lemma": "chet"
+        "lemma": "chet",
+        "strongs": "H2399"
       }
     ],
     "18": [
       {
         "surface": "Do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "seek revenge",
-        "lemma": "naqam"
+        "lemma": "naqam",
+        "strongs": "H5358"
       },
       {
         "surface": "or bear a grudge",
-        "lemma": "natar"
+        "lemma": "natar",
+        "strongs": "H5201"
       },
       {
         "surface": "against any",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of your people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "but love",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "your neighbor",
-        "lemma": "rea"
+        "lemma": "rea",
+        "strongs": "H7453"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "19": [
       {
         "surface": "You are to keep",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "My statutes",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "You shall not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "crossbreed",
-        "lemma": "rava"
+        "lemma": "rava",
+        "strongs": "H7250"
       },
       {
         "surface": "two different kinds",
-        "lemma": "kilayim"
+        "lemma": "kilayim",
+        "strongs": "H3610"
       },
       {
         "surface": "of livestock",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "you shall not sow",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "H2232"
       },
       {
         "surface": "your fields",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "with two kinds",
-        "lemma": "kilayim"
+        "lemma": "kilayim",
+        "strongs": "H3610"
       },
       {
         "surface": "of seed",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "clothing",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "made of two kinds",
-        "lemma": "kilayim"
+        "lemma": "kilayim",
+        "strongs": "H3610"
       },
       {
         "surface": "of material",
-        "lemma": "shaatnez"
+        "lemma": "shaatnez",
+        "strongs": "H8162"
       }
     ],
     "20": [
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "carnally",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "with a slave girl",
-        "lemma": "shiphchah"
+        "lemma": "shiphchah",
+        "strongs": "H8198"
       },
       {
         "surface": "promised",
-        "lemma": "charaph"
+        "lemma": "charaph",
+        "strongs": "H2778"
       },
       {
         "surface": "to another man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "but who has not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "been redeemed",
-        "lemma": "padah"
+        "lemma": "padah",
+        "strongs": "H6299"
       },
       {
         "surface": "given",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "freedom",
-        "lemma": "chuphshah"
+        "lemma": "chuphshah",
+        "strongs": "H2668"
       },
       {
         "surface": "there must be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "due punishment",
-        "lemma": "biqqoret"
+        "lemma": "biqqoret",
+        "strongs": "H1244"
       },
       {
         "surface": "But they are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to be put to death",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "she had not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "been freed",
-        "lemma": "chaphash"
+        "lemma": "chaphash",
+        "strongs": "H2666"
       }
     ],
     "21": [
       {
         "surface": "The man, however, must bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "a ram",
-        "lemma": "ayil"
+        "lemma": "ayil",
+        "strongs": "H0352"
       },
       {
         "surface": "the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "to the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "as his guilt offering",
-        "lemma": "asham"
+        "lemma": "asham",
+        "strongs": "H0817"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "22": [
       {
         "surface": "The priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "shall make atonement",
-        "lemma": "kipher"
+        "lemma": "kipher",
+        "strongs": "H3722"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "with the ram",
-        "lemma": "ayil"
+        "lemma": "ayil",
+        "strongs": "H0352"
       },
       {
         "surface": "of the guilt offering",
-        "lemma": "asham"
+        "lemma": "asham",
+        "strongs": "H0817"
       },
       {
         "surface": "the sin",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       },
       {
         "surface": "he has committed",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       },
       {
         "surface": "and he will be forgiven",
-        "lemma": "salach"
+        "lemma": "salach",
+        "strongs": "H5545"
       },
       {
         "surface": "the sin",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       },
       {
         "surface": "he has committed",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       }
     ],
     "23": [
       {
         "surface": "you enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "and plant",
-        "lemma": "nata"
+        "lemma": "nata",
+        "strongs": "H5193"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "kind of tree",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "for food",
-        "lemma": "maakhal"
+        "lemma": "maakhal",
+        "strongs": "H3978"
       },
       {
         "surface": "you shall regard",
-        "lemma": "arel"
+        "lemma": "arel",
+        "strongs": "H6188"
       },
       {
         "surface": "the fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "as forbidden",
-        "lemma": "orlah"
+        "lemma": "orlah",
+        "strongs": "H6190"
       },
       {
         "surface": "For three",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       },
       {
         "surface": "years",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "it will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "forbidden",
-        "lemma": "arel"
+        "lemma": "arel",
+        "strongs": "H6189"
       },
       {
         "surface": "and must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "24": [
       {
         "surface": "In the fourth",
-        "lemma": "revii"
+        "lemma": "revii",
+        "strongs": "H7243"
       },
       {
         "surface": "year",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "its fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "must be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "consecrated",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "as a praise offering",
-        "lemma": "hillul"
+        "lemma": "hillul",
+        "strongs": "H1974"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "25": [
       {
         "surface": "But in the fifth",
-        "lemma": "chamishi"
+        "lemma": "chamishi",
+        "strongs": "H2549"
       },
       {
         "surface": "year",
-        "lemma": "shaneh"
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "you may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "its fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "harvest",
-        "lemma": "tevuah"
+        "lemma": "tevuah",
+        "strongs": "H8393"
       },
       {
         "surface": "will be increased",
-        "lemma": "yasaph"
+        "lemma": "yasaph",
+        "strongs": "H3254"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "26": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "blood still in it",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "practice divination",
-        "lemma": "nachash"
+        "lemma": "nachash",
+        "strongs": "H5172"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "sorcery",
-        "lemma": "anan"
+        "lemma": "anan",
+        "strongs": "H6049"
       }
     ],
     "27": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "cut off the hair",
-        "lemma": "naqaph"
+        "lemma": "naqaph",
+        "strongs": "H5362"
       },
       {
         "surface": "at the sides",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "of your head",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "or clip off",
-        "lemma": "shachat"
+        "lemma": "shachat",
+        "strongs": "H7843"
       },
       {
         "surface": "the edges",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "of your beard",
-        "lemma": "zaqan"
+        "lemma": "zaqan",
+        "strongs": "H2206"
       }
     ],
     "28": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "make any cuts",
-        "lemma": "seret"
+        "lemma": "seret",
+        "strongs": "H8296"
       },
       {
         "surface": "in your bodies",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "for the dead",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "or put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "tattoo",
-        "lemma": "qaaqa"
+        "lemma": "qaaqa",
+        "strongs": "H7085"
       },
       {
         "surface": "marks",
-        "lemma": "ketovet"
+        "lemma": "ketovet",
+        "strongs": "H3793"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "29": [
       {
         "surface": "You must not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "defile",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "your daughter",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "by making her a prostitute",
-        "lemma": "zanah"
+        "lemma": "zanah",
+        "strongs": "H2181"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "will be prostituted",
-        "lemma": "zanah"
+        "lemma": "zanah",
+        "strongs": "H2181"
       },
       {
         "surface": "and filled",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "with depravity",
-        "lemma": "zimmah"
+        "lemma": "zimmah",
+        "strongs": "H2154"
       }
     ],
     "30": [
       {
         "surface": "You must keep",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "My Sabbaths",
-        "lemma": "shabbat"
+        "lemma": "shabbat",
+        "strongs": "H7676"
       },
       {
         "surface": "and have reverence for",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "My sanctuary",
-        "lemma": "miqdash"
+        "lemma": "miqdash",
+        "strongs": "H4720"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "31": [
       {
         "surface": "You must not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "turn",
-        "lemma": "panah"
+        "lemma": "panah",
+        "strongs": "H6437"
       },
       {
         "surface": "mediums",
-        "lemma": "ov"
+        "lemma": "ov",
+        "strongs": "H0178"
       },
       {
         "surface": "spiritists",
-        "lemma": "yiddoni"
+        "lemma": "yiddoni",
+        "strongs": "H3049"
       },
       {
         "surface": "do not seek them out",
-        "lemma": "baqash"
+        "lemma": "baqash",
+        "strongs": "H1245"
       },
       {
         "surface": "or you will be defiled",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "32": [
       {
         "surface": "You are to rise",
-        "lemma": "qamay"
+        "lemma": "qamay",
+        "strongs": "H6965"
       },
       {
         "surface": "in the presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "of the elderly",
-        "lemma": "sevah"
+        "lemma": "sevah",
+        "strongs": "H7872"
       },
       {
         "surface": "honor",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1921"
       },
       {
         "surface": "the aged",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       },
       {
         "surface": "and fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "33": [
       {
         "surface": "a foreigner",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "resides",
-        "lemma": "gur"
+        "lemma": "gur",
+        "strongs": "H1481"
       },
       {
         "surface": "in your land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "you must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "oppress",
-        "lemma": "yanah"
+        "lemma": "yanah",
+        "strongs": "H3238"
       }
     ],
     "34": [
       {
         "surface": "You must treat",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the foreigner",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "living",
-        "lemma": "gur"
+        "lemma": "gur",
+        "strongs": "H1481"
       },
       {
         "surface": "as native-born",
-        "lemma": "ezrach"
+        "lemma": "ezrach",
+        "strongs": "H0249"
       },
       {
         "surface": "and love",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "you were",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "foreigners",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "in the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "35": [
       {
         "surface": "You must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "use",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "dishonest",
-        "lemma": "evel"
+        "lemma": "evel",
+        "strongs": "H5766"
       },
       {
         "surface": "measures",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "of length",
-        "lemma": "middah"
+        "lemma": "middah",
+        "strongs": "H4060"
       },
       {
         "surface": "weight",
-        "lemma": "mishqal"
+        "lemma": "mishqal",
+        "strongs": "H4948"
       },
       {
         "surface": "or volume",
-        "lemma": "mesurah"
+        "lemma": "mesurah",
+        "strongs": "H4884"
       }
     ],
     "36": [
       {
         "surface": "You shall maintain",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "honest",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "scales",
-        "lemma": "mozen"
+        "lemma": "mozen",
+        "strongs": "H3976"
       },
       {
         "surface": "and",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "weights",
-        "lemma": "even"
+        "lemma": "even",
+        "strongs": "H0068"
       },
       {
         "surface": "an honest",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "ephah",
-        "lemma": "ephah"
+        "lemma": "ephah",
+        "strongs": "H0374"
       },
       {
         "surface": "and an honest",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "hin",
-        "lemma": "hin"
+        "lemma": "hin",
+        "strongs": "H1969"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "brought",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "out of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "of Egypt",
-        "lemma": "mitsrayim"
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "37": [
       {
         "surface": "You must keep",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "My statutes",
-        "lemma": "chuqqah"
+        "lemma": "chuqqah",
+        "strongs": "H2708"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "My ordinances",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "and follow",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ]
-  },
-  "themeLemmas": [
-    "lo",
-    "hayah",
-    "akhal"
-  ]
+  }
 }

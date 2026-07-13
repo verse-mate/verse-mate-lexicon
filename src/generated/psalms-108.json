@@ -7,365 +7,443 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "My heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "is steadfast",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "I will sing",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7891"
       },
       {
         "surface": "and make music",
-        "lemma": "zamar"
+        "lemma": "zamar",
+        "strongs": "H2167"
       },
       {
         "surface": "all my being",
-        "lemma": "kavod"
+        "lemma": "kavod",
+        "strongs": "H3519"
       }
     ],
     "2": [
       {
         "surface": "Awake",
-        "lemma": "ur"
+        "lemma": "ur",
+        "strongs": "H5782"
       },
       {
         "surface": "O harp",
-        "lemma": "nevel"
+        "lemma": "nevel",
+        "strongs": "H5035"
       },
       {
         "surface": "and lyre",
-        "lemma": "kinnor"
+        "lemma": "kinnor",
+        "strongs": "H3658"
       },
       {
         "surface": "I will awaken",
-        "lemma": "ur"
+        "lemma": "ur",
+        "strongs": "H5782"
       },
       {
         "surface": "the dawn",
-        "lemma": "shachar"
+        "lemma": "shachar",
+        "strongs": "H7837"
       }
     ],
     "3": [
       {
         "surface": "I will praise You",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "among the nations",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "I will sing Your praises",
-        "lemma": "zamar"
+        "lemma": "zamar",
+        "strongs": "H2167"
       },
       {
         "surface": "among",
-        "lemma": "bal"
+        "lemma": "bal",
+        "strongs": "H1077"
       },
       {
         "surface": "the peoples",
-        "lemma": "ummah"
+        "lemma": "ummah",
+        "strongs": "H0523"
       }
     ],
     "4": [
       {
         "surface": "Your loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "extends",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and Your faithfulness",
-        "lemma": "emet"
+        "lemma": "emet",
+        "strongs": "H0571"
       },
       {
         "surface": "the clouds",
-        "lemma": "shachaq"
+        "lemma": "shachaq",
+        "strongs": "H7834"
       }
     ],
     "5": [
       {
         "surface": "Be exalted",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "may Your glory",
-        "lemma": "kavod"
+        "lemma": "kavod",
+        "strongs": "H3519"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "6": [
       {
         "surface": "Respond",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "and save us",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "with Your right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "Your beloved",
-        "lemma": "yedid"
+        "lemma": "yedid",
+        "strongs": "H3039"
       },
       {
         "surface": "may be delivered",
-        "lemma": "chalats"
+        "lemma": "chalats",
+        "strongs": "H2502"
       }
     ],
     "7": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "has spoken",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "from His sanctuary",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "I will triumph",
-        "lemma": "alaz"
+        "lemma": "alaz",
+        "strongs": "H5937"
       },
       {
         "surface": "I will parcel out",
-        "lemma": "chalaq"
+        "lemma": "chalaq",
+        "strongs": "H2505"
       },
       {
         "surface": "Shechem",
-        "lemma": "shekhem"
+        "lemma": "shekhem",
+        "strongs": "H7927"
       },
       {
         "surface": "and apportion",
-        "lemma": "madad"
+        "lemma": "madad",
+        "strongs": "H4058"
       },
       {
         "surface": "the Valley",
-        "lemma": "emeq"
+        "lemma": "emeq",
+        "strongs": "H6010"
       },
       {
         "surface": "of Succoth",
-        "lemma": "sukkot"
+        "lemma": "sukkot",
+        "strongs": "H5523"
       }
     ],
     "8": [
       {
         "surface": "Gilead",
-        "lemma": "gilad"
+        "lemma": "gilad",
+        "strongs": "H1568"
       },
       {
         "surface": "and Manasseh",
-        "lemma": "menashsheh"
+        "lemma": "menashsheh",
+        "strongs": "H4519"
       },
       {
         "surface": "Ephraim",
-        "lemma": "ephrayim"
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       },
       {
         "surface": "is My helmet",
-        "lemma": "maoz"
+        "lemma": "maoz",
+        "strongs": "H4581"
       },
       {
         "surface": "Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "is My scepter",
-        "lemma": "chaqaq"
+        "lemma": "chaqaq",
+        "strongs": "H2710"
       }
     ],
     "9": [
       {
         "surface": "Moab",
-        "lemma": "moav"
+        "lemma": "moav",
+        "strongs": "H4124"
       },
       {
         "surface": "is My washbasin",
-        "lemma": "sir"
+        "lemma": "sir",
+        "strongs": "H5518"
       },
       {
         "surface": "Edom",
-        "lemma": "edom"
+        "lemma": "edom",
+        "strongs": "H0123"
       },
       {
         "surface": "I toss",
-        "lemma": "shalakh"
+        "lemma": "shalakh",
+        "strongs": "H7993"
       },
       {
         "surface": "My sandal",
-        "lemma": "naal"
+        "lemma": "naal",
+        "strongs": "H5275"
       },
       {
         "surface": "Philistia",
-        "lemma": "peleshet"
+        "lemma": "peleshet",
+        "strongs": "H6429"
       },
       {
         "surface": "I shout in triumph",
-        "lemma": "rua"
+        "lemma": "rua",
+        "strongs": "H7321"
       }
     ],
     "10": [
       {
         "surface": "Who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "will bring me",
-        "lemma": "yaval"
+        "lemma": "yaval",
+        "strongs": "H2986"
       },
       {
         "surface": "to the fortified",
-        "lemma": "mivtsar"
+        "lemma": "mivtsar",
+        "strongs": "H4013"
       },
       {
         "surface": "city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "Who",
-        "lemma": "mi"
+        "lemma": "mi",
+        "strongs": "H4310"
       },
       {
         "surface": "will lead me",
-        "lemma": "nachah"
+        "lemma": "nachah",
+        "strongs": "H5148"
       },
       {
         "surface": "Edom",
-        "lemma": "edom"
+        "lemma": "edom",
+        "strongs": "H0123"
       }
     ],
     "11": [
       {
         "surface": "Have You not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "rejected us",
-        "lemma": "zanach"
+        "lemma": "zanach",
+        "strongs": "H2186"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "Will You no longer",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "march out",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "with our armies",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       }
     ],
     "12": [
       {
         "surface": "Give",
-        "lemma": "yahav"
+        "lemma": "yahav",
+        "strongs": "H3051"
       },
       {
         "surface": "aid",
-        "lemma": "ezrah"
+        "lemma": "ezrah",
+        "strongs": "H5833"
       },
       {
         "surface": "against the enemy",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "for the help",
-        "lemma": "teshuah"
+        "lemma": "teshuah",
+        "strongs": "H8668"
       },
       {
         "surface": "of man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "is worthless",
-        "lemma": "shav"
+        "lemma": "shav",
+        "strongs": "H7723"
       }
     ],
     "13": [
       {
         "surface": "With God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "we will perform",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "with valor",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "will trample",
-        "lemma": "bus"
+        "lemma": "bus",
+        "strongs": "H0947"
       },
       {
         "surface": "our enemies",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       }
     ]
-  },
-  "themeLemmas": [
-    "zamar",
-    "ur",
-    "tsar"
-  ]
+  }
 }

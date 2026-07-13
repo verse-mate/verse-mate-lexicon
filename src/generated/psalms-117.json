@@ -7,62 +7,71 @@
     "1": [
       {
         "surface": "Praise",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "all you",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "Extol Him",
-        "lemma": "shavach"
+        "lemma": "shavach",
+        "strongs": "H7623"
       },
       {
         "surface": "all you",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "peoples",
-        "lemma": "ummah"
+        "lemma": "ummah",
+        "strongs": "H0523"
       }
     ],
     "2": [
       {
         "surface": "great is",
-        "lemma": "gavar"
+        "lemma": "gavar",
+        "strongs": "H1396"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "and the faithfulness",
-        "lemma": "emet"
+        "lemma": "emet",
+        "strongs": "H0571"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "Hallelujah",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "halal"
-  ]
+  }
 }

@@ -7,143 +7,170 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "of ascents",
-        "lemma": "maalah"
+        "lemma": "maalah",
+        "strongs": "H4609"
       },
       {
         "surface": "I lift up",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "my eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "the One enthroned",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in heaven",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "2": [
       {
         "surface": "As the eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "of servants",
-        "lemma": "eved"
+        "lemma": "eved",
+        "strongs": "H5650"
       },
       {
         "surface": "the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of their master",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "as the eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "of a maidservant",
-        "lemma": "shiphchah"
+        "lemma": "shiphchah",
+        "strongs": "H8198"
       },
       {
         "surface": "the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of her mistress",
-        "lemma": "geveret"
+        "lemma": "geveret",
+        "strongs": "H1404"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "our eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "He shows us mercy",
-        "lemma": "chanan"
+        "lemma": "chanan",
+        "strongs": "H2603"
       }
     ],
     "3": [
       {
         "surface": "Have mercy on us",
-        "lemma": "chanan"
+        "lemma": "chanan",
+        "strongs": "H2603"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "have mercy",
-        "lemma": "chanan"
+        "lemma": "chanan",
+        "strongs": "H2603"
       },
       {
         "surface": "we have endured",
-        "lemma": "sava"
+        "lemma": "sava",
+        "strongs": "H7646"
       },
       {
         "surface": "much",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "contempt",
-        "lemma": "buz"
+        "lemma": "buz",
+        "strongs": "H0937"
       }
     ],
     "4": [
       {
         "surface": "We",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "have endured",
-        "lemma": "sava"
+        "lemma": "sava",
+        "strongs": "H7646"
       },
       {
         "surface": "much",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "scorn",
-        "lemma": "laag"
+        "lemma": "laag",
+        "strongs": "H3933"
       },
       {
         "surface": "from the arrogant",
-        "lemma": "shaanan"
+        "lemma": "shaanan",
+        "strongs": "H7600"
       },
       {
         "surface": "much contempt",
-        "lemma": "buz"
+        "lemma": "buz",
+        "strongs": "H0937"
       },
       {
         "surface": "from the proud",
-        "lemma": "gaayon"
+        "lemma": "gaayon",
+        "strongs": "H1349"
       }
     ]
-  },
-  "themeLemmas": [
-    "chanan",
-    "sava",
-    "rav"
-  ]
+  }
 }

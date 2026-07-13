@@ -7,985 +7,1209 @@
     "1": [
       {
         "surface": "hearts",
-        "lemma": "kardia"
+        "lemma": "kardia",
+        "strongs": "G2588"
       },
       {
         "surface": "be troubled",
-        "lemma": "tarasso"
+        "lemma": "tarasso",
+        "strongs": "G5015"
       },
       {
         "surface": "You believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       }
     ],
     "2": [
       {
         "surface": "Father’s",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "house",
-        "lemma": "oikia"
+        "lemma": "oikia",
+        "strongs": "G3614"
       },
       {
         "surface": "are",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "many",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "rooms",
-        "lemma": "mone"
+        "lemma": "mone",
+        "strongs": "G3438"
       },
       {
         "surface": "would I have told",
-        "lemma": "eipon"
+        "lemma": "eipon",
+        "strongs": "G2036"
       },
       {
         "surface": "I am going there",
-        "lemma": "poreuo"
+        "lemma": "poreuo",
+        "strongs": "G4198"
       },
       {
         "surface": "to prepare",
-        "lemma": "hetoimazo"
+        "lemma": "hetoimazo",
+        "strongs": "G2090"
       },
       {
         "surface": "a place",
-        "lemma": "topos"
+        "lemma": "topos",
+        "strongs": "G5117"
       }
     ],
     "3": [
       {
         "surface": "I go",
-        "lemma": "poreuo"
+        "lemma": "poreuo",
+        "strongs": "G4198"
       },
       {
         "surface": "prepare",
-        "lemma": "hetoimazo"
+        "lemma": "hetoimazo",
+        "strongs": "G2090"
       },
       {
         "surface": "a place",
-        "lemma": "topos"
+        "lemma": "topos",
+        "strongs": "G5117"
       },
       {
         "surface": "I will come",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "back",
-        "lemma": "palin"
+        "lemma": "palin",
+        "strongs": "G3825"
       },
       {
         "surface": "welcome",
-        "lemma": "paralambano"
+        "lemma": "paralambano",
+        "strongs": "G3880"
       },
       {
         "surface": "may be",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "am",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       }
     ],
     "4": [
       {
         "surface": "You know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "way",
-        "lemma": "hodos"
+        "lemma": "hodos",
+        "strongs": "G3598"
       },
       {
         "surface": "am going",
-        "lemma": "hupago"
+        "lemma": "hupago",
+        "strongs": "G5217"
       }
     ],
     "5": [
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "said",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Thomas",
-        "lemma": "thomas"
+        "lemma": "thomas",
+        "strongs": "G2381"
       },
       {
         "surface": "we do not know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "where",
-        "lemma": "pou"
+        "lemma": "pou",
+        "strongs": "G4226"
       },
       {
         "surface": "You are going",
-        "lemma": "hupago"
+        "lemma": "hupago",
+        "strongs": "G5217"
       },
       {
         "surface": "can we",
-        "lemma": "dunamai"
+        "lemma": "dunamai",
+        "strongs": "G1410"
       },
       {
         "surface": "know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "way",
-        "lemma": "hodos"
+        "lemma": "hodos",
+        "strongs": "G3598"
       }
     ],
     "6": [
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "answered",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "am",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "way",
-        "lemma": "hodos"
+        "lemma": "hodos",
+        "strongs": "G3598"
       },
       {
         "surface": "truth",
-        "lemma": "aletheia"
+        "lemma": "aletheia",
+        "strongs": "G0225"
       },
       {
         "surface": "life",
-        "lemma": "zoe"
+        "lemma": "zoe",
+        "strongs": "G2222"
       },
       {
         "surface": "No one",
-        "lemma": "oudeis"
+        "lemma": "oudeis",
+        "strongs": "G3762"
       },
       {
         "surface": "comes",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       }
     ],
     "7": [
       {
         "surface": "you had known",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "you would know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "now on",
-        "lemma": "arti"
+        "lemma": "arti",
+        "strongs": "G0737"
       },
       {
         "surface": "you do know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "have seen",
-        "lemma": "horao"
+        "lemma": "horao",
+        "strongs": "G3708"
       }
     ],
     "8": [
       {
         "surface": "Philip",
-        "lemma": "philippos"
+        "lemma": "philippos",
+        "strongs": "G5376"
       },
       {
         "surface": "said",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "show",
-        "lemma": "deiknuo"
+        "lemma": "deiknuo",
+        "strongs": "G1166"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "that will be enough",
-        "lemma": "arkeo"
+        "lemma": "arkeo",
+        "strongs": "G0714"
       }
     ],
     "9": [
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "replied",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Philip",
-        "lemma": "philippos"
+        "lemma": "philippos",
+        "strongs": "G5376"
       },
       {
         "surface": "I have been",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "all this",
-        "lemma": "tosoutos"
+        "lemma": "tosoutos",
+        "strongs": "G5118"
       },
       {
         "surface": "time",
-        "lemma": "chronos"
+        "lemma": "chronos",
+        "strongs": "G5550"
       },
       {
         "surface": "still you do not know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "has seen",
-        "lemma": "horao"
+        "lemma": "horao",
+        "strongs": "G3708"
       },
       {
         "surface": "has seen",
-        "lemma": "horao"
+        "lemma": "horao",
+        "strongs": "G3708"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "say",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Show",
-        "lemma": "deiknuo"
+        "lemma": "deiknuo",
+        "strongs": "G1166"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       }
     ],
     "10": [
       {
         "surface": "Do you not believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "words",
-        "lemma": "rhema"
+        "lemma": "rhema",
+        "strongs": "G4487"
       },
       {
         "surface": "say",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "I do not speak",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "dwelling",
-        "lemma": "meno"
+        "lemma": "meno",
+        "strongs": "G3306"
       },
       {
         "surface": "performing",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "works",
-        "lemma": "ergon"
+        "lemma": "ergon",
+        "strongs": "G2041"
       }
     ],
     "11": [
       {
         "surface": "Believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "works",
-        "lemma": "ergon"
+        "lemma": "ergon",
+        "strongs": "G2041"
       }
     ],
     "12": [
       {
         "surface": "I tell",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "believes",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "will also do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "works",
-        "lemma": "ergon"
+        "lemma": "ergon",
+        "strongs": "G2041"
       },
       {
         "surface": "am doing",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "He will do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "greater things",
-        "lemma": "megas"
+        "lemma": "megas",
+        "strongs": "G3173"
       },
       {
         "surface": "am going",
-        "lemma": "poreuo"
+        "lemma": "poreuo",
+        "strongs": "G4198"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       }
     ],
     "13": [
       {
         "surface": "I will do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "you ask",
-        "lemma": "aiteo"
+        "lemma": "aiteo",
+        "strongs": "G0154"
       },
       {
         "surface": "name",
-        "lemma": "onoma"
+        "lemma": "onoma",
+        "strongs": "G3686"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "may be glorified",
-        "lemma": "doxazo"
+        "lemma": "doxazo",
+        "strongs": "G1392"
       },
       {
         "surface": "Son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       }
     ],
     "14": [
       {
         "surface": "you ask",
-        "lemma": "aiteo"
+        "lemma": "aiteo",
+        "strongs": "G0154"
       },
       {
         "surface": "name",
-        "lemma": "onoma"
+        "lemma": "onoma",
+        "strongs": "G3686"
       },
       {
         "surface": "will do it",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       }
     ],
     "15": [
       {
         "surface": "you love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "you will keep",
-        "lemma": "tereo"
+        "lemma": "tereo",
+        "strongs": "G5083"
       },
       {
         "surface": "My",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       },
       {
         "surface": "commandments",
-        "lemma": "entole"
+        "lemma": "entole",
+        "strongs": "G1785"
       }
     ],
     "16": [
       {
         "surface": "will ask",
-        "lemma": "erotao"
+        "lemma": "erotao",
+        "strongs": "G2065"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "He will give",
-        "lemma": "didomi"
+        "lemma": "didomi",
+        "strongs": "G1325"
       },
       {
         "surface": "another",
-        "lemma": "allos"
+        "lemma": "allos",
+        "strongs": "G0243"
       },
       {
         "surface": "Advocate",
-        "lemma": "parakletos"
+        "lemma": "parakletos",
+        "strongs": "G3875"
       },
       {
         "surface": "be",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "forever",
-        "lemma": "aion"
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "17": [
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "of truth",
-        "lemma": "aletheia"
+        "lemma": "aletheia",
+        "strongs": "G0225"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "cannot",
-        "lemma": "dunamai"
+        "lemma": "dunamai",
+        "strongs": "G1410"
       },
       {
         "surface": "receive",
-        "lemma": "lambano"
+        "lemma": "lambano",
+        "strongs": "G2983"
       },
       {
         "surface": "it neither sees",
-        "lemma": "theoreo"
+        "lemma": "theoreo",
+        "strongs": "G2334"
       },
       {
         "surface": "knows Him",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "do know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "He abides",
-        "lemma": "meno"
+        "lemma": "meno",
+        "strongs": "G3306"
       },
       {
         "surface": "will be",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       }
     ],
     "18": [
       {
         "surface": "I will not leave",
-        "lemma": "aphiemi"
+        "lemma": "aphiemi",
+        "strongs": "G0863"
       },
       {
         "surface": "as orphans",
-        "lemma": "orphanos"
+        "lemma": "orphanos",
+        "strongs": "G3737"
       },
       {
         "surface": "I will come",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "19": [
       {
         "surface": "In",
-        "lemma": "eti"
+        "lemma": "eti",
+        "strongs": "G2089"
       },
       {
         "surface": "a little while",
-        "lemma": "mikros"
+        "lemma": "mikros",
+        "strongs": "G3398"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "will see",
-        "lemma": "theoreo"
+        "lemma": "theoreo",
+        "strongs": "G2334"
       },
       {
         "surface": "will see",
-        "lemma": "theoreo"
+        "lemma": "theoreo",
+        "strongs": "G2334"
       },
       {
         "surface": "live",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "will live",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       }
     ],
     "20": [
       {
         "surface": "day",
-        "lemma": "hemera"
+        "lemma": "hemera",
+        "strongs": "G2250"
       },
       {
         "surface": "will know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       }
     ],
     "21": [
       {
         "surface": "has",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "commandments",
-        "lemma": "entole"
+        "lemma": "entole",
+        "strongs": "G1785"
       },
       {
         "surface": "keeps",
-        "lemma": "tereo"
+        "lemma": "tereo",
+        "strongs": "G5083"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "loves",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "loves",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "will be loved",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "will love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "reveal",
-        "lemma": "emphanizo"
+        "lemma": "emphanizo",
+        "strongs": "G1718"
       }
     ],
     "22": [
       {
         "surface": "Judas",
-        "lemma": "ioudas"
+        "lemma": "ioudas",
+        "strongs": "G2455"
       },
       {
         "surface": "Iscariot",
-        "lemma": "iskariotes"
+        "lemma": "iskariotes",
+        "strongs": "G2469"
       },
       {
         "surface": "asked",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "why",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "are You going",
-        "lemma": "mello"
+        "lemma": "mello",
+        "strongs": "G3195"
       },
       {
         "surface": "to reveal",
-        "lemma": "emphanizo"
+        "lemma": "emphanizo",
+        "strongs": "G1718"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       }
     ],
     "23": [
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "replied",
-        "lemma": "apokrino"
+        "lemma": "apokrino",
+        "strongs": "G0611"
       },
       {
         "surface": "loves",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "he will keep",
-        "lemma": "tereo"
+        "lemma": "tereo",
+        "strongs": "G5083"
       },
       {
         "surface": "word",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "will love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "We will come",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "make",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "Our home",
-        "lemma": "mone"
+        "lemma": "mone",
+        "strongs": "G3438"
       }
     ],
     "24": [
       {
         "surface": "does not love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "does not keep",
-        "lemma": "tereo"
+        "lemma": "tereo",
+        "strongs": "G5083"
       },
       {
         "surface": "words",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "word",
-        "lemma": "logos"
+        "lemma": "logos",
+        "strongs": "G3056"
       },
       {
         "surface": "you hear",
-        "lemma": "akouo"
+        "lemma": "akouo",
+        "strongs": "G0191"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "My own",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "who sent",
-        "lemma": "pempo"
+        "lemma": "pempo",
+        "strongs": "G3992"
       }
     ],
     "25": [
       {
         "surface": "I have spoken",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "while I am still",
-        "lemma": "meno"
+        "lemma": "meno",
+        "strongs": "G3306"
       }
     ],
     "26": [
       {
         "surface": "Advocate",
-        "lemma": "parakletos"
+        "lemma": "parakletos",
+        "strongs": "G3875"
       },
       {
         "surface": "Holy",
-        "lemma": "hagios"
+        "lemma": "hagios",
+        "strongs": "G0040"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "will send",
-        "lemma": "pempo"
+        "lemma": "pempo",
+        "strongs": "G3992"
       },
       {
         "surface": "name",
-        "lemma": "onoma"
+        "lemma": "onoma",
+        "strongs": "G3686"
       },
       {
         "surface": "will teach",
-        "lemma": "didasko"
+        "lemma": "didasko",
+        "strongs": "G1321"
       },
       {
         "surface": "all things",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "will remind you of",
-        "lemma": "hupomimnesko"
+        "lemma": "hupomimnesko",
+        "strongs": "G5279"
       },
       {
         "surface": "everything",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "have told",
-        "lemma": "eipon"
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "27": [
       {
         "surface": "Peace",
-        "lemma": "eirene"
+        "lemma": "eirene",
+        "strongs": "G1515"
       },
       {
         "surface": "I leave",
-        "lemma": "aphiemi"
+        "lemma": "aphiemi",
+        "strongs": "G0863"
       },
       {
         "surface": "My",
-        "lemma": "emos"
+        "lemma": "emos",
+        "strongs": "G1699"
       },
       {
         "surface": "peace",
-        "lemma": "eirene"
+        "lemma": "eirene",
+        "strongs": "G1515"
       },
       {
         "surface": "I give",
-        "lemma": "didomi"
+        "lemma": "didomi",
+        "strongs": "G1325"
       },
       {
         "surface": "give",
-        "lemma": "didomi"
+        "lemma": "didomi",
+        "strongs": "G1325"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "gives",
-        "lemma": "didomi"
+        "lemma": "didomi",
+        "strongs": "G1325"
       },
       {
         "surface": "hearts",
-        "lemma": "kardia"
+        "lemma": "kardia",
+        "strongs": "G2588"
       },
       {
         "surface": "be troubled",
-        "lemma": "tarasso"
+        "lemma": "tarasso",
+        "strongs": "G5015"
       },
       {
         "surface": "be afraid",
-        "lemma": "deiliao"
+        "lemma": "deiliao",
+        "strongs": "G1168"
       }
     ],
     "28": [
       {
         "surface": "You heard",
-        "lemma": "akouo"
+        "lemma": "akouo",
+        "strongs": "G0191"
       },
       {
         "surface": "say",
-        "lemma": "eipon"
+        "lemma": "eipon",
+        "strongs": "G2036"
       },
       {
         "surface": "I am going away",
-        "lemma": "hupago"
+        "lemma": "hupago",
+        "strongs": "G5217"
       },
       {
         "surface": "I am coming back",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "you loved",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "you would rejoice",
-        "lemma": "chairo"
+        "lemma": "chairo",
+        "strongs": "G5463"
       },
       {
         "surface": "I am going",
-        "lemma": "poreuo"
+        "lemma": "poreuo",
+        "strongs": "G4198"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "greater than",
-        "lemma": "megas"
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "29": [
       {
         "surface": "now",
-        "lemma": "nun"
+        "lemma": "nun",
+        "strongs": "G3568"
       },
       {
         "surface": "I have told",
-        "lemma": "ero"
+        "lemma": "ero",
+        "strongs": "G2046"
       },
       {
         "surface": "it happens",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "it does happen",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "you will believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       }
     ],
     "30": [
       {
         "surface": "I will {not} speak",
-        "lemma": "laleo"
+        "lemma": "laleo",
+        "strongs": "G2980"
       },
       {
         "surface": "much",
-        "lemma": "polus"
+        "lemma": "polus",
+        "strongs": "G4183"
       },
       {
         "surface": "prince",
-        "lemma": "archon"
+        "lemma": "archon",
+        "strongs": "G0758"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "is coming",
-        "lemma": "erchomai"
+        "lemma": "erchomai",
+        "strongs": "G2064"
       },
       {
         "surface": "he has",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       }
     ],
     "31": [
       {
         "surface": "I do",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "has commanded",
-        "lemma": "entello"
+        "lemma": "entello",
+        "strongs": "G1781"
       },
       {
         "surface": "world",
-        "lemma": "kosmos"
+        "lemma": "kosmos",
+        "strongs": "G2889"
       },
       {
         "surface": "may know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "I love",
-        "lemma": "agapao"
+        "lemma": "agapao",
+        "strongs": "G0025"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "Get up",
-        "lemma": "egeiro"
+        "lemma": "egeiro",
+        "strongs": "G1453"
       },
       {
         "surface": "Let us go on",
-        "lemma": "ago"
+        "lemma": "ago",
+        "strongs": "G0071"
       },
       {
         "surface": "from here",
-        "lemma": "enteuthen"
+        "lemma": "enteuthen",
+        "strongs": "G1782"
       }
     ]
-  },
-  "themeLemmas": [
-    "mone",
-    "parakletos",
-    "emphanizo"
-  ]
+  }
 }

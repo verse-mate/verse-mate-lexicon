@@ -7,501 +7,615 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Joshua",
-        "lemma": "yehoshua"
+        "lemma": "yehoshua",
+        "strongs": "H3091"
       }
     ],
     "2": [
       {
         "surface": "Tell",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "to designate",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the cities",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "of refuge",
-        "lemma": "miqlat"
+        "lemma": "miqlat",
+        "strongs": "H4733"
       },
       {
         "surface": "I instructed",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "you through",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "3": [
       {
         "surface": "so that anyone",
-        "lemma": "ratsach"
+        "lemma": "ratsach",
+        "strongs": "H7523"
       },
       {
         "surface": "who kills",
-        "lemma": "nakhah"
+        "lemma": "nakhah",
+        "strongs": "H5221"
       },
       {
         "surface": "another",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "unintentionally",
-        "lemma": "shegagah"
+        "lemma": "shegagah",
+        "strongs": "H7684"
       },
       {
         "surface": "or accidentally",
-        "lemma": "beli"
+        "lemma": "beli",
+        "strongs": "H1097"
       },
       {
         "surface": "may flee",
-        "lemma": "nus"
+        "lemma": "nus",
+        "strongs": "H5127"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "These will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "refuge",
-        "lemma": "miqlat"
+        "lemma": "miqlat",
+        "strongs": "H4733"
       },
       {
         "surface": "from the avenger",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "of blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       }
     ],
     "4": [
       {
         "surface": "When someone flees",
-        "lemma": "nus"
+        "lemma": "nus",
+        "strongs": "H5127"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "cities",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "stands",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "at the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "of the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "gate",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "and states",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "his case",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "before its elders",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       },
       {
         "surface": "they are to bring",
-        "lemma": "asaph"
+        "lemma": "asaph",
+        "strongs": "H0622"
       },
       {
         "surface": "into the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "and give",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "a place",
-        "lemma": "maqom"
+        "lemma": "maqom",
+        "strongs": "H4725"
       },
       {
         "surface": "to live",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "5": [
       {
         "surface": "the avenger",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "of blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "pursues him",
-        "lemma": "radaph"
+        "lemma": "radaph",
+        "strongs": "H7291"
       },
       {
         "surface": "they must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "surrender",
-        "lemma": "sagar"
+        "lemma": "sagar",
+        "strongs": "H5462"
       },
       {
         "surface": "the manslayer",
-        "lemma": "ratsach"
+        "lemma": "ratsach",
+        "strongs": "H7523"
       },
       {
         "surface": "into his hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "that man killed",
-        "lemma": "nakhah"
+        "lemma": "nakhah",
+        "strongs": "H5221"
       },
       {
         "surface": "his neighbor",
-        "lemma": "rea"
+        "lemma": "rea",
+        "strongs": "H7453"
       },
       {
         "surface": "accidentally",
-        "lemma": "beli"
+        "lemma": "beli",
+        "strongs": "H1097"
       },
       {
         "surface": "without",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "vvv",
-        "lemma": "temol"
+        "lemma": "temol",
+        "strongs": "H8543"
       },
       {
         "surface": "prior",
-        "lemma": "shilshom"
+        "lemma": "shilshom",
+        "strongs": "H8032"
       },
       {
         "surface": "malice",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       }
     ],
     "6": [
       {
         "surface": "He is to stay",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "he stands",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "trial",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the assembly",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5712"
       },
       {
         "surface": "the death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       },
       {
         "surface": "of the high",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "serving",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "time",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the manslayer",
-        "lemma": "ratsach"
+        "lemma": "ratsach",
+        "strongs": "H7523"
       },
       {
         "surface": "may return",
-        "lemma": "shuv"
+        "lemma": "shuv",
+        "strongs": "H7725"
       },
       {
         "surface": "to his own home",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "he fled",
-        "lemma": "nus"
+        "lemma": "nus",
+        "strongs": "H5127"
       }
     ],
     "7": [
       {
         "surface": "So they set apart",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       },
       {
         "surface": "Kedesh",
-        "lemma": "qedesh"
+        "lemma": "qedesh",
+        "strongs": "H6943"
       },
       {
         "surface": "in Galilee",
-        "lemma": "galil"
+        "lemma": "galil",
+        "strongs": "H1551"
       },
       {
         "surface": "in the hill country",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "of Naphtali",
-        "lemma": "naphtali"
+        "lemma": "naphtali",
+        "strongs": "H5321"
       },
       {
         "surface": "Shechem",
-        "lemma": "shekhem"
+        "lemma": "shekhem",
+        "strongs": "H7927"
       },
       {
         "surface": "in the hill country",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "of Ephraim",
-        "lemma": "ephrayim"
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       },
       {
         "surface": "vvv",
-        "lemma": "qiryatarba"
+        "lemma": "qiryatarba",
+        "strongs": "H7153"
       },
       {
         "surface": "and Kiriath-arba",
-        "lemma": "qiryatarba"
+        "lemma": "qiryatarba",
+        "strongs": "H7153"
       },
       {
         "surface": "Hebron",
-        "lemma": "chevron"
+        "lemma": "chevron",
+        "strongs": "H2275"
       },
       {
         "surface": "in the hill country",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "8": [
       {
         "surface": "And beyond",
-        "lemma": "ever"
+        "lemma": "ever",
+        "strongs": "H5676"
       },
       {
         "surface": "the Jordan",
-        "lemma": "yarden"
+        "lemma": "yarden",
+        "strongs": "H3383"
       },
       {
         "surface": "east",
-        "lemma": "mizrach"
+        "lemma": "mizrach",
+        "strongs": "H4217"
       },
       {
         "surface": "of Jericho",
-        "lemma": "yericho"
+        "lemma": "yericho",
+        "strongs": "H3405"
       },
       {
         "surface": "they designated",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "Bezer",
-        "lemma": "betser"
+        "lemma": "betser",
+        "strongs": "H1221"
       },
       {
         "surface": "on the wilderness",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "plateau",
-        "lemma": "mishor"
+        "lemma": "mishor",
+        "strongs": "H4334"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Reuben",
-        "lemma": "reuven"
+        "lemma": "reuven",
+        "strongs": "H7205"
       },
       {
         "surface": "Ramoth",
-        "lemma": "ramot"
+        "lemma": "ramot",
+        "strongs": "H7216"
       },
       {
         "surface": "in Gilead",
-        "lemma": "gilad"
+        "lemma": "gilad",
+        "strongs": "H1568"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Gad",
-        "lemma": "gad"
+        "lemma": "gad",
+        "strongs": "H1410"
       },
       {
         "surface": "Golan",
-        "lemma": "golan"
+        "lemma": "golan",
+        "strongs": "H1474"
       },
       {
         "surface": "in Bashan",
-        "lemma": "bashan"
+        "lemma": "bashan",
+        "strongs": "H1316"
       },
       {
         "surface": "from the tribe",
-        "lemma": "matteh"
+        "lemma": "matteh",
+        "strongs": "H4294"
       },
       {
         "surface": "of Manasseh",
-        "lemma": "menashsheh"
+        "lemma": "menashsheh",
+        "strongs": "H4519"
       }
     ],
     "9": [
       {
         "surface": "are",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the cities",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "appointed",
-        "lemma": "muadah"
+        "lemma": "muadah",
+        "strongs": "H4152"
       },
       {
         "surface": "for all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and foreigners",
-        "lemma": "ger"
+        "lemma": "ger",
+        "strongs": "H1616"
       },
       {
         "surface": "among them",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "so that anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who kills",
-        "lemma": "nakhah"
+        "lemma": "nakhah",
+        "strongs": "H5221"
       },
       {
         "surface": "a person",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "unintentionally",
-        "lemma": "shegagah"
+        "lemma": "shegagah",
+        "strongs": "H7684"
       },
       {
         "surface": "may flee",
-        "lemma": "nus"
+        "lemma": "nus",
+        "strongs": "H5127"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "and not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "by the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of the avenger",
-        "lemma": "gaal"
+        "lemma": "gaal",
+        "strongs": "H1350"
       },
       {
         "surface": "of blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "to standing trial",
-        "lemma": "amad"
+        "lemma": "amad",
+        "strongs": "H5975"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the assembly",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5712"
       }
     ]
-  },
-  "themeLemmas": [
-    "nus",
-    "ratsach",
-    "natan"
-  ]
+  }
 }

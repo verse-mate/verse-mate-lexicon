@@ -7,875 +7,1075 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "Speak",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "Aaron’s",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "the priests",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "and tell",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "a priest is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to defile himself",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "for a dead person",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "among his people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "2": [
       {
         "surface": "for his immediate",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "family",
-        "lemma": "sheer"
+        "lemma": "sheer",
+        "strongs": "H7607"
       },
       {
         "surface": "his mother",
-        "lemma": "em"
+        "lemma": "em",
+        "strongs": "H0517"
       },
       {
         "surface": "father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "daughter",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "or brother",
-        "lemma": "ach"
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "3": [
       {
         "surface": "or his unmarried",
-        "lemma": "betulah"
+        "lemma": "betulah",
+        "strongs": "H1330"
       },
       {
         "surface": "sister",
-        "lemma": "achot"
+        "lemma": "achot",
+        "strongs": "H0269"
       },
       {
         "surface": "who is near",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "she has",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "4": [
       {
         "surface": "He is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to defile himself",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "for those related to him by marriage",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "and so profane himself",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       }
     ],
     "5": [
       {
         "surface": "Priests must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "make bald",
-        "lemma": "qarach"
+        "lemma": "qarach",
+        "strongs": "H7139"
       },
       {
         "surface": "spots on their heads",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "shave off the edges",
-        "lemma": "peah"
+        "lemma": "peah",
+        "strongs": "H6285"
       },
       {
         "surface": "of their beards",
-        "lemma": "zaqan"
+        "lemma": "zaqan",
+        "strongs": "H2206"
       },
       {
         "surface": "or make",
-        "lemma": "sarat"
+        "lemma": "sarat",
+        "strongs": "H8295"
       },
       {
         "surface": "cuts",
-        "lemma": "seret"
+        "lemma": "seret",
+        "strongs": "H8296"
       },
       {
         "surface": "in their bodies",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       }
     ],
     "6": [
       {
         "surface": "They must be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "to their God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "and not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "profane",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of their God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the food offerings",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "the food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of their God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "they must be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "7": [
       {
         "surface": "A priest must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "marry",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "defiled",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2491"
       },
       {
         "surface": "by prostitution",
-        "lemma": "zanah"
+        "lemma": "zanah",
+        "strongs": "H2181"
       },
       {
         "surface": "or",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "divorced",
-        "lemma": "garash"
+        "lemma": "garash",
+        "strongs": "H1644"
       },
       {
         "surface": "by her husband",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "is holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "to his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "8": [
       {
         "surface": "You are to regard him as holy",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       },
       {
         "surface": "presents",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "the food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "He shall be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "am holy",
-        "lemma": "qadosh"
+        "lemma": "qadosh",
+        "strongs": "H6918"
       },
       {
         "surface": "I who set you apart",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       }
     ],
     "9": [
       {
         "surface": "a priest’s",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "daughter",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "defiles herself",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "by prostituting herself",
-        "lemma": "zanah"
+        "lemma": "zanah",
+        "strongs": "H2181"
       },
       {
         "surface": "profanes",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "her father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "she must be burned",
-        "lemma": "saraph"
+        "lemma": "saraph",
+        "strongs": "H8313"
       },
       {
         "surface": "in the fire",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "10": [
       {
         "surface": "The priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "who is highest",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "among his brothers",
-        "lemma": "ach"
+        "lemma": "ach",
+        "strongs": "H0251"
       },
       {
         "surface": "has had the anointing",
-        "lemma": "mishchah"
+        "lemma": "mishchah",
+        "strongs": "H4888"
       },
       {
         "surface": "oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "poured",
-        "lemma": "yatsaq"
+        "lemma": "yatsaq",
+        "strongs": "H3332"
       },
       {
         "surface": "his head",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "and has been ordained",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "to wear",
-        "lemma": "lavash"
+        "lemma": "lavash",
+        "strongs": "H3847"
       },
       {
         "surface": "the priestly garments",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "must not {let",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "his hair",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "hang loose",
-        "lemma": "para"
+        "lemma": "para",
+        "strongs": "H6544"
       },
       {
         "surface": "or tear",
-        "lemma": "param"
+        "lemma": "param",
+        "strongs": "H6533"
       },
       {
         "surface": "his garments",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       }
     ],
     "11": [
       {
         "surface": "He must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "go",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "near any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "dead",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "body",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "he must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "defile himself",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "even for his father",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "or mother",
-        "lemma": "em"
+        "lemma": "em",
+        "strongs": "H0517"
       }
     ],
     "12": [
       {
         "surface": "He must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "leave",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "or desecrate",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "the sanctuary",
-        "lemma": "miqdash"
+        "lemma": "miqdash",
+        "strongs": "H4720"
       },
       {
         "surface": "of his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "the consecration",
-        "lemma": "nezer"
+        "lemma": "nezer",
+        "strongs": "H5145"
       },
       {
         "surface": "of the anointing",
-        "lemma": "mishchah"
+        "lemma": "mishchah",
+        "strongs": "H4888"
       },
       {
         "surface": "oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "of his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "13": [
       {
         "surface": "The woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "marries",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "must be a virgin",
-        "lemma": "betulim"
+        "lemma": "betulim",
+        "strongs": "H1331"
       }
     ],
     "14": [
       {
         "surface": "He is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to marry",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "a widow",
-        "lemma": "almanah"
+        "lemma": "almanah",
+        "strongs": "H0490"
       },
       {
         "surface": "a divorced woman",
-        "lemma": "garash"
+        "lemma": "garash",
+        "strongs": "H1644"
       },
       {
         "surface": "or one defiled",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2491"
       },
       {
         "surface": "by prostitution",
-        "lemma": "zanah"
+        "lemma": "zanah",
+        "strongs": "H2181"
       },
       {
         "surface": "He is to marry",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "a virgin",
-        "lemma": "betulah"
+        "lemma": "betulah",
+        "strongs": "H1330"
       },
       {
         "surface": "from his own people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "15": [
       {
         "surface": "so that he does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "defile",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "his offspring",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "among his people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "who sanctifies him",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       }
     ],
     "16": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "17": [
       {
         "surface": "Say",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "For the generations to come",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       },
       {
         "surface": "none",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "of your descendants",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "has",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a physical defect",
-        "lemma": "mum"
+        "lemma": "mum",
+        "strongs": "H3971"
       },
       {
         "surface": "may approach",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "to offer",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "the food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "18": [
       {
         "surface": "No",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "has any defect",
-        "lemma": "mum"
+        "lemma": "mum",
+        "strongs": "H3971"
       },
       {
         "surface": "may approach",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "no man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "who is blind",
-        "lemma": "ivver"
+        "lemma": "ivver",
+        "strongs": "H5787"
       },
       {
         "surface": "lame",
-        "lemma": "pisseach"
+        "lemma": "pisseach",
+        "strongs": "H6455"
       },
       {
         "surface": "disfigured",
-        "lemma": "charam"
+        "lemma": "charam",
+        "strongs": "H2763"
       },
       {
         "surface": "deformed",
-        "lemma": "sara"
+        "lemma": "sara",
+        "strongs": "H8311"
       }
     ],
     "19": [
       {
         "surface": "no man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "has",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a broken",
-        "lemma": "shever"
+        "lemma": "shever",
+        "strongs": "H7667"
       },
       {
         "surface": "foot",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       },
       {
         "surface": "hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "20": [
       {
         "surface": "who is a hunchback",
-        "lemma": "gibben"
+        "lemma": "gibben",
+        "strongs": "H1384"
       },
       {
         "surface": "dwarf",
-        "lemma": "daq"
+        "lemma": "daq",
+        "strongs": "H1851"
       },
       {
         "surface": "who has an eye",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "defect",
-        "lemma": "teballul"
+        "lemma": "teballul",
+        "strongs": "H8400"
       },
       {
         "surface": "a festering rash",
-        "lemma": "garav"
+        "lemma": "garav",
+        "strongs": "H1618"
       },
       {
         "surface": "scabs",
-        "lemma": "yallephet"
+        "lemma": "yallephet",
+        "strongs": "H3217"
       },
       {
         "surface": "a crushed",
-        "lemma": "meroach"
+        "lemma": "meroach",
+        "strongs": "H4790"
       },
       {
         "surface": "testicle",
-        "lemma": "eshekh"
+        "lemma": "eshekh",
+        "strongs": "H0810"
       }
     ],
     "21": [
       {
         "surface": "No",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "descendant",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "has a defect",
-        "lemma": "mum"
+        "lemma": "mum",
+        "strongs": "H3971"
       },
       {
         "surface": "shall approach",
-        "lemma": "nagash"
+        "lemma": "nagash",
+        "strongs": "H5066"
       },
       {
         "surface": "to present",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "the food offerings",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0801"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "Since he has a defect",
-        "lemma": "mum"
+        "lemma": "mum",
+        "strongs": "H3971"
       },
       {
         "surface": "he is not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to come near",
-        "lemma": "nagash"
+        "lemma": "nagash",
+        "strongs": "H5066"
       },
       {
         "surface": "to offer",
-        "lemma": "qarav"
+        "lemma": "qarav",
+        "strongs": "H7126"
       },
       {
         "surface": "the food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "22": [
       {
         "surface": "He may eat",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "the most",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "food",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "of his God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "the holy food",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "23": [
       {
         "surface": "but",
-        "lemma": "akh"
+        "lemma": "akh",
+        "strongs": "H0389"
       },
       {
         "surface": "he has a defect",
-        "lemma": "mum"
+        "lemma": "mum",
+        "strongs": "H3971"
       },
       {
         "surface": "he must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "go",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the veil",
-        "lemma": "porekhet"
+        "lemma": "porekhet",
+        "strongs": "H6532"
       },
       {
         "surface": "or approach",
-        "lemma": "nagash"
+        "lemma": "nagash",
+        "strongs": "H5066"
       },
       {
         "surface": "the altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "vvv",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "so as not to desecrate",
-        "lemma": "chalal"
+        "lemma": "chalal",
+        "strongs": "H2490"
       },
       {
         "surface": "My sanctuaries",
-        "lemma": "miqdash"
+        "lemma": "miqdash",
+        "strongs": "H4720"
       },
       {
         "surface": "am the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "who sanctifies them",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       }
     ],
     "24": [
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "told",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ]
-  },
-  "themeLemmas": [
-    "lo",
-    "chalal",
-    "qarav"
-  ]
+  }
 }

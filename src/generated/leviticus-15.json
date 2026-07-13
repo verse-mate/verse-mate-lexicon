@@ -7,1405 +7,1733 @@
     "1": [
       {
         "surface": "And the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       }
     ],
     "2": [
       {
         "surface": "Say",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "the Israelites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "any",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "has",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a bodily",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "the discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ],
     "3": [
       {
         "surface": "uncleanness",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       },
       {
         "surface": "is",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "from his discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "whether his body",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "allows",
-        "lemma": "rur"
+        "lemma": "rur",
+        "strongs": "H7325"
       },
       {
         "surface": "the discharge {to flow",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "blocks it",
-        "lemma": "chatam"
+        "lemma": "chatam",
+        "strongs": "H2856"
       },
       {
         "surface": "So his discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "uncleanness",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       }
     ],
     "4": [
       {
         "surface": "Any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "and any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "furniture",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "he sits",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "5": [
       {
         "surface": "Anyone",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "his bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "6": [
       {
         "surface": "Whoever sits",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "furniture",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "was sitting",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "7": [
       {
         "surface": "Whoever touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "the body",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "of the man with a discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "8": [
       {
         "surface": "the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "spits",
-        "lemma": "raqaq"
+        "lemma": "raqaq",
+        "strongs": "H7556"
       },
       {
         "surface": "on one who is clean",
-        "lemma": "tahor"
+        "lemma": "tahor",
+        "strongs": "H2889"
       },
       {
         "surface": "that person must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "9": [
       {
         "surface": "Any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "saddle",
-        "lemma": "merkav"
+        "lemma": "merkav",
+        "strongs": "H4817"
       },
       {
         "surface": "the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "rides",
-        "lemma": "rakhav"
+        "lemma": "rakhav",
+        "strongs": "H7392"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "10": [
       {
         "surface": "Whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "anything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "was",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "under him",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       },
       {
         "surface": "and whoever carries",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "11": [
       {
         "surface": "If the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "without",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "first rinsing",
-        "lemma": "shataph"
+        "lemma": "shataph",
+        "strongs": "H7857"
       },
       {
         "surface": "his hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "the one who was touched must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "12": [
       {
         "surface": "Any clay",
-        "lemma": "cheres"
+        "lemma": "cheres",
+        "strongs": "H2789"
       },
       {
         "surface": "pot",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "the man with the discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "must be broken",
-        "lemma": "shavar"
+        "lemma": "shavar",
+        "strongs": "H7665"
       },
       {
         "surface": "and any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "wooden",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "utensil",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "must be rinsed",
-        "lemma": "shataph"
+        "lemma": "shataph",
+        "strongs": "H7857"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "13": [
       {
         "surface": "the man",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "has been cleansed",
-        "lemma": "taher"
+        "lemma": "taher",
+        "strongs": "H2891"
       },
       {
         "surface": "from his discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "he must count off",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "cleansing",
-        "lemma": "tohorah"
+        "lemma": "tohorah",
+        "strongs": "H2893"
       },
       {
         "surface": "wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "himself",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "in fresh",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he shall be clean",
-        "lemma": "taher"
+        "lemma": "taher",
+        "strongs": "H2891"
       }
     ],
     "14": [
       {
         "surface": "On the eighth",
-        "lemma": "shemini"
+        "lemma": "shemini",
+        "strongs": "H8066"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "he is to take",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "turtledoves",
-        "lemma": "tor"
+        "lemma": "tor",
+        "strongs": "H8449"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "young",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "pigeons",
-        "lemma": "yonah"
+        "lemma": "yonah",
+        "strongs": "H3123"
       },
       {
         "surface": "come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "to the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "and give them",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "15": [
       {
         "surface": "The priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "is to sacrifice",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "as a sin offering",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       },
       {
         "surface": "and the other",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "as a burnt offering",
-        "lemma": "olah"
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "In this way the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "will make atonement",
-        "lemma": "kipher"
+        "lemma": "kipher",
+        "strongs": "H3722"
       },
       {
         "surface": "the man before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "because of his discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       }
     ],
     "16": [
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "has an emission",
-        "lemma": "shekhavah"
+        "lemma": "shekhavah",
+        "strongs": "H7902"
       },
       {
         "surface": "of semen",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "he must bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "his whole",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "body",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "17": [
       {
         "surface": "Any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "clothing",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "or leather",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H5785"
       },
       {
         "surface": "there is",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "an emission",
-        "lemma": "shekhavah"
+        "lemma": "shekhavah",
+        "strongs": "H7902"
       },
       {
         "surface": "of semen",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "must be washed",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and it will remain unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "18": [
       {
         "surface": "If a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "lies with",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "and there is an emission",
-        "lemma": "shekhavah"
+        "lemma": "shekhavah",
+        "strongs": "H7902"
       },
       {
         "surface": "of semen",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "both must bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and they will remain unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "19": [
       {
         "surface": "a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "has",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "consisting",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "of blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "from her body",
-        "lemma": "basar"
+        "lemma": "basar",
+        "strongs": "H1320"
       },
       {
         "surface": "she will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "unclean due to her menstruation",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "20": [
       {
         "surface": "Anything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "she lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "or sits",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "during her menstruation",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "21": [
       {
         "surface": "and anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "her bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "22": [
       {
         "surface": "Whoever",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "furniture",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "she was sitting",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "23": [
       {
         "surface": "And whether",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "a bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "furniture",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "was sitting",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "whoever touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "24": [
       {
         "surface": "If",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "lies with",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "her",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "and her menstrual flow",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "touches",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "for seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "he lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "will become unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "25": [
       {
         "surface": "a woman",
-        "lemma": "ishshah"
+        "lemma": "ishshah",
+        "strongs": "H0802"
       },
       {
         "surface": "has a discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "of her blood",
-        "lemma": "dam"
+        "lemma": "dam",
+        "strongs": "H1818"
       },
       {
         "surface": "for many",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "at a time",
-        "lemma": "et"
+        "lemma": "et",
+        "strongs": "H6256"
       },
       {
         "surface": "other than",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "her menstrual period",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "it continues",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "her period",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of her unclean",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       },
       {
         "surface": "discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "just as she is during the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of her menstruation",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       }
     ],
     "26": [
       {
         "surface": "Any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "she lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "or any",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "furniture",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "she sits",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "during the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of her discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "will be",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       },
       {
         "surface": "like her bed",
-        "lemma": "mishkav"
+        "lemma": "mishkav",
+        "strongs": "H4904"
       },
       {
         "surface": "during her menstrual period",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       }
     ],
     "27": [
       {
         "surface": "Anyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who touches",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "he must wash",
-        "lemma": "kavas"
+        "lemma": "kavas",
+        "strongs": "H3526"
       },
       {
         "surface": "his clothes",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and bathe",
-        "lemma": "rachats"
+        "lemma": "rachats",
+        "strongs": "H7364"
       },
       {
         "surface": "with water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "and he will be unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "evening",
-        "lemma": "erev"
+        "lemma": "erev",
+        "strongs": "H6153"
       }
     ],
     "28": [
       {
         "surface": "When",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "a woman is cleansed",
-        "lemma": "taher"
+        "lemma": "taher",
+        "strongs": "H2891"
       },
       {
         "surface": "of her discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       },
       {
         "surface": "she must count off",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "seven",
-        "lemma": "sheva"
+        "lemma": "sheva",
+        "strongs": "H7651"
       },
       {
         "surface": "days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "and after that",
-        "lemma": "achar"
+        "lemma": "achar",
+        "strongs": "H0310"
       },
       {
         "surface": "she will be ceremonially clean",
-        "lemma": "taher"
+        "lemma": "taher",
+        "strongs": "H2891"
       }
     ],
     "29": [
       {
         "surface": "On the eighth",
-        "lemma": "shemini"
+        "lemma": "shemini",
+        "strongs": "H8066"
       },
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "she is to take",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "turtledoves",
-        "lemma": "tor"
+        "lemma": "tor",
+        "strongs": "H8449"
       },
       {
         "surface": "two",
-        "lemma": "shenayim"
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "young",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "pigeons",
-        "lemma": "yonah"
+        "lemma": "yonah",
+        "strongs": "H3123"
       },
       {
         "surface": "and bring",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "to the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "30": [
       {
         "surface": "The priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "is to sacrifice",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "one",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "as a sin offering",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       },
       {
         "surface": "and the other",
-        "lemma": "echad"
+        "lemma": "echad",
+        "strongs": "H0259"
       },
       {
         "surface": "as a burnt offering",
-        "lemma": "olah"
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "In this way the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "will make atonement",
-        "lemma": "kipher"
+        "lemma": "kipher",
+        "strongs": "H3722"
       },
       {
         "surface": "before",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for her unclean",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       },
       {
         "surface": "discharge",
-        "lemma": "zov"
+        "lemma": "zov",
+        "strongs": "H2101"
       }
     ],
     "31": [
       {
         "surface": "You must keep",
-        "lemma": "nazar"
+        "lemma": "nazar",
+        "strongs": "H5144"
       },
       {
         "surface": "the children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Israel {separate",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "from their uncleanness",
-        "lemma": "tumah"
+        "lemma": "tumah",
+        "strongs": "H2932"
       },
       {
         "surface": "so that they do not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "by defiling",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       },
       {
         "surface": "My tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "is among them",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "32": [
       {
         "surface": "is the law",
-        "lemma": "torah"
+        "lemma": "torah",
+        "strongs": "H8451"
       },
       {
         "surface": "of him who has a discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "has",
-        "lemma": "yatsa"
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "an emission",
-        "lemma": "shekhavah"
+        "lemma": "shekhavah",
+        "strongs": "H7902"
       },
       {
         "surface": "of semen",
-        "lemma": "zera"
+        "lemma": "zera",
+        "strongs": "H2233"
       },
       {
         "surface": "he is unclean",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "33": [
       {
         "surface": "of a woman",
-        "lemma": "daveh"
+        "lemma": "daveh",
+        "strongs": "H1739"
       },
       {
         "surface": "in her menstrual period",
-        "lemma": "niddah"
+        "lemma": "niddah",
+        "strongs": "H5079"
       },
       {
         "surface": "of any male",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2145"
       },
       {
         "surface": "or female",
-        "lemma": "neqevah"
+        "lemma": "neqevah",
+        "strongs": "H5347"
       },
       {
         "surface": "who has a discharge",
-        "lemma": "zuv"
+        "lemma": "zuv",
+        "strongs": "H2100"
       },
       {
         "surface": "and of a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "lies",
-        "lemma": "shakhav"
+        "lemma": "shakhav",
+        "strongs": "H7901"
       },
       {
         "surface": "an unclean woman",
-        "lemma": "tame"
+        "lemma": "tame",
+        "strongs": "H2931"
       }
     ]
-  },
-  "themeLemmas": [
-    "tame",
-    "kol",
-    "mayim"
-  ]
+  }
 }

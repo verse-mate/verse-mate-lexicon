@@ -7,737 +7,902 @@
     "1": [
       {
         "surface": "A wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "heeds his father’s",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "discipline",
-        "lemma": "musar"
+        "lemma": "musar",
+        "strongs": "H4148"
       },
       {
         "surface": "but a mocker",
-        "lemma": "luts"
+        "lemma": "luts",
+        "strongs": "H3887"
       },
       {
         "surface": "does not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "listen",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "to rebuke",
-        "lemma": "gearah"
+        "lemma": "gearah",
+        "strongs": "H1606"
       }
     ],
     "2": [
       {
         "surface": "From the fruit",
-        "lemma": "peri"
+        "lemma": "peri",
+        "strongs": "H6529"
       },
       {
         "surface": "of his lips",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "a man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "enjoys",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "good things",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "but the desire",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "of the faithless",
-        "lemma": "bagad"
+        "lemma": "bagad",
+        "strongs": "H0898"
       },
       {
         "surface": "is violence",
-        "lemma": "chamas"
+        "lemma": "chamas",
+        "strongs": "H2555"
       }
     ],
     "3": [
       {
         "surface": "He who guards",
-        "lemma": "natsar"
+        "lemma": "natsar",
+        "strongs": "H5341"
       },
       {
         "surface": "his mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "protects",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "his life",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "but the one who opens",
-        "lemma": "pasaq"
+        "lemma": "pasaq",
+        "strongs": "H6589"
       },
       {
         "surface": "his lips",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H8193"
       },
       {
         "surface": "invites his own ruin",
-        "lemma": "mechittah"
+        "lemma": "mechittah",
+        "strongs": "H4288"
       }
     ],
     "4": [
       {
         "surface": "The slacker",
-        "lemma": "atsel"
+        "lemma": "atsel",
+        "strongs": "H6102"
       },
       {
         "surface": "craves",
-        "lemma": "avah"
+        "lemma": "avah",
+        "strongs": "H0183"
       },
       {
         "surface": "yet has nothing",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "but the soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "of the diligent",
-        "lemma": "charuts"
+        "lemma": "charuts",
+        "strongs": "H2742"
       },
       {
         "surface": "is fully satisfied",
-        "lemma": "dashen"
+        "lemma": "dashen",
+        "strongs": "H1878"
       }
     ],
     "5": [
       {
         "surface": "The righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "hate",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       },
       {
         "surface": "falsehood",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "but the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "bring shame",
-        "lemma": "baash"
+        "lemma": "baash",
+        "strongs": "H0887"
       },
       {
         "surface": "and disgrace",
-        "lemma": "chapher"
+        "lemma": "chapher",
+        "strongs": "H2659"
       }
     ],
     "6": [
       {
         "surface": "Righteousness",
-        "lemma": "tsedaqah"
+        "lemma": "tsedaqah",
+        "strongs": "H6666"
       },
       {
         "surface": "guards",
-        "lemma": "natsar"
+        "lemma": "natsar",
+        "strongs": "H5341"
       },
       {
         "surface": "the man of integrity",
-        "lemma": "tom"
+        "lemma": "tom",
+        "strongs": "H8537"
       },
       {
         "surface": "but wickedness",
-        "lemma": "rishah"
+        "lemma": "rishah",
+        "strongs": "H7564"
       },
       {
         "surface": "undermines",
-        "lemma": "salaph"
+        "lemma": "salaph",
+        "strongs": "H5557"
       },
       {
         "surface": "the sinner",
-        "lemma": "chattaah"
+        "lemma": "chattaah",
+        "strongs": "H2403"
       }
     ],
     "7": [
       {
         "surface": "One pretends to be rich",
-        "lemma": "ashar"
+        "lemma": "ashar",
+        "strongs": "H6238"
       },
       {
         "surface": "but has nothing",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "another pretends to be poor",
-        "lemma": "rush"
+        "lemma": "rush",
+        "strongs": "H7326"
       },
       {
         "surface": "yet has great",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "wealth",
-        "lemma": "hon"
+        "lemma": "hon",
+        "strongs": "H1952"
       }
     ],
     "8": [
       {
         "surface": "Riches",
-        "lemma": "osher"
+        "lemma": "osher",
+        "strongs": "H6239"
       },
       {
         "surface": "may ransom",
-        "lemma": "kopher"
+        "lemma": "kopher",
+        "strongs": "H3724"
       },
       {
         "surface": "a man’s",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "life",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "but a poor",
-        "lemma": "rush"
+        "lemma": "rush",
+        "strongs": "H7326"
       },
       {
         "surface": "man hears",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "no",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "threat",
-        "lemma": "gearah"
+        "lemma": "gearah",
+        "strongs": "H1606"
       }
     ],
     "9": [
       {
         "surface": "The light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0216"
       },
       {
         "surface": "of the righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "shines brightly",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "but the lamp",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "of the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "is extinguished",
-        "lemma": "daakh"
+        "lemma": "daakh",
+        "strongs": "H1846"
       }
     ],
     "10": [
       {
         "surface": "Arrogance",
-        "lemma": "zadon"
+        "lemma": "zadon",
+        "strongs": "H2087"
       },
       {
         "surface": "leads",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "to strife",
-        "lemma": "matstsah"
+        "lemma": "matstsah",
+        "strongs": "H4683"
       },
       {
         "surface": "but wisdom",
-        "lemma": "chokhmah"
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       },
       {
         "surface": "the well-advised",
-        "lemma": "yaats"
+        "lemma": "yaats",
+        "strongs": "H3289"
       }
     ],
     "11": [
       {
         "surface": "Dishonest",
-        "lemma": "hevel"
+        "lemma": "hevel",
+        "strongs": "H1892"
       },
       {
         "surface": "wealth",
-        "lemma": "hon"
+        "lemma": "hon",
+        "strongs": "H1952"
       },
       {
         "surface": "will dwindle",
-        "lemma": "maat"
+        "lemma": "maat",
+        "strongs": "H4591"
       },
       {
         "surface": "but what is earned",
-        "lemma": "qavats"
+        "lemma": "qavats",
+        "strongs": "H6908"
       },
       {
         "surface": "hard work",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "will be multiplied",
-        "lemma": "ravah"
+        "lemma": "ravah",
+        "strongs": "H7235"
       }
     ],
     "12": [
       {
         "surface": "Hope",
-        "lemma": "tochelet"
+        "lemma": "tochelet",
+        "strongs": "H8431"
       },
       {
         "surface": "deferred",
-        "lemma": "mashakh"
+        "lemma": "mashakh",
+        "strongs": "H4900"
       },
       {
         "surface": "makes the heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "sick",
-        "lemma": "chalah"
+        "lemma": "chalah",
+        "strongs": "H2470"
       },
       {
         "surface": "but desire",
-        "lemma": "taavah"
+        "lemma": "taavah",
+        "strongs": "H8378"
       },
       {
         "surface": "fulfilled",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "is a tree",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "of life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ],
     "13": [
       {
         "surface": "He who despises",
-        "lemma": "buz"
+        "lemma": "buz",
+        "strongs": "H0936"
       },
       {
         "surface": "instruction",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "will pay the penalty",
-        "lemma": "chaval"
+        "lemma": "chaval",
+        "strongs": "H2254"
       },
       {
         "surface": "but the one who respects",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3373"
       },
       {
         "surface": "a command",
-        "lemma": "mitsvah"
+        "lemma": "mitsvah",
+        "strongs": "H4687"
       },
       {
         "surface": "will be rewarded",
-        "lemma": "salem"
+        "lemma": "salem",
+        "strongs": "H7999"
       }
     ],
     "14": [
       {
         "surface": "The teaching",
-        "lemma": "torah"
+        "lemma": "torah",
+        "strongs": "H8451"
       },
       {
         "surface": "of the wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "is a fountain",
-        "lemma": "maqor"
+        "lemma": "maqor",
+        "strongs": "H4726"
       },
       {
         "surface": "of life",
-        "lemma": "chay"
+        "lemma": "chay",
+        "strongs": "H2416"
       },
       {
         "surface": "turning one",
-        "lemma": "sur"
+        "lemma": "sur",
+        "strongs": "H5493"
       },
       {
         "surface": "from the snares",
-        "lemma": "moqesh"
+        "lemma": "moqesh",
+        "strongs": "H4170"
       },
       {
         "surface": "of death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       }
     ],
     "15": [
       {
         "surface": "Good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "understanding",
-        "lemma": "sekhel"
+        "lemma": "sekhel",
+        "strongs": "H7922"
       },
       {
         "surface": "wins",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "favor",
-        "lemma": "chen"
+        "lemma": "chen",
+        "strongs": "H2580"
       },
       {
         "surface": "but the way",
-        "lemma": "derekh"
+        "lemma": "derekh",
+        "strongs": "H1870"
       },
       {
         "surface": "of the faithless",
-        "lemma": "bagad"
+        "lemma": "bagad",
+        "strongs": "H0898"
       },
       {
         "surface": "is difficult",
-        "lemma": "etan"
+        "lemma": "etan",
+        "strongs": "H0386"
       }
     ],
     "16": [
       {
         "surface": "Every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "prudent man",
-        "lemma": "arum"
+        "lemma": "arum",
+        "strongs": "H6175"
       },
       {
         "surface": "acts",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "with knowledge",
-        "lemma": "daat"
+        "lemma": "daat",
+        "strongs": "H1847"
       },
       {
         "surface": "but a fool",
-        "lemma": "kesil"
+        "lemma": "kesil",
+        "strongs": "H3684"
       },
       {
         "surface": "displays",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "his folly",
-        "lemma": "ivvelet"
+        "lemma": "ivvelet",
+        "strongs": "H0200"
       }
     ],
     "17": [
       {
         "surface": "A wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "messenger",
-        "lemma": "maleakh"
+        "lemma": "maleakh",
+        "strongs": "H4397"
       },
       {
         "surface": "falls",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "into trouble",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "but a faithful",
-        "lemma": "emun"
+        "lemma": "emun",
+        "strongs": "H0529"
       },
       {
         "surface": "envoy",
-        "lemma": "tsir"
+        "lemma": "tsir",
+        "strongs": "H6735"
       },
       {
         "surface": "brings healing",
-        "lemma": "marpe"
+        "lemma": "marpe",
+        "strongs": "H4832"
       }
     ],
     "18": [
       {
         "surface": "Poverty",
-        "lemma": "resh"
+        "lemma": "resh",
+        "strongs": "H7389"
       },
       {
         "surface": "and shame",
-        "lemma": "qalon"
+        "lemma": "qalon",
+        "strongs": "H7036"
       },
       {
         "surface": "come to him who ignores",
-        "lemma": "para"
+        "lemma": "para",
+        "strongs": "H6544"
       },
       {
         "surface": "discipline",
-        "lemma": "musar"
+        "lemma": "musar",
+        "strongs": "H4148"
       },
       {
         "surface": "but whoever heeds",
-        "lemma": "shamar"
+        "lemma": "shamar",
+        "strongs": "H8104"
       },
       {
         "surface": "correction",
-        "lemma": "tokhechah"
+        "lemma": "tokhechah",
+        "strongs": "H8433"
       },
       {
         "surface": "is honored",
-        "lemma": "kavad"
+        "lemma": "kavad",
+        "strongs": "H3513"
       }
     ],
     "19": [
       {
         "surface": "Desire",
-        "lemma": "taavah"
+        "lemma": "taavah",
+        "strongs": "H8378"
       },
       {
         "surface": "fulfilled",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "is sweet",
-        "lemma": "arev"
+        "lemma": "arev",
+        "strongs": "H6149"
       },
       {
         "surface": "to the soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "but turning",
-        "lemma": "sur"
+        "lemma": "sur",
+        "strongs": "H5493"
       },
       {
         "surface": "from evil",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "is detestable",
-        "lemma": "toevah"
+        "lemma": "toevah",
+        "strongs": "H8441"
       },
       {
         "surface": "to fools",
-        "lemma": "kesil"
+        "lemma": "kesil",
+        "strongs": "H3684"
       }
     ],
     "20": [
       {
         "surface": "He who walks",
-        "lemma": "halakh"
+        "lemma": "halakh",
+        "strongs": "H1980"
       },
       {
         "surface": "the wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2450"
       },
       {
         "surface": "will become wise",
-        "lemma": "chakham"
+        "lemma": "chakham",
+        "strongs": "H2449"
       },
       {
         "surface": "but the companion",
-        "lemma": "beteqedharoim"
+        "lemma": "beteqedharoim",
+        "strongs": "H7462"
       },
       {
         "surface": "of fools",
-        "lemma": "kesil"
+        "lemma": "kesil",
+        "strongs": "H3684"
       },
       {
         "surface": "will be destroyed",
-        "lemma": "raa"
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ],
     "21": [
       {
         "surface": "Disaster",
-        "lemma": "ra"
+        "lemma": "ra",
+        "strongs": "H7451"
       },
       {
         "surface": "pursues",
-        "lemma": "radaph"
+        "lemma": "radaph",
+        "strongs": "H7291"
       },
       {
         "surface": "sinners",
-        "lemma": "chatta"
+        "lemma": "chatta",
+        "strongs": "H2400"
       },
       {
         "surface": "but prosperity",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "is the reward",
-        "lemma": "salem"
+        "lemma": "salem",
+        "strongs": "H7999"
       },
       {
         "surface": "of the righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       }
     ],
     "22": [
       {
         "surface": "A good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "man leaves an inheritance",
-        "lemma": "nachal"
+        "lemma": "nachal",
+        "strongs": "H5157"
       },
       {
         "surface": "to his children’s",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "but the sinner’s",
-        "lemma": "chata"
+        "lemma": "chata",
+        "strongs": "H2398"
       },
       {
         "surface": "wealth",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       },
       {
         "surface": "is passed",
-        "lemma": "tsaphan"
+        "lemma": "tsaphan",
+        "strongs": "H6845"
       },
       {
         "surface": "to the righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       }
     ],
     "23": [
       {
         "surface": "Abundant",
-        "lemma": "rov"
+        "lemma": "rov",
+        "strongs": "H7230"
       },
       {
         "surface": "food",
-        "lemma": "okhel"
+        "lemma": "okhel",
+        "strongs": "H0400"
       },
       {
         "surface": "is in the fallow ground",
-        "lemma": "nir"
+        "lemma": "nir",
+        "strongs": "H5215"
       },
       {
         "surface": "of the poor",
-        "lemma": "rush"
+        "lemma": "rush",
+        "strongs": "H7326"
       },
       {
         "surface": "but without",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "justice",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "it is",
-        "lemma": "yesh"
+        "lemma": "yesh",
+        "strongs": "H3426"
       },
       {
         "surface": "swept away",
-        "lemma": "saphah"
+        "lemma": "saphah",
+        "strongs": "H5595"
       }
     ],
     "24": [
       {
         "surface": "He who spares",
-        "lemma": "chasakh"
+        "lemma": "chasakh",
+        "strongs": "H2820"
       },
       {
         "surface": "the rod",
-        "lemma": "shevet"
+        "lemma": "shevet",
+        "strongs": "H7626"
       },
       {
         "surface": "hates",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       },
       {
         "surface": "his son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "but he who loves him",
-        "lemma": "ahav"
+        "lemma": "ahav",
+        "strongs": "H0157"
       },
       {
         "surface": "disciplines him",
-        "lemma": "musar"
+        "lemma": "musar",
+        "strongs": "H4148"
       },
       {
         "surface": "diligently",
-        "lemma": "shachar"
+        "lemma": "shachar",
+        "strongs": "H7836"
       }
     ],
     "25": [
       {
         "surface": "A righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "man eats",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "to his heart’s",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "content",
-        "lemma": "sova"
+        "lemma": "sova",
+        "strongs": "H7648"
       },
       {
         "surface": "but the stomach",
-        "lemma": "beten"
+        "lemma": "beten",
+        "strongs": "H0990"
       },
       {
         "surface": "of the wicked",
-        "lemma": "rasah"
+        "lemma": "rasah",
+        "strongs": "H7563"
       },
       {
         "surface": "is empty",
-        "lemma": "chaser"
+        "lemma": "chaser",
+        "strongs": "H2637"
       }
     ]
-  },
-  "themeLemmas": [
-    "nephesh",
-    "tsaddiq",
-    "tov"
-  ]
+  }
 }

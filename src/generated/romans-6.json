@@ -7,769 +7,943 @@
     "1": [
       {
         "surface": "What",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "shall we say",
-        "lemma": "ero"
+        "lemma": "ero",
+        "strongs": "G2046"
       },
       {
         "surface": "Shall we continue",
-        "lemma": "epimeno"
+        "lemma": "epimeno",
+        "strongs": "G1961"
       },
       {
         "surface": "in sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "grace",
-        "lemma": "charis"
+        "lemma": "charis",
+        "strongs": "G5485"
       },
       {
         "surface": "may increase",
-        "lemma": "pleonazo"
+        "lemma": "pleonazo",
+        "strongs": "G4121"
       }
     ],
     "2": [
       {
         "surface": "Certainly not",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "died",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "live",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "any longer",
-        "lemma": "eti"
+        "lemma": "eti",
+        "strongs": "G2089"
       }
     ],
     "3": [
       {
         "surface": "aren’t you aware",
-        "lemma": "agnoeo"
+        "lemma": "agnoeo",
+        "strongs": "G0050"
       },
       {
         "surface": "all of",
-        "lemma": "hosos"
+        "lemma": "hosos",
+        "strongs": "G3745"
       },
       {
         "surface": "us who were baptized",
-        "lemma": "baptizo"
+        "lemma": "baptizo",
+        "strongs": "G0907"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "were baptized",
-        "lemma": "baptizo"
+        "lemma": "baptizo",
+        "strongs": "G0907"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       }
     ],
     "4": [
       {
         "surface": "We were therefore buried",
-        "lemma": "sunthapto"
+        "lemma": "sunthapto",
+        "strongs": "G4916"
       },
       {
         "surface": "baptism",
-        "lemma": "baptisma"
+        "lemma": "baptisma",
+        "strongs": "G0908"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "was raised",
-        "lemma": "egeiro"
+        "lemma": "egeiro",
+        "strongs": "G1453"
       },
       {
         "surface": "the dead",
-        "lemma": "nekros"
+        "lemma": "nekros",
+        "strongs": "G3498"
       },
       {
         "surface": "glory",
-        "lemma": "doxa"
+        "lemma": "doxa",
+        "strongs": "G1391"
       },
       {
         "surface": "Father",
-        "lemma": "pater"
+        "lemma": "pater",
+        "strongs": "G3962"
       },
       {
         "surface": "may walk",
-        "lemma": "peripateo"
+        "lemma": "peripateo",
+        "strongs": "G4043"
       },
       {
         "surface": "newness",
-        "lemma": "kainotes"
+        "lemma": "kainotes",
+        "strongs": "G2538"
       },
       {
         "surface": "of life",
-        "lemma": "zoe"
+        "lemma": "zoe",
+        "strongs": "G2222"
       }
     ],
     "5": [
       {
         "surface": "we have been",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "united with Him",
-        "lemma": "sumphutos"
+        "lemma": "sumphutos",
+        "strongs": "G4854"
       },
       {
         "surface": "like this",
-        "lemma": "homoioma"
+        "lemma": "homoioma",
+        "strongs": "G3667"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "we will certainly also be united with Him",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "in His resurrection",
-        "lemma": "anastasis"
+        "lemma": "anastasis",
+        "strongs": "G0386"
       }
     ],
     "6": [
       {
         "surface": "We know",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "old",
-        "lemma": "palaios"
+        "lemma": "palaios",
+        "strongs": "G3820"
       },
       {
         "surface": "self",
-        "lemma": "anthropos"
+        "lemma": "anthropos",
+        "strongs": "G0444"
       },
       {
         "surface": "was crucified with Him",
-        "lemma": "sustauroomai"
+        "lemma": "sustauroomai",
+        "strongs": "G4957"
       },
       {
         "surface": "body",
-        "lemma": "soma"
+        "lemma": "soma",
+        "strongs": "G4983"
       },
       {
         "surface": "of sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "might be rendered powerless",
-        "lemma": "katargeo"
+        "lemma": "katargeo",
+        "strongs": "G2673"
       },
       {
         "surface": "should} no longer",
-        "lemma": "meketi"
+        "lemma": "meketi",
+        "strongs": "G3371"
       },
       {
         "surface": "be slaves",
-        "lemma": "douleuo"
+        "lemma": "douleuo",
+        "strongs": "G1398"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       }
     ],
     "7": [
       {
         "surface": "has died",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "has been freed",
-        "lemma": "dikaioo"
+        "lemma": "dikaioo",
+        "strongs": "G1344"
       },
       {
         "surface": "sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       }
     ],
     "8": [
       {
         "surface": "we died",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "we believe",
-        "lemma": "pisteuo"
+        "lemma": "pisteuo",
+        "strongs": "G4100"
       },
       {
         "surface": "we will also live with",
-        "lemma": "suzao"
+        "lemma": "suzao",
+        "strongs": "G4800"
       }
     ],
     "9": [
       {
         "surface": "For we know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "was raised",
-        "lemma": "egeiro"
+        "lemma": "egeiro",
+        "strongs": "G1453"
       },
       {
         "surface": "the dead",
-        "lemma": "nekros"
+        "lemma": "nekros",
+        "strongs": "G3498"
       },
       {
         "surface": "He cannot die again",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "has dominion over",
-        "lemma": "kurieuo"
+        "lemma": "kurieuo",
+        "strongs": "G2961"
       }
     ],
     "10": [
       {
         "surface": "He died",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "He died",
-        "lemma": "apothnesko"
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "once for all",
-        "lemma": "ephapax"
+        "lemma": "ephapax",
+        "strongs": "G2178"
       },
       {
         "surface": "He lives",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "He lives",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "11": [
       {
         "surface": "So",
-        "lemma": "houto"
+        "lemma": "houto",
+        "strongs": "G3779"
       },
       {
         "surface": "must count",
-        "lemma": "logizomai"
+        "lemma": "logizomai",
+        "strongs": "G3049"
       },
       {
         "surface": "dead",
-        "lemma": "nekros"
+        "lemma": "nekros",
+        "strongs": "G3498"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "alive",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ],
     "12": [
       {
         "surface": "do not let sin reign",
-        "lemma": "basileuo"
+        "lemma": "basileuo",
+        "strongs": "G0936"
       },
       {
         "surface": "mortal",
-        "lemma": "thnetos"
+        "lemma": "thnetos",
+        "strongs": "G2349"
       },
       {
         "surface": "body",
-        "lemma": "soma"
+        "lemma": "soma",
+        "strongs": "G4983"
       },
       {
         "surface": "you obey",
-        "lemma": "hupakouo"
+        "lemma": "hupakouo",
+        "strongs": "G5219"
       },
       {
         "surface": "desires",
-        "lemma": "epithumia"
+        "lemma": "epithumia",
+        "strongs": "G1939"
       }
     ],
     "13": [
       {
         "surface": "present",
-        "lemma": "paristemi"
+        "lemma": "paristemi",
+        "strongs": "G3936"
       },
       {
         "surface": "parts",
-        "lemma": "melos"
+        "lemma": "melos",
+        "strongs": "G3196"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "as instruments",
-        "lemma": "hoplon"
+        "lemma": "hoplon",
+        "strongs": "G3696"
       },
       {
         "surface": "of wickedness",
-        "lemma": "adikia"
+        "lemma": "adikia",
+        "strongs": "G0093"
       },
       {
         "surface": "present",
-        "lemma": "paristemi"
+        "lemma": "paristemi",
+        "strongs": "G3936"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "death",
-        "lemma": "nekros"
+        "lemma": "nekros",
+        "strongs": "G3498"
       },
       {
         "surface": "to life",
-        "lemma": "zao"
+        "lemma": "zao",
+        "strongs": "G2198"
       },
       {
         "surface": "parts",
-        "lemma": "melos"
+        "lemma": "melos",
+        "strongs": "G3196"
       },
       {
         "surface": "to Him",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "as instruments",
-        "lemma": "hoplon"
+        "lemma": "hoplon",
+        "strongs": "G3696"
       },
       {
         "surface": "of righteousness",
-        "lemma": "dikaiosune"
+        "lemma": "dikaiosune",
+        "strongs": "G1343"
       }
     ],
     "14": [
       {
         "surface": "sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "shall not be your master",
-        "lemma": "kurieuo"
+        "lemma": "kurieuo",
+        "strongs": "G2961"
       },
       {
         "surface": "you are",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "law",
-        "lemma": "nomos"
+        "lemma": "nomos",
+        "strongs": "G3551"
       },
       {
         "surface": "grace",
-        "lemma": "charis"
+        "lemma": "charis",
+        "strongs": "G5485"
       }
     ],
     "15": [
       {
         "surface": "What",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "Shall we sin",
-        "lemma": "hamartano"
+        "lemma": "hamartano",
+        "strongs": "G0264"
       },
       {
         "surface": "we are",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "law",
-        "lemma": "nomos"
+        "lemma": "nomos",
+        "strongs": "G3551"
       },
       {
         "surface": "grace",
-        "lemma": "charis"
+        "lemma": "charis",
+        "strongs": "G5485"
       },
       {
         "surface": "Certainly not",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "16": [
       {
         "surface": "Do you not know",
-        "lemma": "eido"
+        "lemma": "eido",
+        "strongs": "G1492"
       },
       {
         "surface": "you offer",
-        "lemma": "paristemi"
+        "lemma": "paristemi",
+        "strongs": "G3936"
       },
       {
         "surface": "obedient",
-        "lemma": "hupakoe"
+        "lemma": "hupakoe",
+        "strongs": "G5218"
       },
       {
         "surface": "slaves",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "you are",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "slaves",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "you obey",
-        "lemma": "hupakouo"
+        "lemma": "hupakouo",
+        "strongs": "G5219"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "to obedience",
-        "lemma": "hupakoe"
+        "lemma": "hupakoe",
+        "strongs": "G5218"
       },
       {
         "surface": "righteousness",
-        "lemma": "dikaiosune"
+        "lemma": "dikaiosune",
+        "strongs": "G1343"
       }
     ],
     "17": [
       {
         "surface": "thanks be",
-        "lemma": "charis"
+        "lemma": "charis",
+        "strongs": "G5485"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "though you once were",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "slaves",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "you wholeheartedly obeyed",
-        "lemma": "hupakouo"
+        "lemma": "hupakouo",
+        "strongs": "G5219"
       },
       {
         "surface": "the form",
-        "lemma": "tupos"
+        "lemma": "tupos",
+        "strongs": "G5179"
       },
       {
         "surface": "of teaching",
-        "lemma": "didache"
+        "lemma": "didache",
+        "strongs": "G1322"
       },
       {
         "surface": "you were committed",
-        "lemma": "paradidomi"
+        "lemma": "paradidomi",
+        "strongs": "G3860"
       }
     ],
     "18": [
       {
         "surface": "You have been set free",
-        "lemma": "eleutheroo"
+        "lemma": "eleutheroo",
+        "strongs": "G1659"
       },
       {
         "surface": "sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "and have become slaves",
-        "lemma": "douloo"
+        "lemma": "douloo",
+        "strongs": "G1402"
       },
       {
         "surface": "to righteousness",
-        "lemma": "dikaiosune"
+        "lemma": "dikaiosune",
+        "strongs": "G1343"
       }
     ],
     "19": [
       {
         "surface": "I am speaking",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "in human terms",
-        "lemma": "anthropinos"
+        "lemma": "anthropinos",
+        "strongs": "G0442"
       },
       {
         "surface": "weakness",
-        "lemma": "astheneia"
+        "lemma": "astheneia",
+        "strongs": "G0769"
       },
       {
         "surface": "flesh",
-        "lemma": "sarx"
+        "lemma": "sarx",
+        "strongs": "G4561"
       },
       {
         "surface": "you used to offer",
-        "lemma": "paristemi"
+        "lemma": "paristemi",
+        "strongs": "G3936"
       },
       {
         "surface": "parts of",
-        "lemma": "melos"
+        "lemma": "melos",
+        "strongs": "G3196"
       },
       {
         "surface": "in slavery",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "to impurity",
-        "lemma": "akatharsia"
+        "lemma": "akatharsia",
+        "strongs": "G0167"
       },
       {
         "surface": "vvv",
-        "lemma": "anomia"
+        "lemma": "anomia",
+        "strongs": "G0458"
       },
       {
         "surface": "wickedness",
-        "lemma": "anomia"
+        "lemma": "anomia",
+        "strongs": "G0458"
       },
       {
         "surface": "so",
-        "lemma": "houto"
+        "lemma": "houto",
+        "strongs": "G3779"
       },
       {
         "surface": "now",
-        "lemma": "nun"
+        "lemma": "nun",
+        "strongs": "G3568"
       },
       {
         "surface": "offer",
-        "lemma": "paristemi"
+        "lemma": "paristemi",
+        "strongs": "G3936"
       },
       {
         "surface": "them",
-        "lemma": "melos"
+        "lemma": "melos",
+        "strongs": "G3196"
       },
       {
         "surface": "in slavery",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "to righteousness",
-        "lemma": "dikaiosune"
+        "lemma": "dikaiosune",
+        "strongs": "G1343"
       },
       {
         "surface": "holiness",
-        "lemma": "hagiasmos"
+        "lemma": "hagiasmos",
+        "strongs": "G0038"
       }
     ],
     "20": [
       {
         "surface": "you were",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "slaves",
-        "lemma": "doulos"
+        "lemma": "doulos",
+        "strongs": "G1401"
       },
       {
         "surface": "to sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "you were",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "free of obligation",
-        "lemma": "eleutheros"
+        "lemma": "eleutheros",
+        "strongs": "G1658"
       },
       {
         "surface": "to righteousness",
-        "lemma": "dikaiosune"
+        "lemma": "dikaiosune",
+        "strongs": "G1343"
       }
     ],
     "21": [
       {
         "surface": "What",
-        "lemma": "tis"
+        "lemma": "tis",
+        "strongs": "G5101"
       },
       {
         "surface": "fruit",
-        "lemma": "karpos"
+        "lemma": "karpos",
+        "strongs": "G2590"
       },
       {
         "surface": "did you reap",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "at that time",
-        "lemma": "tote"
+        "lemma": "tote",
+        "strongs": "G5119"
       },
       {
         "surface": "vvv",
-        "lemma": "nun"
+        "lemma": "nun",
+        "strongs": "G3568"
       },
       {
         "surface": "you are now ashamed",
-        "lemma": "epaischunomai"
+        "lemma": "epaischunomai",
+        "strongs": "G1870"
       },
       {
         "surface": "outcome",
-        "lemma": "telos"
+        "lemma": "telos",
+        "strongs": "G5056"
       },
       {
         "surface": "is death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       }
     ],
     "22": [
       {
         "surface": "now that",
-        "lemma": "nuni"
+        "lemma": "nuni",
+        "strongs": "G3570"
       },
       {
         "surface": "you have been set free",
-        "lemma": "eleutheroo"
+        "lemma": "eleutheroo",
+        "strongs": "G1659"
       },
       {
         "surface": "sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "have become slaves",
-        "lemma": "douloo"
+        "lemma": "douloo",
+        "strongs": "G1402"
       },
       {
         "surface": "to God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "fruit",
-        "lemma": "karpos"
+        "lemma": "karpos",
+        "strongs": "G2590"
       },
       {
         "surface": "you reap",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "holiness",
-        "lemma": "hagiasmos"
+        "lemma": "hagiasmos",
+        "strongs": "G0038"
       },
       {
         "surface": "outcome",
-        "lemma": "telos"
+        "lemma": "telos",
+        "strongs": "G5056"
       },
       {
         "surface": "is eternal",
-        "lemma": "aionios"
+        "lemma": "aionios",
+        "strongs": "G0166"
       },
       {
         "surface": "life",
-        "lemma": "zoe"
+        "lemma": "zoe",
+        "strongs": "G2222"
       }
     ],
     "23": [
       {
         "surface": "wages",
-        "lemma": "opsonion"
+        "lemma": "opsonion",
+        "strongs": "G3800"
       },
       {
         "surface": "of sin",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       },
       {
         "surface": "is death",
-        "lemma": "thanatos"
+        "lemma": "thanatos",
+        "strongs": "G2288"
       },
       {
         "surface": "gift",
-        "lemma": "charisma"
+        "lemma": "charisma",
+        "strongs": "G5486"
       },
       {
         "surface": "of God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       },
       {
         "surface": "is eternal",
-        "lemma": "aionios"
+        "lemma": "aionios",
+        "strongs": "G0166"
       },
       {
         "surface": "life",
-        "lemma": "zoe"
+        "lemma": "zoe",
+        "strongs": "G2222"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       }
     ]
-  },
-  "themeLemmas": [
-    "hoplon",
-    "kurieuo",
-    "eleutheroo"
-  ]
+  }
 }

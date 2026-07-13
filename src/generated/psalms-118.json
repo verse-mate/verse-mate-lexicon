@@ -7,689 +7,840 @@
     "1": [
       {
         "surface": "Give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "He is good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "2": [
       {
         "surface": "Let Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "3": [
       {
         "surface": "Let the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "4": [
       {
         "surface": "Let those who fear",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3373"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "5": [
       {
         "surface": "my distress",
-        "lemma": "metsar"
+        "lemma": "metsar",
+        "strongs": "H4712"
       },
       {
         "surface": "I called",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "and He",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "answered",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "and set me free",
-        "lemma": "merchav"
+        "lemma": "merchav",
+        "strongs": "H4800"
       }
     ],
     "6": [
       {
         "surface": "The LORD is",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "be afraid",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       },
       {
         "surface": "What",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "can man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "7": [
       {
         "surface": "The LORD is",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "He is my helper",
-        "lemma": "azar"
+        "lemma": "azar",
+        "strongs": "H5826"
       },
       {
         "surface": "will look in triumph",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "on those who hate me",
-        "lemma": "sane"
+        "lemma": "sane",
+        "strongs": "H8130"
       }
     ],
     "8": [
       {
         "surface": "It is better",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "to take refuge",
-        "lemma": "chasah"
+        "lemma": "chasah",
+        "strongs": "H2620"
       },
       {
         "surface": "in the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "than to trust",
-        "lemma": "batach"
+        "lemma": "batach",
+        "strongs": "H0982"
       },
       {
         "surface": "in man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       }
     ],
     "9": [
       {
         "surface": "It is better",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "to take refuge",
-        "lemma": "chasah"
+        "lemma": "chasah",
+        "strongs": "H2620"
       },
       {
         "surface": "in the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "than to trust",
-        "lemma": "batach"
+        "lemma": "batach",
+        "strongs": "H0982"
       },
       {
         "surface": "in princes",
-        "lemma": "nadiv"
+        "lemma": "nadiv",
+        "strongs": "H5081"
       }
     ],
     "10": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "surrounded me",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "but in the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I cut them off",
-        "lemma": "mul"
+        "lemma": "mul",
+        "strongs": "H4135"
       }
     ],
     "11": [
       {
         "surface": "They surrounded me",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "on every side",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "but in the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I cut them off",
-        "lemma": "mul"
+        "lemma": "mul",
+        "strongs": "H4135"
       }
     ],
     "12": [
       {
         "surface": "They swarmed around me",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "like bees",
-        "lemma": "devorah"
+        "lemma": "devorah",
+        "strongs": "H1682"
       },
       {
         "surface": "but they were extinguished",
-        "lemma": "daakh"
+        "lemma": "daakh",
+        "strongs": "H1846"
       },
       {
         "surface": "like burning",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       },
       {
         "surface": "thorns",
-        "lemma": "qots"
+        "lemma": "qots",
+        "strongs": "H6975"
       },
       {
         "surface": "in the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I cut them off",
-        "lemma": "mul"
+        "lemma": "mul",
+        "strongs": "H4135"
       }
     ],
     "13": [
       {
         "surface": "I was pushed so hard",
-        "lemma": "dachah"
+        "lemma": "dachah",
+        "strongs": "H1760"
       },
       {
         "surface": "I was falling",
-        "lemma": "naphal"
+        "lemma": "naphal",
+        "strongs": "H5307"
       },
       {
         "surface": "but the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "helped me",
-        "lemma": "azar"
+        "lemma": "azar",
+        "strongs": "H5826"
       }
     ],
     "14": [
       {
         "surface": "The LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "is my strength",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "and my song",
-        "lemma": "zimrat"
+        "lemma": "zimrat",
+        "strongs": "H2176"
       },
       {
         "surface": "and He has become",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       }
     ],
     "15": [
       {
         "surface": "Shouts",
-        "lemma": "qol"
+        "lemma": "qol",
+        "strongs": "H6963"
       },
       {
         "surface": "of joy",
-        "lemma": "rinnah"
+        "lemma": "rinnah",
+        "strongs": "H7440"
       },
       {
         "surface": "and salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       },
       {
         "surface": "resound in the tents",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of the righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "The right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "performs",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "with valor",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       }
     ],
     "16": [
       {
         "surface": "The right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is exalted",
-        "lemma": "ramam"
+        "lemma": "ramam",
+        "strongs": "H7426"
       },
       {
         "surface": "The right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "performs",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "with valor",
-        "lemma": "chayil"
+        "lemma": "chayil",
+        "strongs": "H2428"
       }
     ],
     "17": [
       {
         "surface": "I will not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "I will live",
-        "lemma": "chayah"
+        "lemma": "chayah",
+        "strongs": "H2421"
       },
       {
         "surface": "and proclaim",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "what the LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "has done",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "18": [
       {
         "surface": "The LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       },
       {
         "surface": "disciplined me severely",
-        "lemma": "yasar"
+        "lemma": "yasar",
+        "strongs": "H3256"
       },
       {
         "surface": "but He has not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "given me over",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "to death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       }
     ],
     "19": [
       {
         "surface": "Open",
-        "lemma": "patach"
+        "lemma": "patach",
+        "strongs": "H6605"
       },
       {
         "surface": "the gates",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "of righteousness",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       },
       {
         "surface": "that I may enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yah"
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "20": [
       {
         "surface": "is the gate",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the righteous",
-        "lemma": "tsaddiq"
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
       },
       {
         "surface": "shall enter",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "21": [
       {
         "surface": "I will give You thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "You have answered me",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "and You have become",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       }
     ],
     "22": [
       {
         "surface": "The stone",
-        "lemma": "even"
+        "lemma": "even",
+        "strongs": "H0068"
       },
       {
         "surface": "the builders",
-        "lemma": "banah"
+        "lemma": "banah",
+        "strongs": "H1129"
       },
       {
         "surface": "rejected",
-        "lemma": "maas"
+        "lemma": "maas",
+        "strongs": "H3988"
       },
       {
         "surface": "has become",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the cornerstone",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "23": [
       {
         "surface": "is",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "from the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is marvelous",
-        "lemma": "pala"
+        "lemma": "pala",
+        "strongs": "H6381"
       },
       {
         "surface": "in our eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "24": [
       {
         "surface": "is the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "that the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has made",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "we will rejoice",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1523"
       },
       {
         "surface": "and be glad",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       }
     ],
     "25": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "save us",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "cause us to prosper",
-        "lemma": "tsalach"
+        "lemma": "tsalach",
+        "strongs": "H6743"
       }
     ],
     "26": [
       {
         "surface": "Blessed is",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       },
       {
         "surface": "he who comes",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "in the name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "From the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "we bless you",
-        "lemma": "barakh"
+        "lemma": "barakh",
+        "strongs": "H1288"
       }
     ],
     "27": [
       {
         "surface": "The LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "He has made His light to shine",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "Bind",
-        "lemma": "asar"
+        "lemma": "asar",
+        "strongs": "H0631"
       },
       {
         "surface": "the festal sacrifice",
-        "lemma": "chag"
+        "lemma": "chag",
+        "strongs": "H2282"
       },
       {
         "surface": "with cords",
-        "lemma": "avot"
+        "lemma": "avot",
+        "strongs": "H5688"
       },
       {
         "surface": "the horns",
-        "lemma": "qeren"
+        "lemma": "qeren",
+        "strongs": "H7161"
       },
       {
         "surface": "of the altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       }
     ],
     "28": [
       {
         "surface": "are my God",
-        "lemma": "el"
+        "lemma": "el",
+        "strongs": "H0410"
       },
       {
         "surface": "and I will give You thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "You are my God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "and I will exalt You",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "29": [
       {
         "surface": "Give thanks",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "He is good",
-        "lemma": "tov"
+        "lemma": "tov",
+        "strongs": "H2896"
       },
       {
         "surface": "His loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "endures forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
-  },
-  "themeLemmas": [
-    "yah",
-    "yadah",
-    "olam"
-  ]
+  }
 }

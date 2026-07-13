@@ -7,419 +7,510 @@
     "1": [
       {
         "surface": "A song",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7892"
       },
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Korah",
-        "lemma": "qorach"
+        "lemma": "qorach",
+        "strongs": "H7141"
       },
       {
         "surface": "Great is",
-        "lemma": "gadol"
+        "lemma": "gadol",
+        "strongs": "H1419"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "and greatly",
-        "lemma": "meod"
+        "lemma": "meod",
+        "strongs": "H3966"
       },
       {
         "surface": "to be praised",
-        "lemma": "halal"
+        "lemma": "halal",
+        "strongs": "H1984"
       },
       {
         "surface": "in the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "of our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "His holy",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "2": [
       {
         "surface": "Beautiful",
-        "lemma": "yapheh"
+        "lemma": "yapheh",
+        "strongs": "H3303"
       },
       {
         "surface": "in loftiness",
-        "lemma": "noph"
+        "lemma": "noph",
+        "strongs": "H5131"
       },
       {
         "surface": "the joy",
-        "lemma": "masvos"
+        "lemma": "masvos",
+        "strongs": "H4885"
       },
       {
         "surface": "of all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "like the peaks",
-        "lemma": "yerekhah"
+        "lemma": "yerekhah",
+        "strongs": "H3411"
       },
       {
         "surface": "of Zaphon",
-        "lemma": "tsaphon"
+        "lemma": "tsaphon",
+        "strongs": "H6828"
       },
       {
         "surface": "is Mount",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "the city",
-        "lemma": "qiryah"
+        "lemma": "qiryah",
+        "strongs": "H7151"
       },
       {
         "surface": "of the great",
-        "lemma": "rav"
+        "lemma": "rav",
+        "strongs": "H7227"
       },
       {
         "surface": "King",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "3": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "is in her citadels",
-        "lemma": "armon"
+        "lemma": "armon",
+        "strongs": "H0759"
       },
       {
         "surface": "He has shown Himself to be",
-        "lemma": "yada"
+        "lemma": "yada",
+        "strongs": "H3045"
       },
       {
         "surface": "a fortress",
-        "lemma": "misgav"
+        "lemma": "misgav",
+        "strongs": "H4869"
       }
     ],
     "4": [
       {
         "surface": "the kings",
-        "lemma": "melekh"
+        "lemma": "melekh",
+        "strongs": "H4428"
       },
       {
         "surface": "assembled",
-        "lemma": "yaad"
+        "lemma": "yaad",
+        "strongs": "H3259"
       },
       {
         "surface": "they all advanced",
-        "lemma": "avar"
+        "lemma": "avar",
+        "strongs": "H5674"
       },
       {
         "surface": "together",
-        "lemma": "yachad"
+        "lemma": "yachad",
+        "strongs": "H3162"
       }
     ],
     "5": [
       {
         "surface": "saw",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "and",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "were astounded",
-        "lemma": "tamah"
+        "lemma": "tamah",
+        "strongs": "H8539"
       },
       {
         "surface": "they fled",
-        "lemma": "chaphaz"
+        "lemma": "chaphaz",
+        "strongs": "H2648"
       },
       {
         "surface": "in terror",
-        "lemma": "bahal"
+        "lemma": "bahal",
+        "strongs": "H0926"
       }
     ],
     "6": [
       {
         "surface": "Trembling",
-        "lemma": "raad"
+        "lemma": "raad",
+        "strongs": "H7461"
       },
       {
         "surface": "seized them",
-        "lemma": "achaz"
+        "lemma": "achaz",
+        "strongs": "H0270"
       },
       {
         "surface": "there",
-        "lemma": "sham"
+        "lemma": "sham",
+        "strongs": "H8033"
       },
       {
         "surface": "anguish",
-        "lemma": "chil"
+        "lemma": "chil",
+        "strongs": "H2427"
       },
       {
         "surface": "like a woman in labor",
-        "lemma": "yalad"
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "7": [
       {
         "surface": "With a wind",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "from the east",
-        "lemma": "qadim"
+        "lemma": "qadim",
+        "strongs": "H6921"
       },
       {
         "surface": "You wrecked",
-        "lemma": "shavar"
+        "lemma": "shavar",
+        "strongs": "H7665"
       },
       {
         "surface": "the ships",
-        "lemma": "oniyyah"
+        "lemma": "oniyyah",
+        "strongs": "H0591"
       },
       {
         "surface": "of Tarshish",
-        "lemma": "tarshish"
+        "lemma": "tarshish",
+        "strongs": "H8659"
       }
     ],
     "8": [
       {
         "surface": "we have heard",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "so",
-        "lemma": "ken"
+        "lemma": "ken",
+        "strongs": "H3651"
       },
       {
         "surface": "we have seen",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "in the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "of Hosts",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "in the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "of our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "will establish her",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       },
       {
         "surface": "Selah",
-        "lemma": "selah"
+        "lemma": "selah",
+        "strongs": "H5542"
       }
     ],
     "9": [
       {
         "surface": "Within",
-        "lemma": "qerev"
+        "lemma": "qerev",
+        "strongs": "H7130"
       },
       {
         "surface": "Your temple",
-        "lemma": "hekhal"
+        "lemma": "hekhal",
+        "strongs": "H1964"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "we contemplate",
-        "lemma": "damah"
+        "lemma": "damah",
+        "strongs": "H1819"
       },
       {
         "surface": "Your loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       }
     ],
     "10": [
       {
         "surface": "Your name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "O God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "like Your praise",
-        "lemma": "tehillah"
+        "lemma": "tehillah",
+        "strongs": "H8416"
       },
       {
         "surface": "the ends",
-        "lemma": "qetsev"
+        "lemma": "qetsev",
+        "strongs": "H7099"
       },
       {
         "surface": "of the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "Your right hand",
-        "lemma": "yamin"
+        "lemma": "yamin",
+        "strongs": "H3225"
       },
       {
         "surface": "is full",
-        "lemma": "male"
+        "lemma": "male",
+        "strongs": "H4390"
       },
       {
         "surface": "of righteousness",
-        "lemma": "tsedeq"
+        "lemma": "tsedeq",
+        "strongs": "H6664"
       }
     ],
     "11": [
       {
         "surface": "Mount",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "is glad",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "the daughters",
-        "lemma": "bat"
+        "lemma": "bat",
+        "strongs": "H1323"
       },
       {
         "surface": "of Judah",
-        "lemma": "yehudah"
+        "lemma": "yehudah",
+        "strongs": "H3063"
       },
       {
         "surface": "rejoice",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1523"
       },
       {
         "surface": "Your judgments",
-        "lemma": "mishpat"
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "12": [
       {
         "surface": "March around",
-        "lemma": "savav"
+        "lemma": "savav",
+        "strongs": "H5437"
       },
       {
         "surface": "Zion",
-        "lemma": "tsiyyon"
+        "lemma": "tsiyyon",
+        "strongs": "H6726"
       },
       {
         "surface": "encircle her",
-        "lemma": "naqaph"
+        "lemma": "naqaph",
+        "strongs": "H5362"
       },
       {
         "surface": "count",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "her towers",
-        "lemma": "migdal"
+        "lemma": "migdal",
+        "strongs": "H4026"
       }
     ],
     "13": [
       {
         "surface": "consider",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "her ramparts",
-        "lemma": "chelah"
+        "lemma": "chelah",
+        "strongs": "H2430"
       },
       {
         "surface": "tour",
-        "lemma": "pasag"
+        "lemma": "pasag",
+        "strongs": "H6448"
       },
       {
         "surface": "her citadels",
-        "lemma": "armon"
+        "lemma": "armon",
+        "strongs": "H0759"
       },
       {
         "surface": "you may tell",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "the next",
-        "lemma": "acharon"
+        "lemma": "acharon",
+        "strongs": "H0314"
       },
       {
         "surface": "generation",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "14": [
       {
         "surface": "God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "is our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "forever",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "and ever",
-        "lemma": "ad"
+        "lemma": "ad",
+        "strongs": "H5703"
       },
       {
         "surface": "will be our guide",
-        "lemma": "nahag"
+        "lemma": "nahag",
+        "strongs": "H5090"
       },
       {
         "surface": "death",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ]
-  },
-  "themeLemmas": [
-    "tsiyyon",
-    "har",
-    "saphar"
-  ]
+  }
 }

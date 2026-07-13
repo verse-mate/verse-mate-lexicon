@@ -7,847 +7,1042 @@
     "1": [
       {
         "surface": "This is the word",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1697"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "came",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "Joel",
-        "lemma": "yoel"
+        "lemma": "yoel",
+        "strongs": "H3100"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Pethuel",
-        "lemma": "petuel"
+        "lemma": "petuel",
+        "strongs": "H6602"
       }
     ],
     "2": [
       {
         "surface": "Hear",
-        "lemma": "shama"
+        "lemma": "shama",
+        "strongs": "H8085"
       },
       {
         "surface": "O elders",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       },
       {
         "surface": "and give ear",
-        "lemma": "azan"
+        "lemma": "azan",
+        "strongs": "H0238"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who dwell",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "in the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "ever happened",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "in your days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "or",
-        "lemma": "im"
+        "lemma": "im",
+        "strongs": "H0518"
       },
       {
         "surface": "in the days",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of your fathers",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "3": [
       {
         "surface": "Tell",
-        "lemma": "saphar"
+        "lemma": "saphar",
+        "strongs": "H5608"
       },
       {
         "surface": "to your children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "let your children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "tell it to their children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "and their children",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "to the next",
-        "lemma": "acher"
+        "lemma": "acher",
+        "strongs": "H0312"
       },
       {
         "surface": "generation",
-        "lemma": "dor"
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "4": [
       {
         "surface": "What the devouring locust",
-        "lemma": "gazam"
+        "lemma": "gazam",
+        "strongs": "H1501"
       },
       {
         "surface": "has left",
-        "lemma": "yeter"
+        "lemma": "yeter",
+        "strongs": "H3499"
       },
       {
         "surface": "the swarming locust",
-        "lemma": "arbeh"
+        "lemma": "arbeh",
+        "strongs": "H0697"
       },
       {
         "surface": "has eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "what the swarming locust",
-        "lemma": "arbeh"
+        "lemma": "arbeh",
+        "strongs": "H0697"
       },
       {
         "surface": "has left",
-        "lemma": "yeter"
+        "lemma": "yeter",
+        "strongs": "H3499"
       },
       {
         "surface": "the young locust",
-        "lemma": "yeleq"
+        "lemma": "yeleq",
+        "strongs": "H3218"
       },
       {
         "surface": "has eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "and what the young locust",
-        "lemma": "yeleq"
+        "lemma": "yeleq",
+        "strongs": "H3218"
       },
       {
         "surface": "has left",
-        "lemma": "yeter"
+        "lemma": "yeter",
+        "strongs": "H3499"
       },
       {
         "surface": "the destroying locust",
-        "lemma": "chasil"
+        "lemma": "chasil",
+        "strongs": "H2625"
       },
       {
         "surface": "has eaten",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "5": [
       {
         "surface": "Wake up",
-        "lemma": "quts"
+        "lemma": "quts",
+        "strongs": "H6974"
       },
       {
         "surface": "you drunkards",
-        "lemma": "shikkor"
+        "lemma": "shikkor",
+        "strongs": "H7910"
       },
       {
         "surface": "and weep",
-        "lemma": "bakhah"
+        "lemma": "bakhah",
+        "strongs": "H1058"
       },
       {
         "surface": "wail",
-        "lemma": "yalal"
+        "lemma": "yalal",
+        "strongs": "H3213"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "you drinkers",
-        "lemma": "shatah"
+        "lemma": "shatah",
+        "strongs": "H8354"
       },
       {
         "surface": "of wine",
-        "lemma": "yayin"
+        "lemma": "yayin",
+        "strongs": "H3196"
       },
       {
         "surface": "the sweet wine",
-        "lemma": "asis"
+        "lemma": "asis",
+        "strongs": "H6071"
       },
       {
         "surface": "it has been cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "from your mouth",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "6": [
       {
         "surface": "a nation",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "has invaded",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H5927"
       },
       {
         "surface": "My land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "powerful",
-        "lemma": "atsum"
+        "lemma": "atsum",
+        "strongs": "H6099"
       },
       {
         "surface": "and without",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "number",
-        "lemma": "mispar"
+        "lemma": "mispar",
+        "strongs": "H4557"
       },
       {
         "surface": "its teeth",
-        "lemma": "shen"
+        "lemma": "shen",
+        "strongs": "H8127"
       },
       {
         "surface": "are the teeth",
-        "lemma": "shen"
+        "lemma": "shen",
+        "strongs": "H8127"
       },
       {
         "surface": "of a lion",
-        "lemma": "ari"
+        "lemma": "ari",
+        "strongs": "H0738"
       },
       {
         "surface": "and its fangs are the fangs",
-        "lemma": "metallah"
+        "lemma": "metallah",
+        "strongs": "H4973"
       },
       {
         "surface": "of a lioness",
-        "lemma": "levi"
+        "lemma": "levi",
+        "strongs": "H3833"
       }
     ],
     "7": [
       {
         "surface": "It has laid",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "waste",
-        "lemma": "shammah"
+        "lemma": "shammah",
+        "strongs": "H8047"
       },
       {
         "surface": "My grapevine",
-        "lemma": "gephen"
+        "lemma": "gephen",
+        "strongs": "H1612"
       },
       {
         "surface": "and splintered",
-        "lemma": "qetsaphah"
+        "lemma": "qetsaphah",
+        "strongs": "H7111"
       },
       {
         "surface": "My fig tree",
-        "lemma": "teenah"
+        "lemma": "teenah",
+        "strongs": "H8384"
       },
       {
         "surface": "It has stripped off the bark",
-        "lemma": "chasaph"
+        "lemma": "chasaph",
+        "strongs": "H2834"
       },
       {
         "surface": "and thrown it away",
-        "lemma": "shalakh"
+        "lemma": "shalakh",
+        "strongs": "H7993"
       },
       {
         "surface": "the branches",
-        "lemma": "sarig"
+        "lemma": "sarig",
+        "strongs": "H8299"
       },
       {
         "surface": "have turned white",
-        "lemma": "laven"
+        "lemma": "laven",
+        "strongs": "H3835"
       }
     ],
     "8": [
       {
         "surface": "Wail",
-        "lemma": "alah"
+        "lemma": "alah",
+        "strongs": "H0421"
       },
       {
         "surface": "like a virgin",
-        "lemma": "betulah"
+        "lemma": "betulah",
+        "strongs": "H1330"
       },
       {
         "surface": "dressed",
-        "lemma": "chagar"
+        "lemma": "chagar",
+        "strongs": "H2296"
       },
       {
         "surface": "in sackcloth",
-        "lemma": "saq"
+        "lemma": "saq",
+        "strongs": "H8242"
       },
       {
         "surface": "the husband",
-        "lemma": "baal"
+        "lemma": "baal",
+        "strongs": "H1167"
       },
       {
         "surface": "of her youth",
-        "lemma": "naur"
+        "lemma": "naur",
+        "strongs": "H5271"
       }
     ],
     "9": [
       {
         "surface": "Grain and drink offerings",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "have been cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "from the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "the priests",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "are in mourning",
-        "lemma": "aval"
+        "lemma": "aval",
+        "strongs": "H0056"
       },
       {
         "surface": "those who minister",
-        "lemma": "sharat"
+        "lemma": "sharat",
+        "strongs": "H8334"
       },
       {
         "surface": "before the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "10": [
       {
         "surface": "The field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "is ruined",
-        "lemma": "shadad"
+        "lemma": "shadad",
+        "strongs": "H7703"
       },
       {
         "surface": "the land",
-        "lemma": "adamah"
+        "lemma": "adamah",
+        "strongs": "H0127"
       },
       {
         "surface": "mourns",
-        "lemma": "aval"
+        "lemma": "aval",
+        "strongs": "H0056"
       },
       {
         "surface": "the grain",
-        "lemma": "dagan"
+        "lemma": "dagan",
+        "strongs": "H1715"
       },
       {
         "surface": "is destroyed",
-        "lemma": "shadad"
+        "lemma": "shadad",
+        "strongs": "H7703"
       },
       {
         "surface": "the new wine",
-        "lemma": "tirosh"
+        "lemma": "tirosh",
+        "strongs": "H8492"
       },
       {
         "surface": "is dried up",
-        "lemma": "yavesh"
+        "lemma": "yavesh",
+        "strongs": "H3001"
       },
       {
         "surface": "and the oil fails",
-        "lemma": "yitshar"
+        "lemma": "yitshar",
+        "strongs": "H3323"
       }
     ],
     "11": [
       {
         "surface": "Be dismayed",
-        "lemma": "bush"
+        "lemma": "bush",
+        "strongs": "H0954"
       },
       {
         "surface": "O farmers",
-        "lemma": "ikkar"
+        "lemma": "ikkar",
+        "strongs": "H0406"
       },
       {
         "surface": "wail",
-        "lemma": "yalal"
+        "lemma": "yalal",
+        "strongs": "H3213"
       },
       {
         "surface": "O vinedressers",
-        "lemma": "korem"
+        "lemma": "korem",
+        "strongs": "H3755"
       },
       {
         "surface": "the wheat",
-        "lemma": "chittah"
+        "lemma": "chittah",
+        "strongs": "H2406"
       },
       {
         "surface": "barley",
-        "lemma": "seorah"
+        "lemma": "seorah",
+        "strongs": "H8184"
       },
       {
         "surface": "the harvest",
-        "lemma": "qatsir"
+        "lemma": "qatsir",
+        "strongs": "H7105"
       },
       {
         "surface": "of the field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "has perished",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "12": [
       {
         "surface": "The grapevine",
-        "lemma": "gephen"
+        "lemma": "gephen",
+        "strongs": "H1612"
       },
       {
         "surface": "is dried up",
-        "lemma": "yavesh"
+        "lemma": "yavesh",
+        "strongs": "H3001"
       },
       {
         "surface": "and the fig tree",
-        "lemma": "teenah"
+        "lemma": "teenah",
+        "strongs": "H8384"
       },
       {
         "surface": "is withered",
-        "lemma": "amal"
+        "lemma": "amal",
+        "strongs": "H0535"
       },
       {
         "surface": "the pomegranate",
-        "lemma": "rimmon"
+        "lemma": "rimmon",
+        "strongs": "H7416"
       },
       {
         "surface": "palm",
-        "lemma": "tamar"
+        "lemma": "tamar",
+        "strongs": "H8558"
       },
       {
         "surface": "and apple",
-        "lemma": "tappuach"
+        "lemma": "tappuach",
+        "strongs": "H8598"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "of the orchard",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "are withered",
-        "lemma": "yavesh"
+        "lemma": "yavesh",
+        "strongs": "H3001"
       },
       {
         "surface": "the joy",
-        "lemma": "sasvon"
+        "lemma": "sasvon",
+        "strongs": "H8342"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "mankind",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "has dried up",
-        "lemma": "bush"
+        "lemma": "bush",
+        "strongs": "H0954"
       }
     ],
     "13": [
       {
         "surface": "Put on sackcloth",
-        "lemma": "chagar"
+        "lemma": "chagar",
+        "strongs": "H2296"
       },
       {
         "surface": "and lament",
-        "lemma": "saphad"
+        "lemma": "saphad",
+        "strongs": "H5594"
       },
       {
         "surface": "O priests",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "wail",
-        "lemma": "yalal"
+        "lemma": "yalal",
+        "strongs": "H3213"
       },
       {
         "surface": "O ministers",
-        "lemma": "sharat"
+        "lemma": "sharat",
+        "strongs": "H8334"
       },
       {
         "surface": "of the altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "Come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "spend the night",
-        "lemma": "lun"
+        "lemma": "lun",
+        "strongs": "H3885"
       },
       {
         "surface": "in sackcloth",
-        "lemma": "saq"
+        "lemma": "saq",
+        "strongs": "H8242"
       },
       {
         "surface": "O ministers",
-        "lemma": "sharat"
+        "lemma": "sharat",
+        "strongs": "H8334"
       },
       {
         "surface": "of my God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "the grain",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "and drink offerings",
-        "lemma": "nesekh"
+        "lemma": "nesekh",
+        "strongs": "H5262"
       },
       {
         "surface": "are withheld",
-        "lemma": "mana"
+        "lemma": "mana",
+        "strongs": "H4513"
       },
       {
         "surface": "from the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "14": [
       {
         "surface": "Consecrate",
-        "lemma": "qadash"
+        "lemma": "qadash",
+        "strongs": "H6942"
       },
       {
         "surface": "a fast",
-        "lemma": "tsom"
+        "lemma": "tsom",
+        "strongs": "H6685"
       },
       {
         "surface": "proclaim",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "a solemn assembly",
-        "lemma": "atsarah"
+        "lemma": "atsarah",
+        "strongs": "H6116"
       },
       {
         "surface": "Gather",
-        "lemma": "asaph"
+        "lemma": "asaph",
+        "strongs": "H0622"
       },
       {
         "surface": "the elders",
-        "lemma": "zaqen"
+        "lemma": "zaqen",
+        "strongs": "H2205"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the residents",
-        "lemma": "yashav"
+        "lemma": "yashav",
+        "strongs": "H3427"
       },
       {
         "surface": "of the land",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "to the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "your God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "and cry out",
-        "lemma": "zaaq"
+        "lemma": "zaaq",
+        "strongs": "H2199"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "15": [
       {
         "surface": "for the day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "the Day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "is near",
-        "lemma": "qarov"
+        "lemma": "qarov",
+        "strongs": "H7138"
       },
       {
         "surface": "and it will come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "as destruction",
-        "lemma": "shod"
+        "lemma": "shod",
+        "strongs": "H7701"
       },
       {
         "surface": "from the Almighty",
-        "lemma": "shadday"
+        "lemma": "shadday",
+        "strongs": "H7706"
       }
     ],
     "16": [
       {
         "surface": "Has not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "the food",
-        "lemma": "okhel"
+        "lemma": "okhel",
+        "strongs": "H0400"
       },
       {
         "surface": "been cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "before",
-        "lemma": "neged"
+        "lemma": "neged",
+        "strongs": "H5048"
       },
       {
         "surface": "our very eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "joy",
-        "lemma": "simchah"
+        "lemma": "simchah",
+        "strongs": "H8057"
       },
       {
         "surface": "and gladness",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1524"
       },
       {
         "surface": "from the house",
-        "lemma": "bet"
+        "lemma": "bet",
+        "strongs": "H1004"
       },
       {
         "surface": "of our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "17": [
       {
         "surface": "The seeds",
-        "lemma": "perudah"
+        "lemma": "perudah",
+        "strongs": "H6507"
       },
       {
         "surface": "lie shriveled",
-        "lemma": "avash"
+        "lemma": "avash",
+        "strongs": "H5685"
       },
       {
         "surface": "beneath",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "the clods",
-        "lemma": "migraphah"
+        "lemma": "migraphah",
+        "strongs": "H4053"
       },
       {
         "surface": "the storehouses",
-        "lemma": "otsar"
+        "lemma": "otsar",
+        "strongs": "H0214"
       },
       {
         "surface": "are in ruins",
-        "lemma": "shamem"
+        "lemma": "shamem",
+        "strongs": "H8074"
       },
       {
         "surface": "the granaries",
-        "lemma": "mammgurah"
+        "lemma": "mammgurah",
+        "strongs": "H4460"
       },
       {
         "surface": "are broken down",
-        "lemma": "haras"
+        "lemma": "haras",
+        "strongs": "H2040"
       },
       {
         "surface": "the grain",
-        "lemma": "dagan"
+        "lemma": "dagan",
+        "strongs": "H1715"
       },
       {
         "surface": "has withered away",
-        "lemma": "yavesh"
+        "lemma": "yavesh",
+        "strongs": "H3001"
       }
     ],
     "18": [
       {
         "surface": "How",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "the cattle",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "groan",
-        "lemma": "anach"
+        "lemma": "anach",
+        "strongs": "H0584"
       },
       {
         "surface": "The herds",
-        "lemma": "eder"
+        "lemma": "eder",
+        "strongs": "H5739"
       },
       {
         "surface": "wander in confusion",
-        "lemma": "bukh"
+        "lemma": "bukh",
+        "strongs": "H0943"
       },
       {
         "surface": "they have no",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H0369"
       },
       {
         "surface": "pasture",
-        "lemma": "mireh"
+        "lemma": "mireh",
+        "strongs": "H4829"
       },
       {
         "surface": "the flocks",
-        "lemma": "eder"
+        "lemma": "eder",
+        "strongs": "H5739"
       },
       {
         "surface": "of sheep",
-        "lemma": "tson"
+        "lemma": "tson",
+        "strongs": "H6629"
       },
       {
         "surface": "are suffering",
-        "lemma": "asham"
+        "lemma": "asham",
+        "strongs": "H0816"
       }
     ],
     "19": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "I call",
-        "lemma": "qara"
+        "lemma": "qara",
+        "strongs": "H7121"
       },
       {
         "surface": "fire",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       },
       {
         "surface": "has consumed",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "the open",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "pastures",
-        "lemma": "naah"
+        "lemma": "naah",
+        "strongs": "H4999"
       },
       {
         "surface": "and flames",
-        "lemma": "lehavah"
+        "lemma": "lehavah",
+        "strongs": "H3852"
       },
       {
         "surface": "have scorched",
-        "lemma": "lahat"
+        "lemma": "lahat",
+        "strongs": "H3857"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the trees",
-        "lemma": "ets"
+        "lemma": "ets",
+        "strongs": "H6086"
       },
       {
         "surface": "of the field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "20": [
       {
         "surface": "the beasts",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "of the field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       },
       {
         "surface": "pant",
-        "lemma": "arag"
+        "lemma": "arag",
+        "strongs": "H6165"
       },
       {
         "surface": "the streams",
-        "lemma": "aphiq"
+        "lemma": "aphiq",
+        "strongs": "H0650"
       },
       {
         "surface": "of water",
-        "lemma": "mayim"
+        "lemma": "mayim",
+        "strongs": "H4325"
       },
       {
         "surface": "have dried up",
-        "lemma": "yavesh"
+        "lemma": "yavesh",
+        "strongs": "H3001"
       },
       {
         "surface": "and fire",
-        "lemma": "esh"
+        "lemma": "esh",
+        "strongs": "H0784"
       },
       {
         "surface": "has consumed",
-        "lemma": "akhal"
+        "lemma": "akhal",
+        "strongs": "H0398"
       },
       {
         "surface": "the open",
-        "lemma": "midbar"
+        "lemma": "midbar",
+        "strongs": "H4057"
       },
       {
         "surface": "pastures",
-        "lemma": "naah"
+        "lemma": "naah",
+        "strongs": "H4999"
       }
     ]
-  },
-  "themeLemmas": [
-    "yavesh",
-    "saday",
-    "kol"
-  ]
+  }
 }

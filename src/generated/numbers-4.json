@@ -7,1941 +7,2395 @@
     "1": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       }
     ],
     "2": [
       {
         "surface": "Take",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "a census",
-        "lemma": "rosh"
+        "lemma": "rosh",
+        "strongs": "H7218"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of the Kohathites",
-        "lemma": "qehat"
+        "lemma": "qehat",
+        "strongs": "H6955"
       },
       {
         "surface": "among",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "the Levites",
-        "lemma": "levi"
+        "lemma": "levi",
+        "strongs": "H3878"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "3": [
       {
         "surface": "men from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who is qualified",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "vvv",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "in the work",
-        "lemma": "melakhah"
+        "lemma": "melakhah",
+        "strongs": "H4399"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "4": [
       {
         "surface": "service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Kohathites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "regards the most",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "holy things",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "5": [
       {
         "surface": "Whenever the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "sets out",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "are to go in",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "take down",
-        "lemma": "yarad"
+        "lemma": "yarad",
+        "strongs": "H3381"
       },
       {
         "surface": "the veil",
-        "lemma": "porekhet"
+        "lemma": "porekhet",
+        "strongs": "H6532"
       },
       {
         "surface": "of the curtain",
-        "lemma": "masakh"
+        "lemma": "masakh",
+        "strongs": "H4539"
       },
       {
         "surface": "and cover",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "the ark",
-        "lemma": "aron"
+        "lemma": "aron",
+        "strongs": "H0727"
       },
       {
         "surface": "of the Testimony",
-        "lemma": "edut"
+        "lemma": "edut",
+        "strongs": "H5715"
       }
     ],
     "6": [
       {
         "surface": "They are to place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "this a covering",
-        "lemma": "kasuy"
+        "lemma": "kasuy",
+        "strongs": "H3681"
       },
       {
         "surface": "vvv",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H5785"
       },
       {
         "surface": "of fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a solid",
-        "lemma": "kalil"
+        "lemma": "kalil",
+        "strongs": "H3632"
       },
       {
         "surface": "blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "over it",
-        "lemma": "maal"
+        "lemma": "maal",
+        "strongs": "H4605"
       },
       {
         "surface": "and insert",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "its poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "7": [
       {
         "surface": "the table",
-        "lemma": "shulchan"
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "of the Presence",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "they are to spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the plates",
-        "lemma": "qearah"
+        "lemma": "qearah",
+        "strongs": "H7086"
       },
       {
         "surface": "and cups",
-        "lemma": "kaph"
+        "lemma": "kaph",
+        "strongs": "H3709"
       },
       {
         "surface": "the bowls",
-        "lemma": "menaqqiyyah"
+        "lemma": "menaqqiyyah",
+        "strongs": "H4518"
       },
       {
         "surface": "and pitchers",
-        "lemma": "qasah"
+        "lemma": "qasah",
+        "strongs": "H7184"
       },
       {
         "surface": "for the drink offering",
-        "lemma": "nesekh"
+        "lemma": "nesekh",
+        "strongs": "H5262"
       },
       {
         "surface": "The regular",
-        "lemma": "tamid"
+        "lemma": "tamid",
+        "strongs": "H8548"
       },
       {
         "surface": "bread",
-        "lemma": "lechem"
+        "lemma": "lechem",
+        "strongs": "H3899"
       },
       {
         "surface": "offering is to remain",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "8": [
       {
         "surface": "And they shall spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a scarlet",
-        "lemma": "tola"
+        "lemma": "tola",
+        "strongs": "H8438"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "cover",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "with",
-        "lemma": "mikhseh"
+        "lemma": "mikhseh",
+        "strongs": "H4372"
       },
       {
         "surface": "fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "and insert",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "9": [
       {
         "surface": "They are to take",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "a blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "and cover",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "the lampstand",
-        "lemma": "menorah"
+        "lemma": "menorah",
+        "strongs": "H4501"
       },
       {
         "surface": "used for light",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "with its lamps",
-        "lemma": "ner"
+        "lemma": "ner",
+        "strongs": "H5216"
       },
       {
         "surface": "wick trimmers",
-        "lemma": "melqach"
+        "lemma": "melqach",
+        "strongs": "H4457"
       },
       {
         "surface": "and trays",
-        "lemma": "machtah"
+        "lemma": "machtah",
+        "strongs": "H4289"
       },
       {
         "surface": "as well as the jars",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "of oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "to supply",
-        "lemma": "sharat"
+        "lemma": "sharat",
+        "strongs": "H8334"
       }
     ],
     "10": [
       {
         "surface": "Then they shall wrap",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "its utensils",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "a covering",
-        "lemma": "mikhseh"
+        "lemma": "mikhseh",
+        "strongs": "H4372"
       },
       {
         "surface": "of fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "and put",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the carrying frame",
-        "lemma": "mot"
+        "lemma": "mot",
+        "strongs": "H4132"
       }
     ],
     "11": [
       {
         "surface": "the gold",
-        "lemma": "zahav"
+        "lemma": "zahav",
+        "strongs": "H2091"
       },
       {
         "surface": "altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "they are to spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "cover",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "with",
-        "lemma": "mikhseh"
+        "lemma": "mikhseh",
+        "strongs": "H4372"
       },
       {
         "surface": "fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "and insert",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "12": [
       {
         "surface": "They are to take",
-        "lemma": "laqach"
+        "lemma": "laqach",
+        "strongs": "H3947"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the utensils",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "for serving",
-        "lemma": "sharet"
+        "lemma": "sharet",
+        "strongs": "H8335"
       },
       {
         "surface": "the sanctuary",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "place them",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "a blue",
-        "lemma": "tekhelet"
+        "lemma": "tekhelet",
+        "strongs": "H8504"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       },
       {
         "surface": "cover",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "with",
-        "lemma": "mikhseh"
+        "lemma": "mikhseh",
+        "strongs": "H4372"
       },
       {
         "surface": "fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "and put them",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "the carrying frame",
-        "lemma": "mot"
+        "lemma": "mot",
+        "strongs": "H4132"
       }
     ],
     "13": [
       {
         "surface": "Then they shall remove the ashes",
-        "lemma": "dashen"
+        "lemma": "dashen",
+        "strongs": "H1878"
       },
       {
         "surface": "from the bronze altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a purple",
-        "lemma": "argaman"
+        "lemma": "argaman",
+        "strongs": "H0713"
       },
       {
         "surface": "cloth",
-        "lemma": "beged"
+        "lemma": "beged",
+        "strongs": "H0899"
       }
     ],
     "14": [
       {
         "surface": "and place",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the vessels",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "used to serve",
-        "lemma": "sharat"
+        "lemma": "sharat",
+        "strongs": "H8334"
       },
       {
         "surface": "the firepans",
-        "lemma": "machtah"
+        "lemma": "machtah",
+        "strongs": "H4289"
       },
       {
         "surface": "meat forks",
-        "lemma": "mazleg"
+        "lemma": "mazleg",
+        "strongs": "H4207"
       },
       {
         "surface": "shovels",
-        "lemma": "ya"
+        "lemma": "ya",
+        "strongs": "H3257"
       },
       {
         "surface": "and sprinkling bowls",
-        "lemma": "mizraq"
+        "lemma": "mizraq",
+        "strongs": "H4219"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the equipment",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "of the altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "They are to spread",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "a covering",
-        "lemma": "kasuy"
+        "lemma": "kasuy",
+        "strongs": "H3681"
       },
       {
         "surface": "of fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "and insert",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "the poles",
-        "lemma": "bad"
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "15": [
       {
         "surface": "When Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "have finished",
-        "lemma": "kalah"
+        "lemma": "kalah",
+        "strongs": "H3615"
       },
       {
         "surface": "covering",
-        "lemma": "kasah"
+        "lemma": "kasah",
+        "strongs": "H3680"
       },
       {
         "surface": "the holy objects",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their equipment",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "as soon as the camp",
-        "lemma": "machaneh"
+        "lemma": "machaneh",
+        "strongs": "H4264"
       },
       {
         "surface": "is ready to move",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5265"
       },
       {
         "surface": "the Kohathites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "shall come",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and do the carrying",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "But they must not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "touch",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "the holy objects",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "or they will die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "are the transportation duties",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "of the Kohathites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "regarding the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "16": [
       {
         "surface": "Eleazar",
-        "lemma": "elazar"
+        "lemma": "elazar",
+        "strongs": "H0499"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       },
       {
         "surface": "shall oversee",
-        "lemma": "pequddah"
+        "lemma": "pequddah",
+        "strongs": "H6486"
       },
       {
         "surface": "the oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "for the light",
-        "lemma": "maor"
+        "lemma": "maor",
+        "strongs": "H3974"
       },
       {
         "surface": "the fragrant",
-        "lemma": "sam"
+        "lemma": "sam",
+        "strongs": "H5561"
       },
       {
         "surface": "incense",
-        "lemma": "qetoret"
+        "lemma": "qetoret",
+        "strongs": "H7004"
       },
       {
         "surface": "the daily",
-        "lemma": "tamid"
+        "lemma": "tamid",
+        "strongs": "H8548"
       },
       {
         "surface": "grain offering",
-        "lemma": "minchah"
+        "lemma": "minchah",
+        "strongs": "H4503"
       },
       {
         "surface": "and the anointing",
-        "lemma": "mishchah"
+        "lemma": "mishchah",
+        "strongs": "H4888"
       },
       {
         "surface": "oil",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "He has oversight",
-        "lemma": "pequddah"
+        "lemma": "pequddah",
+        "strongs": "H6486"
       },
       {
         "surface": "of the entire",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "and everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "including the holy objects",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "and their utensils",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "17": [
       {
         "surface": "Then the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       }
     ],
     "18": [
       {
         "surface": "Do not",
-        "lemma": "al"
+        "lemma": "al",
+        "strongs": "H0408"
       },
       {
         "surface": "allow the Kohathite",
-        "lemma": "qohati"
+        "lemma": "qohati",
+        "strongs": "H6956"
       },
       {
         "surface": "tribal",
-        "lemma": "shevet"
+        "lemma": "shevet",
+        "strongs": "H7626"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "to be cut off",
-        "lemma": "karat"
+        "lemma": "karat",
+        "strongs": "H3772"
       },
       {
         "surface": "from among",
-        "lemma": "tavekh"
+        "lemma": "tavekh",
+        "strongs": "H8432"
       },
       {
         "surface": "the Levites",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "19": [
       {
         "surface": "In order that they may live",
-        "lemma": "chayah"
+        "lemma": "chayah",
+        "strongs": "H2421"
       },
       {
         "surface": "and not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       },
       {
         "surface": "when they come near",
-        "lemma": "nagash"
+        "lemma": "nagash",
+        "strongs": "H5066"
       },
       {
         "surface": "the most",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "holy things",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "do",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "are to go in",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and assign",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "each man",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "his task",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "and what he is to carry",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       }
     ],
     "20": [
       {
         "surface": "But the Kohathites are not",
-        "lemma": "lo"
+        "lemma": "lo",
+        "strongs": "H3808"
       },
       {
         "surface": "to go in",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "and look",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "at the holy objects",
-        "lemma": "qodesh"
+        "lemma": "qodesh",
+        "strongs": "H6944"
       },
       {
         "surface": "even for a moment",
-        "lemma": "bala"
+        "lemma": "bala",
+        "strongs": "H1104"
       },
       {
         "surface": "or they will die",
-        "lemma": "mut"
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "21": [
       {
         "surface": "And the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "said",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "22": [
       {
         "surface": "Take a census",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "of the Gershonites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "by their families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "and clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       }
     ],
     "23": [
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "counting",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who comes",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6633"
       },
       {
         "surface": "in the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "24": [
       {
         "surface": "is the service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Gershonite",
-        "lemma": "gereshunni"
+        "lemma": "gereshunni",
+        "strongs": "H1649"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "regarding work",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "and transport",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       }
     ],
     "25": [
       {
         "surface": "They are to carry",
-        "lemma": "nasa"
+        "lemma": "nasa",
+        "strongs": "H5375"
       },
       {
         "surface": "the curtains",
-        "lemma": "yeriah"
+        "lemma": "yeriah",
+        "strongs": "H3407"
       },
       {
         "surface": "of the tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "with the covering",
-        "lemma": "mikhseh"
+        "lemma": "mikhseh",
+        "strongs": "H4372"
       },
       {
         "surface": "of fine leather",
-        "lemma": "tachash"
+        "lemma": "tachash",
+        "strongs": "H8476"
       },
       {
         "surface": "it",
-        "lemma": "maal"
+        "lemma": "maal",
+        "strongs": "H4605"
       },
       {
         "surface": "the curtains",
-        "lemma": "masakh"
+        "lemma": "masakh",
+        "strongs": "H4539"
       },
       {
         "surface": "for the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "to the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "26": [
       {
         "surface": "the curtains",
-        "lemma": "qela"
+        "lemma": "qela",
+        "strongs": "H7050"
       },
       {
         "surface": "of the courtyard",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "the curtains",
-        "lemma": "masakh"
+        "lemma": "masakh",
+        "strongs": "H4539"
       },
       {
         "surface": "for the entrance",
-        "lemma": "petach"
+        "lemma": "petach",
+        "strongs": "H6607"
       },
       {
         "surface": "at the gate",
-        "lemma": "shaar"
+        "lemma": "shaar",
+        "strongs": "H8179"
       },
       {
         "surface": "of the courtyard",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "the tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "and altar",
-        "lemma": "mizbeach"
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       },
       {
         "surface": "along with their ropes",
-        "lemma": "metar"
+        "lemma": "metar",
+        "strongs": "H4340"
       },
       {
         "surface": "and all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the equipment",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "for their service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "The Gershonites will do",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "needs to be done",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "27": [
       {
         "surface": "All",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Gershonites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their transport duties",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "and",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "other work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "the direction",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and his sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "you are to assign",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "that they are responsible",
-        "lemma": "mishmeret"
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       },
       {
         "surface": "to carry",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       }
     ],
     "28": [
       {
         "surface": "is the service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Gershonite",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "and their duties",
-        "lemma": "mishmeret"
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       },
       {
         "surface": "shall be under the direction",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of Ithamar",
-        "lemma": "itamar"
+        "lemma": "itamar",
+        "strongs": "H0385"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "29": [
       {
         "surface": "As for the sons",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Merari",
-        "lemma": "merari"
+        "lemma": "merari",
+        "strongs": "H4847"
       },
       {
         "surface": "you are to number",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "30": [
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "counting",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who comes",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "in the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "31": [
       {
         "surface": "is the duty",
-        "lemma": "mishmeret"
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       },
       {
         "surface": "for all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "to carry",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "the frames",
-        "lemma": "qeresh"
+        "lemma": "qeresh",
+        "strongs": "H7175"
       },
       {
         "surface": "of the tabernacle",
-        "lemma": "mishkan"
+        "lemma": "mishkan",
+        "strongs": "H4908"
       },
       {
         "surface": "with its crossbars",
-        "lemma": "beriach"
+        "lemma": "beriach",
+        "strongs": "H1280"
       },
       {
         "surface": "posts",
-        "lemma": "ammud"
+        "lemma": "ammud",
+        "strongs": "H5982"
       },
       {
         "surface": "and bases",
-        "lemma": "eden"
+        "lemma": "eden",
+        "strongs": "H0134"
       }
     ],
     "32": [
       {
         "surface": "and the posts",
-        "lemma": "ammud"
+        "lemma": "ammud",
+        "strongs": "H5982"
       },
       {
         "surface": "of the surrounding",
-        "lemma": "saviv"
+        "lemma": "saviv",
+        "strongs": "H5439"
       },
       {
         "surface": "courtyard",
-        "lemma": "chatser"
+        "lemma": "chatser",
+        "strongs": "H2691"
       },
       {
         "surface": "with their bases",
-        "lemma": "eden"
+        "lemma": "eden",
+        "strongs": "H0134"
       },
       {
         "surface": "tent pegs",
-        "lemma": "yated"
+        "lemma": "yated",
+        "strongs": "H3489"
       },
       {
         "surface": "and ropes",
-        "lemma": "metar"
+        "lemma": "metar",
+        "strongs": "H4340"
       },
       {
         "surface": "including all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their equipment",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "and everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "related to their use",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "You shall assign",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "the items",
-        "lemma": "keli"
+        "lemma": "keli",
+        "strongs": "H3627"
       },
       {
         "surface": "that they are responsible",
-        "lemma": "mishmeret"
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       },
       {
         "surface": "to carry",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       }
     ],
     "33": [
       {
         "surface": "is the service",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of the Merarite",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "according to all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "their work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "under the direction",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of Ithamar",
-        "lemma": "itamar"
+        "lemma": "itamar",
+        "strongs": "H0385"
       },
       {
         "surface": "son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "the priest",
-        "lemma": "kohen"
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "34": [
       {
         "surface": "So Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and the leaders",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of the congregation",
-        "lemma": "edah"
+        "lemma": "edah",
+        "strongs": "H5712"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the Kohathites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "35": [
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "who came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "in the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "36": [
       {
         "surface": "And those",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "totaled 2,750",
-        "lemma": "eleph"
+        "lemma": "eleph",
+        "strongs": "H0505"
       }
     ],
     "37": [
       {
         "surface": "were counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "from the Kohathite",
-        "lemma": "qohati"
+        "lemma": "qohati",
+        "strongs": "H6956"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "who could serve",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the command",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "through",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "38": [
       {
         "surface": "Then the Gershonites",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "were numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "39": [
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "who came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "in the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "40": [
       {
         "surface": "And those",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "totaled 2,630",
-        "lemma": "eleph"
+        "lemma": "eleph",
+        "strongs": "H0505"
       }
     ],
     "41": [
       {
         "surface": "were counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "from the Gershonite",
-        "lemma": "gereshon"
+        "lemma": "gereshon",
+        "strongs": "H1648"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "who served",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "command",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "42": [
       {
         "surface": "vvv",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "And the Merarites",
-        "lemma": "merari"
+        "lemma": "merari",
+        "strongs": "H4847"
       },
       {
         "surface": "were numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "43": [
       {
         "surface": "everyone",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "who came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to serve",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "in the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "at the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "44": [
       {
         "surface": "The men registered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "numbered 3,200",
-        "lemma": "shalosh"
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "45": [
       {
         "surface": "were counted",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "from the Merarite",
-        "lemma": "merari"
+        "lemma": "merari",
+        "strongs": "H4847"
       },
       {
         "surface": "clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "and Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "command",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "through",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "46": [
       {
         "surface": "So Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "Aaron",
-        "lemma": "aharon"
+        "lemma": "aharon",
+        "strongs": "H0175"
       },
       {
         "surface": "and the leaders",
-        "lemma": "nasi"
+        "lemma": "nasi",
+        "strongs": "H5387"
       },
       {
         "surface": "of Israel",
-        "lemma": "yisrael"
+        "lemma": "yisrael",
+        "strongs": "H3478"
       },
       {
         "surface": "numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "by their clans",
-        "lemma": "mishpachah"
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       },
       {
         "surface": "and families",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H0001"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the Levites",
-        "lemma": "leviyyi"
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "47": [
       {
         "surface": "from thirty",
-        "lemma": "sheloshim"
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       },
       {
         "surface": "fifty",
-        "lemma": "chamishshim"
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       },
       {
         "surface": "years old",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "who came",
-        "lemma": "bo"
+        "lemma": "bo",
+        "strongs": "H0935"
       },
       {
         "surface": "to do",
-        "lemma": "avad"
+        "lemma": "avad",
+        "strongs": "H5647"
       },
       {
         "surface": "the work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "of serving",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "and carrying",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "the Tent",
-        "lemma": "ohel"
+        "lemma": "ohel",
+        "strongs": "H0168"
       },
       {
         "surface": "of Meeting",
-        "lemma": "moed"
+        "lemma": "moed",
+        "strongs": "H4150"
       }
     ],
     "48": [
       {
         "surface": "And",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "the number of men",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "was 8,580",
-        "lemma": "shemoneh"
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "49": [
       {
         "surface": "the LORD’s",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "command",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "through",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       },
       {
         "surface": "they were numbered",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "and each one",
-        "lemma": "ish"
+        "lemma": "ish",
+        "strongs": "H0376"
       },
       {
         "surface": "was assigned",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       },
       {
         "surface": "his work",
-        "lemma": "avodah"
+        "lemma": "avodah",
+        "strongs": "H5656"
       },
       {
         "surface": "and burden",
-        "lemma": "massa"
+        "lemma": "massa",
+        "strongs": "H4853"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "had commanded",
-        "lemma": "tsavah"
+        "lemma": "tsavah",
+        "strongs": "H6680"
       },
       {
         "surface": "Moses",
-        "lemma": "mosheh"
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "paqad",
-    "avodah"
-  ]
+  }
 }

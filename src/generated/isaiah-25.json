@@ -7,543 +7,666 @@
     "1": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "are my God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "I will exalt You",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       },
       {
         "surface": "I will praise",
-        "lemma": "yadah"
+        "lemma": "yadah",
+        "strongs": "H3034"
       },
       {
         "surface": "Your name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "You have worked",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "wonders",
-        "lemma": "pele"
+        "lemma": "pele",
+        "strongs": "H6382"
       },
       {
         "surface": "plans",
-        "lemma": "etsah"
+        "lemma": "etsah",
+        "strongs": "H6098"
       },
       {
         "surface": "formed long ago",
-        "lemma": "rachoq"
+        "lemma": "rachoq",
+        "strongs": "H7350"
       },
       {
         "surface": "in perfect faithfulness",
-        "lemma": "emunah"
+        "lemma": "emunah",
+        "strongs": "H0530"
       }
     ],
     "2": [
       {
         "surface": "You have made",
-        "lemma": "sum"
+        "lemma": "sum",
+        "strongs": "H7760"
       },
       {
         "surface": "the city",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "a heap of rubble",
-        "lemma": "gal"
+        "lemma": "gal",
+        "strongs": "H1530"
       },
       {
         "surface": "the fortified",
-        "lemma": "batsar"
+        "lemma": "batsar",
+        "strongs": "H1219"
       },
       {
         "surface": "town",
-        "lemma": "qiryah"
+        "lemma": "qiryah",
+        "strongs": "H7151"
       },
       {
         "surface": "a ruin",
-        "lemma": "mappalah"
+        "lemma": "mappalah",
+        "strongs": "H4654"
       },
       {
         "surface": "The fortress",
-        "lemma": "armon"
+        "lemma": "armon",
+        "strongs": "H0759"
       },
       {
         "surface": "of strangers",
-        "lemma": "zur"
+        "lemma": "zur",
+        "strongs": "H2114"
       },
       {
         "surface": "is a city no more",
-        "lemma": "ir"
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "it will never",
-        "lemma": "olam"
+        "lemma": "olam",
+        "strongs": "H5769"
       },
       {
         "surface": "be rebuilt",
-        "lemma": "banah"
+        "lemma": "banah",
+        "strongs": "H1129"
       }
     ],
     "3": [
       {
         "surface": "a strong",
-        "lemma": "az"
+        "lemma": "az",
+        "strongs": "H5794"
       },
       {
         "surface": "people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "will honor You",
-        "lemma": "kavad"
+        "lemma": "kavad",
+        "strongs": "H3513"
       },
       {
         "surface": "The cities",
-        "lemma": "qiryah"
+        "lemma": "qiryah",
+        "strongs": "H7151"
       },
       {
         "surface": "of ruthless",
-        "lemma": "arits"
+        "lemma": "arits",
+        "strongs": "H6184"
       },
       {
         "surface": "nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       },
       {
         "surface": "will revere You",
-        "lemma": "yare"
+        "lemma": "yare",
+        "strongs": "H3372"
       }
     ],
     "4": [
       {
         "surface": "You have been",
-        "lemma": "hayah"
+        "lemma": "hayah",
+        "strongs": "H1961"
       },
       {
         "surface": "a refuge",
-        "lemma": "maoz"
+        "lemma": "maoz",
+        "strongs": "H4581"
       },
       {
         "surface": "for the poor",
-        "lemma": "dal"
+        "lemma": "dal",
+        "strongs": "H1800"
       },
       {
         "surface": "a stronghold",
-        "lemma": "maoz"
+        "lemma": "maoz",
+        "strongs": "H4581"
       },
       {
         "surface": "for the needy",
-        "lemma": "evyon"
+        "lemma": "evyon",
+        "strongs": "H0034"
       },
       {
         "surface": "in distress",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "a refuge",
-        "lemma": "machaseh"
+        "lemma": "machaseh",
+        "strongs": "H4268"
       },
       {
         "surface": "from the storm",
-        "lemma": "zerem"
+        "lemma": "zerem",
+        "strongs": "H2230"
       },
       {
         "surface": "a shade",
-        "lemma": "tsel"
+        "lemma": "tsel",
+        "strongs": "H6738"
       },
       {
         "surface": "from the heat",
-        "lemma": "chorev"
+        "lemma": "chorev",
+        "strongs": "H2721"
       },
       {
         "surface": "the breath",
-        "lemma": "ruach"
+        "lemma": "ruach",
+        "strongs": "H7307"
       },
       {
         "surface": "of the ruthless",
-        "lemma": "arits"
+        "lemma": "arits",
+        "strongs": "H6184"
       },
       {
         "surface": "is like rain",
-        "lemma": "zerem"
+        "lemma": "zerem",
+        "strongs": "H2230"
       },
       {
         "surface": "against a wall",
-        "lemma": "qir"
+        "lemma": "qir",
+        "strongs": "H7023"
       }
     ],
     "5": [
       {
         "surface": "like heat",
-        "lemma": "chorev"
+        "lemma": "chorev",
+        "strongs": "H2721"
       },
       {
         "surface": "in a dry land",
-        "lemma": "tsivon"
+        "lemma": "tsivon",
+        "strongs": "H6724"
       },
       {
         "surface": "You subdue",
-        "lemma": "kana"
+        "lemma": "kana",
+        "strongs": "H3665"
       },
       {
         "surface": "the uproar",
-        "lemma": "shaon"
+        "lemma": "shaon",
+        "strongs": "H7588"
       },
       {
         "surface": "of foreigners",
-        "lemma": "zur"
+        "lemma": "zur",
+        "strongs": "H2114"
       },
       {
         "surface": "As the shade",
-        "lemma": "tsel"
+        "lemma": "tsel",
+        "strongs": "H6738"
       },
       {
         "surface": "of a cloud",
-        "lemma": "av"
+        "lemma": "av",
+        "strongs": "H5645"
       },
       {
         "surface": "cools the heat",
-        "lemma": "chorev"
+        "lemma": "chorev",
+        "strongs": "H2721"
       },
       {
         "surface": "so the song",
-        "lemma": "zamir"
+        "lemma": "zamir",
+        "strongs": "H2158"
       },
       {
         "surface": "of the ruthless",
-        "lemma": "arits"
+        "lemma": "arits",
+        "strongs": "H6184"
       },
       {
         "surface": "is silenced",
-        "lemma": "anah"
+        "lemma": "anah",
+        "strongs": "H6031"
       }
     ],
     "6": [
       {
         "surface": "mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "of Hosts",
-        "lemma": "tsava"
+        "lemma": "tsava",
+        "strongs": "H6635"
       },
       {
         "surface": "will prepare",
-        "lemma": "asah"
+        "lemma": "asah",
+        "strongs": "H6213"
       },
       {
         "surface": "a lavish",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "banquet",
-        "lemma": "mishteh"
+        "lemma": "mishteh",
+        "strongs": "H4960"
       },
       {
         "surface": "for all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the peoples",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "a feast",
-        "lemma": "mishteh"
+        "lemma": "mishteh",
+        "strongs": "H4960"
       },
       {
         "surface": "of aged wine",
-        "lemma": "shemer"
+        "lemma": "shemer",
+        "strongs": "H8105"
       },
       {
         "surface": "of choice meat",
-        "lemma": "shemen"
+        "lemma": "shemen",
+        "strongs": "H8081"
       },
       {
         "surface": "of finely",
-        "lemma": "zaqaq"
+        "lemma": "zaqaq",
+        "strongs": "H2212"
       },
       {
         "surface": "aged wine",
-        "lemma": "shemer"
+        "lemma": "shemer",
+        "strongs": "H8105"
       }
     ],
     "7": [
       {
         "surface": "mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "He will swallow up",
-        "lemma": "bala"
+        "lemma": "bala",
+        "strongs": "H1104"
       },
       {
         "surface": "the shroud",
-        "lemma": "lut"
+        "lemma": "lut",
+        "strongs": "H3874"
       },
       {
         "surface": "that enfolds",
-        "lemma": "lot"
+        "lemma": "lot",
+        "strongs": "H3875"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "peoples",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "the sheet",
-        "lemma": "massekhah"
+        "lemma": "massekhah",
+        "strongs": "H4541"
       },
       {
         "surface": "that covers",
-        "lemma": "nasakh"
+        "lemma": "nasakh",
+        "strongs": "H5259"
       },
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "nations",
-        "lemma": "goy"
+        "lemma": "goy",
+        "strongs": "H1471"
       }
     ],
     "8": [
       {
         "surface": "He will swallow up",
-        "lemma": "bala"
+        "lemma": "bala",
+        "strongs": "H1104"
       },
       {
         "surface": "death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       },
       {
         "surface": "forever",
-        "lemma": "netsach"
+        "lemma": "netsach",
+        "strongs": "H5331"
       },
       {
         "surface": "The Lord",
-        "lemma": "adonai"
+        "lemma": "adonai",
+        "strongs": "H0136"
       },
       {
         "surface": "GOD",
-        "lemma": "yehovih"
+        "lemma": "yehovih",
+        "strongs": "H3069"
       },
       {
         "surface": "will wipe away",
-        "lemma": "machah"
+        "lemma": "machah",
+        "strongs": "H4229"
       },
       {
         "surface": "the tears",
-        "lemma": "dimah"
+        "lemma": "dimah",
+        "strongs": "H1832"
       },
       {
         "surface": "every",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       },
       {
         "surface": "and remove",
-        "lemma": "sur"
+        "lemma": "sur",
+        "strongs": "H5493"
       },
       {
         "surface": "the disgrace",
-        "lemma": "cherpah"
+        "lemma": "cherpah",
+        "strongs": "H2781"
       },
       {
         "surface": "of His people",
-        "lemma": "am"
+        "lemma": "am",
+        "strongs": "H5971"
       },
       {
         "surface": "the whole",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "has spoken",
-        "lemma": "davar"
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "9": [
       {
         "surface": "day",
-        "lemma": "yom"
+        "lemma": "yom",
+        "strongs": "H3117"
       },
       {
         "surface": "it will be said",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "is our God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "we have waited",
-        "lemma": "qavah"
+        "lemma": "qavah",
+        "strongs": "H6960"
       },
       {
         "surface": "and He has saved us",
-        "lemma": "yasah"
+        "lemma": "yasah",
+        "strongs": "H3467"
       },
       {
         "surface": "is the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "for whom we have waited",
-        "lemma": "qavah"
+        "lemma": "qavah",
+        "strongs": "H6960"
       },
       {
         "surface": "Let us rejoice",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1523"
       },
       {
         "surface": "and be glad",
-        "lemma": "samach"
+        "lemma": "samach",
+        "strongs": "H8055"
       },
       {
         "surface": "in His salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       }
     ],
     "10": [
       {
         "surface": "the hand",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "of the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "will rest",
-        "lemma": "nuach"
+        "lemma": "nuach",
+        "strongs": "H5117"
       },
       {
         "surface": "mountain",
-        "lemma": "har"
+        "lemma": "har",
+        "strongs": "H2022"
       },
       {
         "surface": "But Moab",
-        "lemma": "moav"
+        "lemma": "moav",
+        "strongs": "H4124"
       },
       {
         "surface": "will be trampled",
-        "lemma": "dush"
+        "lemma": "dush",
+        "strongs": "H1758"
       },
       {
         "surface": "in his place",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "as straw",
-        "lemma": "matben"
+        "lemma": "matben",
+        "strongs": "H4963"
       },
       {
         "surface": "is trodden",
-        "lemma": "dush"
+        "lemma": "dush",
+        "strongs": "H1758"
       },
       {
         "surface": "into the dung pile",
-        "lemma": "madmenah"
+        "lemma": "madmenah",
+        "strongs": "H4087"
       }
     ],
     "11": [
       {
         "surface": "He will spread out",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "his hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "within it",
-        "lemma": "qerev"
+        "lemma": "qerev",
+        "strongs": "H7130"
       },
       {
         "surface": "a swimmer",
-        "lemma": "sachah"
+        "lemma": "sachah",
+        "strongs": "H7811"
       },
       {
         "surface": "spreads his arms",
-        "lemma": "paras"
+        "lemma": "paras",
+        "strongs": "H6566"
       },
       {
         "surface": "to swim",
-        "lemma": "sachah"
+        "lemma": "sachah",
+        "strongs": "H7811"
       },
       {
         "surface": "His pride",
-        "lemma": "gaavah"
+        "lemma": "gaavah",
+        "strongs": "H1346"
       },
       {
         "surface": "will be brought low",
-        "lemma": "shaphel"
+        "lemma": "shaphel",
+        "strongs": "H8213"
       },
       {
         "surface": "the skill",
-        "lemma": "orovah"
+        "lemma": "orovah",
+        "strongs": "H0698"
       },
       {
         "surface": "of his hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "12": [
       {
         "surface": "The high-walled",
-        "lemma": "misgav"
+        "lemma": "misgav",
+        "strongs": "H4869"
       },
       {
         "surface": "fortress",
-        "lemma": "mivtsar"
+        "lemma": "mivtsar",
+        "strongs": "H4013"
       },
       {
         "surface": "will be brought down",
-        "lemma": "shachach"
+        "lemma": "shachach",
+        "strongs": "H7817"
       },
       {
         "surface": "cast",
-        "lemma": "naga"
+        "lemma": "naga",
+        "strongs": "H5060"
       },
       {
         "surface": "to the ground",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "the dust",
-        "lemma": "aphar"
+        "lemma": "aphar",
+        "strongs": "H6083"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "har",
-    "chorev"
-  ]
+  }
 }

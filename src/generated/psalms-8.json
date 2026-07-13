@@ -7,293 +7,355 @@
     "1": [
       {
         "surface": "For the choirmaster",
-        "lemma": "natsach"
+        "lemma": "natsach",
+        "strongs": "H5329"
       },
       {
         "surface": "Gittith",
-        "lemma": "gittit"
+        "lemma": "gittit",
+        "strongs": "H1665"
       },
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our Lord",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "how",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "majestic",
-        "lemma": "addir"
+        "lemma": "addir",
+        "strongs": "H0117"
       },
       {
         "surface": "is Your name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "in all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       },
       {
         "surface": "have set",
-        "lemma": "natan"
+        "lemma": "natan",
+        "strongs": "H5414"
       },
       {
         "surface": "Your glory",
-        "lemma": "hod"
+        "lemma": "hod",
+        "strongs": "H1935"
       },
       {
         "surface": "the heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "2": [
       {
         "surface": "From the mouths",
-        "lemma": "peh"
+        "lemma": "peh",
+        "strongs": "H6310"
       },
       {
         "surface": "of children",
-        "lemma": "olel"
+        "lemma": "olel",
+        "strongs": "H5768"
       },
       {
         "surface": "and infants",
-        "lemma": "yanaq"
+        "lemma": "yanaq",
+        "strongs": "H3243"
       },
       {
         "surface": "You have ordained",
-        "lemma": "yasad"
+        "lemma": "yasad",
+        "strongs": "H3245"
       },
       {
         "surface": "praise",
-        "lemma": "oz"
+        "lemma": "oz",
+        "strongs": "H5797"
       },
       {
         "surface": "Your adversaries",
-        "lemma": "tsarar"
+        "lemma": "tsarar",
+        "strongs": "H6887"
       },
       {
         "surface": "to silence",
-        "lemma": "shavat"
+        "lemma": "shavat",
+        "strongs": "H7673"
       },
       {
         "surface": "the enemy",
-        "lemma": "oyev"
+        "lemma": "oyev",
+        "strongs": "H0341"
       },
       {
         "surface": "and avenger",
-        "lemma": "naqam"
+        "lemma": "naqam",
+        "strongs": "H5358"
       }
     ],
     "3": [
       {
         "surface": "I behold",
-        "lemma": "raah"
+        "lemma": "raah",
+        "strongs": "H7200"
       },
       {
         "surface": "Your heavens",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "the work",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of Your fingers",
-        "lemma": "etsba"
+        "lemma": "etsba",
+        "strongs": "H0676"
       },
       {
         "surface": "the moon",
-        "lemma": "yareach"
+        "lemma": "yareach",
+        "strongs": "H3394"
       },
       {
         "surface": "and the stars",
-        "lemma": "kokhav"
+        "lemma": "kokhav",
+        "strongs": "H3556"
       },
       {
         "surface": "You have set in place",
-        "lemma": "kun"
+        "lemma": "kun",
+        "strongs": "H3559"
       }
     ],
     "4": [
       {
         "surface": "what",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "is man",
-        "lemma": "enosh"
+        "lemma": "enosh",
+        "strongs": "H0582"
       },
       {
         "surface": "You are mindful of him",
-        "lemma": "zakhar"
+        "lemma": "zakhar",
+        "strongs": "H2142"
       },
       {
         "surface": "or the son",
-        "lemma": "ben"
+        "lemma": "ben",
+        "strongs": "H1121"
       },
       {
         "surface": "of man",
-        "lemma": "adam"
+        "lemma": "adam",
+        "strongs": "H0120"
       },
       {
         "surface": "You care for him",
-        "lemma": "paqad"
+        "lemma": "paqad",
+        "strongs": "H6485"
       }
     ],
     "5": [
       {
         "surface": "You made him a little lower",
-        "lemma": "chaser"
+        "lemma": "chaser",
+        "strongs": "H2637"
       },
       {
         "surface": "than the angels",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "You crowned him",
-        "lemma": "atar"
+        "lemma": "atar",
+        "strongs": "H5849"
       },
       {
         "surface": "with glory",
-        "lemma": "kavod"
+        "lemma": "kavod",
+        "strongs": "H3519"
       },
       {
         "surface": "and honor",
-        "lemma": "hadar"
+        "lemma": "hadar",
+        "strongs": "H1926"
       }
     ],
     "6": [
       {
         "surface": "You made him ruler",
-        "lemma": "mashal"
+        "lemma": "mashal",
+        "strongs": "H4910"
       },
       {
         "surface": "of the works",
-        "lemma": "maaseh"
+        "lemma": "maaseh",
+        "strongs": "H4639"
       },
       {
         "surface": "of Your hands",
-        "lemma": "yad"
+        "lemma": "yad",
+        "strongs": "H3027"
       },
       {
         "surface": "You have placed",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "everything",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "under",
-        "lemma": "tachat"
+        "lemma": "tachat",
+        "strongs": "H8478"
       },
       {
         "surface": "his feet",
-        "lemma": "regel"
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "7": [
       {
         "surface": "all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "sheep",
-        "lemma": "tsoneh"
+        "lemma": "tsoneh",
+        "strongs": "H6792"
       },
       {
         "surface": "and oxen",
-        "lemma": "eleph"
+        "lemma": "eleph",
+        "strongs": "H0504"
       },
       {
         "surface": "the beasts",
-        "lemma": "behemah"
+        "lemma": "behemah",
+        "strongs": "H0929"
       },
       {
         "surface": "of the field",
-        "lemma": "saday"
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "8": [
       {
         "surface": "the birds",
-        "lemma": "tsippor"
+        "lemma": "tsippor",
+        "strongs": "H6833"
       },
       {
         "surface": "of the air",
-        "lemma": "shamayim"
+        "lemma": "shamayim",
+        "strongs": "H8064"
       },
       {
         "surface": "and the fish",
-        "lemma": "dag"
+        "lemma": "dag",
+        "strongs": "H1709"
       },
       {
         "surface": "of the sea",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       },
       {
         "surface": "all that swim",
-        "lemma": "avar"
+        "lemma": "avar",
+        "strongs": "H5674"
       },
       {
         "surface": "the paths",
-        "lemma": "orach"
+        "lemma": "orach",
+        "strongs": "H0734"
       },
       {
         "surface": "of the seas",
-        "lemma": "yam"
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "9": [
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "our Lord",
-        "lemma": "adon"
+        "lemma": "adon",
+        "strongs": "H0113"
       },
       {
         "surface": "how",
-        "lemma": "mah"
+        "lemma": "mah",
+        "strongs": "H4100"
       },
       {
         "surface": "majestic",
-        "lemma": "addir"
+        "lemma": "addir",
+        "strongs": "H0117"
       },
       {
         "surface": "is Your name",
-        "lemma": "shem"
+        "lemma": "shem",
+        "strongs": "H8034"
       },
       {
         "surface": "in all",
-        "lemma": "kol"
+        "lemma": "kol",
+        "strongs": "H3605"
       },
       {
         "surface": "the earth",
-        "lemma": "erets"
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ]
-  },
-  "themeLemmas": [
-    "kol",
-    "mah",
-    "yam"
-  ]
+  }
 }

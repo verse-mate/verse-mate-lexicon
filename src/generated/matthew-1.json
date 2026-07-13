@@ -7,977 +7,1202 @@
     "1": [
       {
         "surface": "This is the record",
-        "lemma": "biblos"
+        "lemma": "biblos",
+        "strongs": "G0976"
       },
       {
         "surface": "of the genealogy",
-        "lemma": "genesis"
+        "lemma": "genesis",
+        "strongs": "G1078"
       },
       {
         "surface": "of Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "the son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "of David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "the son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "of Abraham",
-        "lemma": "abraam"
+        "lemma": "abraam",
+        "strongs": "G0011"
       }
     ],
     "2": [
       {
         "surface": "Abraham",
-        "lemma": "abraam"
+        "lemma": "abraam",
+        "strongs": "G0011"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Isaac",
-        "lemma": "isaak"
+        "lemma": "isaak",
+        "strongs": "G2464"
       },
       {
         "surface": "Isaac",
-        "lemma": "isaak"
+        "lemma": "isaak",
+        "strongs": "G2464"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jacob",
-        "lemma": "iakob"
+        "lemma": "iakob",
+        "strongs": "G2384"
       },
       {
         "surface": "Jacob",
-        "lemma": "iakob"
+        "lemma": "iakob",
+        "strongs": "G2384"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Judah",
-        "lemma": "ioudas"
+        "lemma": "ioudas",
+        "strongs": "G2455"
       },
       {
         "surface": "brothers",
-        "lemma": "adelphos"
+        "lemma": "adelphos",
+        "strongs": "G0080"
       }
     ],
     "3": [
       {
         "surface": "Judah",
-        "lemma": "ioudas"
+        "lemma": "ioudas",
+        "strongs": "G2455"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Perez",
-        "lemma": "phares"
+        "lemma": "phares",
+        "strongs": "G5329"
       },
       {
         "surface": "Zerah",
-        "lemma": "zara"
+        "lemma": "zara",
+        "strongs": "G2196"
       },
       {
         "surface": "Tamar",
-        "lemma": "thamar"
+        "lemma": "thamar",
+        "strongs": "G2283"
       },
       {
         "surface": "Perez",
-        "lemma": "phares"
+        "lemma": "phares",
+        "strongs": "G5329"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Hezron",
-        "lemma": "esrom"
+        "lemma": "esrom",
+        "strongs": "G2074"
       },
       {
         "surface": "Hezron",
-        "lemma": "esrom"
+        "lemma": "esrom",
+        "strongs": "G2074"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Ram",
-        "lemma": "aram"
+        "lemma": "aram",
+        "strongs": "G0689"
       }
     ],
     "4": [
       {
         "surface": "Ram",
-        "lemma": "aram"
+        "lemma": "aram",
+        "strongs": "G0689"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Amminadab",
-        "lemma": "aminadab"
+        "lemma": "aminadab",
+        "strongs": "G0284"
       },
       {
         "surface": "Amminadab",
-        "lemma": "aminadab"
+        "lemma": "aminadab",
+        "strongs": "G0284"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Nahshon",
-        "lemma": "naasson"
+        "lemma": "naasson",
+        "strongs": "G3476"
       },
       {
         "surface": "Nahshon",
-        "lemma": "naasson"
+        "lemma": "naasson",
+        "strongs": "G3476"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Salmon",
-        "lemma": "salmon"
+        "lemma": "salmon",
+        "strongs": "G4533"
       }
     ],
     "5": [
       {
         "surface": "Salmon",
-        "lemma": "salmon"
+        "lemma": "salmon",
+        "strongs": "G4533"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Boaz",
-        "lemma": "booz"
+        "lemma": "booz",
+        "strongs": "G1003"
       },
       {
         "surface": "Rahab",
-        "lemma": "rhachab"
+        "lemma": "rhachab",
+        "strongs": "G4477"
       },
       {
         "surface": "Boaz",
-        "lemma": "booz"
+        "lemma": "booz",
+        "strongs": "G1003"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Obed",
-        "lemma": "obed"
+        "lemma": "obed",
+        "strongs": "G5601"
       },
       {
         "surface": "Ruth",
-        "lemma": "rhouth"
+        "lemma": "rhouth",
+        "strongs": "G4503"
       },
       {
         "surface": "Obed",
-        "lemma": "obed"
+        "lemma": "obed",
+        "strongs": "G5601"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jesse",
-        "lemma": "iessai"
+        "lemma": "iessai",
+        "strongs": "G2421"
       }
     ],
     "6": [
       {
         "surface": "Jesse",
-        "lemma": "iessai"
+        "lemma": "iessai",
+        "strongs": "G2421"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "king",
-        "lemma": "basileus"
+        "lemma": "basileus",
+        "strongs": "G0935"
       },
       {
         "surface": "David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Solomon",
-        "lemma": "solomon"
+        "lemma": "solomon",
+        "strongs": "G4672"
       },
       {
         "surface": "Uriah’s",
-        "lemma": "ourias"
+        "lemma": "ourias",
+        "strongs": "G3774"
       }
     ],
     "7": [
       {
         "surface": "Solomon",
-        "lemma": "solomon"
+        "lemma": "solomon",
+        "strongs": "G4672"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Rehoboam",
-        "lemma": "rhoboam"
+        "lemma": "rhoboam",
+        "strongs": "G4497"
       },
       {
         "surface": "Rehoboam",
-        "lemma": "rhoboam"
+        "lemma": "rhoboam",
+        "strongs": "G4497"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Abijah",
-        "lemma": "abia"
+        "lemma": "abia",
+        "strongs": "G0007"
       },
       {
         "surface": "Abijah",
-        "lemma": "abia"
+        "lemma": "abia",
+        "strongs": "G0007"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Asa",
-        "lemma": "asa"
+        "lemma": "asa",
+        "strongs": "G0760"
       }
     ],
     "8": [
       {
         "surface": "Asa",
-        "lemma": "asa"
+        "lemma": "asa",
+        "strongs": "G0760"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jehoshaphat",
-        "lemma": "iosaphat"
+        "lemma": "iosaphat",
+        "strongs": "G2498"
       },
       {
         "surface": "Jehoshaphat",
-        "lemma": "iosaphat"
+        "lemma": "iosaphat",
+        "strongs": "G2498"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Joram",
-        "lemma": "ioram"
+        "lemma": "ioram",
+        "strongs": "G2496"
       },
       {
         "surface": "Joram",
-        "lemma": "ioram"
+        "lemma": "ioram",
+        "strongs": "G2496"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Uzziah",
-        "lemma": "ozias"
+        "lemma": "ozias",
+        "strongs": "G3604"
       }
     ],
     "9": [
       {
         "surface": "Uzziah",
-        "lemma": "ozias"
+        "lemma": "ozias",
+        "strongs": "G3604"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jotham",
-        "lemma": "ioatham"
+        "lemma": "ioatham",
+        "strongs": "G2488"
       },
       {
         "surface": "Jotham",
-        "lemma": "ioatham"
+        "lemma": "ioatham",
+        "strongs": "G2488"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Ahaz",
-        "lemma": "achaz"
+        "lemma": "achaz",
+        "strongs": "G0881"
       },
       {
         "surface": "Ahaz",
-        "lemma": "achaz"
+        "lemma": "achaz",
+        "strongs": "G0881"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Hezekiah",
-        "lemma": "ezekias"
+        "lemma": "ezekias",
+        "strongs": "G1478"
       }
     ],
     "10": [
       {
         "surface": "Hezekiah",
-        "lemma": "ezekias"
+        "lemma": "ezekias",
+        "strongs": "G1478"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Manasseh",
-        "lemma": "manasses"
+        "lemma": "manasses",
+        "strongs": "G3128"
       },
       {
         "surface": "Manasseh",
-        "lemma": "manasses"
+        "lemma": "manasses",
+        "strongs": "G3128"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Amon",
-        "lemma": "amos"
+        "lemma": "amos",
+        "strongs": "G0301"
       },
       {
         "surface": "Amon",
-        "lemma": "amos"
+        "lemma": "amos",
+        "strongs": "G0301"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Josiah",
-        "lemma": "iosias"
+        "lemma": "iosias",
+        "strongs": "G2502"
       }
     ],
     "11": [
       {
         "surface": "Josiah",
-        "lemma": "iosias"
+        "lemma": "iosias",
+        "strongs": "G2502"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jeconiah",
-        "lemma": "iechonias"
+        "lemma": "iechonias",
+        "strongs": "G2423"
       },
       {
         "surface": "brothers",
-        "lemma": "adelphos"
+        "lemma": "adelphos",
+        "strongs": "G0080"
       },
       {
         "surface": "exile",
-        "lemma": "metoikesia"
+        "lemma": "metoikesia",
+        "strongs": "G3350"
       },
       {
         "surface": "to Babylon",
-        "lemma": "babulon"
+        "lemma": "babulon",
+        "strongs": "G0897"
       }
     ],
     "12": [
       {
         "surface": "exile",
-        "lemma": "metoikesia"
+        "lemma": "metoikesia",
+        "strongs": "G3350"
       },
       {
         "surface": "to Babylon",
-        "lemma": "babulon"
+        "lemma": "babulon",
+        "strongs": "G0897"
       },
       {
         "surface": "Jeconiah",
-        "lemma": "iechonias"
+        "lemma": "iechonias",
+        "strongs": "G2423"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Shealtiel",
-        "lemma": "salathiel"
+        "lemma": "salathiel",
+        "strongs": "G4528"
       },
       {
         "surface": "Shealtiel",
-        "lemma": "salathiel"
+        "lemma": "salathiel",
+        "strongs": "G4528"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Zerubbabel",
-        "lemma": "zorobabel"
+        "lemma": "zorobabel",
+        "strongs": "G2216"
       }
     ],
     "13": [
       {
         "surface": "Zerubbabel",
-        "lemma": "zorobabel"
+        "lemma": "zorobabel",
+        "strongs": "G2216"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Abiud",
-        "lemma": "abioud"
+        "lemma": "abioud",
+        "strongs": "G0010"
       },
       {
         "surface": "Abiud",
-        "lemma": "abioud"
+        "lemma": "abioud",
+        "strongs": "G0010"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Eliakim",
-        "lemma": "eliakeim"
+        "lemma": "eliakeim",
+        "strongs": "G1662"
       },
       {
         "surface": "Eliakim",
-        "lemma": "eliakeim"
+        "lemma": "eliakeim",
+        "strongs": "G1662"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Azor",
-        "lemma": "azor"
+        "lemma": "azor",
+        "strongs": "G0107"
       }
     ],
     "14": [
       {
         "surface": "Azor",
-        "lemma": "azor"
+        "lemma": "azor",
+        "strongs": "G0107"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Zadok",
-        "lemma": "sadok"
+        "lemma": "sadok",
+        "strongs": "G4524"
       },
       {
         "surface": "Zadok",
-        "lemma": "sadok"
+        "lemma": "sadok",
+        "strongs": "G4524"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Achim",
-        "lemma": "acheim"
+        "lemma": "acheim",
+        "strongs": "G0885"
       },
       {
         "surface": "Achim",
-        "lemma": "acheim"
+        "lemma": "acheim",
+        "strongs": "G0885"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Eliud",
-        "lemma": "elioud"
+        "lemma": "elioud",
+        "strongs": "G1664"
       }
     ],
     "15": [
       {
         "surface": "Eliud",
-        "lemma": "elioud"
+        "lemma": "elioud",
+        "strongs": "G1664"
       },
       {
         "surface": "was the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Eleazar",
-        "lemma": "eleazar"
+        "lemma": "eleazar",
+        "strongs": "G1648"
       },
       {
         "surface": "Eleazar",
-        "lemma": "eleazar"
+        "lemma": "eleazar",
+        "strongs": "G1648"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Matthan",
-        "lemma": "matthan"
+        "lemma": "matthan",
+        "strongs": "G3157"
       },
       {
         "surface": "Matthan",
-        "lemma": "matthan"
+        "lemma": "matthan",
+        "strongs": "G3157"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jacob",
-        "lemma": "iakob"
+        "lemma": "iakob",
+        "strongs": "G2384"
       }
     ],
     "16": [
       {
         "surface": "Jacob",
-        "lemma": "iakob"
+        "lemma": "iakob",
+        "strongs": "G2384"
       },
       {
         "surface": "the father of",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Joseph",
-        "lemma": "ioseph"
+        "lemma": "ioseph",
+        "strongs": "G2501"
       },
       {
         "surface": "husband",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "of Mary",
-        "lemma": "maria"
+        "lemma": "maria",
+        "strongs": "G3137"
       },
       {
         "surface": "was born",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "is called",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       }
     ],
     "17": [
       {
         "surface": "In all",
-        "lemma": "pas"
+        "lemma": "pas",
+        "strongs": "G3956"
       },
       {
         "surface": "there were fourteen",
-        "lemma": "dekatessares"
+        "lemma": "dekatessares",
+        "strongs": "G1180"
       },
       {
         "surface": "generations",
-        "lemma": "genea"
+        "lemma": "genea",
+        "strongs": "G1074"
       },
       {
         "surface": "Abraham",
-        "lemma": "abraam"
+        "lemma": "abraam",
+        "strongs": "G0011"
       },
       {
         "surface": "David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "fourteen",
-        "lemma": "dekatessares"
+        "lemma": "dekatessares",
+        "strongs": "G1180"
       },
       {
         "surface": "David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "exile",
-        "lemma": "metoikesia"
+        "lemma": "metoikesia",
+        "strongs": "G3350"
       },
       {
         "surface": "to Babylon",
-        "lemma": "babulon"
+        "lemma": "babulon",
+        "strongs": "G0897"
       },
       {
         "surface": "fourteen",
-        "lemma": "dekatessares"
+        "lemma": "dekatessares",
+        "strongs": "G1180"
       },
       {
         "surface": "exile",
-        "lemma": "metoikesia"
+        "lemma": "metoikesia",
+        "strongs": "G3350"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       }
     ],
     "18": [
       {
         "surface": "This is how",
-        "lemma": "houto"
+        "lemma": "houto",
+        "strongs": "G3779"
       },
       {
         "surface": "birth",
-        "lemma": "genesis"
+        "lemma": "genesis",
+        "strongs": "G1078"
       },
       {
         "surface": "of Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "Christ",
-        "lemma": "christos"
+        "lemma": "christos",
+        "strongs": "G5547"
       },
       {
         "surface": "came about",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "mother",
-        "lemma": "meter"
+        "lemma": "meter",
+        "strongs": "G3384"
       },
       {
         "surface": "Mary",
-        "lemma": "maria"
+        "lemma": "maria",
+        "strongs": "G3137"
       },
       {
         "surface": "was pledged in marriage",
-        "lemma": "mnesteuo"
+        "lemma": "mnesteuo",
+        "strongs": "G3423"
       },
       {
         "surface": "to Joseph",
-        "lemma": "ioseph"
+        "lemma": "ioseph",
+        "strongs": "G2501"
       },
       {
         "surface": "came together",
-        "lemma": "sunerchomai"
+        "lemma": "sunerchomai",
+        "strongs": "G4905"
       },
       {
         "surface": "she was found",
-        "lemma": "heurisko"
+        "lemma": "heurisko",
+        "strongs": "G2147"
       },
       {
         "surface": "to be with child",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "the Holy",
-        "lemma": "hagios"
+        "lemma": "hagios",
+        "strongs": "G0040"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       }
     ],
     "19": [
       {
         "surface": "Joseph",
-        "lemma": "ioseph"
+        "lemma": "ioseph",
+        "strongs": "G2501"
       },
       {
         "surface": "husband",
-        "lemma": "aner"
+        "lemma": "aner",
+        "strongs": "G0435"
       },
       {
         "surface": "was",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "a righteous man",
-        "lemma": "dikaios"
+        "lemma": "dikaios",
+        "strongs": "G1342"
       },
       {
         "surface": "was unwilling",
-        "lemma": "thelo"
+        "lemma": "thelo",
+        "strongs": "G2309"
       },
       {
         "surface": "to disgrace her publicly",
-        "lemma": "deigmatizo"
+        "lemma": "deigmatizo",
+        "strongs": "G1165"
       },
       {
         "surface": "he resolved",
-        "lemma": "boulomai"
+        "lemma": "boulomai",
+        "strongs": "G1014"
       },
       {
         "surface": "to divorce",
-        "lemma": "apoluo"
+        "lemma": "apoluo",
+        "strongs": "G0630"
       },
       {
         "surface": "quietly",
-        "lemma": "lathra"
+        "lemma": "lathra",
+        "strongs": "G2977"
       }
     ],
     "20": [
       {
         "surface": "he had pondered",
-        "lemma": "enthumeomai"
+        "lemma": "enthumeomai",
+        "strongs": "G1760"
       },
       {
         "surface": "an angel",
-        "lemma": "angelos"
+        "lemma": "angelos",
+        "strongs": "G0032"
       },
       {
         "surface": "of the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "appeared",
-        "lemma": "phaino"
+        "lemma": "phaino",
+        "strongs": "G5316"
       },
       {
         "surface": "a dream",
-        "lemma": "onar"
+        "lemma": "onar",
+        "strongs": "G3677"
       },
       {
         "surface": "and said",
-        "lemma": "lego"
+        "lemma": "lego",
+        "strongs": "G3004"
       },
       {
         "surface": "Joseph",
-        "lemma": "ioseph"
+        "lemma": "ioseph",
+        "strongs": "G2501"
       },
       {
         "surface": "son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "of David",
-        "lemma": "daueid"
+        "lemma": "daueid",
+        "strongs": "G1138"
       },
       {
         "surface": "do not be afraid",
-        "lemma": "phobeo"
+        "lemma": "phobeo",
+        "strongs": "G5399"
       },
       {
         "surface": "to embrace",
-        "lemma": "paralambano"
+        "lemma": "paralambano",
+        "strongs": "G3880"
       },
       {
         "surface": "Mary",
-        "lemma": "maria"
+        "lemma": "maria",
+        "strongs": "G3137"
       },
       {
         "surface": "wife",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       },
       {
         "surface": "conceived",
-        "lemma": "gennao"
+        "lemma": "gennao",
+        "strongs": "G1080"
       },
       {
         "surface": "is",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "the Holy",
-        "lemma": "hagios"
+        "lemma": "hagios",
+        "strongs": "G0040"
       },
       {
         "surface": "Spirit",
-        "lemma": "pneuma"
+        "lemma": "pneuma",
+        "strongs": "G4151"
       }
     ],
     "21": [
       {
         "surface": "She will give birth to",
-        "lemma": "tikto"
+        "lemma": "tikto",
+        "strongs": "G5088"
       },
       {
         "surface": "a Son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "you are to give",
-        "lemma": "kaleo"
+        "lemma": "kaleo",
+        "strongs": "G2564"
       },
       {
         "surface": "name",
-        "lemma": "onoma"
+        "lemma": "onoma",
+        "strongs": "G3686"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       },
       {
         "surface": "will save",
-        "lemma": "sozo"
+        "lemma": "sozo",
+        "strongs": "G4982"
       },
       {
         "surface": "people",
-        "lemma": "laos"
+        "lemma": "laos",
+        "strongs": "G2992"
       },
       {
         "surface": "sins",
-        "lemma": "hamartia"
+        "lemma": "hamartia",
+        "strongs": "G0266"
       }
     ],
     "22": [
       {
         "surface": "All",
-        "lemma": "holos"
+        "lemma": "holos",
+        "strongs": "G3650"
       },
       {
         "surface": "took place",
-        "lemma": "ginomai"
+        "lemma": "ginomai",
+        "strongs": "G1096"
       },
       {
         "surface": "fulfill",
-        "lemma": "pleroo"
+        "lemma": "pleroo",
+        "strongs": "G4137"
       },
       {
         "surface": "the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "had said",
-        "lemma": "ero"
+        "lemma": "ero",
+        "strongs": "G2046"
       },
       {
         "surface": "prophet",
-        "lemma": "prophetes"
+        "lemma": "prophetes",
+        "strongs": "G4396"
       }
     ],
     "23": [
       {
         "surface": "virgin",
-        "lemma": "parthenos"
+        "lemma": "parthenos",
+        "strongs": "G3933"
       },
       {
         "surface": "will be with child",
-        "lemma": "echo"
+        "lemma": "echo",
+        "strongs": "G2192"
       },
       {
         "surface": "will give birth to",
-        "lemma": "tikto"
+        "lemma": "tikto",
+        "strongs": "G5088"
       },
       {
         "surface": "a son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "they will call",
-        "lemma": "kaleo"
+        "lemma": "kaleo",
+        "strongs": "G2564"
       },
       {
         "surface": "Immanuel",
-        "lemma": "emmanouel"
+        "lemma": "emmanouel",
+        "strongs": "G1694"
       },
       {
         "surface": "means",
-        "lemma": "eimi"
+        "lemma": "eimi",
+        "strongs": "G1510"
       },
       {
         "surface": "God",
-        "lemma": "theos"
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "24": [
       {
         "surface": "Joseph",
-        "lemma": "ioseph"
+        "lemma": "ioseph",
+        "strongs": "G2501"
       },
       {
         "surface": "woke up",
-        "lemma": "egeiro"
+        "lemma": "egeiro",
+        "strongs": "G1453"
       },
       {
         "surface": "he did",
-        "lemma": "poieo"
+        "lemma": "poieo",
+        "strongs": "G4160"
       },
       {
         "surface": "angel",
-        "lemma": "angelos"
+        "lemma": "angelos",
+        "strongs": "G0032"
       },
       {
         "surface": "of the Lord",
-        "lemma": "kurios"
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "had commanded",
-        "lemma": "prostasso"
+        "lemma": "prostasso",
+        "strongs": "G4367"
       },
       {
         "surface": "embraced",
-        "lemma": "paralambano"
+        "lemma": "paralambano",
+        "strongs": "G3880"
       },
       {
         "surface": "wife",
-        "lemma": "gune"
+        "lemma": "gune",
+        "strongs": "G1135"
       }
     ],
     "25": [
       {
         "surface": "he had no union",
-        "lemma": "ginosko"
+        "lemma": "ginosko",
+        "strongs": "G1097"
       },
       {
         "surface": "she gave birth to",
-        "lemma": "tikto"
+        "lemma": "tikto",
+        "strongs": "G5088"
       },
       {
         "surface": "a Son",
-        "lemma": "huios"
+        "lemma": "huios",
+        "strongs": "G5207"
       },
       {
         "surface": "he gave Him the name",
-        "lemma": "kaleo"
+        "lemma": "kaleo",
+        "strongs": "G2564"
       },
       {
         "surface": "Jesus",
-        "lemma": "iesous"
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ]
-  },
-  "themeLemmas": [
-    "metoikesia",
-    "gennao",
-    "sadok"
-  ]
+  }
 }

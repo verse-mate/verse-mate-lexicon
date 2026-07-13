@@ -7,170 +7,204 @@
     "1": [
       {
         "surface": "For the choirmaster",
-        "lemma": "natsach"
+        "lemma": "natsach",
+        "strongs": "H5329"
       },
       {
         "surface": "A Psalm",
-        "lemma": "mizmor"
+        "lemma": "mizmor",
+        "strongs": "H4210"
       },
       {
         "surface": "of David",
-        "lemma": "david"
+        "lemma": "david",
+        "strongs": "H1732"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "Will You forget",
-        "lemma": "shakhach"
+        "lemma": "shakhach",
+        "strongs": "H7911"
       },
       {
         "surface": "me",
-        "lemma": "an"
+        "lemma": "an",
+        "strongs": "H0575"
       },
       {
         "surface": "forever",
-        "lemma": "netsach"
+        "lemma": "netsach",
+        "strongs": "H5331"
       },
       {
         "surface": "will You hide",
-        "lemma": "satar"
+        "lemma": "satar",
+        "strongs": "H5641"
       },
       {
         "surface": "Your face",
-        "lemma": "paneh"
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
       {
         "surface": "must I wrestle",
-        "lemma": "shit"
+        "lemma": "shit",
+        "strongs": "H7896"
       },
       {
         "surface": "in my soul",
-        "lemma": "nephesh"
+        "lemma": "nephesh",
+        "strongs": "H5315"
       },
       {
         "surface": "with sorrow",
-        "lemma": "yagon"
+        "lemma": "yagon",
+        "strongs": "H3015"
       },
       {
         "surface": "in my heart",
-        "lemma": "levav"
+        "lemma": "levav",
+        "strongs": "H3824"
       },
       {
         "surface": "each day",
-        "lemma": "yomam"
+        "lemma": "yomam",
+        "strongs": "H3119"
       },
       {
         "surface": "will my enemy",
-        "lemma": "oyev"
+        "lemma": "oyev",
+        "strongs": "H0341"
       },
       {
         "surface": "dominate",
-        "lemma": "rum"
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "3": [
       {
         "surface": "Consider me",
-        "lemma": "navat"
+        "lemma": "navat",
+        "strongs": "H5027"
       },
       {
         "surface": "and respond",
-        "lemma": "un"
+        "lemma": "un",
+        "strongs": "H6030"
       },
       {
         "surface": "O LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "my God",
-        "lemma": "elohim"
+        "lemma": "elohim",
+        "strongs": "H0430"
       },
       {
         "surface": "Give light",
-        "lemma": "or"
+        "lemma": "or",
+        "strongs": "H0215"
       },
       {
         "surface": "to my eyes",
-        "lemma": "ayin"
+        "lemma": "ayin",
+        "strongs": "H5869"
       },
       {
         "surface": "I sleep",
-        "lemma": "yashen"
+        "lemma": "yashen",
+        "strongs": "H3462"
       },
       {
         "surface": "in death",
-        "lemma": "mavet"
+        "lemma": "mavet",
+        "strongs": "H4194"
       }
     ],
     "4": [
       {
         "surface": "my enemy",
-        "lemma": "oyev"
+        "lemma": "oyev",
+        "strongs": "H0341"
       },
       {
         "surface": "say",
-        "lemma": "amar"
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "I have overcome him",
-        "lemma": "yakhol"
+        "lemma": "yakhol",
+        "strongs": "H3201"
       },
       {
         "surface": "and my foes",
-        "lemma": "tsar"
+        "lemma": "tsar",
+        "strongs": "H6862"
       },
       {
         "surface": "rejoice",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1523"
       },
       {
         "surface": "I fall",
-        "lemma": "mot"
+        "lemma": "mot",
+        "strongs": "H4131"
       }
     ],
     "5": [
       {
         "surface": "have trusted",
-        "lemma": "batach"
+        "lemma": "batach",
+        "strongs": "H0982"
       },
       {
         "surface": "in Your loving devotion",
-        "lemma": "chesed"
+        "lemma": "chesed",
+        "strongs": "H2617"
       },
       {
         "surface": "my heart",
-        "lemma": "lev"
+        "lemma": "lev",
+        "strongs": "H3820"
       },
       {
         "surface": "will rejoice",
-        "lemma": "gil"
+        "lemma": "gil",
+        "strongs": "H1523"
       },
       {
         "surface": "in Your salvation",
-        "lemma": "yeshuah"
+        "lemma": "yeshuah",
+        "strongs": "H3444"
       }
     ],
     "6": [
       {
         "surface": "I will sing",
-        "lemma": "shir"
+        "lemma": "shir",
+        "strongs": "H7891"
       },
       {
         "surface": "to the LORD",
-        "lemma": "yehovah"
+        "lemma": "yehovah",
+        "strongs": "H3068"
       },
       {
         "surface": "He has been good",
-        "lemma": "gamal"
+        "lemma": "gamal",
+        "strongs": "H1580"
       }
     ]
-  },
-  "themeLemmas": [
-    "oyev",
-    "gil"
-  ]
+  }
 }
