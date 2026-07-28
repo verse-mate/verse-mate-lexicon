@@ -102,6 +102,46 @@ const alignmentCache: Map<string, ChapterAlignment> = new Map();
  *
  * Returns `null` if the book/chapter has no alignment data.
  */
+/**
+ * Whole-lexicon structures, built once per process rather than per chapter.
+ *
+ * `loadAlignmentFor` used to rebuild both of these on every chapter that was not already
+ * in its cache: an 18,100-key object spread and an `Object.entries` pass over the result.
+ * Neither depends on the chapter. Measured at ~45ms per chapter on a Raspberry Pi 5, and
+ * more on a phone, repeated for every chapter a reader opens.
+ *
+ * Keyed on the generated lexicon's identity so a hot reload that swaps the module rebuilds
+ * rather than serving a stale index.
+ */
+let mergedLexiconCache: { source: unknown; value: Record<LemmaKey, LexEntry> } | null = null;
+
+function getMergedLexicon(generatedLexicon: GeneratedLexicon): Record<LemmaKey, LexEntry> {
+  if (mergedLexiconCache && mergedLexiconCache.source === generatedLexicon) {
+    return mergedLexiconCache.value;
+  }
+  const value: Record<LemmaKey, LexEntry> = {
+    ...(generatedLexicon as Record<LemmaKey, LexEntry>),
+    ...HAND_LEXICON,
+  };
+  mergedLexiconCache = { source: generatedLexicon, value };
+  return value;
+}
+
+let strongsToSlugCache: { source: unknown; value: Record<string, LemmaKey> } | null = null;
+
+function getStrongsToSlug(mergedLexicon: Record<LemmaKey, LexEntry>): Record<string, LemmaKey> {
+  if (strongsToSlugCache && strongsToSlugCache.source === mergedLexicon) {
+    return strongsToSlugCache.value;
+  }
+  const value: Record<string, LemmaKey> = {};
+  for (const [lemmaSlug, entry] of Object.entries(mergedLexicon)) {
+    const sKey = normalizeStrongs(entry?.strongs);
+    if (sKey && !(sKey in value)) value[sKey] = lemmaSlug;
+  }
+  strongsToSlugCache = { source: mergedLexicon, value };
+  return value;
+}
+
 export async function loadAlignmentFor(
   bookId: number,
   chapter: number,
@@ -126,10 +166,12 @@ export async function loadAlignmentFor(
   // Hand-curated lemma entries win on collision — preserves the rich
   // James-1 contextual glosses + semantic ranges for words like λόγος,
   // ὑπομονή.
-  const mergedLexicon: Record<LemmaKey, LexEntry> = {
-    ...generatedLexicon,
-    ...HAND_LEXICON,
-  };
+  //
+  // HOISTED: built once, not per chapter. Neither this merge nor the Strong's
+  // index below depends on the chapter, and both walk the whole 18,100-entry
+  // lexicon — measured at ~45ms per chapter on a Pi 5, more on a phone. It was
+  // being repeated for every chapter a reader opened.
+  const mergedLexicon = getMergedLexicon(generatedLexicon);
 
   // Strong's-number → lemma slug, inverted from the merged lexicon. The
   // generated alignment slug collapses homographs (Hebrew אֵת obj-marker H0853 /
@@ -140,11 +182,7 @@ export async function loadAlignmentFor(
   // chapter data) disambiguates: we map it to the displaced slug that carries
   // the right sense (e.g. H6256 → "et_h6256" → "time"). Keyed via
   // normalizeStrongs so it matches the token's canonical G####/H#### form.
-  const strongsToSlug: Record<string, LemmaKey> = {};
-  for (const [lemmaSlug, entry] of Object.entries(mergedLexicon)) {
-    const sKey = normalizeStrongs(entry?.strongs);
-    if (sKey && !(sKey in strongsToSlug)) strongsToSlug[sKey] = lemmaSlug;
-  }
+  const strongsToSlug = getStrongsToSlug(mergedLexicon);
 
   // Build each token's full surface list. The generated alignment file
   // ships ONE BSB-anchored surface; we union it with the cross-translation
