@@ -18,5 +18,10 @@
   "files": [
     "src"
   ],
-  "private": true
+  "private": true,
+  "scripts": {
+    "build:light": "python3 scripts/build_lemma_index.py",
+    "verify:light": "python3 scripts/build_lemma_index.py --verify",
+    "verify:parity": "python3 scripts/verify_light_parity.py"
+  }
 }
