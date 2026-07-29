@@ -142,11 +142,110 @@ function getStrongsToSlug(mergedLexicon: Record<LemmaKey, LexEntry>): Record<str
   return value;
 }
 
+/**
+ * Columnar light lexicon, as written by `scripts/build_lemma_index.py`.
+ *
+ * Column order matches `slugs`, index for index. `pos` is dictionary-encoded and `loaded` ships as a
+ * list of indices, both because on a projection this small the field NAMES dominate — repeating five
+ * keys 18,100 times costs more than the values do (2.48MB row-oriented vs 1.15MB this way).
+ */
+interface LightLexiconFile {
+  slugs: string[];
+  lemma: string[];
+  translit: string[];
+  strongs: string[];
+  posVocab: string[];
+  pos: number[];
+  basicGloss: string[];
+  loadedIdx: number[];
+}
+
+let lightLexiconPromise: Promise<Record<LemmaKey, LexEntry>> | null = null;
+
+/**
+ * The lexicon a chapter actually needs, at 1/16th the weight.
+ *
+ * `loadGeneratedLexicon` awaits an 18.7MB file, and `loadAlignmentFor` awaits it on the FIRST chapter
+ * a reader opens. On a phone that is a single ~2s block of the JS thread, measured across four
+ * independent captures in verse-mate-mobile (worst JS block 1991ms / 1946ms / 2163ms / 2207ms). It is
+ * deferred past first paint so startup is unaffected — but any swipe or tab switch landing inside that
+ * window freezes outright, while everything else being optimised in that reader is tens of ms.
+ *
+ * 12.1MB of that file is `notes` + `related` + `semanticRange`, read only when a reader TAPS a word.
+ * Chapter load needs: whether a lemma has an entry at all (the renderer's `if (!entry) continue` gates
+ * the underline), its `strongs` (homograph disambiguation), and `translit` / `basicGloss` / `loaded`,
+ * which the mobile renderer reads while rendering for accessibility labels and the context-sensitive
+ * marker.
+ *
+ * Every field here is one of `LexEntry`'s REQUIRED fields, deliberately: a light entry satisfies
+ * `LexEntry` structurally, so no consumer needs a type change and only the popover — which reads the
+ * optional prose — has to opt into `lookupLemma`.
+ *
+ * HAND_LEXICON is merged on top with the same precedence as `getMergedLexicon`, and costs nothing
+ * extra: it is a static import already in the bundle. Those ~144 entries stay FULL, so a
+ * theologically loaded word keeps its prose even here.
+ */
+function loadLightLexicon(): Promise<Record<LemmaKey, LexEntry>> {
+  if (!lightLexiconPromise) {
+    lightLexiconPromise = import('./generated/_lemmas-light.json').then((m) => {
+      const file = m.default as unknown as LightLexiconFile;
+      const loaded = new Set(file.loadedIdx);
+      const out: Record<LemmaKey, LexEntry> = {};
+      for (let i = 0; i < file.slugs.length; i += 1) {
+        const posIndex = file.pos[i];
+        const entry: LexEntry = {
+          lemma: file.lemma[i],
+          translit: file.translit[i],
+          strongs: file.strongs[i],
+          pos: posIndex >= 0 ? file.posVocab[posIndex] : '',
+          basicGloss: file.basicGloss[i],
+        };
+        if (loaded.has(i)) entry.loaded = true;
+        out[file.slugs[i]] = entry;
+      }
+      return { ...out, ...HAND_LEXICON };
+    });
+  }
+  return lightLexiconPromise;
+}
+
+/**
+ * Full entry for one lemma, paying for the 18.7MB file on first use.
+ *
+ * The other half of the light path: the prose has to come from somewhere, and a word tap is the right
+ * moment to pay for it — user-initiated, rare, and already asynchronous. Returns the same merged shape
+ * `loadAlignmentFor`'s `lexicon` gives on the full path, so a popover can switch to this without
+ * changing anything it renders.
+ */
+export async function lookupLemma(slug: LemmaKey): Promise<LexEntry | null> {
+  const generated = await loadGeneratedLexicon();
+  return getMergedLexicon(generated)[slug] ?? null;
+}
+
+export interface LoadAlignmentOptions {
+  /**
+   * Skip the 18.7MB lemma file and use the light projection instead.
+   *
+   * `lexicon` still answers "does this lemma exist" and carries `strongs`, `lemma`, `translit`,
+   * `pos`, `basicGloss` and `loaded` — everything a chapter needs to render. The optional prose
+   * (`notes`, `semanticRange`, `related`) is absent; fetch it per lemma with `lookupLemma` when a
+   * reader opens a definition.
+   *
+   * Opt-in rather than the default so existing callers (verse-mate-web) are untouched.
+   */
+  lite?: boolean;
+}
+
 export async function loadAlignmentFor(
   bookId: number,
   chapter: number,
+  options: LoadAlignmentOptions = {},
 ): Promise<ChapterAlignment | null> {
-  const key = `${bookId}:${chapter}`;
+  const lite = options.lite === true;
+  // Lite and full results are cached SEPARATELY. They differ in what `lexicon` holds, so one shared
+  // key would let whichever caller arrived first decide what every later caller gets — a popover
+  // quietly losing its prose because something else asked for lite a moment earlier.
+  const key = `${lite ? 'lite:' : ''}${bookId}:${chapter}`;
   const cached = alignmentCache.get(key);
   if (cached) return cached;
 
@@ -155,9 +254,10 @@ export async function loadAlignmentFor(
   const loader = CHAPTER_LOADERS[`${slug}-${chapter}`];
   if (!loader) return null;
 
-  const [chapterMod, generatedLexicon, contextual, aliases] = await Promise.all([
+  const [chapterMod, resolvedLexicon, contextual, aliases] = await Promise.all([
     loader(),
-    loadGeneratedLexicon(),
+    // The whole point of `lite`: never await the 18.7MB file here.
+    lite ? loadLightLexicon() : loadGeneratedLexicon().then(getMergedLexicon),
     loadContextual(),
     loadAliases(),
   ]);
@@ -171,7 +271,10 @@ export async function loadAlignmentFor(
   // index below depends on the chapter, and both walk the whole 18,100-entry
   // lexicon — measured at ~45ms per chapter on a Pi 5, more on a phone. It was
   // being repeated for every chapter a reader opened.
-  const mergedLexicon = getMergedLexicon(generatedLexicon);
+  // Already merged above — full or light, depending on `options.lite`. `getStrongsToSlug` below is
+  // keyed on this object's identity, so each variant gets its own cached index rather than one
+  // poisoning the other.
+  const mergedLexicon = resolvedLexicon;
 
   // Strong's-number → lemma slug, inverted from the merged lexicon. The
   // generated alignment slug collapses homographs (Hebrew אֵת obj-marker H0853 /
