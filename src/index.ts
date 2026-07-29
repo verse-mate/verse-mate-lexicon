@@ -258,28 +258,28 @@ function loadedSet(light: LightLexicon): Set<number> {
 }
 
 /**
- * A `Record<LemmaKey, LexEntry>`-shaped view over the columnar data.
+ * A plain `Record<LemmaKey, LexEntry>` holding ONLY the lemmas this chapter uses.
  *
- * A Proxy rather than a real object because consumers index it directly
- * (`alignment.lexicon[token.lemma]`) and their `if (!entry) continue` gate must keep working — so the
- * shape has to stay identical while the contents stay unbuilt.
+ * Three designs were measured on one device, and this is the third:
  *
- * `ownKeys`/`getOwnPropertyDescriptor` are implemented so enumeration still works if anything needs it,
- * but note that enumerating DOES defeat the laziness. That is why the lite path builds its Strong's map
- * from the columns directly instead of going through `getStrongsToSlug`, which calls `Object.entries`.
+ *   1. Materialise all 18,100 entries, then spread. `data.alignment.first` 1685ms, worst JS block
+ *      1404ms. Correct, but it walks the whole lexicon for a chapter that touches a few hundred lemmas.
+ *   2. A Proxy over the columns, materialising on access. **8x WORSE** — first 13560ms, worst block
+ *      7148ms, JS blocked 44.7% vs 24.0%. The renderer indexes `lexicon[slug]` per token per verse, so
+ *      every one of those thousands of reads paid a proxy trap. Laziness lost badly to trap overhead.
+ *   3. This: build a small plain object for the chapter's own lemmas. No proxy on the hot path, and no
+ *      18,100-entry pass — the chapter's token list is already in hand by the time this is called.
+ *
+ * A plain object also keeps the shape consumers rely on (`if (!entry) continue` gating the underline)
+ * with no indirection at all.
  */
-function lightLexiconView(light: LightLexicon): Record<LemmaKey, LexEntry> {
-  return new Proxy(Object.create(null) as Record<LemmaKey, LexEntry>, {
-    get: (_t, prop) => (typeof prop === 'string' ? lightEntry(light, prop) : undefined),
-    has: (_t, prop) =>
-      typeof prop === 'string' && (light.index.has(prop) || prop in (HAND_LEXICON as object)),
-    ownKeys: () => [...new Set([...light.file.slugs, ...Object.keys(HAND_LEXICON)])],
-    getOwnPropertyDescriptor: (_t, prop) => {
-      if (typeof prop !== 'string') return undefined;
-      const value = lightEntry(light, prop);
-      return value ? { value, enumerable: true, configurable: true, writable: false } : undefined;
-    },
-  });
+function lightLexiconFor(light: LightLexicon, slugs: Iterable<string>): Record<LemmaKey, LexEntry> {
+  const out: Record<LemmaKey, LexEntry> = {};
+  for (const slug of slugs) {
+    const entry = lightEntry(light, slug);
+    if (entry) out[slug] = entry;
+  }
+  return out;
 }
 
 /**
@@ -374,12 +374,15 @@ export async function loadAlignmentFor(
     // materialise everything, which is the exact cost being avoided.
     lite
       ? loadLightLexicon().then((light) => ({
-          lexicon: lightLexiconView(light),
+          // No lexicon object yet — it is built AFTER the verse loop, from the slugs this chapter
+          // actually uses. See `lightLexiconFor`.
+          light,
+          full: null,
           strongsToSlug: lightStrongsToSlug(light),
         }))
       : loadGeneratedLexicon().then((generated) => {
           const merged = getMergedLexicon(generated);
-          return { lexicon: merged, strongsToSlug: getStrongsToSlug(merged) };
+          return { light: null, full: merged, strongsToSlug: getStrongsToSlug(merged) };
         }),
     loadContextual(),
     loadAliases(),
@@ -394,10 +397,9 @@ export async function loadAlignmentFor(
   // index below depends on the chapter, and both walk the whole 18,100-entry
   // lexicon — measured at ~45ms per chapter on a Pi 5, more on a phone. It was
   // being repeated for every chapter a reader opened.
-  // Already merged above — full or light, depending on `options.lite`. `getStrongsToSlug` below is
-  // keyed on this object's identity, so each variant gets its own cached index rather than one
-  // poisoning the other.
-  const mergedLexicon = resolved.lexicon;
+  // On the lite path the lexicon is deferred until the verse loop below has revealed which lemmas this
+  // chapter uses; `usedSlugs` collects them. The full path already has its merged map.
+  const usedSlugs: Set<string> | null = resolved.light ? new Set<string>() : null;
 
   // Strong's-number → lemma slug, inverted from the merged lexicon. The
   // generated alignment slug collapses homographs (Hebrew אֵת obj-marker H0853 /
@@ -446,12 +448,30 @@ export async function loadAlignmentFor(
       // strongsToSlug[token.strongs] === t.lemma, so this is a no-op).
       const normStrongs = normalizeStrongs(t.strongs);
       const effLemma = (normStrongs && strongsToSlug[normStrongs]) || t.lemma;
+      // Both slugs matter on the lite path: `effLemma` is what the popover resolves a definition from,
+      // and `t.lemma` is what the underline matcher and contextual glosses stay keyed on.
+      if (usedSlugs) {
+        usedSlugs.add(effLemma);
+        usedSlugs.add(t.lemma);
+      }
       const base = surfaces.length === 1
         ? { surface: t.surface, lemma: effLemma }
         : { surface: surfaces, lemma: effLemma };
       return contextual[k] ? { ...base, contextual: contextual[k] } : base;
     });
   }
+
+  // Lite: build a plain object holding ONLY this chapter's lemmas. A chapter touches a few hundred, not
+  // 18,100 — and unlike the Proxy this replaced, reads cost nothing extra (that version measured 8x
+  // WORSE because the renderer indexes `lexicon[slug]` per token per verse).
+  //
+  // themeLemmas are included even when no token resolved to them, because the renderer checks membership
+  // against the lexicon for the prominent theme treatment.
+  if (resolved.light && usedSlugs) {
+    for (const slug of raw.themeLemmas ?? []) usedSlugs.add(slug);
+  }
+  const mergedLexicon =
+    resolved.light && usedSlugs ? lightLexiconFor(resolved.light, usedSlugs) : resolved.full!;
 
   const alignment: ChapterAlignment = {
     bookId: raw.bookId,
