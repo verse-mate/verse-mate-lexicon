@@ -160,7 +160,30 @@ interface LightLexiconFile {
   loadedIdx: number[];
 }
 
-let lightLexiconPromise: Promise<Record<LemmaKey, LexEntry>> | null = null;
+/**
+ * The light lexicon, kept COLUMNAR in memory plus a slug -> row index.
+ *
+ * Deliberately not a `Record<LemmaKey, LexEntry>`. The first version of this built exactly that —
+ * 18,100 entry objects in a loop, then `{...out, ...HAND_LEXICON}` — and measured, on device, as
+ * `data.alignment.first` **3103ms** with the worst JS block still at **2134ms**. In other words the file
+ * got 16x smaller and the loader handed the entire win back: 18,100 allocations plus a full-map spread
+ * cost about what parsing 18.7MB did.
+ *
+ * So nothing is materialised up front. Two things are built, both cheap:
+ *   * `index` — slug -> row, one Map insert per slug and no per-entry objects;
+ *   * `strongs` — read directly off the column when the Strong's map is built, again with no objects.
+ *
+ * Individual entries are constructed only when something asks for one, and cached. A chapter touches a
+ * few hundred lemmas, not 18,100.
+ */
+interface LightLexicon {
+  file: LightLexiconFile;
+  index: Map<string, number>;
+  /** Materialised entries, by slug. Populated on demand by `lightEntry`. */
+  cache: Map<string, LexEntry>;
+}
+
+let lightLexiconPromise: Promise<LightLexicon> | null = null;
 
 /**
  * The lexicon a chapter actually needs, at 1/16th the weight.
@@ -185,28 +208,117 @@ let lightLexiconPromise: Promise<Record<LemmaKey, LexEntry>> | null = null;
  * extra: it is a static import already in the bundle. Those ~144 entries stay FULL, so a
  * theologically loaded word keeps its prose even here.
  */
-function loadLightLexicon(): Promise<Record<LemmaKey, LexEntry>> {
+function loadLightLexicon(): Promise<LightLexicon> {
   if (!lightLexiconPromise) {
     lightLexiconPromise = import('./generated/_lemmas-light.json').then((m) => {
       const file = m.default as unknown as LightLexiconFile;
-      const loaded = new Set(file.loadedIdx);
-      const out: Record<LemmaKey, LexEntry> = {};
-      for (let i = 0; i < file.slugs.length; i += 1) {
-        const posIndex = file.pos[i];
-        const entry: LexEntry = {
-          lemma: file.lemma[i],
-          translit: file.translit[i],
-          strongs: file.strongs[i],
-          pos: posIndex >= 0 ? file.posVocab[posIndex] : '',
-          basicGloss: file.basicGloss[i],
-        };
-        if (loaded.has(i)) entry.loaded = true;
-        out[file.slugs[i]] = entry;
-      }
-      return { ...out, ...HAND_LEXICON };
+      const index = new Map<string, number>();
+      for (let i = 0; i < file.slugs.length; i += 1) index.set(file.slugs[i], i);
+      return { file, index, cache: new Map<string, LexEntry>() };
     });
   }
   return lightLexiconPromise;
+}
+
+/** One entry, built on first request and cached. HAND_LEXICON wins, as it does on the full path. */
+function lightEntry(light: LightLexicon, slug: string): LexEntry | undefined {
+  const hand = (HAND_LEXICON as Record<string, LexEntry | undefined>)[slug];
+  if (hand) return hand;
+
+  const cached = light.cache.get(slug);
+  if (cached) return cached;
+
+  const i = light.index.get(slug);
+  if (i === undefined) return undefined;
+
+  const { file } = light;
+  const posIndex = file.pos[i];
+  const entry: LexEntry = {
+    lemma: file.lemma[i],
+    translit: file.translit[i],
+    strongs: file.strongs[i],
+    pos: posIndex >= 0 ? file.posVocab[posIndex] : '',
+    basicGloss: file.basicGloss[i],
+  };
+  // `loadedIdx` is a sorted index list; a linear scan per entry would be O(n) per lookup, so the
+  // membership set is built once, lazily, on the first entry that needs it.
+  if (loadedSet(light).has(i)) entry.loaded = true;
+  light.cache.set(slug, entry);
+  return entry;
+}
+
+const loadedSets = new WeakMap<LightLexicon, Set<number>>();
+function loadedSet(light: LightLexicon): Set<number> {
+  let set = loadedSets.get(light);
+  if (!set) {
+    set = new Set(light.file.loadedIdx);
+    loadedSets.set(light, set);
+  }
+  return set;
+}
+
+/**
+ * A `Record<LemmaKey, LexEntry>`-shaped view over the columnar data.
+ *
+ * A Proxy rather than a real object because consumers index it directly
+ * (`alignment.lexicon[token.lemma]`) and their `if (!entry) continue` gate must keep working — so the
+ * shape has to stay identical while the contents stay unbuilt.
+ *
+ * `ownKeys`/`getOwnPropertyDescriptor` are implemented so enumeration still works if anything needs it,
+ * but note that enumerating DOES defeat the laziness. That is why the lite path builds its Strong's map
+ * from the columns directly instead of going through `getStrongsToSlug`, which calls `Object.entries`.
+ */
+function lightLexiconView(light: LightLexicon): Record<LemmaKey, LexEntry> {
+  return new Proxy(Object.create(null) as Record<LemmaKey, LexEntry>, {
+    get: (_t, prop) => (typeof prop === 'string' ? lightEntry(light, prop) : undefined),
+    has: (_t, prop) =>
+      typeof prop === 'string' && (light.index.has(prop) || prop in (HAND_LEXICON as object)),
+    ownKeys: () => [...new Set([...light.file.slugs, ...Object.keys(HAND_LEXICON)])],
+    getOwnPropertyDescriptor: (_t, prop) => {
+      if (typeof prop !== 'string') return undefined;
+      const value = lightEntry(light, prop);
+      return value ? { value, enumerable: true, configurable: true, writable: false } : undefined;
+    },
+  });
+}
+
+/**
+ * Strong's -> slug, read straight off the columns.
+ *
+ * The full path uses `getStrongsToSlug`, which walks `Object.entries(mergedLexicon)` — correct there,
+ * fatal here: it would materialise all 18,100 entries and rebuild exactly the cost this is avoiding.
+ * Same precedence rule as the full path (first writer wins, HAND_LEXICON overlaid after).
+ */
+const lightStrongsCache = new WeakMap<LightLexicon, Record<string, LemmaKey>>();
+function lightStrongsToSlug(light: LightLexicon): Record<string, LemmaKey> {
+  const cached = lightStrongsCache.get(light);
+  if (cached) return cached;
+
+  const value: Record<string, LemmaKey> = {};
+  const { slugs, strongs } = light.file;
+  const hand = HAND_LEXICON as Record<string, LexEntry | undefined>;
+
+  // Walk in the GENERATED file's key order, taking HAND_LEXICON's Strong's where it overrides a slug.
+  //
+  // This mirrors `getStrongsToSlug(getMergedLexicon(...))` exactly, and the fidelity matters: that
+  // function is first-writer-wins over `Object.entries` of `{...generated, ...HAND_LEXICON}`. Spreading
+  // does NOT move an existing key, so an overridden slug keeps its position in the generated order and
+  // contributes the HAND entry's value there. Iterating in any other order — sorted, say — would pick a
+  // different slug for a colliding Strong's number, i.e. a different SENSE for every homograph, which
+  // is precisely the bug the per-token Strong's work existed to fix.
+  for (let i = 0; i < slugs.length; i += 1) {
+    const slug = slugs[i];
+    const sKey = normalizeStrongs(hand[slug]?.strongs ?? strongs[i]);
+    if (sKey && !(sKey in value)) value[sKey] = slug;
+  }
+  // Then the HAND_LEXICON slugs the generated data does not have — the keys a spread would append.
+  for (const [slug, entry] of Object.entries(hand)) {
+    if (light.index.has(slug)) continue;
+    const sKey = normalizeStrongs(entry?.strongs);
+    if (sKey && !(sKey in value)) value[sKey] = slug;
+  }
+  lightStrongsCache.set(light, value);
+  return value;
 }
 
 /**
@@ -254,10 +366,21 @@ export async function loadAlignmentFor(
   const loader = CHAPTER_LOADERS[`${slug}-${chapter}`];
   if (!loader) return null;
 
-  const [chapterMod, resolvedLexicon, contextual, aliases] = await Promise.all([
+  const [chapterMod, resolved, contextual, aliases] = await Promise.all([
     loader(),
-    // The whole point of `lite`: never await the 18.7MB file here.
-    lite ? loadLightLexicon() : loadGeneratedLexicon().then(getMergedLexicon),
+    // The whole point of `lite`: never await the 18.7MB file, and never walk 18,100 entries either.
+    // Both halves are resolved together because the lite path builds its Strong's map from the columns
+    // — routing it through `getStrongsToSlug` would call `Object.entries` on the lazy view and
+    // materialise everything, which is the exact cost being avoided.
+    lite
+      ? loadLightLexicon().then((light) => ({
+          lexicon: lightLexiconView(light),
+          strongsToSlug: lightStrongsToSlug(light),
+        }))
+      : loadGeneratedLexicon().then((generated) => {
+          const merged = getMergedLexicon(generated);
+          return { lexicon: merged, strongsToSlug: getStrongsToSlug(merged) };
+        }),
     loadContextual(),
     loadAliases(),
   ]);
@@ -274,7 +397,7 @@ export async function loadAlignmentFor(
   // Already merged above — full or light, depending on `options.lite`. `getStrongsToSlug` below is
   // keyed on this object's identity, so each variant gets its own cached index rather than one
   // poisoning the other.
-  const mergedLexicon = resolvedLexicon;
+  const mergedLexicon = resolved.lexicon;
 
   // Strong's-number → lemma slug, inverted from the merged lexicon. The
   // generated alignment slug collapses homographs (Hebrew אֵת obj-marker H0853 /
@@ -285,7 +408,7 @@ export async function loadAlignmentFor(
   // chapter data) disambiguates: we map it to the displaced slug that carries
   // the right sense (e.g. H6256 → "et_h6256" → "time"). Keyed via
   // normalizeStrongs so it matches the token's canonical G####/H#### form.
-  const strongsToSlug = getStrongsToSlug(mergedLexicon);
+  const strongsToSlug = resolved.strongsToSlug;
 
   // Build each token's full surface list. The generated alignment file
   // ships ONE BSB-anchored surface; we union it with the cross-translation

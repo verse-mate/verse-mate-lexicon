@@ -74,7 +74,11 @@ VOCAB_FIELDS = {"pos"}
 
 def build(entries: dict) -> dict:
     """Columnar light lexicon. Column order matches `slugs`, index for index."""
-    slugs = sorted(k for k, v in entries.items() if isinstance(v, dict))
+    # ORIGINAL key order, not sorted. `strongsToSlug` is first-writer-wins, so the order decides which
+    # slug a colliding Strong's number resolves to — and the full path walks `Object.entries` of the
+    # merged lexicon, i.e. this file's order. Sorting here would silently pick a different sense for
+    # every homograph (the exact bug the per-token Strong's work existed to fix).
+    slugs = [k for k, v in entries.items() if isinstance(v, dict)]
     out: dict[str, object] = {"slugs": slugs}
 
     for field in FIELDS:
@@ -126,11 +130,40 @@ def main() -> int:
         print(f"{LIGHT.name} matches _lemmas.json ({len(light['slugs'])} entries)")
         return 0
 
-    # Compact separators and no ASCII escaping: this is parsed on a phone's JS thread, so every byte
-    # is a byte to read. Escaping the Greek and Hebrew would inflate it for nothing.
+    # MULTI-LINE, and that is not a style choice — a single-line file BREAKS THE APP.
+    #
+    # The first version wrote this with `separators=(",", ":")`, producing 1.15MB on one line. It is
+    # valid JSON (Python parses it, `json.loads` round-trips), but on device every `import()` of it
+    # rejected with:
+    #
+    #     SyntaxError: 13786:43:non-terminated string
+    #
+    # …five times, once per chapter load, leaving `alignment` null — no underlines, and a perf capture
+    # that looked like a triumph because the work it was supposed to measure never ran. Note the
+    # reported position: line 13786 in a file that has two lines. That mismatch is the tell that Hermes
+    # is not parsing the bytes written here but a transform of them.
+    #
+    # `_lemmas.json` (18.7MB, far larger) has always worked, and the only structural difference is that
+    # it is pretty-printed across 454,260 lines. Rewriting this file multi-line made the error disappear
+    # and alignment resolve, verified on a real device. The exact mechanism inside Metro/Hermes is NOT
+    # identified — what is established is the boundary, so this follows the format that is known to work
+    # rather than the one that is 9% smaller.
+    #
+    # `indent=0` puts each array element on its own line: 110,906 lines, 1.26MB. The 0.11MB it costs
+    # over compact separators buys a file that loads at all.
     LIGHT.write_text(
-        json.dumps(light, ensure_ascii=False, separators=(",", ":")) + "\n", encoding="utf-8"
+        json.dumps(light, ensure_ascii=False, indent=0) + "\n", encoding="utf-8"
     )
+
+    # Fail loudly if anyone "optimises" the line count away again. A silent revert here does not look
+    # like a crash: it looks like the lexicon quietly not loading, which measured as a 9x improvement.
+    line_count = LIGHT.read_text(encoding="utf-8").count("\n")
+    if line_count < 1000:
+        raise SystemExit(
+            f"{LIGHT.name} was written as {line_count} lines. A single-line file of this size fails to "
+            f"parse on device (SyntaxError: non-terminated string) and silently disables the lexicon. "
+            f"Keep it multi-line."
+        )
 
     full_mb = os.path.getsize(FULL) / 1e6
     light_mb = os.path.getsize(LIGHT) / 1e6
