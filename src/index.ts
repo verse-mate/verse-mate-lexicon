@@ -336,6 +336,21 @@ export async function lookupLemma(slug: LemmaKey): Promise<LexEntry | null> {
 
 export interface LoadAlignmentOptions {
   /**
+   * Report how long each internal step took, in ms.
+   *
+   * Exists because `loadAlignmentFor` is a single `await` from the caller's point of view, so a span
+   * around it measures the SUM of six different things: the light-lexicon import, the Strong's map
+   * build, the chapter JSON import, the aliases and contextual imports, and the per-verse merge. That
+   * opacity allowed four successive wrong diagnoses of a ~2s JS block on device — the file size, the
+   * entry materialisation, a lazy Proxy (which made it 8x worse), and chapter-scoping — each of which
+   * changed one part and left the block intact.
+   *
+   * A callback rather than an import so this package keeps no dependency on any host's perf tooling;
+   * the caller decides whether to record, and pays nothing when it does not.
+   */
+  onTiming?: (step: string, ms: number) => void;
+
+  /**
    * Skip the 18.7MB lemma file and use the light projection instead.
    *
    * `lexicon` still answers "does this lemma exist" and carries `strongs`, `lemma`, `translit`,
@@ -366,26 +381,57 @@ export async function loadAlignmentFor(
   const loader = CHAPTER_LOADERS[`${slug}-${chapter}`];
   if (!loader) return null;
 
+  // Per-step timing. Off unless the caller asks, and the closure is the only cost when it does.
+  //
+  // Every one of these steps used to hide inside a single `await`, which is how a ~2s block on device
+  // survived four wrong diagnoses. Each is now attributable on its own.
+  const mark = options.onTiming;
+  const now = () =>
+    typeof performance !== 'undefined' && typeof performance.now === 'function'
+      ? performance.now()
+      : Date.now();
+  const timed = async <T>(step: string, work: () => Promise<T>): Promise<T> => {
+    if (!mark) return work();
+    const start = now();
+    const value = await work();
+    mark(step, now() - start);
+    return value;
+  };
+  const timedSync = <T>(step: string, work: () => T): T => {
+    if (!mark) return work();
+    const start = now();
+    const value = work();
+    mark(step, now() - start);
+    return value;
+  };
+
   const [chapterMod, resolved, contextual, aliases] = await Promise.all([
-    loader(),
+    timed('chapter.import', () => loader()),
     // The whole point of `lite`: never await the 18.7MB file, and never walk 18,100 entries either.
     // Both halves are resolved together because the lite path builds its Strong's map from the columns
     // — routing it through `getStrongsToSlug` would call `Object.entries` on the lazy view and
     // materialise everything, which is the exact cost being avoided.
     lite
-      ? loadLightLexicon().then((light) => ({
+      ? timed('lex.import', () => loadLightLexicon()).then((light) => ({
           // No lexicon object yet — it is built AFTER the verse loop, from the slugs this chapter
           // actually uses. See `lightLexiconFor`.
           light,
           full: null,
-          strongsToSlug: lightStrongsToSlug(light),
+          // The prime remaining suspect: a regex (`normalizeStrongs`) per entry across all 18,100.
+          // Cached per light lexicon, so only the first chapter pays — which is exactly the call that
+          // shows the ~2s block.
+          strongsToSlug: timedSync('lex.strongs', () => lightStrongsToSlug(light)),
         }))
-      : loadGeneratedLexicon().then((generated) => {
-          const merged = getMergedLexicon(generated);
-          return { light: null, full: merged, strongsToSlug: getStrongsToSlug(merged) };
+      : timed('lex.import.full', () => loadGeneratedLexicon()).then((generated) => {
+          const merged = timedSync('lex.merge.full', () => getMergedLexicon(generated));
+          return {
+            light: null,
+            full: merged,
+            strongsToSlug: timedSync('lex.strongs', () => getStrongsToSlug(merged)),
+          };
         }),
-    loadContextual(),
-    loadAliases(),
+    timed('contextual.import', () => loadContextual()),
+    timed('aliases.import', () => loadAliases()),
   ]);
   const raw: GeneratedAlignment = chapterMod.default;
 
@@ -417,6 +463,7 @@ export async function loadAlignmentFor(
   // aliases (KJV/NASB/ESV/NIV/...) so the renderer's substring scan can
   // find a match regardless of which translation the API is currently
   // serving. Per-occurrence contextual glosses overlay in the same pass.
+  const mergeStart = mark ? now() : 0;
   const mergedVerses: ChapterAlignment['verses'] = {};
   for (const [verseStr, tokens] of Object.entries(raw.verses)) {
     mergedVerses[Number(verseStr)] = (
@@ -467,11 +514,15 @@ export async function loadAlignmentFor(
   //
   // themeLemmas are included even when no token resolved to them, because the renderer checks membership
   // against the lexicon for the prominent theme treatment.
+  if (mark) mark('verses.merge', now() - mergeStart);
+
   if (resolved.light && usedSlugs) {
     for (const slug of raw.themeLemmas ?? []) usedSlugs.add(slug);
   }
   const mergedLexicon =
-    resolved.light && usedSlugs ? lightLexiconFor(resolved.light, usedSlugs) : resolved.full!;
+    resolved.light && usedSlugs
+      ? timedSync('lexicon.scope', () => lightLexiconFor(resolved.light!, usedSlugs))
+      : resolved.full!;
 
   const alignment: ChapterAlignment = {
     bookId: raw.bookId,
