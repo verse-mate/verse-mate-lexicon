@@ -32,6 +32,9 @@ WHAT THIS SCRIPT DOES
   gloss) is never touched, so the script is idempotent and safe to re-run
   after every `build.py` regeneration.
 
+  Alias lists that were written for the displaced sense (STALE_ALIASES) are
+  removed from `_aliases.json`.
+
   Afterwards run `bun run build:light` so `_lemmas-light.json` (what
   mobile renders from) carries the same glosses.
 
@@ -53,6 +56,7 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 LEMMAS_JSON = HERE.parent / 'src' / 'generated' / '_lemmas.json'
+ALIASES_JSON = HERE.parent / 'src' / 'generated' / '_aliases.json'
 CACHE_DIR = HERE / '.step-cache'
 
 STEP_RAW = 'https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/'
@@ -113,6 +117,19 @@ RESET_PROSE: frozenset[str] = frozenset({
     'H7356',  # womb → compassion (רַחֲמִים)
     'H7462',  # place name Beth-eked → to shepherd (רָעָה)
     'H8302',  # lance → armor (שִׁרְיוֹן)
+})
+
+# Alias lists generate_aliases.py wrote from the displaced sense's gloss, so
+# they match the wrong English ("garment" tokens matching "treachery"). Dropped
+# until generate_aliases.py re-runs them against the corrected entry.
+STALE_ALIASES: frozenset[str] = frozenset({
+    'H0899',  # garment ← treachery, faithless, betray
+    'H1933',  # to be ← fall, fell, befall
+    'H3895',  # jaw ← Lehi
+    'H4805',  # rebellion ← Egypt
+    'H5984',  # Ammon(ite) ← Meunite
+    'H7462',  # to shepherd ← bethel, house of eked
+    'H8336',  # linen ← alabaster
 })
 
 # STEP POS code → the display POS the lexicon uses (subset of build.py's map).
@@ -263,6 +280,17 @@ def apply(lemmas: dict, change: dict) -> None:
             entry.pop(field, None)
 
 
+def drop_stale_aliases(dry_run: bool) -> None:
+    aliases = json.loads(ALIASES_JSON.read_text(encoding='utf-8'))
+    stale = sorted(STALE_ALIASES & aliases.keys())
+    for key in stale:
+        print(f'{key} aliases dropped: {aliases[key][:6]}')
+    if stale and not dry_run:
+        for key in stale:
+            del aliases[key]
+        ALIASES_JSON.write_text(json.dumps(aliases, ensure_ascii=False, indent=2), encoding='utf-8')
+
+
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--dry-run', action='store_true', help='print changes; do not write')
@@ -281,6 +309,7 @@ def main() -> int:
               f"{c['old_gloss']!r} → {c['new_gloss']!r}{tag}")
     print(f'{len(changes)} entries, {sum(c["occurrences"] for c in changes):,} occurrences.')
 
+    drop_stale_aliases(args.dry_run)
     if args.dry_run or not changes:
         return 0
     for c in changes:
