@@ -5,7 +5,9 @@ Generate cross-translation English surface aliases for the top-N lemmas.
 For each lemma we already have basic data for (in src/generated/_lemmas.json),
 ask Claude Haiku to enumerate the English surfaces that major English Bibles
 (KJV, NASB, ESV, NIV, BSB, NLT, ASV, NRSV) use to render that Greek/Hebrew
-lemma. Aggregate to src/generated/_aliases.json keyed by lemma slug.
+lemma. Aggregate to src/generated/_aliases.json keyed by canonical Strong's
+(G####/H####) — not slug, since slugs collapse homographs and the loader
+looks aliases up by each token's own Strong's.
 
 The renderer (in src/index.ts) unions these aliases with the BSB surface
 from each generated alignment token. So a token like {surface: "perseverance",
@@ -47,6 +49,14 @@ LEMMAS_JSON = GENERATED_DIR / '_lemmas.json'
 ALIASES_JSON = GENERATED_DIR / '_aliases.json'
 
 DEFAULT_MODEL = 'claude-haiku-4-5-20251001'
+
+STRONGS_RE = re.compile(r'^([GH])0*(\d+)')
+
+
+def strongs_key(entry: dict) -> str | None:
+    """Canonical G####/H#### — the key _aliases.json is stored under."""
+    m = STRONGS_RE.match((entry.get('strongs') or '').strip())
+    return f'{m.group(1)}{m.group(2).zfill(4)}' if m else None
 MAX_TOKENS = 512
 DEFAULT_CONCURRENCY = 8
 CHECKPOINT_EVERY = 50
@@ -143,8 +153,9 @@ async def run_generation(targets: list[str], lemmas: dict, aliases_out: dict,
     for fut in asyncio.as_completed(tasks):
         slug, aliases, err = await fut
         done += 1
-        if aliases:
-            aliases_out[slug] = aliases
+        key = strongs_key(lemmas[slug])
+        if aliases and key:
+            aliases_out[key] = aliases
             ok += 1
         else:
             fail += 1
@@ -188,7 +199,7 @@ def main() -> int:
     parser.add_argument('--model', default=DEFAULT_MODEL)
     parser.add_argument('--concurrency', type=int, default=DEFAULT_CONCURRENCY)
     parser.add_argument('--no-skip-existing', action='store_true',
-                        help='Re-generate even for slugs already in _aliases.json')
+                        help='Re-generate even for lemmas already in _aliases.json')
     args = parser.parse_args()
 
     if not LEMMAS_JSON.exists():
@@ -211,10 +222,10 @@ def main() -> int:
     else:
         targets = list(lemmas.keys())
 
-    targets = [t for t in targets if t in lemmas]
+    targets = [t for t in targets if t in lemmas and strongs_key(lemmas[t])]
     if not args.no_skip_existing:
         before = len(targets)
-        targets = [t for t in targets if t not in aliases_out]
+        targets = [t for t in targets if strongs_key(lemmas[t]) not in aliases_out]
         print(f'Skipping {before - len(targets)} already-aliased slugs.')
 
     print(f'Will generate aliases for {len(targets):,} lemmas '

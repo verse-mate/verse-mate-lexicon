@@ -18,6 +18,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from pathlib import Path
 
@@ -121,7 +122,12 @@ def _archaic_verb_forms(base: str) -> list[str]:
 
 
 def augment(aliases: dict, lemmas: dict) -> tuple[dict, dict]:
-    pos_of = {k: str(v.get('pos', '')).strip() for k, v in lemmas.items()}
+    # _aliases.json is keyed by canonical Strong's (G####/H####).
+    pos_of: dict[str, str] = {}
+    for v in lemmas.values():
+        m = re.match(r'^([GH])0*(\d+)', str(v.get('strongs', '')).strip())
+        if m:
+            pos_of.setdefault(f'{m.group(1)}{m.group(2).zfill(4)}', str(v.get('pos', '')).strip())
     added_total = 0
     touched = 0
     examples: dict[str, list[str]] = {}
@@ -199,7 +205,7 @@ def main() -> int:
     merged['_meta'] = {
         'description': prev_desc,
         'generated': 'augmented with KJV archaic forms by scripts/kjv_aliases.py',
-        'schema': 'Record<lemma_slug, string[]>',
+        'schema': "Record<strongs, string[]> — canonical G####/H####",
     }
     a_in.write_text(json.dumps(merged, ensure_ascii=False, indent=2), encoding='utf-8')
     print(f'\nwrote {a_in}')
