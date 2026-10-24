@@ -99,17 +99,29 @@ python scripts/lexicon-ingest/build.py
 cd ../verse-mate-lexicon
 node scripts/build-manifest.mjs  # regenerates src/manifest.generated.ts
 python3 scripts/fix_dominant_senses.py   # headline gloss = most-used sense, not STEP's first row
+python3 scripts/apply_enrichment.py scripts/data/reenrich_displaced_senses.json
+python3 scripts/add_missing_tokens.py    # content words the BSB alignment never tagged
+python3 scripts/build_step_aliases.py    # English renderings per Strong's, from STEP
 bun run build:light && bun run verify:parity
 git commit -am "lexicon: refresh from MorphGNT/BSB ingest"
 ```
 
-`fix_dominant_senses.py` only rewrites glosses that are still build.py's
-first-row default, so it is idempotent and never overrides a hand edit.
+Each post-pass is idempotent (a re-run changes nothing) and reads
+STEPBible's tagged OT/NT (CC BY), cached in `scripts/.step-cache/`:
+
+- `fix_dominant_senses.py` only rewrites glosses that are still build.py's
+  first-row default, so it never overrides a hand edit.
+- `add_missing_tokens.py` appends a token for each content word the BSB
+  tables left without English (e.g. Israel in "the Israelites"), using STEP's
+  rendering as its surface.
+- `build_step_aliases.py` adds the English each word is rendered with across
+  the OT/NT to its alias list.
 
 ### Aliases
 
 `_aliases.json` is keyed by canonical Strong's (`G####` / `H####`), and the
-loader looks each token's aliases up by its own Strong's. It used to be keyed
+loader looks each token's aliases up by its own Strong's, skipping any alias
+that is another token's own surface in the same verse. It used to be keyed
 by lemma slug, which collapses homographs, so one word could pick up another's
 English surfaces (רוּחַ "Spirit" matching "smell", עַ֫יִן "eye" matching "no").
 `generate_aliases.py` and `kjv_aliases.py` read and write Strong's keys.
