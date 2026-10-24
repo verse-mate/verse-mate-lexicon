@@ -126,6 +126,11 @@
         "surface": "was breached",
         "lemma": "baqa",
         "strongs": "H1234"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "3": [
@@ -360,6 +365,11 @@
         "surface": "to the Arabah",
         "lemma": "aravah",
         "strongs": "H6160"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
       }
     ],
     "5": [
@@ -514,6 +524,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Babylon",
+        "lemma": "bavel",
+        "strongs": "H0894"
       }
     ],
     "7": [
@@ -598,6 +613,11 @@
         "surface": "of Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "9": [
@@ -660,6 +680,21 @@
         "surface": "had defected",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "rest",
+        "lemma": "yeter",
+        "strongs": "H3499"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "remained",
+        "lemma": "shaar",
+        "strongs": "H7604"
       }
     ],
     "10": [
@@ -717,6 +752,21 @@
         "surface": "and fields",
         "lemma": "yagev",
         "strongs": "H3010"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
+      },
+      {
+        "surface": "chief",
+        "lemma": "rav",
+        "strongs": "H7227"
+      },
+      {
+        "surface": "bodyguards",
+        "lemma": "tabbach",
+        "strongs": "H2876"
       }
     ],
     "11": [
@@ -811,6 +861,11 @@
         "surface": "he says",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum",
+        "strongs": "H7760"
       }
     ],
     "13": [
@@ -888,6 +943,11 @@
         "surface": "of Babylon",
         "lemma": "bavel",
         "strongs": "H0894"
+      },
+      {
+        "surface": "sent",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "14": [
@@ -965,6 +1025,11 @@
         "surface": "his own people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "fetched",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "15": [
@@ -1007,6 +1072,11 @@
         "surface": "him",
         "lemma": "yirmeyah",
         "strongs": "H3414"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1109,6 +1179,11 @@
         "surface": "before your eyes",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1208,6 +1283,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "rescue",
+        "lemma": "malat",
+        "strongs": "H4422"
       }
     ]
   }

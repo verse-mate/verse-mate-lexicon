@@ -49,6 +49,11 @@
         "surface": "of En-gedi",
         "lemma": "engedi",
         "strongs": "H5872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -198,6 +203,11 @@
         "surface": "of the cave",
         "lemma": "mearah",
         "strongs": "H4631"
+      },
+      {
+        "surface": "folds",
+        "lemma": "gederah",
+        "strongs": "H1448"
       }
     ],
     "4": [
@@ -290,6 +300,16 @@
         "surface": "robe",
         "lemma": "meil",
         "strongs": "H4598"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -327,6 +347,11 @@
         "surface": "of Saul’s robe",
         "lemma": "shaul",
         "strongs": "H7586"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "6": [
@@ -461,6 +486,11 @@
         "surface": "on his way",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "8": [
@@ -553,6 +583,16 @@
         "surface": "in reverence",
         "lemma": "shachah",
         "strongs": "H7812"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "9": [
@@ -697,6 +737,11 @@
         "surface": "anointed",
         "lemma": "mashiach",
         "strongs": "H4899"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "11": [
@@ -804,6 +849,11 @@
         "surface": "my life",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "robe",
+        "lemma": "meil",
+        "strongs": "H4598"
       }
     ],
     "12": [
@@ -846,6 +896,11 @@
         "surface": "be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "13": [
@@ -950,6 +1005,21 @@
         "surface": "flea",
         "lemma": "parosh",
         "strongs": "H6550"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "15": [
@@ -1002,6 +1072,11 @@
         "surface": "from your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "16": [
@@ -1064,6 +1139,16 @@
         "surface": "aloud",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "17": [
@@ -1247,6 +1332,11 @@
         "surface": "in your hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "reign",
+        "lemma": "malakh_h4427",
+        "strongs": "H4427"
       }
     ],
     "21": [
@@ -1299,6 +1389,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "22": [
@@ -1351,6 +1446,11 @@
         "surface": "the stronghold",
         "lemma": "matsudah",
         "strongs": "H4686"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ]
   }

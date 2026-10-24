@@ -101,6 +101,11 @@
         "surface": "formerly",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "known",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "3": [
@@ -282,6 +287,11 @@
         "surface": "and Jebusites",
         "lemma": "yevusi",
         "strongs": "H2983"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -381,6 +391,11 @@
         "surface": "and the Asherahs",
         "lemma": "asherah",
         "strongs": "H0842"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [
@@ -463,6 +478,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Rishathaim",
+        "lemma": "kushanrishatayim",
+        "strongs": "H3573"
       }
     ],
     "9": [
@@ -535,6 +560,16 @@
         "surface": "them",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -622,6 +657,11 @@
         "surface": "him",
         "lemma": "kushanrishatayim",
         "strongs": "H3573"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "11": [
@@ -746,6 +786,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -793,6 +838,21 @@
         "surface": "of Palms",
         "lemma": "tamar",
         "strongs": "H8558"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "city",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
+      },
+      {
+        "surface": "palm trees",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
       }
     ],
     "14": [
@@ -830,6 +890,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "15": [
@@ -922,6 +992,36 @@
         "surface": "of Moab",
         "lemma": "moav",
         "strongs": "H4124"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Ben-",
+        "lemma": "benymini",
+        "strongs": "H1145"
+      },
+      {
+        "surface": "jaminite",
+        "lemma": "benymini",
+        "strongs": "H1145"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "right",
+        "lemma": "yamin",
+        "strongs": "H3225"
       }
     ],
     "16": [
@@ -979,6 +1079,11 @@
         "surface": "his cloak",
         "lemma": "mad",
         "strongs": "H4055"
+      },
+      {
+        "surface": "lips",
+        "lemma": "peyah",
+        "strongs": "H6366"
       }
     ],
     "17": [
@@ -1021,6 +1126,11 @@
         "surface": "man",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "fat",
+        "lemma": "bari",
+        "strongs": "H1277"
       }
     ],
     "18": [
@@ -1400,6 +1510,21 @@
         "surface": "they said",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "saw",
+        "lemma": "raah",
+        "strongs": "H7200"
+      },
+      {
+        "surface": "surely",
+        "lemma": "akh",
+        "strongs": "H0389"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "25": [
@@ -1546,6 +1671,16 @@
         "surface": "the hills",
         "lemma": "har",
         "strongs": "H2022"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "28": [
@@ -1633,6 +1768,11 @@
         "surface": "to cross over",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "29": [
@@ -1700,6 +1840,11 @@
         "surface": "of them escaped",
         "lemma": "malat",
         "strongs": "H4422"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "30": [
@@ -1814,6 +1959,16 @@
         "surface": "with an oxgoad",
         "lemma": "malmad",
         "strongs": "H4451"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ]
   }

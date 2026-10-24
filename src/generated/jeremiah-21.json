@@ -516,6 +516,16 @@
         "surface": "compassion",
         "lemma": "racham",
         "strongs": "H7355"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -851,6 +861,11 @@
         "surface": "deeds",
         "lemma": "maalal",
         "strongs": "H4611"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "13": [
@@ -965,6 +980,11 @@
         "surface": "around you",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "deeds",
+        "lemma": "maalal",
+        "strongs": "H4611"
       }
     ]
   }

@@ -79,6 +79,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -126,6 +131,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "3": [
@@ -193,6 +203,11 @@
         "surface": "to the Levites",
         "lemma": "leviyyi",
         "strongs": "H3881"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "4": [
@@ -327,6 +342,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -424,6 +444,16 @@
         "surface": "me",
         "lemma": "odah",
         "strongs": "H0182"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "Barnea",
+        "lemma": "qadeshbarnea",
+        "strongs": "H6947"
       }
     ],
     "7": [
@@ -486,6 +516,16 @@
         "surface": "report",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "8": [
@@ -605,6 +645,16 @@
         "surface": "my God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "10": [
@@ -687,6 +737,26 @@
         "surface": "years old",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
       }
     ],
     "11": [
@@ -950,6 +1020,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "15": [

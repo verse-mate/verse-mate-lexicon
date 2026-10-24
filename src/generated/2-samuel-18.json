@@ -39,6 +39,11 @@
         "surface": "and of hundreds",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "commanders",
+        "lemma": "sar_h8269",
+        "strongs": "H8269"
       }
     ],
     "2": [
@@ -129,6 +134,26 @@
       },
       {
         "surface": "will surely march out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "go out",
         "lemma": "yatsa",
         "strongs": "H3318"
       }
@@ -233,6 +258,26 @@
         "surface": "from the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "flee",
+        "lemma": "nus",
+        "strongs": "H5127"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "4": [
@@ -300,6 +345,11 @@
         "surface": "and by thousands",
         "lemma": "eleph",
         "strongs": "H0505"
+      },
+      {
+        "surface": "side",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "5": [
@@ -382,6 +432,16 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "6": [
@@ -548,6 +608,16 @@
         "surface": "the sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "consumed",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "9": [
@@ -655,6 +725,26 @@
         "surface": "in midair",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "heavens",
+        "lemma": "shamayim",
+        "strongs": "H8064"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "10": [
@@ -702,6 +792,11 @@
         "surface": "in an oak tree",
         "lemma": "elah",
         "strongs": "H0424"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -769,6 +864,16 @@
         "surface": "warrior’s belt",
         "lemma": "chagor",
         "strongs": "H2290"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "told",
+        "lemma": "nagad",
+        "strongs": "H5046"
       }
     ],
     "12": [
@@ -871,6 +976,16 @@
         "surface": "for my sake",
         "lemma": "mi",
         "strongs": "H4310"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Joab",
+        "lemma": "yoav",
+        "strongs": "H3097"
       }
     ],
     "13": [
@@ -908,6 +1023,21 @@
         "surface": "me",
         "lemma": "neged",
         "strongs": "H5048"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "sheqer",
+        "strongs": "H8267"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "14": [
@@ -990,6 +1120,11 @@
         "surface": "in the oak tree",
         "lemma": "elah",
         "strongs": "H0424"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "15": [
@@ -1084,6 +1219,16 @@
         "surface": "had restrained them",
         "lemma": "chasakh",
         "strongs": "H2820"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "17": [
@@ -1161,6 +1306,11 @@
         "surface": "to his home",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "18": [
@@ -1253,6 +1403,11 @@
         "surface": "Monument",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "taken",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "19": [
@@ -1536,6 +1691,11 @@
         "surface": "a reward",
         "lemma": "besvorah",
         "strongs": "H1309"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "23": [
@@ -1665,6 +1825,16 @@
         "surface": "running alone",
         "lemma": "ruts",
         "strongs": "H7323"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "25": [
@@ -1722,6 +1892,16 @@
         "surface": "near",
         "lemma": "qarev",
         "strongs": "H7131"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "26": [
@@ -1784,6 +1964,21 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "watchman",
+        "lemma": "tsaphah",
+        "strongs": "H6822"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "27": [
@@ -1861,6 +2056,11 @@
         "surface": "news",
         "lemma": "besvorah",
         "strongs": "H1309"
+      },
+      {
+        "surface": "running",
+        "lemma": "merutsah",
+        "strongs": "H4794"
       }
     ],
     "28": [
@@ -1948,6 +2148,16 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "29": [
@@ -2139,6 +2349,11 @@
         "surface": "who rose up",
         "lemma": "qamay",
         "strongs": "H6965"
+      },
+      {
+        "surface": "Cushite",
+        "lemma": "kushi",
+        "strongs": "H3569"
       }
     ],
     "32": [
@@ -2323,6 +2538,11 @@
         "surface": "my son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ]
   }

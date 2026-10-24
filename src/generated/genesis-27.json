@@ -143,6 +143,11 @@
         "surface": "some game",
         "lemma": "tsayid",
         "strongs": "H6718"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "4": [
@@ -299,6 +304,16 @@
         "surface": "Esau",
         "lemma": "esav",
         "strongs": "H6215"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "7": [
@@ -430,6 +445,11 @@
         "surface": "he loves",
         "lemma": "ahav",
         "strongs": "H0157"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "10": [
@@ -509,6 +529,11 @@
         "surface": "smooth-skinned",
         "lemma": "chalaq",
         "strongs": "H2509"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "12": [
@@ -786,6 +811,11 @@
         "surface": "she had made",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "18": [
@@ -885,6 +915,11 @@
         "surface": "may bless me",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "arise",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "20": [
@@ -1291,6 +1326,11 @@
         "surface": "has blessed",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "smell",
+        "lemma": "reach",
+        "strongs": "H7381"
       }
     ],
     "28": [
@@ -1472,6 +1512,21 @@
         "surface": "from the hunt",
         "lemma": "tsayid",
         "strongs": "H6718"
+      },
+      {
+        "surface": "Isaac",
+        "lemma": "yitschaq",
+        "strongs": "H3327"
+      },
+      {
+        "surface": "surely",
+        "lemma": "akh",
+        "strongs": "H0389"
+      },
+      {
+        "surface": "gone out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "31": [
@@ -1653,6 +1708,21 @@
         "surface": "blessed",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "trembling",
+        "lemma": "charadah",
+        "strongs": "H2731"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "34": [
@@ -1715,6 +1785,11 @@
         "surface": "O my father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "35": [
@@ -1819,6 +1894,11 @@
         "surface": "a blessing",
         "lemma": "berakhah",
         "strongs": "H1293"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "37": [
@@ -1896,6 +1976,11 @@
         "surface": "my son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "38": [
@@ -1953,6 +2038,11 @@
         "surface": "aloud",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "39": [
@@ -2000,6 +2090,11 @@
         "surface": "of heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "40": [
@@ -2201,6 +2296,11 @@
         "surface": "plotting to kill you",
         "lemma": "harag",
         "strongs": "H2026"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "43": [
@@ -2275,6 +2375,11 @@
         "surface": "subsides",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "45": [
@@ -2424,6 +2529,16 @@
         "surface": "life",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ]
   }

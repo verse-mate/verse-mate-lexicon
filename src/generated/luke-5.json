@@ -49,6 +49,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -96,6 +101,11 @@
         "surface": "nets",
         "lemma": "diktuon",
         "strongs": "G1350"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -262,6 +272,11 @@
         "surface": "nets",
         "lemma": "diktuon",
         "strongs": "G1350"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "6": [
@@ -418,6 +433,11 @@
         "surface": "man",
         "lemma": "aner",
         "strongs": "G0435"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "9": [
@@ -631,6 +651,21 @@
         "surface": "make me clean",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "13": [
@@ -678,6 +713,11 @@
         "surface": "left",
         "lemma": "aperchomai",
         "strongs": "G0565"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "14": [
@@ -1005,6 +1045,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "bring",
+        "lemma": "eisphero",
+        "strongs": "G1533"
       }
     ],
     "20": [
@@ -1037,6 +1082,11 @@
         "surface": "are forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -1109,6 +1159,16 @@
         "surface": "alone",
         "lemma": "monos",
         "strongs": "G3441"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "22": [
@@ -1146,6 +1206,11 @@
         "surface": "hearts",
         "lemma": "kardia",
         "strongs": "G2588"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "23": [
@@ -1275,6 +1340,11 @@
         "surface": "home",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "25": [
@@ -1374,6 +1444,11 @@
         "surface": "today",
         "lemma": "semeron",
         "strongs": "G4594"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "27": [
@@ -1421,6 +1496,11 @@
         "surface": "He told",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "leui",
+        "strongs": "G3017"
       }
     ],
     "28": [
@@ -1505,6 +1585,11 @@
         "surface": "eating",
         "lemma": "katakeimai",
         "strongs": "G2621"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "leui",
+        "strongs": "G3017"
       }
     ],
     "30": [
@@ -1547,6 +1632,16 @@
         "surface": "sinners",
         "lemma": "hamartolos",
         "strongs": "G0268"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "31": [
@@ -1584,6 +1679,11 @@
         "surface": "sick",
         "lemma": "kakos",
         "strongs": "G2560"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "32": [
@@ -1752,6 +1852,11 @@
         "surface": "they will fast",
         "lemma": "nesteuo",
         "strongs": "G3522"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "36": [
@@ -1834,6 +1939,11 @@
         "surface": "old",
         "lemma": "palaios",
         "strongs": "G3820"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "37": [

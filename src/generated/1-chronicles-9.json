@@ -138,6 +138,16 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "4": [
@@ -200,6 +210,11 @@
         "surface": "son of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Bani",
+        "lemma": "bani",
+        "strongs": "H1137"
       }
     ],
     "5": [
@@ -249,6 +264,16 @@
         "surface": "relatives",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
       }
     ],
     "7": [
@@ -291,6 +316,16 @@
         "surface": "of Hassenuah",
         "lemma": "senuah",
         "strongs": "H5574"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
+      },
+      {
+        "surface": "Senaah",
+        "lemma": "senaah",
+        "strongs": "H5570"
       }
     ],
     "8": [
@@ -405,6 +440,31 @@
         "surface": "of their families",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "10": [
@@ -643,6 +703,26 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
       }
     ],
     "14": [
@@ -898,6 +978,16 @@
         "surface": "of the Levites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "now",
+        "lemma": "hennah",
+        "strongs": "H2008"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ],
     "19": [
@@ -995,6 +1085,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "service",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "20": [
@@ -1131,6 +1231,16 @@
         "surface": "to their positions of trust",
         "lemma": "emunah",
         "strongs": "H0530"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "23": [
@@ -1237,6 +1347,16 @@
         "surface": "for seven-day periods",
         "lemma": "sheva",
         "strongs": "H7651"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "26": [
@@ -1284,6 +1404,11 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "faithfulness",
+        "lemma": "emunah",
+        "strongs": "H0530"
       }
     ],
     "27": [
@@ -1321,6 +1446,11 @@
         "surface": "every morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "28": [
@@ -1348,6 +1478,11 @@
         "surface": "or taken out",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
       }
     ],
     "29": [
@@ -1422,6 +1557,11 @@
         "surface": "the spices",
         "lemma": "besem",
         "strongs": "H1314"
+      },
+      {
+        "surface": "mixture",
+        "lemma": "mirqachat",
+        "strongs": "H4842"
       }
     ],
     "31": [
@@ -1496,6 +1636,16 @@
         "surface": "every Sabbath",
         "lemma": "shabbat",
         "strongs": "H7676"
+      },
+      {
+        "surface": "Kohathite",
+        "lemma": "qohati",
+        "strongs": "H6956"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "33": [
@@ -1543,6 +1693,11 @@
         "surface": "and night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "set free",
+        "lemma": "patar",
+        "strongs": "H6362"
       }
     ],
     "34": [
@@ -1723,6 +1878,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "relatives",
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "39": [

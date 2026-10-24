@@ -131,6 +131,31 @@
         "surface": "were",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "soul",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "3": [
@@ -419,6 +444,11 @@
         "surface": "standing",
         "lemma": "natsav",
         "strongs": "H5324"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "7": [
@@ -511,6 +541,21 @@
         "surface": "hundreds",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "standing",
+        "lemma": "natsav",
+        "strongs": "H5324"
+      },
+      {
+        "surface": "Ben-",
+        "lemma": "benymini",
+        "strongs": "H1145"
+      },
+      {
+        "surface": "jaminites",
+        "lemma": "benymini",
+        "strongs": "H1145"
       }
     ],
     "8": [
@@ -675,6 +720,11 @@
         "surface": "at Nob",
         "lemma": "nov",
         "strongs": "H5011"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -975,6 +1025,11 @@
         "surface": "in your house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -1072,6 +1127,11 @@
         "surface": "in whole",
         "lemma": "gadol",
         "strongs": "H1419"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "16": [
@@ -1109,6 +1169,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "17": [
@@ -1323,6 +1388,11 @@
         "surface": "ephod",
         "lemma": "ephod",
         "strongs": "H0646"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "19": [
@@ -1390,6 +1460,16 @@
         "surface": "and sheep",
         "lemma": "seh",
         "strongs": "H7716"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "sword",
+        "lemma": "cherev",
+        "strongs": "H2719"
       }
     ],
     "20": [
@@ -1561,6 +1641,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "tell",
+        "lemma": "nagad",
+        "strongs": "H5046"
       }
     ],
     "23": [

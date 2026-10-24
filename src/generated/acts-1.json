@@ -49,6 +49,11 @@
         "surface": "to teach",
         "lemma": "didasko",
         "strongs": "G1321"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "2": [
@@ -264,6 +269,11 @@
         "surface": "to Israel",
         "lemma": "israel",
         "strongs": "G2474"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "7": [
@@ -529,6 +539,21 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "looking",
+        "lemma": "emblepo",
+        "strongs": "G1689"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
+      },
+      {
+        "surface": "manner",
+        "lemma": "tropos",
+        "strongs": "G5158"
       }
     ],
     "12": [
@@ -688,6 +713,11 @@
         "surface": "of James",
         "lemma": "iakobos",
         "strongs": "G2385"
+      },
+      {
+        "surface": "Zealot",
+        "lemma": "zelotes_g2208",
+        "strongs": "G2208"
       }
     ],
     "14": [
@@ -777,6 +807,16 @@
         "surface": "said",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "number",
+        "lemma": "ochlos",
+        "strongs": "G3793"
+      },
+      {
+        "surface": "names",
+        "lemma": "onoma",
+        "strongs": "G3686"
       }
     ],
     "16": [
@@ -854,6 +894,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "foretold",
+        "lemma": "prolego",
+        "strongs": "G4302"
       }
     ],
     "17": [
@@ -876,6 +921,11 @@
         "surface": "ministry",
         "lemma": "diakonia",
         "strongs": "G1248"
+      },
+      {
+        "surface": "share",
+        "lemma": "kleros",
+        "strongs": "G2819"
       }
     ],
     "18": [
@@ -1151,6 +1201,11 @@
         "surface": "resurrection",
         "lemma": "anastasis",
         "strongs": "G0386"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "23": [
@@ -1225,6 +1280,11 @@
         "surface": "You have chosen",
         "lemma": "eklego",
         "strongs": "G1586"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "25": [
@@ -1262,6 +1322,11 @@
         "surface": "rightful",
         "lemma": "idios",
         "strongs": "G2398"
+      },
+      {
+        "surface": "place",
+        "lemma": "topos",
+        "strongs": "G5117"
       },
       {
         "surface": "place",

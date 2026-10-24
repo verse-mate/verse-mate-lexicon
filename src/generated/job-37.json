@@ -56,6 +56,11 @@
         "surface": "from His mouth",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "completely",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "3": [
@@ -228,6 +233,11 @@
       {
         "surface": "downpour",
         "lemma": "matar",
+        "strongs": "H4306"
+      },
+      {
+        "surface": "rains",
+        "lemma": "matar_h4306",
         "strongs": "H4306"
       }
     ],

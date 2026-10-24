@@ -74,6 +74,11 @@
         "surface": "for a sheep",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "2": [
@@ -158,6 +163,16 @@
         "surface": "for his theft",
         "lemma": "genevah",
         "strongs": "H1591"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
+      },
+      {
+        "surface": "make restitution",
+        "lemma": "salem_h7999",
+        "strongs": "H7999"
       }
     ],
     "4": [
@@ -205,6 +220,16 @@
         "surface": "double",
         "lemma": "shenayim",
         "strongs": "H8147"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
+      },
+      {
+        "surface": "thing stolen",
+        "lemma": "genevah",
+        "strongs": "H1591"
       }
     ],
     "5": [
@@ -272,6 +297,11 @@
         "surface": "or vineyard",
         "lemma": "kerem",
         "strongs": "H3754"
+      },
+      {
+        "surface": "best",
+        "lemma": "metav",
+        "strongs": "H4315"
       }
     ],
     "6": [
@@ -328,6 +358,11 @@
       {
         "surface": "must make full restitution",
         "lemma": "salem",
+        "strongs": "H7999"
+      },
+      {
+        "surface": "make compensation",
+        "lemma": "salem_h7999",
         "strongs": "H7999"
       }
     ],
@@ -463,6 +498,11 @@
         "surface": "property",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "9": [
@@ -704,6 +744,11 @@
         "surface": "restitution",
         "lemma": "salem",
         "strongs": "H7999"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "12": [
@@ -768,6 +813,11 @@
         "surface": "for the torn carcass",
         "lemma": "terephah",
         "strongs": "H2966"
+      },
+      {
+        "surface": "torn in pieces",
+        "lemma": "taraph",
+        "strongs": "H2963"
       }
     ],
     "14": [
@@ -810,6 +860,11 @@
         "surface": "he must make full restitution",
         "lemma": "salem",
         "strongs": "H7999"
+      },
+      {
+        "surface": "make restitution",
+        "lemma": "salem_h7999",
+        "strongs": "H7999"
       }
     ],
     "15": [
@@ -847,6 +902,11 @@
         "surface": "the fee covers the loss",
         "lemma": "sakhar",
         "strongs": "H7939"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "16": [
@@ -889,6 +949,11 @@
         "surface": "to be his wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "pay bride-price",
+        "lemma": "mahar_h4117",
+        "strongs": "H4117"
       }
     ],
     "17": [
@@ -931,6 +996,11 @@
         "surface": "of a virgin",
         "lemma": "betulah",
         "strongs": "H1330"
+      },
+      {
+        "surface": "refuse",
+        "lemma": "maen",
+        "strongs": "H3985"
       }
     ],
     "18": [
@@ -968,6 +1038,11 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -1108,6 +1183,16 @@
         "surface": "their cry",
         "lemma": "tsaaqah",
         "strongs": "H6818"
+      },
+      {
+        "surface": "afflict",
+        "lemma": "anah_h6031",
+        "strongs": "H6031"
+      },
+      {
+        "surface": "hear",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "24": [
@@ -1239,6 +1324,16 @@
         "surface": "sunset",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "take as pledge",
+        "lemma": "chaval",
+        "strongs": "H2254"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "27": [
@@ -1464,6 +1559,11 @@
         "surface": "to the dogs",
         "lemma": "kelev",
         "strongs": "H3611"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ]
   }

@@ -141,6 +141,21 @@
         "surface": "report",
         "lemma": "dibbah",
         "strongs": "H1681"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "youth",
+        "lemma": "naar_h5288",
+        "strongs": "H5288"
       }
     ],
     "3": [
@@ -282,6 +297,16 @@
         "surface": "even more",
         "lemma": "yasaph",
         "strongs": "H3254"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "6": [
@@ -299,6 +324,11 @@
         "surface": "dream I had",
         "lemma": "chalam",
         "strongs": "H2492"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "7": [
@@ -398,6 +428,21 @@
         "surface": "and his statements",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "reign",
+        "lemma": "malakh_h4427",
+        "strongs": "H4427"
+      },
+      {
+        "surface": "rule",
+        "lemma": "mashal",
+        "strongs": "H4910"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "9": [
@@ -460,6 +505,26 @@
         "surface": "were bowing down",
         "lemma": "shachah",
         "strongs": "H7812"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "another",
+        "lemma": "acher",
+        "strongs": "H0312"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "10": [
@@ -532,6 +597,11 @@
         "surface": "to the ground",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
       }
     ],
     "11": [
@@ -710,6 +780,11 @@
         "surface": "in Shechem",
         "lemma": "shekhem",
         "strongs": "H7927"
+      },
+      {
+        "surface": "welfare",
+        "lemma": "shalom",
+        "strongs": "H7965"
       }
     ],
     "15": [
@@ -747,6 +822,16 @@
         "surface": "are you looking for",
         "lemma": "baqash",
         "strongs": "H1245"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -905,6 +990,11 @@
         "surface": "another",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "dreams",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "20": [
@@ -1257,6 +1347,16 @@
         "surface": "to Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "saw",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "26": [
@@ -1428,6 +1528,16 @@
         "surface": "to Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "brought up",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
       }
     ],
     "29": [
@@ -1465,6 +1575,11 @@
         "surface": "his clothes",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "pit",
+        "lemma": "bor_h0953",
+        "strongs": "H0953"
       }
     ],
     "30": [
@@ -1492,6 +1607,16 @@
         "surface": "is gone",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "where",
+        "lemma": "an_h0575",
+        "strongs": "H0575"
+      },
+      {
+        "surface": "going",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "31": [
@@ -1534,6 +1659,11 @@
         "surface": "in its blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "32": [
@@ -1591,6 +1721,11 @@
         "surface": "not",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "brought",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "33": [
@@ -1636,6 +1771,11 @@
       },
       {
         "surface": "has surely been torn to pieces",
+        "lemma": "taraph",
+        "strongs": "H2963"
+      },
+      {
+        "surface": "torn to pieces",
         "lemma": "taraph",
         "strongs": "H2963"
       }
@@ -1757,6 +1897,11 @@
         "surface": "wept",
         "lemma": "bakhah",
         "strongs": "H1058"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "36": [

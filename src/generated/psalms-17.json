@@ -456,6 +456,11 @@
         "surface": "in ambush",
         "lemma": "mistar",
         "strongs": "H4565"
+      },
+      {
+        "surface": "likeness",
+        "lemma": "dimyon",
+        "strongs": "H1825"
       }
     ],
     "13": [
@@ -580,6 +585,11 @@
         "surface": "to their children",
         "lemma": "olel",
         "strongs": "H5768"
+      },
+      {
+        "surface": "treasured",
+        "lemma": "tsaphan",
+        "strongs": "H6845"
       }
     ],
     "15": [
@@ -612,6 +622,18 @@
         "surface": "in Your presence",
         "lemma": "temunah",
         "strongs": "H8544"
+      }
+    ],
+    "0": [
+      {
+        "surface": "prayer",
+        "lemma": "tephillah",
+        "strongs": "H8605"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

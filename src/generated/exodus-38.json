@@ -173,6 +173,16 @@
         "surface": "and firepans",
         "lemma": "machtah",
         "strongs": "H4289"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "4": [
@@ -220,6 +230,11 @@
         "surface": "up from the bottom",
         "lemma": "mattah",
         "strongs": "H4295"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "5": [
@@ -393,6 +408,16 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "bronze",
+        "lemma": "nechoshet",
+        "strongs": "H5178"
+      },
+      {
+        "surface": "served",
+        "lemma": "tsava",
+        "strongs": "H6633"
       }
     ],
     "9": [
@@ -445,6 +470,11 @@
         "surface": "linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "south",
+        "lemma": "teman",
+        "strongs": "H8486"
       }
     ],
     "10": [
@@ -695,6 +725,11 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "15": [
@@ -742,6 +777,21 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
+      },
+      {
+        "surface": "courtyard",
+        "lemma": "chatser",
+        "strongs": "H2691"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -846,6 +896,11 @@
         "surface": "with silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "pillars",
+        "lemma": "ammud",
+        "strongs": "H5982"
       }
     ],
     "18": [
@@ -938,6 +993,21 @@
         "surface": "high",
         "lemma": "qomah",
         "strongs": "H6967"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "breadth",
+        "lemma": "rochav",
+        "strongs": "H7341"
       }
     ],
     "19": [
@@ -990,6 +1060,11 @@
         "surface": "of their tops",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "20": [
@@ -1218,6 +1293,11 @@
         "surface": "and fine linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "24": [
@@ -1285,6 +1365,31 @@
         "surface": "shekel",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "gold",
+        "lemma": "zahav",
+        "strongs": "H2091"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       }
     ],
     "25": [
@@ -1332,6 +1437,26 @@
         "surface": "shekel",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
       }
     ],
     "26": [
@@ -1409,6 +1534,36 @@
         "surface": "men",
         "lemma": "chamishshim",
         "strongs": "H2572"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "27": [
@@ -1523,6 +1678,26 @@
         "surface": "and supplied bands",
         "lemma": "chashaq",
         "strongs": "H2836"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
       }
     ],
     "29": [
@@ -1555,6 +1730,16 @@
         "surface": "shekels",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "30": [
@@ -1674,6 +1859,16 @@
         "surface": "courtyard",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "courtyard",
+        "lemma": "chatser",
+        "strongs": "H2691"
+      },
+      {
+        "surface": "tent pegs",
+        "lemma": "yated",
+        "strongs": "H3489"
       }
     ]
   }

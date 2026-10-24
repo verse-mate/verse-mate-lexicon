@@ -116,6 +116,11 @@
         "surface": "months",
         "lemma": "men",
         "strongs": "G3376"
+      },
+      {
+        "surface": "two",
+        "lemma": "duo",
+        "strongs": "G1417"
       }
     ],
     "3": [
@@ -158,6 +163,16 @@
         "surface": "sackcloth",
         "lemma": "sakkos",
         "strongs": "G4526"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "diakosioi",
+        "strongs": "G1250"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "hexekonta",
+        "strongs": "G1835"
       }
     ],
     "4": [
@@ -448,6 +463,11 @@
         "surface": "was also crucified",
         "lemma": "stauroo",
         "strongs": "G4717"
+      },
+      {
+        "surface": "street",
+        "lemma": "platus",
+        "strongs": "G4116"
       }
     ],
     "9": [
@@ -959,6 +979,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "four",
+        "lemma": "tessares",
+        "strongs": "G5064"
       }
     ],
     "17": [
@@ -1190,6 +1215,11 @@
         "surface": "hailstorm",
         "lemma": "chalaza",
         "strongs": "G5464"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ]
   }

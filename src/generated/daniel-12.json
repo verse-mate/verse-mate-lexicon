@@ -114,6 +114,11 @@
         "surface": "will be delivered",
         "lemma": "malat",
         "strongs": "H4422"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "2": [
@@ -270,6 +275,11 @@
         "surface": "will increase",
         "lemma": "ravah",
         "strongs": "H7235"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
       }
     ],
     "5": [
@@ -332,6 +342,16 @@
         "surface": "bank",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
+      },
+      {
+        "surface": "River",
+        "lemma": "yeor",
+        "strongs": "H2975"
       }
     ],
     "6": [
@@ -585,6 +605,11 @@
         "surface": "of the end",
         "lemma": "qets",
         "strongs": "H7093"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
       }
     ],
     "10": [
@@ -642,6 +667,11 @@
         "surface": "will understand",
         "lemma": "bin",
         "strongs": "H0995"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "11": [
@@ -684,6 +714,16 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
       }
     ],
     "12": [
@@ -711,6 +751,26 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "hundreds",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "13": [

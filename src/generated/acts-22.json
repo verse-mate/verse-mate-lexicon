@@ -71,6 +71,11 @@
         "surface": "Paul declared",
         "lemma": "phemi",
         "strongs": "G5346"
+      },
+      {
+        "surface": "language",
+        "lemma": "dialektos",
+        "strongs": "G1258"
       }
     ],
     "3": [
@@ -168,6 +173,11 @@
         "surface": "today",
         "lemma": "semeron",
         "strongs": "G4594"
+      },
+      {
+        "surface": "man",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "4": [
@@ -690,6 +700,16 @@
         "surface": "His voice",
         "lemma": "phone",
         "strongs": "G5456"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ],
     "15": [
@@ -717,6 +737,11 @@
         "surface": "heard",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "16": [
@@ -796,6 +821,11 @@
         "surface": "a trance",
         "lemma": "ekstasis",
         "strongs": "G1611"
+      },
+      {
+        "surface": "falling",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "18": [
@@ -838,6 +868,11 @@
         "surface": "testimony",
         "lemma": "marturia",
         "strongs": "G3141"
+      },
+      {
+        "surface": "seeing",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "19": [
@@ -1038,6 +1073,11 @@
         "surface": "air",
         "lemma": "aer",
         "strongs": "G0109"
+      },
+      {
+        "surface": "casting off",
+        "lemma": "rhipto",
+        "strongs": "G4496"
       }
     ],
     "24": [
@@ -1345,6 +1385,11 @@
         "surface": "a Roman citizen {in chains",
         "lemma": "rhomaios",
         "strongs": "G4514"
+      },
+      {
+        "surface": "Immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "30": [
@@ -1422,6 +1467,11 @@
         "surface": "and had him stand",
         "lemma": "histemi",
         "strongs": "G2476"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ]
   }

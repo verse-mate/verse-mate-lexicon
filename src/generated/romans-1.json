@@ -93,6 +93,11 @@
         "surface": "the flesh",
         "lemma": "sarx",
         "strongs": "G4561"
+      },
+      {
+        "surface": "seed",
+        "lemma": "sperma",
+        "strongs": "G4690"
       }
     ],
     "4": [
@@ -333,6 +338,11 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "First",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "9": [
@@ -459,6 +469,11 @@
         "surface": "strengthen",
         "lemma": "sterizo",
         "strongs": "G4741"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "12": [
@@ -649,6 +664,11 @@
         "surface": "to the Greek",
         "lemma": "hellen",
         "strongs": "G1672"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "17": [
@@ -1248,6 +1268,11 @@
         "surface": "ought not to be done",
         "lemma": "katheko",
         "strongs": "G2520"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "epignosis",
+        "strongs": "G1922"
       }
     ],
     "29": [
@@ -1441,6 +1466,11 @@
         "surface": "practice them",
         "lemma": "prasso",
         "strongs": "G4238"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ]
   }

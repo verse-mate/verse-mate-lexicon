@@ -101,6 +101,16 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "herd",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "3": [
@@ -158,6 +168,21 @@
         "surface": "for a burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "4": [
@@ -324,6 +349,11 @@
         "surface": "may appear",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "7": [
@@ -604,6 +634,11 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "12": [
@@ -1215,6 +1250,11 @@
         "surface": "and fell",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ]
   }

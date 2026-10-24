@@ -64,6 +64,11 @@
         "surface": "crossing over",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -173,6 +178,11 @@
         "surface": "it",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -250,6 +260,16 @@
         "surface": "before",
         "lemma": "temol",
         "strongs": "H8543"
+      },
+      {
+        "surface": "measurement",
+        "lemma": "middah",
+        "strongs": "H4060"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "5": [
@@ -374,6 +394,11 @@
         "surface": "of them",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "7": [
@@ -493,6 +518,16 @@
         "surface": "in the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Jordan",
+        "lemma": "yarden",
+        "strongs": "H3383"
       }
     ],
     "9": [
@@ -540,6 +575,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -617,6 +657,11 @@
         "surface": "and Jebusites",
         "lemma": "yevusi",
         "strongs": "H2983"
+      },
+      {
+        "surface": "dispossess",
+        "lemma": "yarash",
+        "strongs": "H3423"
       }
     ],
     "11": [
@@ -701,6 +746,21 @@
         "surface": "from each tribe",
         "lemma": "shevet",
         "strongs": "H7626"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "13": [
@@ -798,6 +858,16 @@
         "surface": "heap",
         "lemma": "ned",
         "strongs": "H5067"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "14": [
@@ -855,6 +925,11 @@
         "surface": "them",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "tents",
+        "lemma": "hoel",
+        "strongs": "H0168"
       }
     ],
     "15": [
@@ -932,6 +1007,16 @@
         "surface": "edge",
         "lemma": "qatseh",
         "strongs": "H7097"
+      },
+      {
+        "surface": "bearers",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
+      },
+      {
+        "surface": "ark",
+        "lemma": "aron",
+        "strongs": "H0727"
       }
     ],
     "16": [
@@ -1029,6 +1114,26 @@
         "surface": "Jericho",
         "lemma": "yericho",
         "strongs": "H3405"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
+      },
+      {
+        "surface": "heap",
+        "lemma": "ned",
+        "strongs": "H5067"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
       }
     ],
     "17": [

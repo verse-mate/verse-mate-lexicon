@@ -64,6 +64,26 @@
         "surface": "foreheads",
         "lemma": "metopon",
         "strongs": "G3359"
+      },
+      {
+        "surface": "looked",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "forty",
+        "lemma": "tessarakonta",
+        "strongs": "G5062"
+      },
+      {
+        "surface": "four",
+        "lemma": "tessares",
+        "strongs": "G5064"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "chilias",
+        "strongs": "G5505"
       }
     ],
     "2": [
@@ -208,6 +228,21 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "four",
+        "lemma": "tessares",
+        "strongs": "G5064"
+      },
+      {
+        "surface": "forty",
+        "lemma": "tessarakonta",
+        "strongs": "G5062"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "chilias",
+        "strongs": "G5505"
       }
     ],
     "4": [
@@ -384,6 +419,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -975,6 +1015,11 @@
         "surface": "hand",
         "lemma": "cheir",
         "strongs": "G5495"
+      },
+      {
+        "surface": "looked",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -1258,6 +1303,11 @@
         "surface": "are ripe",
         "lemma": "akmazo",
         "strongs": "G0187"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -1372,6 +1422,11 @@
         "surface": "stadia",
         "lemma": "stadios",
         "strongs": "G4712"
+      },
+      {
+        "surface": "six hundred",
+        "lemma": "hexakosioi",
+        "strongs": "G1812"
       }
     ]
   }

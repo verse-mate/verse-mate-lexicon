@@ -118,6 +118,11 @@
         "surface": "a second time",
         "lemma": "sheni",
         "strongs": "H8145"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -170,6 +175,11 @@
         "surface": "of the rocks",
         "lemma": "sela",
         "strongs": "H5553"
+      },
+      {
+        "surface": "loins",
+        "lemma": "moten",
+        "strongs": "H4975"
       }
     ],
     "5": [
@@ -343,6 +353,11 @@
         "surface": "came",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -691,6 +706,11 @@
         "surface": "with wine",
         "lemma": "yayin",
         "strongs": "H3196"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "13": [
@@ -1051,6 +1071,16 @@
         "surface": "has been taken captive",
         "lemma": "shavah",
         "strongs": "H7617"
+      },
+      {
+        "surface": "utterly",
+        "lemma": "dama",
+        "strongs": "H1830"
+      },
+      {
+        "surface": "weep",
+        "lemma": "dama",
+        "strongs": "H1830"
       }
     ],
     "18": [
@@ -1516,6 +1546,11 @@
         "surface": "unclean",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "yet",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ]
   }

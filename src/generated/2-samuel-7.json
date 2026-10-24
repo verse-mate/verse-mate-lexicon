@@ -304,6 +304,11 @@
         "surface": "as My dwelling",
         "lemma": "mishkan",
         "strongs": "H4908"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -386,6 +391,26 @@
         "surface": "of cedar",
         "lemma": "erez",
         "strongs": "H0730"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -535,6 +560,11 @@
         "surface": "in the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "10": [
@@ -773,6 +803,11 @@
         "surface": "of his kingdom",
         "lemma": "mamlakhah",
         "strongs": "H4467"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "14": [
@@ -909,6 +944,11 @@
         "surface": "established",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "17": [
@@ -1090,6 +1130,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "manner",
+        "lemma": "torah_h8452",
+        "strongs": "H8452"
       }
     ],
     "20": [
@@ -1132,6 +1177,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "21": [
@@ -1221,6 +1271,11 @@
         "surface": "with our own ears",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "23": [
@@ -1328,6 +1383,11 @@
         "surface": "from Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "24": [
@@ -1360,6 +1420,16 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "25": [
@@ -1412,6 +1482,11 @@
         "surface": "You have promised",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "26": [
@@ -1479,6 +1554,11 @@
         "surface": "before You",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "27": [
@@ -1551,6 +1631,16 @@
         "surface": "prayer",
         "lemma": "tephillah",
         "strongs": "H8605"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "28": [
@@ -1680,6 +1770,11 @@
         "surface": "will be blessed forever",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

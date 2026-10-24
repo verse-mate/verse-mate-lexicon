@@ -252,6 +252,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "speak",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "6": [
@@ -391,6 +396,11 @@
         "surface": "was divided",
         "lemma": "schizo",
         "strongs": "G4977"
+      },
+      {
+        "surface": "saying",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "8": [
@@ -515,6 +525,11 @@
         "surface": "has spoken",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -577,6 +592,16 @@
         "surface": "barracks",
         "lemma": "parembole",
         "strongs": "G3925"
+      },
+      {
+        "surface": "Paul",
+        "lemma": "paulos",
+        "strongs": "G3972"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "11": [
@@ -686,6 +711,16 @@
         "surface": "Paul",
         "lemma": "paulos",
         "strongs": "G3972"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
+      },
+      {
+        "surface": "declaring",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "13": [
@@ -713,6 +748,11 @@
         "surface": "plot",
         "lemma": "sunomosia",
         "strongs": "G4945"
+      },
+      {
+        "surface": "more",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "14": [
@@ -817,6 +857,21 @@
         "surface": "to kill",
         "lemma": "anaireo",
         "strongs": "G0337"
+      },
+      {
+        "surface": "about",
+        "lemma": "mello",
+        "strongs": "G3195"
+      },
+      {
+        "surface": "more earnestly",
+        "lemma": "akribesteron",
+        "strongs": "G0197"
+      },
+      {
+        "surface": "drawing near",
+        "lemma": "engizo",
+        "strongs": "G1448"
       }
     ],
     "16": [
@@ -864,6 +919,11 @@
         "surface": "Paul",
         "lemma": "paulos",
         "strongs": "G3972"
+      },
+      {
+        "surface": "having entered",
+        "lemma": "eiserchomai",
+        "strongs": "G1525"
       }
     ],
     "17": [
@@ -973,6 +1033,11 @@
         "surface": "to tell",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "lead",
+        "lemma": "ago",
+        "strongs": "G0071"
       }
     ],
     "19": [
@@ -1077,6 +1142,16 @@
         "surface": "more information",
         "lemma": "akribos",
         "strongs": "G0199"
+      },
+      {
+        "surface": "about",
+        "lemma": "mello",
+        "strongs": "G3195"
+      },
+      {
+        "surface": "more earnestly",
+        "lemma": "akribesteron",
+        "strongs": "G0197"
       }
     ],
     "21": [
@@ -1149,6 +1224,11 @@
         "surface": "consent",
         "lemma": "epangelia",
         "strongs": "G1860"
+      },
+      {
+        "surface": "more",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "22": [
@@ -1317,6 +1397,16 @@
         "surface": "letter",
         "lemma": "epistole",
         "strongs": "G1992"
+      },
+      {
+        "surface": "having",
+        "lemma": "echo",
+        "strongs": "G2192"
+      },
+      {
+        "surface": "form",
+        "lemma": "tupos",
+        "strongs": "G5179"
       }
     ],
     "26": [
@@ -1569,6 +1659,11 @@
         "surface": "Antipatris",
         "lemma": "antipatris",
         "strongs": "G0494"
+      },
+      {
+        "surface": "brought",
+        "lemma": "ago",
+        "strongs": "G0071"
       }
     ],
     "32": [

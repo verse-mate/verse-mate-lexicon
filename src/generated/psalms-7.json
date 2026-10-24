@@ -682,6 +682,48 @@
         "lemma": "elyon",
         "strongs": "H5945"
       }
+    ],
+    "0": [
+      {
+        "surface": "Shiggaion",
+        "lemma": "shiggavon",
+        "strongs": "H7692"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "sang",
+        "lemma": "shir",
+        "strongs": "H7891"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "Cush",
+        "lemma": "kush",
+        "strongs": "H3568"
+      },
+      {
+        "surface": "Ben-",
+        "lemma": "benymini",
+        "strongs": "H1145"
+      },
+      {
+        "surface": "jaminite",
+        "lemma": "benymini",
+        "strongs": "H1145"
+      }
     ]
   }
 }

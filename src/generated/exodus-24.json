@@ -208,6 +208,11 @@
         "surface": "we will do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -290,6 +295,16 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "5": [
@@ -342,6 +357,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "6": [
@@ -389,6 +409,11 @@
         "surface": "the altar",
         "lemma": "mizbeach",
         "strongs": "H4196"
+      },
+      {
+        "surface": "blood",
+        "lemma": "dam",
+        "strongs": "H1818"
       }
     ],
     "7": [
@@ -446,6 +471,11 @@
         "surface": "and we will be obedient",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "8": [
@@ -602,6 +632,11 @@
         "surface": "as the sky itself",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "substance",
+        "lemma": "etsem",
+        "strongs": "H6106"
       }
     ],
     "11": [
@@ -649,6 +684,11 @@
         "surface": "and drank",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "12": [
@@ -758,6 +798,11 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "14": [
@@ -805,6 +850,11 @@
         "surface": "can go",
         "lemma": "nagash",
         "strongs": "H5066"
+      },
+      {
+        "surface": "master",
+        "lemma": "baal_h1167",
+        "strongs": "H1167"
       }
     ],
     "15": [
@@ -832,6 +882,11 @@
         "surface": "covered it",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "mountain",
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "16": [
@@ -956,6 +1011,11 @@
         "surface": "of the Israelites",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "mountain",
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "18": [
@@ -1018,6 +1078,11 @@
         "surface": "nights",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "midst",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ]
   }

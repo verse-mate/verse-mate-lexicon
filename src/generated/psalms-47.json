@@ -59,6 +59,11 @@
         "surface": "of triumph",
         "lemma": "rinnah",
         "strongs": "H7440"
+      },
+      {
+        "surface": "peoples",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "2": [
@@ -251,6 +256,11 @@
         "surface": "sing to Him a psalm of praise",
         "lemma": "zamar",
         "strongs": "H2167"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
       }
     ],
     "8": [
@@ -345,6 +355,28 @@
         "surface": "exalted",
         "lemma": "alah",
         "strongs": "H5927"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

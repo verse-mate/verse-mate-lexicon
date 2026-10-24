@@ -114,6 +114,16 @@
         "surface": "of the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "eastern",
+        "lemma": "qadmoni",
+        "strongs": "H6931"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "2": [
@@ -703,6 +713,16 @@
         "surface": "to a complete end",
         "lemma": "kalah",
         "strongs": "H3617"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -807,6 +827,11 @@
         "surface": "as a possession",
         "lemma": "morashah",
         "strongs": "H4181"
+      },
+      {
+        "surface": "redemption",
+        "lemma": "geullah",
+        "strongs": "H1353"
       }
     ],
     "16": [
@@ -1060,6 +1085,11 @@
         "surface": "of flesh",
         "lemma": "basar",
         "strongs": "H1320"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "20": [
@@ -1159,6 +1189,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "22": [
@@ -1305,6 +1340,11 @@
         "surface": "had gone up",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "seen",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "25": [
@@ -1332,6 +1372,11 @@
         "surface": "had shown me",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

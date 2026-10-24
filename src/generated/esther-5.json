@@ -109,6 +109,11 @@
         "surface": "entrance",
         "lemma": "petach",
         "strongs": "H6607"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "2": [
@@ -315,6 +320,11 @@
         "surface": "I have prepared",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "5": [
@@ -471,6 +481,11 @@
         "surface": "and my request",
         "lemma": "baqqashah",
         "strongs": "H1246"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -573,6 +588,11 @@
         "surface": "question",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "9": [
@@ -707,6 +727,11 @@
         "surface": "Zeresh",
         "lemma": "zeresh",
         "strongs": "H2238"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "11": [
@@ -769,6 +794,11 @@
         "surface": "and servants",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "12": [
@@ -1010,6 +1040,11 @@
         "surface": "constructed",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ]
   }

@@ -69,6 +69,11 @@
         "surface": "at Horeb",
         "lemma": "chorev",
         "strongs": "H2722"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -149,6 +154,11 @@
       },
       {
         "surface": "his land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
       }
@@ -282,6 +292,16 @@
         "surface": "wear out",
         "lemma": "balah",
         "strongs": "H1086"
+      },
+      {
+        "surface": "wore out",
+        "lemma": "balah",
+        "strongs": "H1086"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "6": [
@@ -433,6 +453,11 @@
         "surface": "of Manasseh",
         "lemma": "menashshi",
         "strongs": "H4520"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "9": [
@@ -621,6 +646,16 @@
         "surface": "and into His oath",
         "lemma": "alah",
         "strongs": "H0423"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "13": [
@@ -747,6 +782,11 @@
         "surface": "here today",
         "lemma": "poh",
         "strongs": "H6311"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "16": [
@@ -1149,6 +1189,11 @@
         "surface": "of the Law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "22": [
@@ -1226,6 +1271,11 @@
         "surface": "has inflicted",
         "lemma": "chalah",
         "strongs": "H2470"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1318,6 +1368,16 @@
         "surface": "in His fierce anger",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "sown",
+        "lemma": "zara_h2232",
+        "strongs": "H2232"
+      },
+      {
+        "surface": "rage",
+        "lemma": "chemah_h2534",
+        "strongs": "H2534"
       }
     ],
     "24": [
@@ -1630,6 +1690,11 @@
         "surface": "law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

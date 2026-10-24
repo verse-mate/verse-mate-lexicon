@@ -193,6 +193,16 @@
         "surface": "time",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "sought favor",
+        "lemma": "chanan",
+        "strongs": "H2603"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "4": [
@@ -337,6 +347,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "6": [
@@ -496,6 +511,11 @@
         "surface": "peoples",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "8": [
@@ -809,6 +829,16 @@
         "surface": "desire",
         "lemma": "chephets",
         "strongs": "H2656"
+      },
+      {
+        "surface": "Hiram",
+        "lemma": "chiram",
+        "strongs": "H2438"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "12": [
@@ -940,6 +970,11 @@
         "surface": "of gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
       }
     ],
     "15": [
@@ -1158,6 +1193,11 @@
         "surface": "of Judah",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Tadmor",
+        "lemma": "tadmor",
+        "strongs": "H8412"
       }
     ],
     "19": [
@@ -1235,6 +1275,21 @@
         "surface": "of his dominion",
         "lemma": "memshalah",
         "strongs": "H4475"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "desired",
+        "lemma": "chashaq",
+        "strongs": "H2836"
       }
     ],
     "20": [
@@ -1287,6 +1342,11 @@
         "surface": "Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "21": [
@@ -1344,6 +1404,21 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "22": [
@@ -1463,6 +1538,16 @@
         "surface": "the work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "24": [
@@ -1753,6 +1838,21 @@
         "surface": "Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ]
   }

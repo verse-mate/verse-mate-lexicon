@@ -262,6 +262,16 @@
         "surface": "people",
         "lemma": "demos",
         "strongs": "G1218"
+      },
+      {
+        "surface": "men",
+        "lemma": "aner",
+        "strongs": "G0435"
+      },
+      {
+        "surface": "city",
+        "lemma": "polis",
+        "strongs": "G4172"
       }
     ],
     "6": [
@@ -757,6 +767,11 @@
         "surface": "soon as possible",
         "lemma": "tachista",
         "strongs": "G5033"
+      },
+      {
+        "surface": "quickly as possible",
+        "lemma": "tachus",
+        "strongs": "G5036"
       }
     ],
     "16": [
@@ -933,6 +948,11 @@
         "surface": "resurrection",
         "lemma": "anastasis",
         "strongs": "G0386"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -985,6 +1005,11 @@
         "surface": "are presenting",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "Hill",
+        "lemma": "areiospagos",
+        "strongs": "G0697"
       }
     ],
     "20": [
@@ -1126,6 +1151,11 @@
         "surface": "very religious",
         "lemma": "deisidaimon",
         "strongs": "G1174"
+      },
+      {
+        "surface": "Hill",
+        "lemma": "areiospagos",
+        "strongs": "G0697"
       }
     ],
     "23": [
@@ -1354,6 +1384,11 @@
         "surface": "lands",
         "lemma": "katoikia",
         "strongs": "G2733"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "27": [
@@ -1730,6 +1765,11 @@
         "surface": "others",
         "lemma": "heteros",
         "strongs": "G2087"
+      },
+      {
+        "surface": "men",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ]
   }

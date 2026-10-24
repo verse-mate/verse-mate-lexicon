@@ -414,6 +414,33 @@
         "surface": "will be shut",
         "lemma": "sakhar",
         "strongs": "H5534"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "sheqer",
+        "strongs": "H8267"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "wilderness",
+        "lemma": "midbar",
+        "strongs": "H4057"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ]
   }

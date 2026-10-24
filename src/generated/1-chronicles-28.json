@@ -236,6 +236,11 @@
         "surface": "to build it",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "3": [
@@ -576,6 +581,11 @@
         "surface": "as is being done",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "8": [
@@ -673,6 +683,16 @@
         "surface": "to your descendants",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "9": [
@@ -795,6 +815,11 @@
         "surface": "forever",
         "lemma": "ad",
         "strongs": "H5703"
+      },
+      {
+        "surface": "complete",
+        "lemma": "shalem",
+        "strongs": "H8003"
       }
     ],
     "10": [
@@ -1110,6 +1135,26 @@
         "surface": "of service",
         "lemma": "avodah",
         "strongs": "H5656"
+      },
+      {
+        "surface": "gold",
+        "lemma": "zahav",
+        "strongs": "H2091"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "service",
+        "lemma": "avodah",
+        "strongs": "H5656"
+      },
+      {
+        "surface": "service",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "15": [
@@ -1182,6 +1227,21 @@
         "surface": "of each lampstand",
         "lemma": "menorah",
         "strongs": "H4501"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
       }
     ],
     "16": [
@@ -1214,6 +1274,16 @@
         "surface": "for the silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "tables",
+        "lemma": "shulchan",
+        "strongs": "H7979"
+      },
+      {
+        "surface": "table",
+        "lemma": "shulchan",
+        "strongs": "H7979"
       },
       {
         "surface": "tables",
@@ -1271,6 +1341,26 @@
         "surface": "of each silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "bowl",
+        "lemma": "kephor",
+        "strongs": "H3713"
+      },
+      {
+        "surface": "bowl",
+        "lemma": "kephor",
+        "strongs": "H3713"
+      },
+      {
+        "surface": "bowls",
+        "lemma": "kephor",
+        "strongs": "H3713"
+      },
+      {
+        "surface": "bowl",
+        "lemma": "kephor",
+        "strongs": "H3713"
       },
       {
         "surface": "bowl",
@@ -1589,6 +1679,11 @@
         "surface": "command",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "service",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ]
   }

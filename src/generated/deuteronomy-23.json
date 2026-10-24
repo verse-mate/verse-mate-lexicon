@@ -39,6 +39,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "crushing",
+        "lemma": "dakkah",
+        "strongs": "H1795"
       }
     ],
     "2": [
@@ -81,6 +86,21 @@
         "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "assembly",
+        "lemma": "qahal_h6951",
+        "strongs": "H6951"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
@@ -128,6 +148,26 @@
         "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "assembly",
+        "lemma": "qahal_h6951",
+        "strongs": "H6951"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "4": [
@@ -205,6 +245,11 @@
         "surface": "to curse you",
         "lemma": "qalal",
         "strongs": "H7043"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "5": [
@@ -304,6 +349,16 @@
         "surface": "as long as you live",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "7": [
@@ -425,6 +480,11 @@
         "surface": "thing",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "camp",
+        "lemma": "machaneh",
+        "strongs": "H4264"
       }
     ],
     "10": [
@@ -477,6 +537,16 @@
         "surface": "outside",
         "lemma": "chuts",
         "strongs": "H2351"
+      },
+      {
+        "surface": "camp",
+        "lemma": "machaneh",
+        "strongs": "H4264"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "11": [
@@ -519,6 +589,11 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "12": [
@@ -551,6 +626,11 @@
         "surface": "and relieve yourself",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "outside",
+        "lemma": "chuts",
+        "strongs": "H2351"
       }
     ],
     "13": [
@@ -593,6 +673,16 @@
         "surface": "your excrement",
         "lemma": "tsaah",
         "strongs": "H6627"
+      },
+      {
+        "surface": "outside",
+        "lemma": "chuts",
+        "strongs": "H2351"
+      },
+      {
+        "surface": "turn",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "14": [
@@ -712,6 +802,11 @@
         "surface": "if he has taken refuge",
         "lemma": "natsal",
         "strongs": "H5337"
+      },
+      {
+        "surface": "master",
+        "lemma": "adon",
+        "strongs": "H0113"
       }
     ],
     "16": [
@@ -796,6 +891,16 @@
         "surface": "a shrine prostitute",
         "lemma": "qadesh",
         "strongs": "H6945"
+      },
+      {
+        "surface": "female cult prostitute",
+        "lemma": "qedeshah",
+        "strongs": "H6948"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -868,6 +973,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "hire",
+        "lemma": "mechir",
+        "strongs": "H4242"
       }
     ],
     "19": [
@@ -915,6 +1025,16 @@
         "surface": "type of loan",
         "lemma": "nashakh",
         "strongs": "H5391"
+      },
+      {
+        "surface": "interest",
+        "lemma": "neshekh",
+        "strongs": "H5392"
+      },
+      {
+        "surface": "interest",
+        "lemma": "neshekh",
+        "strongs": "H5392"
       }
     ],
     "20": [
@@ -982,6 +1102,11 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "charge interest",
+        "lemma": "nashakh",
+        "strongs": "H5391"
       }
     ],
     "21": [
@@ -1034,6 +1159,21 @@
         "surface": "guilty of sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "pay",
+        "lemma": "salem_h7999",
+        "strongs": "H7999"
+      },
+      {
+        "surface": "require",
+        "lemma": "darash",
+        "strongs": "H1875"
       }
     ],
     "22": [

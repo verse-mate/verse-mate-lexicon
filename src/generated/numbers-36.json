@@ -89,6 +89,31 @@
         "surface": "and addressed them",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "fathers",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
@@ -176,6 +201,11 @@
         "surface": "to his daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -253,6 +283,21 @@
         "surface": "would be taken away",
         "lemma": "gara",
         "strongs": "H1639"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "wives",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "inheritance",
+        "lemma": "nachalah",
+        "strongs": "H5159"
       }
     ],
     "4": [
@@ -315,6 +360,21 @@
         "surface": "of our fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "inheritance",
+        "lemma": "nachalah",
+        "strongs": "H5159"
+      },
+      {
+        "surface": "inheritance",
+        "lemma": "nachalah",
+        "strongs": "H5159"
       }
     ],
     "5": [
@@ -367,6 +427,16 @@
         "surface": "correctly",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -424,6 +494,31 @@
         "surface": "of their father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "wives",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "wives",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "7": [
@@ -491,6 +586,11 @@
         "surface": "of his fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [
@@ -573,6 +673,16 @@
         "surface": "of his fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "9": [
@@ -719,6 +829,11 @@
         "surface": "father’s side",
         "lemma": "dod",
         "strongs": "H1730"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "12": [
@@ -776,6 +891,11 @@
         "surface": "clan",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "wives",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "13": [
@@ -833,6 +953,11 @@
         "surface": "across from Jericho",
         "lemma": "yericho",
         "strongs": "H3405"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

@@ -311,6 +311,11 @@
         "surface": "spring rains",
         "lemma": "opsimos",
         "strongs": "G3797"
+      },
+      {
+        "surface": "receive",
+        "lemma": "lambano",
+        "strongs": "G2983"
       }
     ],
     "8": [
@@ -489,6 +494,11 @@
         "surface": "mercy",
         "lemma": "oiktirmon",
         "strongs": "G3629"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "12": [
@@ -657,6 +667,11 @@
         "surface": "he will be forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "sins",
+        "lemma": "hamartia",
+        "strongs": "G0266"
       }
     ],
     "16": [
@@ -771,6 +786,16 @@
         "surface": "years",
         "lemma": "eniautos",
         "strongs": "G1763"
+      },
+      {
+        "surface": "prayed",
+        "lemma": "proseuchomai",
+        "strongs": "G4336"
+      },
+      {
+        "surface": "months",
+        "lemma": "men",
+        "strongs": "G3376"
       }
     ],
     "18": [

@@ -59,6 +59,11 @@
         "surface": "in times of trouble",
         "lemma": "batstsarah",
         "strongs": "H6869"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "2": [
@@ -101,6 +106,11 @@
         "surface": "of the seas",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "3": [
@@ -385,6 +395,11 @@
         "surface": "in the fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
       }
     ],
     "10": [
@@ -454,6 +469,33 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "alamoth",
+        "lemma": "alamot",
+        "strongs": "H5961"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
       }
     ]
   }

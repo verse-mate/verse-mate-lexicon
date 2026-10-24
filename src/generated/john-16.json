@@ -519,6 +519,11 @@
         "surface": "you will see",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "17": [
@@ -586,6 +591,11 @@
         "surface": "Father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "18": [
@@ -628,6 +638,16 @@
         "surface": "He is saying",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "says",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "19": [
@@ -690,6 +710,16 @@
         "surface": "you will see",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "20": [
@@ -1202,6 +1232,16 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "31": [

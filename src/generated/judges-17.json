@@ -198,6 +198,16 @@
         "surface": "return it",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "consecrate",
+        "lemma": "qadash",
+        "strongs": "H6942"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "4": [
@@ -332,6 +342,16 @@
         "surface": "priest",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "6": [
@@ -493,6 +513,11 @@
         "surface": "of Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "journey",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "9": [
@@ -669,6 +694,11 @@
         "surface": "son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Levite",
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "12": [
@@ -716,6 +746,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "13": [

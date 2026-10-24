@@ -66,6 +66,16 @@
         "surface": "unwashed",
         "lemma": "aniptos",
         "strongs": "G0449"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "bread",
+        "lemma": "artos",
+        "strongs": "G0740"
       }
     ],
     "3": [
@@ -237,6 +247,16 @@
         "surface": "hands",
         "lemma": "cheir",
         "strongs": "G5495"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
+      },
+      {
+        "surface": "bread",
+        "lemma": "artos",
+        "strongs": "G0740"
       }
     ],
     "6": [
@@ -400,6 +420,11 @@
         "surface": "tradition",
         "lemma": "paradosis",
         "strongs": "G3862"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -605,6 +630,11 @@
         "surface": "understand",
         "lemma": "suniemi",
         "strongs": "G4920"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -778,6 +808,11 @@
         "surface": "are clean",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "sewer",
+        "lemma": "aphedron",
+        "strongs": "G0856"
       }
     ],
     "20": [
@@ -805,6 +840,11 @@
         "surface": "him",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "21": [
@@ -899,6 +939,16 @@
         "surface": "and foolishness",
         "lemma": "aphrosune",
         "strongs": "G0877"
+      },
+      {
+        "surface": "adulteries",
+        "lemma": "moicheia",
+        "strongs": "G3430"
+      },
+      {
+        "surface": "evil",
+        "lemma": "poneros",
+        "strongs": "G4190"
       }
     ],
     "23": [
@@ -1149,6 +1199,16 @@
         "surface": "dogs",
         "lemma": "kunarion",
         "strongs": "G2952"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "28": [
@@ -1186,6 +1246,11 @@
         "surface": "crumbs",
         "lemma": "psichion",
         "strongs": "G5589"
+      },
+      {
+        "surface": "says",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "29": [
@@ -1307,6 +1372,16 @@
         "surface": "of the Decapolis",
         "lemma": "dekapolis",
         "strongs": "G1179"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "32": [
@@ -1386,6 +1461,11 @@
         "surface": "tongue",
         "lemma": "glossa",
         "strongs": "G1100"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "34": [
@@ -1497,6 +1577,16 @@
         "surface": "they proclaimed it",
         "lemma": "kerusso",
         "strongs": "G2784"
+      },
+      {
+        "surface": "more",
+        "lemma": "mallon",
+        "strongs": "G3123"
+      },
+      {
+        "surface": "excessive",
+        "lemma": "perissoteron",
+        "strongs": "G4054"
       }
     ],
     "37": [

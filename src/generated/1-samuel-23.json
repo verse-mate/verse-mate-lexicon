@@ -39,6 +39,11 @@
         "surface": "the threshing floors",
         "lemma": "goren",
         "strongs": "H1637"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -111,6 +116,11 @@
         "surface": "Keilah",
         "lemma": "qeilah",
         "strongs": "H7084"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -225,6 +235,16 @@
         "surface": "into your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -602,6 +622,11 @@
         "surface": "the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "heard",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "11": [
@@ -818,6 +843,16 @@
         "surface": "to go forth",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "went about",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "14": [
@@ -895,6 +930,11 @@
         "surface": "into his hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "dwelt",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "15": [
@@ -1252,6 +1292,16 @@
         "surface": "into your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "come down",
+        "lemma": "yarad",
+        "strongs": "H3381"
       }
     ],
     "21": [
@@ -1335,6 +1385,21 @@
       {
         "surface": "is extremely cunning",
         "lemma": "aram",
+        "strongs": "H6191"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
+      },
+      {
+        "surface": "crafty",
+        "lemma": "aram_h6191",
         "strongs": "H6191"
       }
     ],
@@ -1557,6 +1622,16 @@
         "surface": "there",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "Maon",
+        "lemma": "maon_h4584",
+        "strongs": "H4584"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "26": [
@@ -1639,6 +1714,21 @@
         "surface": "to capture them",
         "lemma": "taphas",
         "strongs": "H8610"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "mountain",
+        "lemma": "har",
+        "strongs": "H2022"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "27": [
@@ -1743,6 +1833,16 @@
         "surface": "Sela-hammahlekoth",
         "lemma": "selahammachleqot",
         "strongs": "H5555"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "29": [

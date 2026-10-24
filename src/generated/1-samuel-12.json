@@ -585,6 +585,11 @@
         "surface": "who fought",
         "lemma": "lacham",
         "strongs": "H3898"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "10": [
@@ -781,6 +786,11 @@
         "surface": "was your king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "13": [
@@ -952,6 +962,16 @@
         "surface": "as it was against your fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "listen",
+        "lemma": "shama",
+        "strongs": "H8085"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "16": [
@@ -1240,6 +1260,11 @@
         "surface": "a king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "20": [
@@ -1317,6 +1342,16 @@
         "surface": "your heart",
         "lemma": "levav",
         "strongs": "H3824"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "nevertheless",
+        "lemma": "akh",
+        "strongs": "H0389"
       }
     ],
     "21": [
@@ -1527,6 +1562,11 @@
         "surface": "will be swept away",
         "lemma": "saphah",
         "strongs": "H5595"
+      },
+      {
+        "surface": "evil",
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ]
   }

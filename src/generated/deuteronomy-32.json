@@ -274,6 +274,11 @@
         "surface": "and established you",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "wise",
+        "lemma": "chakham_h2450",
+        "strongs": "H2450"
       }
     ],
     "7": [
@@ -715,6 +720,11 @@
         "surface": "the wine",
         "lemma": "chemer",
         "strongs": "H2561"
+      },
+      {
+        "surface": "Bashan",
+        "lemma": "bashan",
+        "strongs": "H1316"
       }
     ],
     "15": [
@@ -856,6 +866,16 @@
         "surface": "fear",
         "lemma": "saar",
         "strongs": "H8175"
+      },
+      {
+        "surface": "near",
+        "lemma": "qarov",
+        "strongs": "H7138"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "18": [
@@ -1437,6 +1457,11 @@
         "surface": "had given them up",
         "lemma": "sagar",
         "strongs": "H5462"
+      },
+      {
+        "surface": "in-",
+        "lemma": "lo",
+        "strongs": "H3808"
       }
     ],
     "31": [
@@ -1511,6 +1536,11 @@
         "surface": "bitter",
         "lemma": "merorah",
         "strongs": "H4846"
+      },
+      {
+        "surface": "grapes",
+        "lemma": "enav",
+        "strongs": "H6025"
       }
     ],
     "33": [
@@ -1966,6 +1996,11 @@
         "surface": "leaders",
         "lemma": "pera",
         "strongs": "H6545"
+      },
+      {
+        "surface": "leaders",
+        "lemma": "parah_h6546",
+        "strongs": "H6546"
       }
     ],
     "43": [
@@ -2241,6 +2276,16 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "48": [
@@ -2268,6 +2313,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "49": [
@@ -2345,6 +2395,11 @@
         "surface": "as their own possession",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "50": [
@@ -2469,6 +2524,21 @@
         "surface": "presence",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Kadesh",
+        "lemma": "qadesh_h6946",
+        "strongs": "H6946"
       }
     ],
     "52": [
@@ -2506,6 +2576,16 @@
         "surface": "enter",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

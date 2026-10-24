@@ -257,6 +257,11 @@
         "surface": "to the poor",
         "lemma": "ptochos",
         "strongs": "G4434"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "6": [
@@ -358,6 +363,11 @@
         "surface": "have",
         "lemma": "echo",
         "strongs": "G2192"
+      },
+      {
+        "surface": "always",
+        "lemma": "pantote",
+        "strongs": "G3842"
       }
     ],
     "9": [
@@ -425,6 +435,16 @@
         "surface": "the dead",
         "lemma": "nekros",
         "strongs": "G3498"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "10": [
@@ -884,6 +904,16 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "22": [
@@ -921,6 +951,16 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "come",
+        "lemma": "erchomai",
+        "strongs": "G2064"
+      },
+      {
+        "surface": "Philip",
+        "lemma": "philippos",
+        "strongs": "G5376"
       }
     ],
     "23": [
@@ -958,6 +998,11 @@
         "surface": "to be glorified",
         "lemma": "doxazo",
         "strongs": "G1392"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "24": [
@@ -1265,6 +1310,16 @@
         "surface": "had spoken",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "30": [
@@ -1388,6 +1443,11 @@
         "surface": "to die",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "34": [
@@ -1557,6 +1617,11 @@
         "surface": "he is going",
         "lemma": "hupago",
         "strongs": "G5217"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "36": [
@@ -1698,6 +1763,11 @@
         "surface": "been revealed",
         "lemma": "apokalupto",
         "strongs": "G0601"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "39": [
@@ -1777,6 +1847,11 @@
         "surface": "I would heal",
         "lemma": "iaomai",
         "strongs": "G2390"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "41": [
@@ -1804,6 +1879,11 @@
         "surface": "spoke",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "42": [
@@ -1900,6 +1980,11 @@
         "surface": "sent",
         "lemma": "pempo",
         "strongs": "G3992"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "45": [
@@ -2147,6 +2232,11 @@
         "surface": "to say",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ]
   }

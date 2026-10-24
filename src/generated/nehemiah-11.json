@@ -320,6 +320,11 @@
         "surface": "of Perez",
         "lemma": "perets",
         "strongs": "H6557"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "5": [
@@ -444,6 +449,21 @@
         "surface": "of valor",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "7": [
@@ -553,6 +573,21 @@
         "surface": "928 men",
         "lemma": "tesah",
         "strongs": "H8672"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "9": [
@@ -791,6 +826,21 @@
         "surface": "of Malchijah",
         "lemma": "malkiyyah",
         "strongs": "H4441"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "13": [
@@ -858,6 +908,16 @@
         "surface": "of Immer",
         "lemma": "immer",
         "strongs": "H0564"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "14": [
@@ -900,6 +960,16 @@
         "surface": "was their overseer",
         "lemma": "paqid",
         "strongs": "H6496"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "15": [
@@ -1096,6 +1166,11 @@
         "surface": "of Jeduthun",
         "lemma": "yedutun",
         "strongs": "H3038"
+      },
+      {
+        "surface": "beginning",
+        "lemma": "techillah",
+        "strongs": "H8462"
       }
     ],
     "18": [
@@ -1123,6 +1198,16 @@
         "surface": "284",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "19": [
@@ -1160,6 +1245,16 @@
         "surface": "172 men",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "20": [
@@ -1368,6 +1463,11 @@
         "surface": "activities",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
@@ -1482,6 +1582,16 @@
         "surface": "and their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
       }
     ],
     "26": [
@@ -1747,6 +1857,11 @@
         "surface": "of the Craftsmen",
         "lemma": "charashim",
         "strongs": "H2798"
+      },
+      {
+        "surface": "craftsmen",
+        "lemma": "charash_h2796",
+        "strongs": "H2796"
       }
     ],
     "36": [

@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,11 @@
         "surface": "continually",
         "lemma": "tamid",
         "strongs": "H8548"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -237,6 +247,16 @@
         "surface": "loaf",
         "lemma": "challah",
         "strongs": "H2471"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "6": [
@@ -373,6 +393,26 @@
         "surface": "covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
+      },
+      {
+        "surface": "continually",
+        "lemma": "tamid",
+        "strongs": "H8548"
       }
     ],
     "9": [
@@ -502,6 +542,21 @@
         "surface": "and an Israelite",
         "lemma": "yisreli",
         "strongs": "H3481"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israelite",
+        "lemma": "yisreli",
+        "strongs": "H3481"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "11": [
@@ -623,6 +678,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -722,6 +782,21 @@
         "surface": "of his sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "16": [
@@ -784,6 +859,16 @@
         "surface": "he must be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "stone",
+        "lemma": "ragam",
+        "strongs": "H7275"
       }
     ],
     "17": [
@@ -804,6 +889,21 @@
       },
       {
         "surface": "he must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -838,6 +938,11 @@
         "surface": "life",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "19": [
@@ -865,6 +970,11 @@
         "surface": "must be done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "blemish",
+        "lemma": "mum",
+        "strongs": "H3971"
       }
     ],
     "20": [
@@ -932,6 +1042,11 @@
         "surface": "must be inflicted",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "blemish",
+        "lemma": "mum",
+        "strongs": "H3971"
       }
     ],
     "21": [
@@ -1073,6 +1188,16 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

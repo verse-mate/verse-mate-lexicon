@@ -270,6 +270,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -486,6 +491,21 @@
         "surface": "of Iddo",
         "lemma": "iddo",
         "strongs": "H5714"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -652,6 +672,11 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -714,6 +739,11 @@
         "surface": "and tranquil",
         "lemma": "shaqat",
         "strongs": "H8252"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -776,6 +806,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
+      },
+      {
+        "surface": "compassion",
+        "lemma": "racham",
+        "strongs": "H7355"
       }
     ],
     "13": [
@@ -813,6 +853,11 @@
         "surface": "who was speaking",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "14": [
@@ -880,6 +925,11 @@
         "surface": "and Zion",
         "lemma": "tsiyyon",
         "strongs": "H6726"
+      },
+      {
+        "surface": "jealousy",
+        "lemma": "qinah_h7068",
+        "strongs": "H7068"
       }
     ],
     "15": [
@@ -917,6 +967,16 @@
         "surface": "the calamity",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
+      },
+      {
+        "surface": "angry",
+        "lemma": "qatsaph",
+        "strongs": "H7107"
       }
     ],
     "16": [
@@ -994,6 +1054,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "measuring-line",
+        "lemma": "qav_h6957",
+        "strongs": "H6957"
       }
     ],
     "17": [
@@ -1081,6 +1146,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1103,6 +1173,11 @@
         "surface": "horns",
         "lemma": "qeren",
         "strongs": "H7161"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "19": [
@@ -1294,6 +1369,11 @@
         "surface": "to scatter it",
         "lemma": "zarah",
         "strongs": "H2219"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ]
   }

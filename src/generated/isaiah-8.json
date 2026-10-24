@@ -49,6 +49,21 @@
         "surface": "Maher-shalal-hash-baz",
         "lemma": "mahershalalchashbaz",
         "strongs": "H4122"
+      },
+      {
+        "surface": "Shalal-",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
+      },
+      {
+        "surface": "Hash-",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
+      },
+      {
+        "surface": "Baz",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
       }
     ],
     "2": [
@@ -141,6 +156,21 @@
       },
       {
         "surface": "Maher-shalal-hash-baz",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
+      },
+      {
+        "surface": "Shalal-",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
+      },
+      {
+        "surface": "Hash-",
+        "lemma": "mahershalalchashbaz",
+        "strongs": "H4122"
+      },
+      {
+        "surface": "Baz",
         "lemma": "mahershalalchashbaz",
         "strongs": "H4122"
       }
@@ -237,6 +267,11 @@
         "surface": "further",
         "lemma": "od",
         "strongs": "H5750"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -361,6 +396,11 @@
         "surface": "its banks",
         "lemma": "gadah",
         "strongs": "H1415"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "8": [
@@ -423,6 +463,11 @@
         "surface": "O Immanuel",
         "lemma": "immanuel",
         "strongs": "H6005"
+      },
+      {
+        "surface": "wings",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
       }
     ],
     "9": [
@@ -569,6 +614,11 @@
         "surface": "people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [

@@ -356,6 +356,11 @@
         "surface": "Salmone",
         "lemma": "salmone",
         "strongs": "G4534"
+      },
+      {
+        "surface": "difficulty",
+        "lemma": "molis",
+        "strongs": "G3433"
       }
     ],
     "8": [
@@ -460,6 +465,11 @@
         "surface": "advised them",
         "lemma": "paraineo",
         "strongs": "G3867"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "10": [
@@ -522,6 +532,16 @@
         "surface": "lives",
         "lemma": "psuche",
         "strongs": "G5590"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "11": [
@@ -725,6 +745,11 @@
         "surface": "swept",
         "lemma": "ballo",
         "strongs": "G0906"
+      },
+      {
+        "surface": "wind",
+        "lemma": "anemos",
+        "strongs": "G0417"
       }
     ],
     "15": [
@@ -799,6 +824,16 @@
         "surface": "lifeboat",
         "lemma": "skaphe",
         "strongs": "G4627"
+      },
+      {
+        "surface": "difficulty",
+        "lemma": "molis",
+        "strongs": "G3433"
+      },
+      {
+        "surface": "control",
+        "lemma": "perikrates",
+        "strongs": "G4031"
       }
     ],
     "17": [
@@ -1049,6 +1084,16 @@
         "surface": "loss",
         "lemma": "zemia",
         "strongs": "G2209"
+      },
+      {
+        "surface": "that time",
+        "lemma": "tote",
+        "strongs": "G5119"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "22": [
@@ -1086,6 +1131,11 @@
         "surface": "ship",
         "lemma": "ploion",
         "strongs": "G4143"
+      },
+      {
+        "surface": "none",
+        "lemma": "oudeis",
+        "strongs": "G3762"
       }
     ],
     "23": [
@@ -1276,6 +1326,16 @@
         "surface": "land",
         "lemma": "chora",
         "strongs": "G5561"
+      },
+      {
+        "surface": "night",
+        "lemma": "nux",
+        "strongs": "G3571"
+      },
+      {
+        "surface": "come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "28": [
@@ -1328,6 +1388,11 @@
         "surface": "fathoms",
         "lemma": "orguia",
         "strongs": "G3712"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "29": [
@@ -1375,6 +1440,16 @@
         "surface": "daybreak",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "places",
+        "lemma": "topos",
+        "strongs": "G5117"
+      },
+      {
+        "surface": "come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "30": [
@@ -1432,6 +1507,11 @@
         "surface": "sea",
         "lemma": "thalassa",
         "strongs": "G2281"
+      },
+      {
+        "surface": "about",
+        "lemma": "mello",
+        "strongs": "G3195"
       }
     ],
     "31": [
@@ -1568,6 +1648,36 @@
         "surface": "without taking any food",
         "lemma": "proslambano",
         "strongs": "G4355"
+      },
+      {
+        "surface": "about",
+        "lemma": "mello",
+        "strongs": "G3195"
+      },
+      {
+        "surface": "come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "food",
+        "lemma": "trophe",
+        "strongs": "G5160"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "without eating",
+        "lemma": "asitos",
+        "strongs": "G0777"
+      },
+      {
+        "surface": "nothing",
+        "lemma": "medeis",
+        "strongs": "G3367"
       }
     ],
     "34": [
@@ -1610,6 +1720,11 @@
         "surface": "will be lost",
         "lemma": "apolluo",
         "strongs": "G0622"
+      },
+      {
+        "surface": "food",
+        "lemma": "trophe",
+        "strongs": "G5160"
       }
     ],
     "35": [
@@ -1657,6 +1772,11 @@
         "surface": "to eat",
         "lemma": "esthio",
         "strongs": "G2068"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "36": [
@@ -1711,6 +1831,16 @@
         "surface": "board",
         "lemma": "ploion",
         "strongs": "G4143"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "hebdomekonta",
+        "strongs": "G1440"
+      },
+      {
+        "surface": "six",
+        "lemma": "hex",
+        "strongs": "G1803"
       }
     ],
     "38": [
@@ -1743,6 +1873,11 @@
         "surface": "sea",
         "lemma": "thalassa",
         "strongs": "G2281"
+      },
+      {
+        "surface": "food",
+        "lemma": "trophe",
+        "strongs": "G5160"
       }
     ],
     "39": [
@@ -1934,6 +2069,11 @@
         "surface": "waves",
         "lemma": "kuma",
         "strongs": "G2949"
+      },
+      {
+        "surface": "between two seas",
+        "lemma": "dithalassos",
+        "strongs": "G1337"
       }
     ],
     "42": [
@@ -2070,6 +2210,11 @@
         "surface": "land",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "came to pass that",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ]
   }

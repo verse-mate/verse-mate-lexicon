@@ -32,9 +32,6 @@ WHAT THIS SCRIPT DOES
   gloss) is never touched, so the script is idempotent and safe to re-run
   after every `build.py` regeneration.
 
-  Alias lists that were written for the displaced sense (STALE_ALIASES) are
-  removed from `_aliases.json`.
-
   Afterwards run `bun run build:light` so `_lemmas-light.json` (what
   mobile renders from) carries the same glosses.
 
@@ -47,31 +44,14 @@ from __future__ import annotations
 
 import argparse
 import json
-import re
 import sys
-import urllib.parse
-import urllib.request
 from collections import Counter, defaultdict
 from pathlib import Path
 
+from step_data import base_strongs, iter_tagged_words, parse_lexicons
+
 HERE = Path(__file__).resolve().parent
 LEMMAS_JSON = HERE.parent / 'src' / 'generated' / '_lemmas.json'
-ALIASES_JSON = HERE.parent / 'src' / 'generated' / '_aliases.json'
-CACHE_DIR = HERE / '.step-cache'
-
-STEP_RAW = 'https://raw.githubusercontent.com/STEPBible/STEPBible-Data/master/'
-LEXICON_FILES = [
-    'Lexicons/TBESH - Translators Brief lexicon of Extended Strongs for Hebrew - STEPBible.org CC BY.txt',
-    'Lexicons/TBESG - Translators Brief lexicon of Extended Strongs for Greek - STEPBible.org CC BY.txt',
-]
-TAGGED_FILES = [
-    'Translators Amalgamated OT+NT/TAHOT Gen-Deu - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt',
-    'Translators Amalgamated OT+NT/TAHOT Jos-Est - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt',
-    'Translators Amalgamated OT+NT/TAHOT Job-Sng - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt',
-    'Translators Amalgamated OT+NT/TAHOT Isa-Mal - Translators Amalgamated Hebrew OT - STEPBible.org CC BY.txt',
-    'Translators Amalgamated OT+NT/TAGNT Mat-Jhn - Translators Amalgamated Greek NT - STEPBible.org CC-BY.txt',
-    'Translators Amalgamated OT+NT/TAGNT Act-Rev - Translators Amalgamated Greek NT - STEPBible.org CC-BY.txt',
-]
 
 # A first-listed row is "the wrong sense" only when it covers less than this
 # share of the word's occurrences. Below MIN_OCCURRENCES there is too little
@@ -119,19 +99,6 @@ RESET_PROSE: frozenset[str] = frozenset({
     'H8302',  # lance → armor (שִׁרְיוֹן)
 })
 
-# Alias lists generate_aliases.py wrote from the displaced sense's gloss, so
-# they match the wrong English ("garment" tokens matching "treachery"). Dropped
-# until generate_aliases.py re-runs them against the corrected entry.
-STALE_ALIASES: frozenset[str] = frozenset({
-    'H0899',  # garment ← treachery, faithless, betray
-    'H1933',  # to be ← fall, fell, befall
-    'H3895',  # jaw ← Lehi
-    'H4805',  # rebellion ← Egypt
-    'H5984',  # Ammon(ite) ← Meunite
-    'H7462',  # to shepherd ← bethel, house of eked
-    'H8336',  # linen ← alabaster
-})
-
 # STEP POS code → the display POS the lexicon uses (subset of build.py's map).
 POS_MAP = {
     'H:V': 'Verb', 'A:V': 'Verb', 'G:V': 'Verb',
@@ -143,83 +110,9 @@ POS_MAP = {
     'N:N--T': 'Proper noun (place/thing)', 'N:N--L': 'Proper noun (place/thing)',
 }
 
-STRONGS_RE = re.compile(r'^([GH])0*(\d+)')
-
-
-def base_strongs(raw: str) -> str | None:
-    m = STRONGS_RE.match((raw or '').strip())
-    return f'{m.group(1)}{m.group(2).zfill(4)}' if m else None
-
-
-def step_path(step_dir: Path | None, rel: str) -> Path:
-    if step_dir:
-        return step_dir / rel
-    dest = CACHE_DIR / Path(rel).name
-    if not dest.exists():
-        CACHE_DIR.mkdir(parents=True, exist_ok=True)
-        url = STEP_RAW + urllib.parse.quote(rel)
-        print(f'  downloading {Path(rel).name}…', file=sys.stderr)
-        urllib.request.urlretrieve(url, dest)
-    return dest
-
-
-def clean_definition(text: str) -> str:
-    """Same cleanup build.py applies to TBES definitions."""
-    text = re.sub(r'<[^>]+>', ' ', text)
-    text = re.sub(r'\s+', ' ', text).strip()
-    text = re.sub(r'^\d+[a-z]?\)\s*', '', text)
-    if len(text) > 240:
-        text = text[:237].rsplit(' ', 1)[0] + '…'
-    return text
-
-
-def parse_lexicons(step_dir: Path | None):
-    """first[base] is the row build.py kept; rows[base][ext] every listed sense."""
-    first: dict[str, dict] = {}
-    rows: dict[str, dict[str, dict]] = defaultdict(dict)
-    for rel in LEXICON_FILES:
-        with step_path(step_dir, rel).open(encoding='utf-8') as f:
-            for line in f:
-                p = line.rstrip('\n').split('\t')
-                if len(p) < 8 or not re.match(r'^[GH]\d{4}', p[0]):
-                    continue
-                m = re.match(r'([GH]\d{4}[A-Za-z]?)', p[1].strip() or p[0])
-                if not m:
-                    continue
-                row = {
-                    'ext': m.group(1),
-                    'lemma': p[3].split(',')[0].strip(),
-                    'translit': p[4].split(',')[0].strip(),
-                    'pos': p[5].strip(),
-                    'gloss': p[6].strip(),
-                    'definition': clean_definition(p[7]),
-                }
-                b = base_strongs(p[0])
-                first.setdefault(b, row)
-                rows[b].setdefault(row['ext'], row)
-    return first, rows
-
-
 def count_usage(step_dir: Path | None) -> Counter:
     """Occurrences of each extended Strong's, one per word in the source text."""
-    use: Counter = Counter()
-    for rel in TAGGED_FILES:
-        hebrew = 'TAHOT' in rel
-        with step_path(step_dir, rel).open(encoding='utf-8') as f:
-            for line in f:
-                if not re.match(r'^\w{3}\.\d+\.\d+', line):
-                    continue
-                p = line.rstrip('\n').split('\t')
-                if hebrew:
-                    # Column 4 is "H9003/{H7225G}": prefixes outside braces, the word inside.
-                    core = re.findall(r'\{(H\d{4}[A-Za-z]?)\}', p[4]) if len(p) > 4 else []
-                    if core:
-                        use[core[0]] += 1
-                elif len(p) > 5 and ('NA28' in p[5] or 'SBL' in p[5]):
-                    m = re.match(r'(G\d{4}[A-Za-z]?)', p[3])
-                    if m:
-                        use[m.group(1)] += 1
-    return use
+    return Counter(w['ext'] for w in iter_tagged_words(step_dir))
 
 
 def headline(gloss: str) -> str:
@@ -280,17 +173,6 @@ def apply(lemmas: dict, change: dict) -> None:
             entry.pop(field, None)
 
 
-def drop_stale_aliases(dry_run: bool) -> None:
-    aliases = json.loads(ALIASES_JSON.read_text(encoding='utf-8'))
-    stale = sorted(STALE_ALIASES & aliases.keys())
-    for key in stale:
-        print(f'{key} aliases dropped: {aliases[key][:6]}')
-    if stale and not dry_run:
-        for key in stale:
-            del aliases[key]
-        ALIASES_JSON.write_text(json.dumps(aliases, ensure_ascii=False, indent=2), encoding='utf-8')
-
-
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument('--dry-run', action='store_true', help='print changes; do not write')
@@ -309,7 +191,6 @@ def main() -> int:
               f"{c['old_gloss']!r} → {c['new_gloss']!r}{tag}")
     print(f'{len(changes)} entries, {sum(c["occurrences"] for c in changes):,} occurrences.')
 
-    drop_stale_aliases(args.dry_run)
     if args.dry_run or not changes:
         return 0
     for c in changes:

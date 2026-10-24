@@ -108,6 +108,21 @@
         "surface": "them all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "assembly",
+        "lemma": "qahal_h6951",
+        "strongs": "H6951"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "4": [
@@ -485,6 +500,16 @@
         "surface": "for My Name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "loins",
+        "lemma": "chalats_h2504",
+        "strongs": "H2504"
       }
     ],
     "10": [
@@ -577,6 +602,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "11": [
@@ -798,6 +828,11 @@
         "surface": "toward heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "knees",
+        "lemma": "berekh",
+        "strongs": "H1290"
       }
     ],
     "14": [
@@ -1101,6 +1136,11 @@
         "surface": "David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "18": [
@@ -1158,6 +1198,11 @@
         "surface": "I have built",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "heavens",
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "19": [
@@ -1421,6 +1466,11 @@
         "surface": "temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "swear an oath",
+        "lemma": "alah_h0422",
+        "strongs": "H0422"
       }
     ],
     "23": [
@@ -1920,6 +1970,21 @@
         "surface": "temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "30": [
@@ -2049,6 +2114,11 @@
         "surface": "to our fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "surface",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "32": [
@@ -2332,6 +2402,11 @@
         "surface": "their cause",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "heavens",
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "36": [
@@ -2786,6 +2861,11 @@
         "surface": "David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ]
   }

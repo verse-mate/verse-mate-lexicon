@@ -128,6 +128,16 @@
         "surface": "have rebelled",
         "lemma": "pasah",
         "strongs": "H6586"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "substance",
+        "lemma": "etsem",
+        "strongs": "H6106"
       }
     ],
     "4": [
@@ -175,6 +185,16 @@
         "surface": "says",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "5": [
@@ -445,6 +465,11 @@
         "surface": "was a scroll",
         "lemma": "megillah",
         "strongs": "H4039"
+      },
+      {
+        "surface": "document",
+        "lemma": "sepher",
+        "strongs": "H5612"
       }
     ],
     "10": [
@@ -487,6 +512,11 @@
         "surface": "and woe",
         "lemma": "hi",
         "strongs": "H1958"
+      },
+      {
+        "surface": "written",
+        "lemma": "katav",
+        "strongs": "H3789"
       }
     ]
   }

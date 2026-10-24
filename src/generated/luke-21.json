@@ -34,6 +34,11 @@
         "surface": "treasury",
         "lemma": "gazophulakion",
         "strongs": "G1049"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -71,6 +76,11 @@
         "surface": "small copper coins",
         "lemma": "leptos",
         "strongs": "G3016"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -155,6 +165,11 @@
         "surface": "to live on",
         "lemma": "bios",
         "strongs": "G0979"
+      },
+      {
+        "surface": "gifts",
+        "lemma": "doron",
+        "strongs": "G1435"
       }
     ],
     "5": [
@@ -266,6 +281,11 @@
         "surface": "to take place",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -323,6 +343,11 @@
         "surface": "follow",
         "lemma": "poreuo",
         "strongs": "G4198"
+      },
+      {
+        "surface": "after",
+        "lemma": "opiso",
+        "strongs": "G3694"
       }
     ],
     "9": [
@@ -370,6 +395,11 @@
         "surface": "imminent",
         "lemma": "eutheos",
         "strongs": "G2112"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "10": [
@@ -407,6 +437,11 @@
         "surface": "kingdom",
         "lemma": "basileia",
         "strongs": "G0932"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "11": [
@@ -511,6 +546,11 @@
         "surface": "governors",
         "lemma": "hegemon",
         "strongs": "G2232"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "13": [
@@ -582,6 +622,11 @@
         "surface": "contradict",
         "lemma": "antilego",
         "strongs": "G0483"
+      },
+      {
+        "surface": "reply",
+        "lemma": "anteipon",
+        "strongs": "G0471"
       }
     ],
     "16": [
@@ -707,6 +752,11 @@
         "surface": "is near",
         "lemma": "engizo",
         "strongs": "G1448"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -828,6 +878,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "womb",
+        "lemma": "gaster",
+        "strongs": "G1064"
       }
     ],
     "24": [
@@ -1051,6 +1106,11 @@
         "surface": "glory",
         "lemma": "doxa",
         "strongs": "G1391"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "28": [
@@ -1088,6 +1148,11 @@
         "surface": "is drawing near",
         "lemma": "engizo",
         "strongs": "G1448"
+      },
+      {
+        "surface": "Beginning",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "29": [
@@ -1120,6 +1185,11 @@
         "surface": "trees",
         "lemma": "dendron",
         "strongs": "G1186"
+      },
+      {
+        "surface": "Behold",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "30": [
@@ -1147,6 +1217,16 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "31": [
@@ -1184,6 +1264,11 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "32": [
@@ -1327,6 +1412,16 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "snare",
+        "lemma": "pagis",
+        "strongs": "G3803"
+      },
+      {
+        "surface": "enter",
+        "lemma": "epeiserchomai",
+        "strongs": "G6036"
       }
     ],
     "36": [
@@ -1441,6 +1536,11 @@
         "surface": "Olives",
         "lemma": "elaia",
         "strongs": "G1636"
+      },
+      {
+        "surface": "Olivet",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
       }
     ],
     "38": [

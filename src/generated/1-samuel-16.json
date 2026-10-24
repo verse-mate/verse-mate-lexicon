@@ -491,6 +491,11 @@
         "surface": "the heart",
         "lemma": "levav",
         "strongs": "H3824"
+      },
+      {
+        "surface": "stature",
+        "lemma": "qomah",
+        "strongs": "H6967"
       }
     ],
     "8": [
@@ -729,6 +734,16 @@
         "surface": "he arrives",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "Jesse",
+        "lemma": "yishay",
+        "strongs": "H3448"
+      },
+      {
+        "surface": "remains",
+        "lemma": "shaar",
+        "strongs": "H7604"
       }
     ],
     "12": [
@@ -1029,6 +1044,11 @@
         "surface": "will be well",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "17": [
@@ -1153,6 +1173,26 @@
         "surface": "and the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -1267,6 +1307,11 @@
         "surface": "David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "21": [
@@ -1309,6 +1354,16 @@
         "surface": "armor-bearer",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "22": [
@@ -1351,6 +1406,16 @@
         "surface": "him",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "favor",
+        "lemma": "chen",
+        "strongs": "H2580"
       }
     ],
     "23": [
@@ -1428,6 +1493,11 @@
         "surface": "would depart",
         "lemma": "sur",
         "strongs": "H5493"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ]
   }

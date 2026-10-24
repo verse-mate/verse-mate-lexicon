@@ -181,6 +181,11 @@
         "surface": "had set up",
         "lemma": "qum",
         "strongs": "H6966"
+      },
+      {
+        "surface": "Nebuchadnezzar",
+        "lemma": "nevukhadnetstsar_h5020",
+        "strongs": "H5020"
       }
     ],
     "3": [
@@ -273,6 +278,16 @@
         "surface": "it",
         "lemma": "tselem",
         "strongs": "H6755"
+      },
+      {
+        "surface": "set up",
+        "lemma": "qum",
+        "strongs": "H6966"
+      },
+      {
+        "surface": "Nebuchadnezzar",
+        "lemma": "nevukhadnetstsar_h5020",
+        "strongs": "H5020"
       }
     ],
     "4": [
@@ -613,6 +628,16 @@
         "surface": "the Jews",
         "lemma": "yehudai",
         "strongs": "H3062"
+      },
+      {
+        "surface": "time",
+        "lemma": "zeman_h2166",
+        "strongs": "H2166"
+      },
+      {
+        "surface": "men",
+        "lemma": "gevar_h1400",
+        "strongs": "H1400"
       }
     ],
     "9": [
@@ -645,6 +670,11 @@
         "surface": "forever",
         "lemma": "alam",
         "strongs": "H5957"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "10": [
@@ -747,6 +777,11 @@
         "surface": "statue",
         "lemma": "tselem",
         "strongs": "H6755"
+      },
+      {
+        "surface": "person",
+        "lemma": "enash",
+        "strongs": "H0606"
       }
     ],
     "11": [
@@ -891,6 +926,21 @@
         "surface": "you have set up",
         "lemma": "qum",
         "strongs": "H6966"
+      },
+      {
+        "surface": "men",
+        "lemma": "gevar_h1400",
+        "strongs": "H1400"
+      },
+      {
+        "surface": "administration",
+        "lemma": "avidah",
+        "strongs": "H5673"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum_h7761",
+        "strongs": "H7761"
       }
     ],
     "13": [
@@ -948,6 +998,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4430"
+      },
+      {
+        "surface": "brought",
+        "lemma": "atah_h0858",
+        "strongs": "H0858"
       }
     ],
     "14": [
@@ -1020,6 +1075,11 @@
         "surface": "I have set up",
         "lemma": "qum",
         "strongs": "H6966"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
       }
     ],
     "15": [
@@ -1249,6 +1309,11 @@
         "surface": "matter",
         "lemma": "pitgam",
         "strongs": "H6600"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "17": [
@@ -1306,6 +1371,11 @@
         "surface": "O king",
         "lemma": "melekh",
         "strongs": "H4430"
+      },
+      {
+        "surface": "deliver",
+        "lemma": "shezav",
+        "strongs": "H7804"
       }
     ],
     "18": [
@@ -1445,6 +1515,16 @@
         "surface": "usual",
         "lemma": "chazah",
         "strongs": "H2370"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "heat",
+        "lemma": "aza",
+        "strongs": "H0228"
       }
     ],
     "20": [
@@ -1512,6 +1592,11 @@
         "surface": "furnace",
         "lemma": "attun",
         "strongs": "H0861"
+      },
+      {
+        "surface": "men",
+        "lemma": "gevar_h1400",
+        "strongs": "H1400"
       }
     ],
     "21": [
@@ -1564,6 +1649,11 @@
         "surface": "furnace",
         "lemma": "attun",
         "strongs": "H0861"
+      },
+      {
+        "surface": "men",
+        "lemma": "gevar_h1400",
+        "strongs": "H1400"
       }
     ],
     "22": [
@@ -1641,6 +1731,11 @@
         "surface": "and Abednego",
         "lemma": "avednego",
         "strongs": "H5665"
+      },
+      {
+        "surface": "took up",
+        "lemma": "nesaq",
+        "strongs": "H5267"
       }
     ],
     "23": [
@@ -1790,6 +1885,21 @@
         "surface": "they replied",
         "lemma": "anah",
         "strongs": "H6032"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
+      },
+      {
+        "surface": "alarmed",
+        "lemma": "tevah_h8429",
+        "strongs": "H8429"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "25": [
@@ -1867,6 +1977,11 @@
         "surface": "of the gods",
         "lemma": "elah",
         "strongs": "H0426"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
       }
     ],
     "26": [
@@ -1974,6 +2089,21 @@
         "surface": "the fire",
         "lemma": "nur",
         "strongs": "H5135"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
+      },
+      {
+        "surface": "come",
+        "lemma": "atah_h0858",
+        "strongs": "H0858"
+      },
+      {
+        "surface": "midst",
+        "lemma": "gav_h1459",
+        "strongs": "H1459"
       }
     ],
     "27": [
@@ -2081,6 +2211,16 @@
         "surface": "of fire",
         "lemma": "nur",
         "strongs": "H5135"
+      },
+      {
+        "surface": "changed",
+        "lemma": "shena",
+        "strongs": "H8133"
+      },
+      {
+        "surface": "touched",
+        "lemma": "adah",
+        "strongs": "H5709"
       }
     ],
     "28": [
@@ -2193,6 +2333,16 @@
         "surface": "their own God",
         "lemma": "elah",
         "strongs": "H0426"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "gave",
+        "lemma": "yehav",
+        "strongs": "H3052"
       }
     ],
     "29": [
@@ -2305,6 +2455,16 @@
         "surface": "deliver",
         "lemma": "netsal",
         "strongs": "H5338"
+      },
+      {
+        "surface": "decree",
+        "lemma": "teem",
+        "strongs": "H2942"
+      },
+      {
+        "surface": "negligence",
+        "lemma": "shalu",
+        "strongs": "H7960"
       }
     ],
     "30": [

@@ -429,6 +429,11 @@
         "surface": "pursuits",
         "lemma": "poreia",
         "strongs": "G4197"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "12": [
@@ -711,6 +716,11 @@
         "surface": "shadow",
         "lemma": "aposkiasma",
         "strongs": "G0644"
+      },
+      {
+        "surface": "every",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "18": [
@@ -805,6 +815,16 @@
         "surface": "anger",
         "lemma": "orge",
         "strongs": "G3709"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "man",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "20": [
@@ -894,6 +914,11 @@
         "surface": "souls",
         "lemma": "psuche",
         "strongs": "G5590"
+      },
+      {
+        "surface": "humility",
+        "lemma": "praotes",
+        "strongs": "G4236"
       }
     ],
     "22": [
@@ -926,6 +951,11 @@
         "surface": "Otherwise, you are deceiving",
         "lemma": "paralogizomai",
         "strongs": "G3884"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "23": [
@@ -1072,6 +1102,11 @@
         "surface": "does",
         "lemma": "poiesis",
         "strongs": "G4162"
+      },
+      {
+        "surface": "work to be done",
+        "lemma": "poieo",
+        "strongs": "G4160"
       }
     ],
     "26": [

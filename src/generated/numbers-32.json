@@ -69,6 +69,26 @@
         "surface": "for livestock",
         "lemma": "miqneh",
         "strongs": "H4735"
+      },
+      {
+        "surface": "much",
+        "lemma": "rav",
+        "strongs": "H7227"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
@@ -114,6 +134,21 @@
       },
       {
         "surface": "and said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "saying",
         "lemma": "amar",
         "strongs": "H0559"
       }
@@ -210,6 +245,11 @@
         "surface": "have livestock",
         "lemma": "miqneh",
         "strongs": "H4735"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "5": [
@@ -319,6 +359,16 @@
         "surface": "here",
         "lemma": "poh",
         "strongs": "H6311"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "7": [
@@ -356,6 +406,16 @@
         "surface": "has given",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [
@@ -460,6 +520,16 @@
         "surface": "had given",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -574,6 +644,11 @@
         "surface": "and Jacob",
         "lemma": "yaaqov",
         "strongs": "H3290"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "12": [
@@ -765,6 +840,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "15": [
@@ -802,6 +882,11 @@
         "surface": "and you will be the cause of their destruction",
         "lemma": "shachat",
         "strongs": "H7843"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "16": [
@@ -844,6 +929,11 @@
         "surface": "for our little ones",
         "lemma": "taph",
         "strongs": "H2945"
+      },
+      {
+        "surface": "sheep",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "17": [
@@ -911,6 +1001,11 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -948,6 +1043,11 @@
         "surface": "his inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -995,6 +1095,11 @@
         "surface": "of the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "20": [
@@ -1042,6 +1147,11 @@
         "surface": "for battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1161,6 +1271,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "23": [
@@ -1245,6 +1360,11 @@
         "surface": "what you have promised",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "25": [
@@ -1287,6 +1407,21 @@
         "surface": "commands",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "26": [
@@ -1545,6 +1680,16 @@
         "surface": "as a possession",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "30": [
@@ -1629,6 +1774,21 @@
         "surface": "we will do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "32": [
@@ -1676,6 +1836,11 @@
         "surface": "of the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "possession",
+        "lemma": "achuzzah",
+        "strongs": "H0272"
       }
     ],
     "33": [
@@ -1783,6 +1948,26 @@
         "surface": "them",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "34": [
@@ -1810,6 +1995,11 @@
         "surface": "Aroer",
         "lemma": "aroer",
         "strongs": "H6177"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "35": [
@@ -1901,6 +2091,11 @@
         "surface": "Kiriathaim",
         "lemma": "qiryatayim",
         "strongs": "H7156"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "38": [
@@ -1948,6 +2143,16 @@
         "surface": "they rebuilt",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "names",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "names",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "39": [

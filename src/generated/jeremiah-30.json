@@ -24,6 +24,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,11 @@
         "surface": "I have spoken",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -346,6 +356,11 @@
         "surface": "but he will be saved",
         "lemma": "yasah",
         "strongs": "H3467"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "8": [
@@ -619,6 +634,21 @@
         "surface": "leave you unpunished",
         "lemma": "naqah",
         "strongs": "H5352"
+      },
+      {
+        "surface": "complete destruction",
+        "lemma": "kalah_h3617",
+        "strongs": "H3617"
+      },
+      {
+        "surface": "nevertheless",
+        "lemma": "akh",
+        "strongs": "H0389"
+      },
+      {
+        "surface": "leave unpunished",
+        "lemma": "naqah",
+        "strongs": "H5352"
       }
     ],
     "12": [
@@ -760,6 +790,11 @@
         "surface": "sins",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "blow",
+        "lemma": "makkah",
+        "strongs": "H4347"
       }
     ],
     "15": [
@@ -884,6 +919,16 @@
         "surface": "will be raided",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "plunder",
+        "lemma": "meshissah",
+        "strongs": "H4933"
+      },
+      {
+        "surface": "spoil",
+        "lemma": "baz",
+        "strongs": "H0957"
       }
     ],
     "17": [
@@ -1248,6 +1293,11 @@
         "surface": "of the wicked",
         "lemma": "rasah",
         "strongs": "H7563"
+      },
+      {
+        "surface": "staying as a sojourner",
+        "lemma": "garar",
+        "strongs": "H1641"
       }
     ],
     "24": [
@@ -1300,6 +1350,16 @@
         "surface": "you will understand",
         "lemma": "bin",
         "strongs": "H0995"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
+      },
+      {
+        "surface": "carried out",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ]
   }

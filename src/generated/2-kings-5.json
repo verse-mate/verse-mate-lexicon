@@ -104,6 +104,11 @@
         "surface": "but he was a leper",
         "lemma": "tsara",
         "strongs": "H6879"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
@@ -161,6 +166,11 @@
         "surface": "wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -240,6 +250,11 @@
         "surface": "had said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -342,6 +357,11 @@
         "surface": "of clothing",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "6": [
@@ -404,6 +424,11 @@
         "surface": "of his leprosy",
         "lemma": "tsaraat",
         "strongs": "H6883"
+      },
+      {
+        "surface": "comes",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "7": [
@@ -491,6 +516,11 @@
         "surface": "is seeking a quarrel",
         "lemma": "anah",
         "strongs": "H0579"
+      },
+      {
+        "surface": "only",
+        "lemma": "akh",
+        "strongs": "H0389"
       }
     ],
     "8": [
@@ -588,6 +618,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -774,6 +809,11 @@
         "surface": "my leprosy",
         "lemma": "tsara",
         "strongs": "H6879"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "12": [
@@ -851,6 +891,11 @@
         "surface": "in a rage",
         "lemma": "chemah",
         "strongs": "H2534"
+      },
+      {
+        "surface": "Amana",
+        "lemma": "amanah_h0549",
+        "strongs": "H0549"
       }
     ],
     "13": [
@@ -918,6 +963,11 @@
         "surface": "and be cleansed",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -1082,6 +1132,16 @@
         "surface": "your servant",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "16": [
@@ -1333,6 +1393,21 @@
         "surface": "matter",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Rimmon",
+        "lemma": "rimmon_h7417",
+        "strongs": "H7417"
+      },
+      {
+        "surface": "bow down",
+        "lemma": "shachah",
+        "strongs": "H7812"
       }
     ],
     "19": [
@@ -1360,6 +1435,11 @@
         "surface": "a short distance",
         "lemma": "kivrah",
         "strongs": "H3530"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "20": [
@@ -1452,6 +1532,16 @@
         "surface": "something",
         "lemma": "meumah",
         "strongs": "H3972"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "21": [
@@ -1514,6 +1604,11 @@
         "surface": "Is everything all right",
         "lemma": "shalom",
         "strongs": "H7965"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "22": [
@@ -1817,6 +1912,11 @@
         "surface": "he replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "whence",
+        "lemma": "ayin_h0370",
+        "strongs": "H0370"
       }
     ],
     "26": [
@@ -1909,6 +2009,11 @@
         "surface": "and maidservants",
         "lemma": "shiphchah",
         "strongs": "H8198"
+      },
+      {
+        "surface": "accept",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "27": [

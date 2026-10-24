@@ -96,6 +96,11 @@
         "surface": "before God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "cause",
+        "lemma": "divrah",
+        "strongs": "H1700"
       }
     ],
     "3": [
@@ -242,6 +247,11 @@
         "surface": "and procedure",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "6": [
@@ -604,6 +614,16 @@
         "surface": "evil",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "deed",
+        "lemma": "maaseh",
+        "strongs": "H4639"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -723,6 +743,11 @@
         "surface": "like a shadow",
         "lemma": "tsel",
         "strongs": "H6738"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -897,6 +922,11 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "16": [
@@ -1081,6 +1111,16 @@
         "surface": "to comprehend",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ]
   }

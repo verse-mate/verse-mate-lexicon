@@ -238,6 +238,16 @@
         "surface": "listened",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
       }
     ],
     "4": [
@@ -372,6 +382,11 @@
         "surface": "ever",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "6": [
@@ -434,6 +449,11 @@
         "surface": "harm",
         "lemma": "raa",
         "strongs": "H7489"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "7": [
@@ -630,6 +650,11 @@
         "surface": "desolation",
         "lemma": "chorbah",
         "strongs": "H2723"
+      },
+      {
+        "surface": "fetch",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "10": [
@@ -692,6 +717,11 @@
         "surface": "of the lamp",
         "lemma": "ner",
         "strongs": "H5216"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "11": [
@@ -1284,6 +1314,11 @@
         "surface": "and the Ammonites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "22": [
@@ -1326,6 +1361,11 @@
         "surface": "the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "kings",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "23": [
@@ -1427,6 +1467,16 @@
         "surface": "Media",
         "lemma": "maday",
         "strongs": "H4074"
+      },
+      {
+        "surface": "kings",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "kings",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "26": [
@@ -1504,6 +1554,11 @@
         "surface": "will drink it too",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "27": [
@@ -1648,6 +1703,11 @@
         "surface": "You most certainly must drink it",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "drink",
+        "lemma": "shatah",
+        "strongs": "H8354"
       }
     ],
     "29": [
@@ -1730,6 +1790,11 @@
         "surface": "of Hosts",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "exempt from punishment",
+        "lemma": "naqah",
+        "strongs": "H5352"
       }
     ],
     "30": [
@@ -1827,6 +1892,11 @@
         "surface": "of the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "roar",
+        "lemma": "shaag",
+        "strongs": "H7580"
       }
     ],
     "31": [
@@ -2048,6 +2118,11 @@
         "surface": "the ground",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "34": [
@@ -2226,6 +2301,11 @@
         "surface": "burning anger",
         "lemma": "charon",
         "strongs": "H2740"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "38": [

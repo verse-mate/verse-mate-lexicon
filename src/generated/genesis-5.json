@@ -49,6 +49,11 @@
         "surface": "in His own likeness",
         "lemma": "demut",
         "strongs": "H1823"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "2": [
@@ -143,6 +148,16 @@
         "surface": "Seth",
         "lemma": "shet",
         "strongs": "H8352"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "4": [
@@ -195,6 +210,16 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "5": [
@@ -227,6 +252,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "lived",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       }
     ],
     "6": [
@@ -259,6 +309,16 @@
         "surface": "Enosh",
         "lemma": "enosh",
         "strongs": "H0583"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "7": [
@@ -311,6 +371,21 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "8": [
@@ -343,6 +418,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "9": [
@@ -427,6 +527,26 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "11": [
@@ -459,6 +579,26 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "12": [
@@ -543,6 +683,21 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "14": [
@@ -575,6 +730,26 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "ten",
+        "lemma": "eser",
+        "strongs": "H6235"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "15": [
@@ -607,6 +782,16 @@
         "surface": "Jared",
         "lemma": "yered",
         "strongs": "H3382"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "16": [
@@ -659,6 +844,21 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "17": [
@@ -691,6 +891,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "18": [
@@ -723,6 +948,21 @@
         "surface": "Enoch",
         "lemma": "chanokh",
         "strongs": "H2585"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "19": [
@@ -775,6 +1015,11 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "20": [
@@ -807,6 +1052,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "21": [
@@ -839,6 +1109,11 @@
         "surface": "Methuselah",
         "lemma": "metushelach",
         "strongs": "H4968"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "22": [
@@ -896,6 +1171,11 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "23": [
@@ -923,6 +1203,31 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "24": [
@@ -987,6 +1292,21 @@
         "surface": "Lamech",
         "lemma": "lemekh",
         "strongs": "H3929"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "26": [
@@ -1039,6 +1359,26 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "27": [
@@ -1071,6 +1411,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "28": [
@@ -1103,6 +1468,21 @@
         "surface": "a son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "29": [
@@ -1155,6 +1535,11 @@
         "surface": "has cursed",
         "lemma": "arar",
         "strongs": "H0779"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "30": [
@@ -1207,6 +1592,26 @@
         "surface": "and daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "31": [
@@ -1239,6 +1644,31 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "32": [
@@ -1291,6 +1721,11 @@
         "surface": "and Japheth",
         "lemma": "yephet",
         "strongs": "H3315"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ]
   }

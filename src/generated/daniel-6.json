@@ -44,6 +44,16 @@
         "surface": "the kingdom",
         "lemma": "malkhu",
         "strongs": "H4437"
+      },
+      {
+        "surface": "kingdom",
+        "lemma": "malkhu",
+        "strongs": "H4437"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrin",
+        "strongs": "H6243"
       }
     ],
     "2": [
@@ -91,6 +101,11 @@
         "surface": "suffer loss",
         "lemma": "nezaq",
         "strongs": "H5142"
+      },
+      {
+        "surface": "giving",
+        "lemma": "yehav",
+        "strongs": "H3052"
       }
     ],
     "3": [
@@ -240,6 +255,21 @@
         "surface": "was found",
         "lemma": "shekhach",
         "strongs": "H7912"
+      },
+      {
+        "surface": "seeking",
+        "lemma": "bea",
+        "strongs": "H1156"
+      },
+      {
+        "surface": "found",
+        "lemma": "shekhach",
+        "strongs": "H7912"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol_h3606",
+        "strongs": "H3606"
       }
     ],
     "5": [
@@ -461,6 +491,11 @@
         "surface": "of lions",
         "lemma": "aryeh",
         "strongs": "H0744"
+      },
+      {
+        "surface": "petition",
+        "lemma": "bau",
+        "strongs": "H1159"
       }
     ],
     "8": [
@@ -662,6 +697,11 @@
         "surface": "he had done",
         "lemma": "avad",
         "strongs": "H5648"
+      },
+      {
+        "surface": "former time",
+        "lemma": "qadmah_h6928",
+        "strongs": "H6928"
       }
     ],
     "11": [
@@ -846,6 +886,11 @@
         "surface": "be repealed",
         "lemma": "adah",
         "strongs": "H5709"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "13": [
@@ -923,6 +968,26 @@
         "surface": "a day",
         "lemma": "yom",
         "strongs": "H3118"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "exile",
+        "lemma": "galut_h1547",
+        "strongs": "H1547"
+      },
+      {
+        "surface": "discretion",
+        "lemma": "teem",
+        "strongs": "H2942"
       }
     ],
     "14": [
@@ -985,6 +1050,11 @@
         "surface": "to rescue him",
         "lemma": "netsal",
         "strongs": "H5338"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh_h8122",
+        "strongs": "H8122"
       }
     ],
     "15": [
@@ -1144,6 +1214,11 @@
         "surface": "deliver you",
         "lemma": "shezav",
         "strongs": "H7804"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "17": [
@@ -1216,6 +1291,11 @@
         "surface": "could be changed",
         "lemma": "shena",
         "strongs": "H8133"
+      },
+      {
+        "surface": "anything",
+        "lemma": "tsevu",
+        "strongs": "H6640"
       }
     ],
     "18": [
@@ -1305,6 +1385,11 @@
         "surface": "lions",
         "lemma": "aryeh",
         "strongs": "H0744"
+      },
+      {
+        "surface": "went",
+        "lemma": "azal_h0236",
+        "strongs": "H0236"
       }
     ],
     "20": [
@@ -1392,6 +1477,26 @@
         "surface": "the lions",
         "lemma": "aryeh",
         "strongs": "H0744"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel_h1841",
+        "strongs": "H1841"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "21": [
@@ -1419,6 +1524,11 @@
         "surface": "forever",
         "lemma": "alam",
         "strongs": "H5957"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
       }
     ],
     "22": [
@@ -1563,6 +1673,16 @@
         "surface": "in his God",
         "lemma": "elah",
         "strongs": "H0426"
+      },
+      {
+        "surface": "good",
+        "lemma": "teev",
+        "strongs": "H2868"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol_h3606",
+        "strongs": "H3606"
       }
     ],
     "24": [
@@ -1665,6 +1785,16 @@
         "surface": "their bones",
         "lemma": "gerem",
         "strongs": "H1635"
+      },
+      {
+        "surface": "pieces",
+        "lemma": "qerats",
+        "strongs": "H7170"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
       }
     ],
     "25": [
@@ -1814,6 +1944,11 @@
         "surface": "will never end",
         "lemma": "soph",
         "strongs": "H5491"
+      },
+      {
+        "surface": "ever",
+        "lemma": "alam_h5957",
+        "strongs": "H5957"
       }
     ],
     "27": [

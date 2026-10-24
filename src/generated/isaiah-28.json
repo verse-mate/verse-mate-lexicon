@@ -126,6 +126,21 @@
         "surface": "to the ground",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
+      },
+      {
+        "surface": "overflowing",
+        "lemma": "shataph",
+        "strongs": "H7857"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "3": [
@@ -153,6 +168,11 @@
         "surface": "will be trampled underfoot",
         "lemma": "ramas",
         "strongs": "H7429"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "4": [
@@ -495,6 +515,11 @@
         "surface": "from the breast",
         "lemma": "shad",
         "strongs": "H7699"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "deah",
+        "strongs": "H1844"
       }
     ],
     "10": [
@@ -867,6 +892,11 @@
         "surface": "our hiding place",
         "lemma": "satar",
         "strongs": "H5641"
+      },
+      {
+        "surface": "scourge",
+        "lemma": "shot",
+        "strongs": "H7752"
       }
     ],
     "16": [
@@ -1603,6 +1633,16 @@
         "surface": "crush it",
         "lemma": "daqaq",
         "strongs": "H1854"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
+      },
+      {
+        "surface": "anyone threshes",
+        "lemma": "dush",
+        "strongs": "H1758"
       }
     ],
     "29": [

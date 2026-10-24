@@ -972,6 +972,11 @@
         "surface": "to see",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -1014,6 +1019,11 @@
         "surface": "carry it out",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "22": [
@@ -1103,6 +1113,11 @@
         "surface": "they were in great danger",
         "lemma": "kinduneuo",
         "strongs": "G2793"
+      },
+      {
+        "surface": "wind",
+        "lemma": "anemos",
+        "strongs": "G0417"
       }
     ],
     "24": [
@@ -1408,6 +1423,16 @@
         "surface": "to torture",
         "lemma": "basanizo",
         "strongs": "G0928"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "29": [
@@ -1715,6 +1740,11 @@
         "surface": "countryside",
         "lemma": "agros",
         "strongs": "G0068"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "35": [
@@ -1792,6 +1822,11 @@
         "surface": "they were afraid",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "36": [
@@ -1814,6 +1849,11 @@
         "surface": "had been healed",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "37": [
@@ -2111,6 +2151,11 @@
         "surface": "pressed around",
         "lemma": "sumpnigo",
         "strongs": "G4846"
+      },
+      {
+        "surface": "years",
+        "lemma": "etos",
+        "strongs": "G2094"
       }
     ],
     "43": [
@@ -2220,6 +2265,11 @@
         "surface": "stopped",
         "lemma": "histemi",
         "strongs": "G2476"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "45": [
@@ -2282,6 +2332,11 @@
         "surface": "pressing against",
         "lemma": "apothlibo",
         "strongs": "G0598"
+      },
+      {
+        "surface": "having touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "46": [
@@ -2314,6 +2369,11 @@
         "surface": "has gone out",
         "lemma": "exerchomai",
         "strongs": "G1831"
+      },
+      {
+        "surface": "Touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "47": [
@@ -2376,6 +2436,21 @@
         "surface": "she had immediately been healed",
         "lemma": "iaomai",
         "strongs": "G2390"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "parachrema",
+        "strongs": "G3916"
       }
     ],
     "48": [
@@ -2497,6 +2572,11 @@
         "surface": "she will be healed",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "51": [
@@ -2603,6 +2683,11 @@
         "surface": "she was dead",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "54": [
@@ -2630,6 +2715,11 @@
         "surface": "get up",
         "lemma": "egeiro",
         "strongs": "G1453"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "55": [

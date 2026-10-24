@@ -171,6 +171,11 @@
         "surface": "unfaithfulness",
         "lemma": "maal",
         "strongs": "H4604"
+      },
+      {
+        "surface": "first",
+        "lemma": "rishon",
+        "strongs": "H7223"
       }
     ],
     "3": [
@@ -424,6 +429,11 @@
         "surface": "the heavens",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "upwards",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "7": [
@@ -511,6 +521,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "8": [
@@ -608,6 +623,11 @@
         "surface": "to our eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "little",
+        "lemma": "meat",
+        "strongs": "H4592"
       }
     ],
     "9": [
@@ -834,6 +854,16 @@
         "surface": "end",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "lands",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "uncleanness",
+        "lemma": "tumah",
+        "strongs": "H2932"
       }
     ],
     "12": [
@@ -926,6 +956,16 @@
         "surface": "to your sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "13": [

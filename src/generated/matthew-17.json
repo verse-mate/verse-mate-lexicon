@@ -128,6 +128,11 @@
         "surface": "talking",
         "lemma": "sullaleo",
         "strongs": "G4814"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "4": [
@@ -314,6 +319,11 @@
         "surface": "in terror",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "7": [
@@ -346,6 +356,11 @@
         "surface": "Do not be afraid",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "having touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "8": [
@@ -368,6 +383,21 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ophthalmos",
+        "strongs": "G3788"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "alone",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "9": [
@@ -420,6 +450,11 @@
         "surface": "the dead",
         "lemma": "nekros",
         "strongs": "G3498"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -467,6 +502,16 @@
         "surface": "first",
         "lemma": "proton",
         "strongs": "G4412"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "11": [
@@ -682,6 +727,11 @@
         "surface": "water",
         "lemma": "hudor",
         "strongs": "G5204"
+      },
+      {
+        "surface": "often",
+        "lemma": "pollakis",
+        "strongs": "G4178"
       }
     ],
     "16": [
@@ -751,6 +801,11 @@
         "surface": "here",
         "lemma": "hode",
         "strongs": "G5602"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "18": [
@@ -912,6 +967,16 @@
         "surface": "will be impossible",
         "lemma": "adunateo",
         "strongs": "G0101"
+      },
+      {
+        "surface": "little faith",
+        "lemma": "oligopistia",
+        "strongs": "G6066"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "22": [
@@ -1249,6 +1314,11 @@
         "surface": "give it",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ]
   }

@@ -44,6 +44,11 @@
         "surface": "with his family",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "2": [
@@ -147,6 +152,21 @@
         "surface": "already in Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "came out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
+      },
+      {
+        "surface": "thigh",
+        "lemma": "yarekh",
+        "strongs": "H3409"
       }
     ],
     "6": [
@@ -221,6 +241,16 @@
         "surface": "was filled with them",
         "lemma": "male",
         "strongs": "H4390"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "8": [
@@ -285,6 +315,16 @@
         "surface": "and too powerful",
         "lemma": "atsum",
         "strongs": "H6099"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -394,6 +434,11 @@
         "surface": "for Pharaoh",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "slave gangs",
+        "lemma": "mas",
+        "strongs": "H4522"
       }
     ],
     "12": [
@@ -421,6 +466,16 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -438,6 +493,16 @@
         "surface": "ruthlessly",
         "lemma": "perekh",
         "strongs": "H6531"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsri",
+        "strongs": "H4713"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -557,6 +622,11 @@
         "surface": "Puah",
         "lemma": "puah",
         "strongs": "H6326"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "16": [
@@ -609,6 +679,11 @@
         "surface": "let her live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -708,6 +783,11 @@
         "surface": "live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -896,6 +976,11 @@
         "surface": "you may allow to live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ]
   }

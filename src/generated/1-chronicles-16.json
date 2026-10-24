@@ -163,6 +163,16 @@
         "surface": "and a raisin cake",
         "lemma": "ashishah",
         "strongs": "H0809"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "4": [
@@ -317,6 +327,11 @@
         "surface": "the cymbals",
         "lemma": "metselet",
         "strongs": "H4700"
+      },
+      {
+        "surface": "instruments",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "6": [
@@ -753,6 +768,11 @@
         "surface": "of your inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -807,6 +827,11 @@
         "surface": "another",
         "lemma": "acher",
         "strongs": "H0312"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "21": [
@@ -977,6 +1002,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "feared",
+        "lemma": "yare",
+        "strongs": "H3372"
       }
     ],
     "26": [
@@ -1526,6 +1556,16 @@
         "surface": "requirements",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "ark",
+        "lemma": "aron",
+        "strongs": "H0727"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "38": [
@@ -1573,6 +1613,16 @@
         "surface": "were to be gatekeepers",
         "lemma": "shoer",
         "strongs": "H7778"
+      },
+      {
+        "surface": "Edom",
+        "lemma": "ovededom",
+        "strongs": "H5654"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "39": [
@@ -1843,6 +1893,11 @@
         "surface": "his household",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ]
   }

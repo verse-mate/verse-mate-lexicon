@@ -136,6 +136,11 @@
         "surface": "for His Name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "bring",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "3": [
@@ -208,6 +213,11 @@
         "surface": "to give",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "4": [
@@ -342,6 +352,16 @@
         "surface": "and numerous",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "men",
+        "lemma": "mat",
+        "strongs": "H4962"
       }
     ],
     "6": [
@@ -602,6 +622,11 @@
         "surface": "Him",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "11": [
@@ -736,6 +761,11 @@
         "surface": "within your gates",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "tithe",
+        "lemma": "asar_h6237",
+        "strongs": "H6237"
       }
     ],
     "13": [
@@ -900,6 +930,11 @@
         "surface": "You commanded me",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "15": [

@@ -104,6 +104,11 @@
         "surface": "his land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "2": [
@@ -238,6 +243,21 @@
         "surface": "at night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "4": [
@@ -300,6 +320,16 @@
         "surface": "ready",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "5": [
@@ -389,6 +419,16 @@
         "surface": "from them",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "first",
+        "lemma": "rishon",
+        "strongs": "H7223"
       }
     ],
     "7": [
@@ -483,6 +523,11 @@
         "surface": "I have given you orders",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "9": [
@@ -694,6 +739,16 @@
         "surface": "and the city",
         "lemma": "ay",
         "strongs": "H5857"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "12": [
@@ -930,6 +985,11 @@
         "surface": "the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "15": [
@@ -1019,6 +1079,21 @@
         "surface": "the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "Ai",
+        "lemma": "ay",
+        "strongs": "H5857"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "17": [
@@ -1096,6 +1171,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "18": [
@@ -1158,6 +1238,16 @@
         "surface": "Ai",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "19": [
@@ -1220,6 +1310,16 @@
         "surface": "on fire",
         "lemma": "yatsat",
         "strongs": "H3341"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "20": [
@@ -1307,6 +1407,16 @@
         "surface": "their pursuers",
         "lemma": "radaph",
         "strongs": "H7291"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hither",
+        "lemma": "hennah",
+        "strongs": "H2008"
       }
     ],
     "21": [
@@ -1570,6 +1680,11 @@
         "surface": "to the sword as well",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "finished",
+        "lemma": "tamam",
+        "strongs": "H8552"
       }
     ],
     "25": [
@@ -1622,6 +1737,11 @@
         "surface": "of Ai",
         "lemma": "ay",
         "strongs": "H5857"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "26": [
@@ -1860,6 +1980,21 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
+      },
+      {
+        "surface": "took down",
+        "lemma": "yarad",
+        "strongs": "H3381"
       }
     ],
     "30": [
@@ -2004,6 +2139,11 @@
         "surface": "peace offerings",
         "lemma": "shelem",
         "strongs": "H8002"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "32": [
@@ -2275,6 +2415,11 @@
         "surface": "of the Law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "35": [

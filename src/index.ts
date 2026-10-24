@@ -470,15 +470,19 @@ export async function loadAlignmentFor(
   const mergeStart = mark ? now() : 0;
   const mergedVerses: ChapterAlignment['verses'] = {};
   for (const [verseStr, tokens] of Object.entries(raw.verses)) {
-    mergedVerses[Number(verseStr)] = (
-      tokens as { surface: string; lemma: string; strongs?: string }[]
-    ).map((t) => {
+    const verseTokens = tokens as { surface: string; lemma: string; strongs?: string }[];
+    // Every token's own surface in this verse. An alias equal to ANOTHER
+    // token's surface is skipped: aliases are per word, not per verse, so
+    // "son" (בֵּן) carries "people" and would otherwise claim the "people"
+    // that belongs to עַם in the same verse.
+    const ownSurfaces = new Set(verseTokens.map((t) => t.surface.toLowerCase()));
+    mergedVerses[Number(verseStr)] = verseTokens.map((t) => {
       const normStrongs = normalizeStrongs(t.strongs);
       const lemmaAliases = normStrongs ? aliases[normStrongs] : undefined;
       // Dedupe (case-insensitive) — BSB surface is often already in the
       // alias list, no point matching twice. Preserve the BSB surface
       // first so it remains the canonical anchor.
-      const seen = new Set<string>([t.surface.toLowerCase()]);
+      const seen = new Set<string>(ownSurfaces);
       const surfaces: string[] = [t.surface];
       if (lemmaAliases) {
         for (const a of lemmaAliases) {

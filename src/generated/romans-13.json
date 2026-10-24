@@ -49,6 +49,16 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
+      },
+      {
+        "surface": "above",
+        "lemma": "huperecho",
+        "strongs": "G5242"
       }
     ],
     "2": [
@@ -272,6 +282,11 @@
         "surface": "conscience",
         "lemma": "suneidesis",
         "strongs": "G4893"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "6": [
@@ -544,6 +559,11 @@
         "surface": "we {first} believed",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [

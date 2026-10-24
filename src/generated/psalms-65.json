@@ -103,6 +103,11 @@
         "surface": "our transgressions",
         "lemma": "pesah",
         "strongs": "H6588"
+      },
+      {
+        "surface": "iniquities",
+        "lemma": "avan_h5771",
+        "strongs": "H5771"
       }
     ],
     "4": [
@@ -313,6 +318,11 @@
         "surface": "shout for joy",
         "lemma": "run",
         "strongs": "H7442"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "9": [
@@ -380,6 +390,11 @@
         "surface": "for the earth",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "full",
+        "lemma": "male",
+        "strongs": "H4390"
       }
     ],
     "10": [
@@ -528,6 +543,28 @@
         "surface": "they sing",
         "lemma": "shir",
         "strongs": "H7891"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
       }
     ]
   }

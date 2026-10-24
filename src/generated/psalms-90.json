@@ -202,6 +202,11 @@
         "surface": "of the morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "sprouts up",
+        "lemma": "chalaph",
+        "strongs": "H2498"
       }
     ],
     "6": [
@@ -382,6 +387,21 @@
         "surface": "and we fly away",
         "lemma": "uph",
         "strongs": "H5774"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "strength",
+        "lemma": "gevurah",
+        "strongs": "H1369"
       }
     ],
     "11": [
@@ -621,6 +641,28 @@
         "surface": "of our hands",
         "lemma": "yad",
         "strongs": "H3027"
+      }
+    ],
+    "0": [
+      {
+        "surface": "prayer",
+        "lemma": "tephillah",
+        "strongs": "H8605"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mosheh",
+        "strongs": "H4872"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ]
   }

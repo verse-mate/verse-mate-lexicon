@@ -89,6 +89,11 @@
         "surface": "enter",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "2": [
@@ -151,6 +156,16 @@
         "surface": "instead",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "thought",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "hated",
+        "lemma": "sane",
+        "strongs": "H8130"
       }
     ],
     "3": [
@@ -270,6 +285,16 @@
         "surface": "of tails",
         "lemma": "zanav",
         "strongs": "H2180"
+      },
+      {
+        "surface": "tails",
+        "lemma": "zanav_h2180",
+        "strongs": "H2180"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "5": [
@@ -322,6 +347,11 @@
         "surface": "and olive groves",
         "lemma": "zayit",
         "strongs": "H2132"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "6": [
@@ -404,6 +434,11 @@
         "surface": "to death",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "taken",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "7": [
@@ -436,6 +471,11 @@
         "surface": "I have taken vengeance",
         "lemma": "naqam",
         "strongs": "H5358"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "8": [
@@ -483,6 +523,11 @@
         "surface": "of Etam",
         "lemma": "etam",
         "strongs": "H5862"
+      },
+      {
+        "surface": "thigh",
+        "lemma": "yarekh",
+        "strongs": "H3409"
       }
     ],
     "9": [
@@ -721,6 +766,11 @@
         "surface": "you will not kill me",
         "lemma": "paga",
         "strongs": "H6293"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "13": [
@@ -788,6 +838,21 @@
         "surface": "the rock",
         "lemma": "sela",
         "strongs": "H5553"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "bound",
+        "lemma": "asar",
+        "strongs": "H0631"
+      },
+      {
+        "surface": "kill",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "14": [
@@ -870,6 +935,11 @@
         "surface": "his hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "15": [
@@ -1108,6 +1178,11 @@
         "surface": "of the uncircumcised",
         "lemma": "arel",
         "strongs": "H6189"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1185,6 +1260,16 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "20": [

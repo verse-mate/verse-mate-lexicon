@@ -81,6 +81,11 @@
         "surface": "to many people",
         "lemma": "polus",
         "strongs": "G4183"
+      },
+      {
+        "surface": "matter",
+        "lemma": "pragma",
+        "strongs": "G4229"
       }
     ],
     "3": [
@@ -150,6 +155,11 @@
         "surface": "are grateful to them",
         "lemma": "eucharisteo",
         "strongs": "G2168"
+      },
+      {
+        "surface": "life",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "5": [
@@ -1064,6 +1074,28 @@
         "surface": "forever",
         "lemma": "aion",
         "strongs": "G0165"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
+      },
+      {
+        "surface": "Christ",
+        "lemma": "christos",
+        "strongs": "G5547"
+      }
+    ],
+    "24": [
+      {
+        "surface": "grace",
+        "lemma": "charis",
+        "strongs": "G5485"
+      },
+      {
+        "surface": "Lord",
+        "lemma": "kurios",
+        "strongs": "G2962"
       },
       {
         "surface": "Jesus",

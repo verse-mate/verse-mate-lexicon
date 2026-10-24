@@ -79,6 +79,16 @@
         "surface": "shore",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "sea",
+        "lemma": "thalassa",
+        "strongs": "G2281"
       }
     ],
     "2": [
@@ -106,6 +116,11 @@
         "surface": "He said",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -160,6 +175,11 @@
         "surface": "devoured",
         "lemma": "katesthio",
         "strongs": "G2719"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "5": [
@@ -207,6 +227,11 @@
         "surface": "the soil",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "depth",
+        "lemma": "bathos",
+        "strongs": "G0899"
       }
     ],
     "6": [
@@ -385,6 +410,11 @@
         "surface": "let him hear",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -454,6 +484,11 @@
         "surface": "parables",
         "lemma": "parabole",
         "strongs": "G3850"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "12": [
@@ -496,6 +531,11 @@
         "surface": "be forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "perceive",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -528,6 +568,11 @@
         "surface": "parables",
         "lemma": "parabole",
         "strongs": "G3850"
+      },
+      {
+        "surface": "understand you",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "14": [
@@ -733,6 +778,11 @@
         "surface": "word",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "another",
+        "lemma": "allos",
+        "strongs": "G0243"
       }
     ],
     "19": [
@@ -894,6 +944,11 @@
         "surface": "a stand",
         "lemma": "luchnia",
         "strongs": "G3087"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "22": [
@@ -995,6 +1050,11 @@
         "surface": "even more will be added",
         "lemma": "prostithemi",
         "strongs": "G4369"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "25": [
@@ -1069,6 +1129,11 @@
         "surface": "ground",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "27": [
@@ -1111,6 +1176,11 @@
         "surface": "knows",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "28": [
@@ -1163,6 +1233,16 @@
         "surface": "that ripens",
         "lemma": "pleres",
         "strongs": "G4134"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
+      },
+      {
+        "surface": "ear",
+        "lemma": "stachus",
+        "strongs": "G4719"
       }
     ],
     "29": [
@@ -1237,6 +1317,11 @@
         "surface": "shall we present",
         "lemma": "tithemi",
         "strongs": "G5087"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "31": [
@@ -1269,6 +1354,16 @@
         "surface": "sown",
         "lemma": "speiro",
         "strongs": "G4687"
+      },
+      {
+        "surface": "earth",
+        "lemma": "ge",
+        "strongs": "G1093"
+      },
+      {
+        "surface": "mustard",
+        "lemma": "sinapi",
+        "strongs": "G4615"
       },
       {
         "surface": "earth",
@@ -1341,6 +1436,11 @@
         "surface": "shade",
         "lemma": "skia",
         "strongs": "G4639"
+      },
+      {
+        "surface": "able",
+        "lemma": "dunamai",
+        "strongs": "G1410"
       }
     ],
     "33": [
@@ -1526,6 +1626,11 @@
         "surface": "was being swamped",
         "lemma": "gemizo",
         "strongs": "G1072"
+      },
+      {
+        "surface": "wind",
+        "lemma": "anemos",
+        "strongs": "G0417"
       }
     ],
     "38": [
@@ -1667,6 +1772,11 @@
         "surface": "faith",
         "lemma": "pistis",
         "strongs": "G4102"
+      },
+      {
+        "surface": "Still not",
+        "lemma": "oupo",
+        "strongs": "G3768"
       }
     ],
     "41": [
@@ -1709,6 +1819,21 @@
         "surface": "obey",
         "lemma": "hupakouo",
         "strongs": "G5219"
+      },
+      {
+        "surface": "fear",
+        "lemma": "phobos",
+        "strongs": "G5401"
+      },
+      {
+        "surface": "great",
+        "lemma": "megas",
+        "strongs": "G3173"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

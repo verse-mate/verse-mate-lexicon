@@ -342,6 +342,11 @@
         "surface": "in my youth",
         "lemma": "naur",
         "strongs": "H5271"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "6": [
@@ -384,6 +389,11 @@
         "surface": "of my friends",
         "lemma": "ahav",
         "strongs": "H0157"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "7": [
@@ -513,6 +523,11 @@
         "surface": "will be left",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "9": [
@@ -590,6 +605,16 @@
         "surface": "our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "refines",
+        "lemma": "tsaraph",
+        "strongs": "H6884"
+      },
+      {
+        "surface": "tests",
+        "lemma": "bachan",
+        "strongs": "H0974"
       }
     ]
   }

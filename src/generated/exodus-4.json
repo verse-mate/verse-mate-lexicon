@@ -59,6 +59,11 @@
         "surface": "appeared",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -386,6 +391,11 @@
         "surface": "like the rest of his skin",
         "lemma": "basar",
         "strongs": "H1320"
+      },
+      {
+        "surface": "bosom",
+        "lemma": "cheq",
+        "strongs": "H2436"
       }
     ],
     "8": [
@@ -448,6 +458,11 @@
         "surface": "of the second",
         "lemma": "acharon",
         "strongs": "H0314"
+      },
+      {
+        "surface": "sign",
+        "lemma": "ot",
+        "strongs": "H0226"
       }
     ],
     "9": [
@@ -612,6 +627,21 @@
         "surface": "tongue",
         "lemma": "lashon",
         "strongs": "H3956"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "11": [
@@ -738,6 +768,11 @@
         "surface": "someone else",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "send",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "14": [
@@ -820,6 +855,11 @@
         "surface": "in his heart",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "speaks",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "15": [
@@ -862,6 +902,11 @@
         "surface": "to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "16": [
@@ -998,6 +1043,21 @@
         "surface": "Jethro replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mosheh",
+        "strongs": "H4872"
+      },
+      {
+        "surface": "Jethro",
+        "lemma": "yitro",
+        "strongs": "H3503"
       }
     ],
     "19": [
@@ -1548,6 +1608,11 @@
         "surface": "He had commanded him to perform",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "29": [
@@ -1642,6 +1707,11 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "31": [
@@ -1694,6 +1764,11 @@
         "surface": "and worshiped",
         "lemma": "shachah",
         "strongs": "H7812"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

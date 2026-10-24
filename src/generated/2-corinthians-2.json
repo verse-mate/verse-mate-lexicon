@@ -160,6 +160,11 @@
         "surface": "I love you",
         "lemma": "agape",
         "strongs": "G0026"
+      },
+      {
+        "surface": "more abundantly",
+        "lemma": "perissoteros_g4056",
+        "strongs": "G4056"
       }
     ],
     "5": [
@@ -236,6 +241,16 @@
         "surface": "sorrow",
         "lemma": "lupe",
         "strongs": "G3077"
+      },
+      {
+        "surface": "rather",
+        "lemma": "mallon",
+        "strongs": "G3123"
+      },
+      {
+        "surface": "more excessive",
+        "lemma": "perissoteros",
+        "strongs": "G4055"
       }
     ],
     "8": [
@@ -534,6 +549,16 @@
         "surface": "qualified",
         "lemma": "hikanos",
         "strongs": "G2425"
+      },
+      {
+        "surface": "death",
+        "lemma": "thanatos",
+        "strongs": "G2288"
+      },
+      {
+        "surface": "life",
+        "lemma": "zoe",
+        "strongs": "G2222"
       }
     ],
     "17": [

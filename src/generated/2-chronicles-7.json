@@ -121,6 +121,11 @@
         "surface": "it",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
@@ -213,6 +218,11 @@
         "surface": "endures forever",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "4": [
@@ -322,6 +332,26 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "6": [
@@ -434,6 +464,11 @@
         "surface": "were standing",
         "lemma": "amad",
         "strongs": "H5975"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "7": [
@@ -536,6 +571,16 @@
         "surface": "all these offerings",
         "lemma": "minchah",
         "strongs": "H4503"
+      },
+      {
+        "surface": "burnt offering",
+        "lemma": "olah",
+        "strongs": "H5930"
+      },
+      {
+        "surface": "fat",
+        "lemma": "chelev",
+        "strongs": "H2459"
       }
     ],
     "8": [
@@ -670,6 +715,11 @@
         "surface": "days more",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "observed",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "10": [
@@ -757,6 +807,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "11": [
@@ -1144,6 +1199,16 @@
         "surface": "for all time",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "17": [

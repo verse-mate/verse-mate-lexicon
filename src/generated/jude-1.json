@@ -312,6 +312,21 @@
         "surface": "did not believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "everything",
+        "lemma": "pas",
+        "strongs": "G3956"
+      },
+      {
+        "surface": "once",
+        "lemma": "hapax",
+        "strongs": "G0530"
       }
     ],
     "6": [
@@ -456,6 +471,11 @@
         "surface": "fire",
         "lemma": "pur",
         "strongs": "G4442"
+      },
+      {
+        "surface": "after",
+        "lemma": "opiso",
+        "strongs": "G3694"
       }
     ],
     "8": [
@@ -607,6 +627,21 @@
         "surface": "they do instinctively",
         "lemma": "epistamai",
         "strongs": "G1987"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
+      },
+      {
+        "surface": "understood",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "naturally",
+        "lemma": "phusikos_g5447",
+        "strongs": "G5447"
       }
     ],
     "11": [
@@ -840,6 +875,11 @@
         "surface": "holy ones",
         "lemma": "hagios",
         "strongs": "G0040"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -917,6 +957,11 @@
         "surface": "sinners",
         "lemma": "hamartolos",
         "strongs": "G0268"
+      },
+      {
+        "surface": "soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "16": [
@@ -1016,6 +1061,11 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "spoken beforehand",
+        "lemma": "proereo",
+        "strongs": "G4280"
       }
     ],
     "18": [
@@ -1058,6 +1108,11 @@
         "surface": "desires",
         "lemma": "epithumia",
         "strongs": "G1939"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [

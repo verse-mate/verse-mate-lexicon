@@ -326,6 +326,16 @@
         "surface": "and lay down",
         "lemma": "shakhav",
         "strongs": "H7901"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "secrecy",
+        "lemma": "lat_h3909",
+        "strongs": "H3909"
       }
     ],
     "8": [
@@ -363,6 +373,11 @@
         "surface": "was a woman",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "9": [
@@ -554,6 +569,11 @@
         "surface": "of noble character",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
       }
     ],
     "12": [
@@ -581,6 +601,11 @@
         "surface": "nearer",
         "lemma": "qarov",
         "strongs": "H7138"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "13": [
@@ -658,6 +683,11 @@
         "surface": "morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "14": [
@@ -730,6 +760,11 @@
         "surface": "to the threshing floor",
         "lemma": "goren",
         "strongs": "H1637"
+      },
+      {
+        "surface": "before",
+        "lemma": "terem",
+        "strongs": "H2962"
       }
     ],
     "15": [
@@ -948,6 +983,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ]
   }

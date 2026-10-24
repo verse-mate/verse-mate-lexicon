@@ -81,6 +81,11 @@
         "surface": "be shaken",
         "lemma": "mot",
         "strongs": "H4131"
+      },
+      {
+        "surface": "much",
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "3": [
@@ -175,6 +180,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "inner being",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
       }
     ],
     "5": [
@@ -375,6 +385,11 @@
         "surface": "they are but a vapor",
         "lemma": "hevel",
         "strongs": "H1892"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "10": [
@@ -491,6 +506,28 @@
         "surface": "according to his deeds",
         "lemma": "maaseh",
         "strongs": "H4639"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "Jeduthun",
+        "lemma": "yedutun",
+        "strongs": "H3038"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

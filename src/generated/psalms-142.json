@@ -217,6 +217,11 @@
         "surface": "of the living",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -296,6 +301,28 @@
         "surface": "of Your goodness",
         "lemma": "gamal",
         "strongs": "H1580"
+      }
+    ],
+    "0": [
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "cave",
+        "lemma": "mearah",
+        "strongs": "H4631"
+      },
+      {
+        "surface": "prayer",
+        "lemma": "tephillah",
+        "strongs": "H8605"
       }
     ]
   }

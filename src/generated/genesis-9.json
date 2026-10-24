@@ -272,6 +272,31 @@
         "surface": "of his fellow man",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "blood",
+        "lemma": "dam",
+        "strongs": "H1818"
+      },
+      {
+        "surface": "seek",
+        "lemma": "darash",
+        "strongs": "H1875"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "brother",
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "6": [
@@ -373,6 +398,11 @@
         "surface": "and his sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -457,6 +487,11 @@
         "surface": "of the ark",
         "lemma": "tevah",
         "strongs": "H8392"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "11": [
@@ -1203,6 +1238,11 @@
         "surface": "nakedness",
         "lemma": "ervah",
         "strongs": "H6172"
+      },
+      {
+        "surface": "both",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "24": [
@@ -1398,6 +1438,21 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ],
     "29": [
@@ -1430,6 +1485,21 @@
         "surface": "and then he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ]
   }

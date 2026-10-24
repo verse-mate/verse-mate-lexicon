@@ -71,6 +71,11 @@
         "surface": "food",
         "lemma": "okhel",
         "strongs": "H0400"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "3": [
@@ -118,6 +123,21 @@
         "surface": "your brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "warned",
+        "lemma": "ud_h5749",
+        "strongs": "H5749"
       }
     ],
     "4": [
@@ -331,6 +351,26 @@
         "surface": "your brother here",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "8": [
@@ -445,6 +485,11 @@
         "surface": "all my life",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "10": [
@@ -631,6 +676,11 @@
         "surface": "was a mistake",
         "lemma": "mishgeh",
         "strongs": "H4870"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "13": [
@@ -782,6 +832,16 @@
         "surface": "Joseph",
         "lemma": "yoseph",
         "strongs": "H3130"
+      },
+      {
+        "surface": "took",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "16": [
@@ -849,6 +909,11 @@
         "surface": "at noon",
         "lemma": "tsohar",
         "strongs": "H6672"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "17": [
@@ -891,6 +956,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "18": [
@@ -973,6 +1043,11 @@
         "surface": "our donkeys",
         "lemma": "chamor",
         "strongs": "H2543"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -1003,6 +1078,11 @@
       },
       {
         "surface": "to the house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
       }
@@ -1037,6 +1117,11 @@
         "surface": "food",
         "lemma": "okhel",
         "strongs": "H0400"
+      },
+      {
+        "surface": "came down",
+        "lemma": "yarad",
+        "strongs": "H3381"
       }
     ],
     "21": [
@@ -1389,6 +1474,11 @@
         "surface": "to the ground before him",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "27": [
@@ -1550,6 +1640,11 @@
         "surface": "my son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "30": [
@@ -1590,6 +1685,16 @@
       },
       {
         "surface": "to weep",
+        "lemma": "bakhah",
+        "strongs": "H1058"
+      },
+      {
+        "surface": "compassion",
+        "lemma": "racham_h7356",
+        "strongs": "H7356"
+      },
+      {
+        "surface": "wept",
         "lemma": "bakhah",
         "strongs": "H1058"
       }
@@ -1696,6 +1801,11 @@
         "surface": "to them",
         "lemma": "mitsri",
         "strongs": "H4713"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "33": [
@@ -1743,6 +1853,11 @@
         "surface": "in astonishment",
         "lemma": "tamah",
         "strongs": "H8539"
+      },
+      {
+        "surface": "youth",
+        "lemma": "tseirah",
+        "strongs": "H6812"
       }
     ],
     "34": [
@@ -1800,6 +1915,11 @@
         "surface": "and drank freely",
         "lemma": "shakhar",
         "strongs": "H7937"
+      },
+      {
+        "surface": "portions",
+        "lemma": "maset",
+        "strongs": "H4864"
       }
     ]
   }

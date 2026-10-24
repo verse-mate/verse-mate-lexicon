@@ -84,6 +84,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "brought",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "2": [
@@ -288,6 +293,11 @@
         "surface": "of the Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -325,6 +335,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "5": [
@@ -459,6 +474,11 @@
         "surface": "at Mizpah",
         "lemma": "mitspah",
         "strongs": "H4709"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -526,6 +546,16 @@
         "surface": "the Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [
@@ -583,6 +613,11 @@
         "surface": "of the Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -752,6 +787,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "11": [
@@ -881,6 +921,16 @@
         "surface": "has helped us",
         "lemma": "azar",
         "strongs": "H5826"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "13": [
@@ -948,6 +998,16 @@
         "surface": "of Samuel",
         "lemma": "shemuel",
         "strongs": "H8050"
+      },
+      {
+        "surface": "repeated",
+        "lemma": "yasaph",
+        "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "14": [
@@ -1035,6 +1095,16 @@
         "surface": "and the Amorites",
         "lemma": "emori",
         "strongs": "H0567"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "15": [
@@ -1129,6 +1199,11 @@
         "surface": "places",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "17": [

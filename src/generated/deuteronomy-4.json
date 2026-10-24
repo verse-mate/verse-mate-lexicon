@@ -126,6 +126,11 @@
         "surface": "am giving you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "3": [
@@ -198,6 +203,16 @@
         "surface": "Baal of Peor",
         "lemma": "baalpeor",
         "strongs": "H1187"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "4": [
@@ -292,6 +307,11 @@
         "surface": "and possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "6": [
@@ -550,6 +570,16 @@
         "surface": "and grandchildren",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "10": [
@@ -709,6 +739,11 @@
         "surface": "darkness",
         "lemma": "choshekh",
         "strongs": "H2822"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "12": [
@@ -937,6 +972,16 @@
         "surface": "be careful",
         "lemma": "shamar",
         "strongs": "H8104"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "selves",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "16": [
@@ -1016,6 +1061,26 @@
         "surface": "in the air",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "likeness",
+        "lemma": "tavnit",
+        "strongs": "H8403"
+      },
+      {
+        "surface": "likeness",
+        "lemma": "tavnit",
+        "strongs": "H8403"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "wing",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
       }
     ],
     "18": [
@@ -1058,6 +1123,16 @@
         "surface": "below",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "likeness",
+        "lemma": "tavnit",
+        "strongs": "H8403"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "19": [
@@ -1155,6 +1230,11 @@
         "surface": "heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "20": [
@@ -1388,6 +1468,11 @@
         "surface": "has forbidden you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "24": [
@@ -1502,6 +1587,11 @@
         "surface": "and provoking Him to anger",
         "lemma": "kaas",
         "strongs": "H3707"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "26": [
@@ -1569,6 +1659,21 @@
         "surface": "will be utterly destroyed",
         "lemma": "shamad",
         "strongs": "H8045"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "perish",
+        "lemma": "avad",
+        "strongs": "H0006"
+      },
+      {
+        "surface": "destroyed",
+        "lemma": "shamad",
+        "strongs": "H8045"
       }
     ],
     "27": [
@@ -1611,6 +1716,11 @@
         "surface": "will drive you",
         "lemma": "nahag",
         "strongs": "H5090"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
       }
     ],
     "28": [
@@ -1683,6 +1793,16 @@
         "surface": "smell",
         "lemma": "ruach",
         "strongs": "H7306"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "human",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "29": [
@@ -1946,6 +2066,11 @@
         "surface": "been reported",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "heavens",
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "33": [
@@ -2105,6 +2230,11 @@
         "surface": "before your eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "35": [
@@ -2308,6 +2438,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "39": [
@@ -2442,6 +2577,16 @@
         "surface": "time",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "41": [
@@ -2479,6 +2624,11 @@
         "surface": "to the east",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "42": [
@@ -2546,6 +2696,16 @@
         "surface": "cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
+      },
+      {
+        "surface": "third day",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "43": [
@@ -2598,6 +2758,11 @@
         "surface": "belonging to the Manassites",
         "lemma": "menashshi",
         "strongs": "H4520"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "44": [
@@ -2625,6 +2790,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "45": [
@@ -2667,6 +2837,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "46": [
@@ -2754,6 +2929,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "47": [
@@ -2811,6 +2991,16 @@
         "surface": "to the east",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "48": [
@@ -2900,6 +3090,11 @@
         "surface": "of Pisgah",
         "lemma": "pisgah",
         "strongs": "H6449"
+      },
+      {
+        "surface": "slopes",
+        "lemma": "ashdothappisgah",
+        "strongs": "H0798"
       }
     ]
   }

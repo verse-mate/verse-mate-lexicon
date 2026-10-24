@@ -81,6 +81,11 @@
         "surface": "to uproot",
         "lemma": "aqar",
         "strongs": "H6131"
+      },
+      {
+        "surface": "planted",
+        "lemma": "nata",
+        "strongs": "H5193"
       }
     ],
     "3": [
@@ -526,6 +531,11 @@
         "surface": "while they live",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "13": [
@@ -640,6 +650,11 @@
         "surface": "Him",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "15": [
@@ -848,6 +863,11 @@
         "surface": "are but beasts",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "cause",
+        "lemma": "divrah",
+        "strongs": "H1700"
       }
     ],
     "19": [
@@ -940,6 +960,11 @@
         "surface": "is futile",
         "lemma": "hevel",
         "strongs": "H1892"
+      },
+      {
+        "surface": "fate",
+        "lemma": "miqreh",
+        "strongs": "H4745"
       }
     ],
     "20": [
@@ -1044,6 +1069,16 @@
         "surface": "into the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "downwards",
+        "lemma": "mattah",
+        "strongs": "H4295"
       }
     ],
     "22": [

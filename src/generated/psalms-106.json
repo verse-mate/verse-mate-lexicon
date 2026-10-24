@@ -29,6 +29,16 @@
         "surface": "His loving devotion endures forever",
         "lemma": "chesed",
         "strongs": "H2617"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "2": [
@@ -647,6 +657,11 @@
         "surface": "ox",
         "lemma": "shor",
         "strongs": "H7794"
+      },
+      {
+        "surface": "vegetation",
+        "lemma": "esev",
+        "strongs": "H6212"
       }
     ],
     "21": [
@@ -984,6 +999,11 @@
         "surface": "generations",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "32": [
@@ -1518,6 +1538,11 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

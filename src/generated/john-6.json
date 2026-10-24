@@ -177,6 +177,11 @@
         "surface": "to eat",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ophthalmos",
+        "strongs": "G3788"
       }
     ],
     "6": [
@@ -209,6 +214,11 @@
         "surface": "to do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "7": [
@@ -615,6 +625,16 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -667,6 +687,11 @@
         "surface": "a mountain",
         "lemma": "oros",
         "strongs": "G3735"
+      },
+      {
+        "surface": "alone",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "16": [
@@ -825,6 +850,21 @@
         "surface": "they were terrified",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "stadia",
+        "lemma": "stadios",
+        "strongs": "G4712"
+      },
+      {
+        "surface": "five",
+        "lemma": "pente",
+        "strongs": "G4002"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "triakonta",
+        "strongs": "G5144"
       }
     ],
     "20": [
@@ -966,6 +1006,16 @@
         "surface": "alone",
         "lemma": "monos",
         "strongs": "G3441"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "other",
+        "lemma": "allos",
+        "strongs": "G0243"
       }
     ],
     "23": [
@@ -1008,6 +1058,11 @@
         "surface": "had given thanks",
         "lemma": "eucharisteo",
         "strongs": "G2168"
+      },
+      {
+        "surface": "another",
+        "lemma": "allos",
+        "strongs": "G0243"
       }
     ],
     "24": [
@@ -1070,6 +1125,11 @@
         "surface": "Him",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "25": [
@@ -1149,6 +1209,16 @@
         "surface": "had your fill",
         "lemma": "chortazo",
         "strongs": "G5526"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "27": [
@@ -1285,6 +1355,11 @@
         "surface": "has sent",
         "lemma": "apostello",
         "strongs": "G0649"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "30": [
@@ -1327,6 +1402,11 @@
         "surface": "will You do",
         "lemma": "ergazomai",
         "strongs": "G2038"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "31": [
@@ -1856,6 +1936,16 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "says He",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "43": [
@@ -1878,6 +1968,11 @@
         "surface": "replied",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "44": [
@@ -2231,6 +2326,11 @@
         "surface": "to eat",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "53": [
@@ -2609,6 +2709,11 @@
         "surface": "offend",
         "lemma": "skandalizo",
         "strongs": "G4624"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "62": [
@@ -2641,6 +2746,11 @@
         "surface": "before",
         "lemma": "proteron",
         "strongs": "G4386"
+      },
+      {
+        "surface": "before",
+        "lemma": "proteros",
+        "strongs": "G4387"
       }
     ],
     "63": [
@@ -2787,6 +2897,11 @@
         "surface": "has granted it",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "66": [
@@ -2809,6 +2924,11 @@
         "surface": "walked",
         "lemma": "peripateo",
         "strongs": "G4043"
+      },
+      {
+        "surface": "back",
+        "lemma": "opiso",
+        "strongs": "G3694"
       }
     ],
     "67": [
@@ -2994,6 +3114,11 @@
         "surface": "to betray",
         "lemma": "paradidomi",
         "strongs": "G3860"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

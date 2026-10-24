@@ -1,0 +1,103 @@
+{
+  "_meta": {
+    "description": "Hand-written enrichment (enrich.py schema: pronunciation, semanticRange, related, notes) for the seven entries fix_dominant_senses.py moved to a different word, whose previous prose described the displaced word. Grounded on STEP TBESH definitions. Applied by scripts/apply_enrichment.py.",
+    "schema": "Record<strongs, {pronunciation, semanticRange, related, notes}>"
+  },
+  "H0328": {
+    "pronunciation": "AHT",
+    "semanticRange": [
+      "gently, softly (manner of acting)",
+      "slowly, quietly (of flowing water)",
+      "dejectedly, in a subdued way (of walking)"
+    ],
+    "related": [
+      {"lemma": "לְאַט", "translit": "le.at", "note": "prepositional form; 'gently, slowly' in most occurrences"},
+      {"lemma": "רַךְ", "translit": "rakh", "note": "adjective 'tender, soft'; overlapping sense of gentleness"}
+    ],
+    "notes": "The word denotes a gentle, unhurried manner. David's charge to 'deal gently' with Absalom (2 Sam 18:5) uses it, and Isaiah 8:6 contrasts the 'gently flowing' waters of Shiloah, a picture of God's quiet provision, with the flood of Assyria."
+  },
+  "H1933": {
+    "pronunciation": "hah-VAH",
+    "semanticRange": [
+      "to be, exist",
+      "to become, come to be",
+      "to happen, take place"
+    ],
+    "related": [
+      {"lemma": "הָיָה", "translit": "ha.yah", "note": "the ordinary Hebrew verb 'to be'; havah is its rarer by-form"},
+      {"lemma": "הֲוָא", "translit": "ha.va", "note": "Aramaic equivalent 'to be', frequent in Daniel and Ezra"},
+      {"lemma": "יְהוָה", "translit": "YHWH", "note": "the divine name, often linked by scholars to this 'to be' root"}
+    ],
+    "notes": "A rarer, largely poetic by-form of הָיָה 'to be', used for existing or coming to pass (Gen 27:29; Eccl 2:22). It matters chiefly because the divine name is often connected to this 'to be' root in discussions of Exodus 3:14."
+  },
+  "H3733": {
+    "pronunciation": "KAHR",
+    "semanticRange": [
+      "young ram, he-lamb",
+      "lamb as tribute or sacrifice",
+      "battering-ram (siege engine)"
+    ],
+    "related": [
+      {"lemma": "אַיִל", "translit": "a.yil", "note": "the common word for a full-grown ram"},
+      {"lemma": "כֶּבֶשׂ", "translit": "ke.ves", "note": "young lamb; frequent in sacrificial lists"}
+    ],
+    "notes": "The word denotes a young ram or lamb, counted as wealth and tribute (Mesha of Moab paid Israel 100,000 lambs, 2 Kgs 3:4). In Ezekiel's siege oracles (Ezek 4:2; 21:22) the same word names a battering-ram, likely from the butting ram."
+  },
+  "H6030": {
+    "pronunciation": "ah-NAH",
+    "semanticRange": [
+      "to answer, reply, respond",
+      "to testify, bear witness (in court)",
+      "to respond to prayer (of God)",
+      "to sing responsively, raise one's voice"
+    ],
+    "related": [
+      {"lemma": "מַעֲנֶה", "translit": "ma.a.neh", "note": "noun 'answer, reply' from the same root"},
+      {"lemma": "עֲנָה", "translit": "a.nah", "note": "Aramaic equivalent 'to answer', common in Daniel"},
+      {"lemma": "ἀποκρίνομαι", "translit": "apokrinomai", "note": "usual LXX rendering, 'to answer'"}
+    ],
+    "notes": "The word denotes responding to what has been said or done, from a simple reply to legal testimony (Exod 20:16, 'you shall not bear false witness'). The Psalms' repeated cry 'answer me, O LORD' (Ps 4:1; 27:7) asks God to respond to prayer with action, not only words."
+  },
+  "H7356": {
+    "pronunciation": "rah-khah-MEEM",
+    "semanticRange": [
+      "compassion, tender mercy",
+      "God's mercies toward his people",
+      "pity shown by one person to another"
+    ],
+    "related": [
+      {"lemma": "רֶחֶם", "translit": "re.chem", "note": "'womb'; the same root, often linked to motherly tenderness"},
+      {"lemma": "רָחַם", "translit": "ra.cham", "note": "verb 'to have compassion, show mercy'"},
+      {"lemma": "חֶסֶד", "translit": "che.sed", "note": "covenant loyalty; frequently paired with rachamim"}
+    ],
+    "notes": "A plural of intensity naming deep, tender compassion, used above all of God (Lam 3:22, 'his mercies never come to an end'). Its link to רֶחֶם 'womb' is a real shared root, but context, not etymology, carries the sense of mercy in each passage."
+  },
+  "H7462": {
+    "pronunciation": "rah-AH",
+    "semanticRange": [
+      "to shepherd, tend, pasture a flock",
+      "to graze, feed (of animals)",
+      "to rule or care for a people (of leaders, of God)",
+      "shepherd, herdsman (as participle)"
+    ],
+    "related": [
+      {"lemma": "רֹעֶה", "translit": "ro.eh", "note": "participle used as noun 'shepherd'"},
+      {"lemma": "מִרְעֶה", "translit": "mir.eh", "note": "'pasture, feeding place' from the same root"},
+      {"lemma": "ποιμαίνω", "translit": "poimainō", "note": "LXX and NT equivalent 'to shepherd' (John 21:16)"}
+    ],
+    "notes": "The word denotes tending and feeding a flock, and becomes a central image for leadership. 'The LORD is my shepherd' (Ps 23:1) uses its participle, and Ezekiel 34 indicts Israel's leaders as shepherds who fed themselves instead of the flock, before God promises to shepherd them himself."
+  },
+  "H8302": {
+    "pronunciation": "shir-YOHN",
+    "semanticRange": [
+      "body armor, coat of mail",
+      "breastplate or scale armor",
+      "armor as a figure of protection"
+    ],
+    "related": [
+      {"lemma": "כּוֹבַע", "translit": "ko.va", "note": "helmet; listed with armor in battle equipment"},
+      {"lemma": "θώραξ", "translit": "thōrax", "note": "Greek 'breastplate', the LXX-era equivalent"}
+    ],
+    "notes": "The word denotes a soldier's coat of mail, such as Goliath's bronze scale armor (1 Sam 17:5) and the armor Saul gave David (1 Sam 17:38). Isaiah 59:17 pictures God putting on righteousness 'as a breastplate', an image Paul echoes in Ephesians 6:14."
+  }
+}

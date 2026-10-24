@@ -76,6 +76,11 @@
         "surface": "Mahanaim",
         "lemma": "machanayim",
         "strongs": "H4266"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "3": [
@@ -185,6 +190,21 @@
         "surface": "now",
         "lemma": "attah",
         "strongs": "H6258"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "5": [
@@ -609,6 +629,11 @@
         "surface": "children with me",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "12": [
@@ -651,6 +676,11 @@
         "surface": "to count",
         "lemma": "saphar",
         "strongs": "H5608"
+      },
+      {
+        "surface": "good",
+        "lemma": "yatav",
+        "strongs": "H3190"
       }
     ],
     "13": [
@@ -864,6 +894,26 @@
         "surface": "the herds",
         "lemma": "eder",
         "strongs": "H5739"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "herd",
+        "lemma": "eder_h5739",
+        "strongs": "H5739"
+      },
+      {
+        "surface": "herd",
+        "lemma": "eder_h5739",
+        "strongs": "H5739"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "17": [
@@ -921,6 +971,16 @@
         "surface": "before you",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1020,6 +1080,11 @@
         "surface": "thing",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "20": [
@@ -1201,6 +1266,11 @@
         "surface": "of the Jabbok",
         "lemma": "yabboq",
         "strongs": "H2999"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "23": [
@@ -1218,6 +1288,11 @@
         "surface": "the stream",
         "lemma": "nachal",
         "strongs": "H5158"
+      },
+      {
+        "surface": "sent over",
+        "lemma": "avar_h5674",
+        "strongs": "H5674"
       }
     ],
     "24": [
@@ -1250,6 +1325,11 @@
         "surface": "daybreak",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "dawn",
+        "lemma": "shachar_h7837",
+        "strongs": "H7837"
       }
     ],
     "25": [
@@ -1297,6 +1377,16 @@
         "surface": "wrestled",
         "lemma": "avaq",
         "strongs": "H0079"
+      },
+      {
+        "surface": "socket",
+        "lemma": "kaph",
+        "strongs": "H3709"
+      },
+      {
+        "surface": "thigh",
+        "lemma": "yarekh",
+        "strongs": "H3409"
       }
     ],
     "26": [
@@ -1334,6 +1424,16 @@
         "surface": "you bless me",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "dawn",
+        "lemma": "shachar_h7837",
+        "strongs": "H7837"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "27": [
@@ -1418,6 +1518,16 @@
         "surface": "and you have prevailed",
         "lemma": "yakhol",
         "strongs": "H3201"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "29": [
@@ -1470,6 +1580,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "30": [
@@ -1522,6 +1637,11 @@
         "surface": "was spared",
         "lemma": "natsal",
         "strongs": "H5337"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "31": [
@@ -1616,6 +1736,26 @@
         "surface": "near that tendon",
         "lemma": "gid",
         "strongs": "H1517"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "tendon",
+        "lemma": "nasheh",
+        "strongs": "H5384"
+      },
+      {
+        "surface": "tendon",
+        "lemma": "nasheh",
+        "strongs": "H5384"
       }
     ]
   }

@@ -79,6 +79,11 @@
         "surface": "Samaria",
         "lemma": "samareia",
         "strongs": "G4540"
+      },
+      {
+        "surface": "regions",
+        "lemma": "chora",
+        "strongs": "G5561"
       }
     ],
     "2": [
@@ -163,6 +168,11 @@
         "surface": "prison",
         "lemma": "phulake",
         "strongs": "G5438"
+      },
+      {
+        "surface": "houses",
+        "lemma": "oikos",
+        "strongs": "G3624"
       }
     ],
     "4": [
@@ -259,6 +269,11 @@
         "surface": "him perform",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "hear",
+        "lemma": "akouo",
+        "strongs": "G0191"
       }
     ],
     "7": [
@@ -598,6 +613,11 @@
         "surface": "he observed",
         "lemma": "theoreo",
         "strongs": "G2334"
+      },
+      {
+        "surface": "performed",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "14": [
@@ -724,6 +744,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "17": [
@@ -803,6 +828,11 @@
         "surface": "money",
         "lemma": "chrema",
         "strongs": "G5536"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "19": [
@@ -892,6 +922,11 @@
         "surface": "money",
         "lemma": "chrema",
         "strongs": "G5536"
+      },
+      {
+        "surface": "destruction",
+        "lemma": "apoleia",
+        "strongs": "G0684"
       }
     ],
     "21": [
@@ -1040,6 +1075,11 @@
         "surface": "may happen",
         "lemma": "eperchomai",
         "strongs": "G1904"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "25": [
@@ -1154,6 +1194,11 @@
         "surface": "Gaza",
         "lemma": "gaza",
         "strongs": "G1048"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "27": [
@@ -1525,6 +1570,16 @@
         "surface": "else",
         "lemma": "heteros",
         "strongs": "G2087"
+      },
+      {
+        "surface": "Answering",
+        "lemma": "apokrino",
+        "strongs": "G0611"
+      },
+      {
+        "surface": "Philip",
+        "lemma": "philippos",
+        "strongs": "G5376"
       }
     ],
     "35": [
@@ -1557,6 +1612,16 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "36": [
@@ -1713,6 +1778,11 @@
         "surface": "rejoicing",
         "lemma": "chairo",
         "strongs": "G5463"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "40": [

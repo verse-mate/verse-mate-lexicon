@@ -96,6 +96,16 @@
         "surface": "Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -138,6 +148,11 @@
         "surface": "and said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -314,6 +329,16 @@
         "surface": "he asked",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "7": [
@@ -376,6 +401,16 @@
         "surface": "forever",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "8": [
@@ -418,6 +453,11 @@
         "surface": "him",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "consulted",
+        "lemma": "yaats",
+        "strongs": "H3289"
       }
     ],
     "9": [
@@ -567,6 +607,16 @@
         "surface": "waist",
         "lemma": "moten",
         "strongs": "H4975"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -686,6 +736,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "13": [
@@ -999,6 +1054,16 @@
         "surface": "home",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "17": [
@@ -1031,6 +1096,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -1108,6 +1178,16 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "19": [

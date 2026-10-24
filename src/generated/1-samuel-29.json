@@ -208,6 +208,21 @@
         "surface": "no fault",
         "lemma": "meumah",
         "strongs": "H3972"
+      },
+      {
+        "surface": "commanders",
+        "lemma": "sar_h8269",
+        "strongs": "H8269"
+      },
+      {
+        "surface": "Philistines",
+        "lemma": "pelishti",
+        "strongs": "H6430"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -325,6 +340,16 @@
         "surface": "of our men",
         "lemma": "enosh",
         "strongs": "H0582"
+      },
+      {
+        "surface": "commanders",
+        "lemma": "sar_h8269",
+        "strongs": "H8269"
+      },
+      {
+        "surface": "Philistines",
+        "lemma": "pelishti",
+        "strongs": "H6430"
       }
     ],
     "5": [
@@ -372,6 +397,11 @@
         "surface": "his tens of thousands",
         "lemma": "revavah",
         "strongs": "H7233"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -479,6 +509,11 @@
         "surface": "of the leaders",
         "lemma": "seren",
         "strongs": "H5633"
+      },
+      {
+        "surface": "coming",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "7": [
@@ -526,6 +561,11 @@
         "surface": "of the Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "evil",
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "8": [
@@ -608,6 +648,16 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "Achish",
+        "lemma": "akhish",
+        "strongs": "H0397"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -680,6 +730,16 @@
         "surface": "into battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "10": [
@@ -727,6 +787,11 @@
         "surface": "it is light",
         "lemma": "or",
         "strongs": "H0215"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "11": [
@@ -779,6 +844,11 @@
         "surface": "to Jezreel",
         "lemma": "yizreel",
         "strongs": "H3157"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ]
   }

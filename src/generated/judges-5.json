@@ -34,6 +34,11 @@
         "surface": "sang this song",
         "lemma": "shir",
         "strongs": "H7891"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -299,6 +304,11 @@
         "surface": "the byways",
         "lemma": "aqalqal",
         "strongs": "H6128"
+      },
+      {
+        "surface": "paths",
+        "lemma": "nativ",
+        "strongs": "H5410"
       }
     ],
     "7": [
@@ -341,6 +351,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "8": [
@@ -792,6 +807,11 @@
         "surface": "indecision",
         "lemma": "cheqeq",
         "strongs": "H2711"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "16": [
@@ -849,6 +869,11 @@
         "surface": "indecision",
         "lemma": "cheqer",
         "strongs": "H2714"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "17": [
@@ -916,6 +941,11 @@
         "surface": "his harbors",
         "lemma": "miphrats",
         "strongs": "H4664"
+      },
+      {
+        "surface": "seas",
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "18": [
@@ -953,6 +983,11 @@
         "surface": "of the battlefield",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "19": [
@@ -1131,6 +1166,11 @@
         "surface": "of his stallions",
         "lemma": "abbir",
         "strongs": "H0047"
+      },
+      {
+        "surface": "galloping",
+        "lemma": "daharah",
+        "strongs": "H1726"
       }
     ],
     "23": [
@@ -1203,6 +1243,11 @@
         "surface": "against the mighty",
         "lemma": "gibbor",
         "strongs": "H1368"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "arar",
+        "strongs": "H0779"
       }
     ],
     "24": [
@@ -1617,6 +1662,16 @@
         "surface": "of the looter",
         "lemma": "shalal",
         "strongs": "H7998"
+      },
+      {
+        "surface": "colored cloth",
+        "lemma": "tseva_h6648",
+        "strongs": "H6648"
+      },
+      {
+        "surface": "embroidered material",
+        "lemma": "riqmah",
+        "strongs": "H7553"
       }
     ],
     "31": [

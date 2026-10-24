@@ -215,6 +215,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "5": [
@@ -321,6 +326,11 @@
         "surface": "My scepter",
         "lemma": "chaqaq",
         "strongs": "H2710"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "8": [
@@ -358,6 +368,11 @@
         "surface": "I shout in triumph",
         "lemma": "rua",
         "strongs": "H7321"
+      },
+      {
+        "surface": "washing",
+        "lemma": "rachats_h7366",
+        "strongs": "H7366"
       }
     ],
     "9": [
@@ -491,6 +506,108 @@
         "surface": "our enemies",
         "lemma": "tsar",
         "strongs": "H6862"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "shushan-",
+        "lemma": "shushan",
+        "strongs": "H7799"
+      },
+      {
+        "surface": "eduth",
+        "lemma": "edut",
+        "strongs": "H5715"
+      },
+      {
+        "surface": "miktam",
+        "lemma": "mikhtam",
+        "strongs": "H4387"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "teach",
+        "lemma": "lamad",
+        "strongs": "H3925"
+      },
+      {
+        "surface": "struggled",
+        "lemma": "natsah_h5327",
+        "strongs": "H5327"
+      },
+      {
+        "surface": "Aram",
+        "lemma": "aramnaharayim",
+        "strongs": "H0763"
+      },
+      {
+        "surface": "Naharaim",
+        "lemma": "aramnaharayim",
+        "strongs": "H0763"
+      },
+      {
+        "surface": "Aram",
+        "lemma": "aramtsovah",
+        "strongs": "H0760"
+      },
+      {
+        "surface": "Zobah",
+        "lemma": "aramtsovah",
+        "strongs": "H0760"
+      },
+      {
+        "surface": "turned back",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "Joab",
+        "lemma": "yoav",
+        "strongs": "H3097"
+      },
+      {
+        "surface": "struck",
+        "lemma": "nakhah",
+        "strongs": "H5221"
+      },
+      {
+        "surface": "Edom",
+        "lemma": "edom",
+        "strongs": "H0123"
+      },
+      {
+        "surface": "Valley",
+        "lemma": "gay",
+        "strongs": "H1516"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ]
   }

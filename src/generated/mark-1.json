@@ -71,6 +71,11 @@
         "surface": "way",
         "lemma": "hodos",
         "strongs": "G3598"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "3": [
@@ -331,6 +336,11 @@
         "surface": "and untie",
         "lemma": "luo",
         "strongs": "G3089"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -400,6 +410,11 @@
         "surface": "Jordan",
         "lemma": "iordanes",
         "strongs": "G2446"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "10": [
@@ -447,6 +462,11 @@
         "surface": "a dove",
         "lemma": "peristera",
         "strongs": "G4058"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "11": [
@@ -709,6 +729,16 @@
         "surface": "fishermen",
         "lemma": "halieus",
         "strongs": "G0231"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "net-casting",
+        "lemma": "amphiballo",
+        "strongs": "G6006"
       }
     ],
     "17": [
@@ -736,6 +766,16 @@
         "surface": "of men",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "after",
+        "lemma": "opiso",
+        "strongs": "G3694"
+      },
+      {
+        "surface": "become",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "18": [
@@ -810,6 +850,11 @@
         "surface": "nets",
         "lemma": "diktuon",
         "strongs": "G1350"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "20": [
@@ -852,6 +897,11 @@
         "surface": "and followed",
         "lemma": "aperchomai",
         "strongs": "G0565"
+      },
+      {
+        "surface": "after",
+        "lemma": "opiso",
+        "strongs": "G3694"
       }
     ],
     "21": [
@@ -1010,6 +1060,16 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "25": [
@@ -1069,6 +1129,11 @@
         "surface": "with a loud shriek",
         "lemma": "phone",
         "strongs": "G5456"
+      },
+      {
+        "surface": "loud",
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "27": [
@@ -1131,6 +1196,11 @@
         "surface": "they obey",
         "lemma": "hupakouo",
         "strongs": "G5219"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "28": [
@@ -1210,6 +1280,11 @@
         "surface": "Andrew",
         "lemma": "andreas",
         "strongs": "G0406"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "30": [
@@ -1237,6 +1312,11 @@
         "surface": "they promptly told",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "31": [
@@ -1311,6 +1391,16 @@
         "surface": "demon-possessed",
         "lemma": "daimonizomai",
         "strongs": "G1139"
+      },
+      {
+        "surface": "having come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "went down",
+        "lemma": "duno",
+        "strongs": "G1416"
       }
     ],
     "33": [
@@ -1447,6 +1537,11 @@
         "surface": "to pray",
         "lemma": "proseuchomai",
         "strongs": "G4336"
+      },
+      {
+        "surface": "departed",
+        "lemma": "aperchomai",
+        "strongs": "G0565"
       }
     ],
     "36": [
@@ -1592,6 +1687,11 @@
         "surface": "make me clean",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "41": [
@@ -1629,6 +1729,11 @@
         "surface": "Be clean",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "touched him",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "42": [
@@ -1725,6 +1830,16 @@
         "surface": "a testimony",
         "lemma": "marturion",
         "strongs": "G3142"
+      },
+      {
+        "surface": "says",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "none",
+        "lemma": "medeis",
+        "strongs": "G3367"
       }
     ],
     "45": [
@@ -1802,6 +1917,16 @@
         "surface": "from every quarter",
         "lemma": "pantothen",
         "strongs": "G3840"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "able",
+        "lemma": "dunamai",
+        "strongs": "G1410"
       }
     ]
   }

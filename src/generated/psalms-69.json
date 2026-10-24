@@ -461,6 +461,11 @@
         "surface": "of drunkards",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "strong drink",
+        "lemma": "shekhar",
+        "strongs": "H7941"
       }
     ],
     "13": [
@@ -602,6 +607,11 @@
         "surface": "its mouth",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "16": [
@@ -851,6 +861,11 @@
         "surface": "and a trap",
         "lemma": "moqesh",
         "strongs": "H4170"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "23": [
@@ -905,6 +920,11 @@
         "surface": "overtake them",
         "lemma": "nasag",
         "strongs": "H5381"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "25": [
@@ -1299,6 +1319,23 @@
         "surface": "will settle",
         "lemma": "shakhan",
         "strongs": "H7931"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "Shoshannim",
+        "lemma": "shushan",
+        "strongs": "H7799"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

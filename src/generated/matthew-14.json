@@ -155,6 +155,11 @@
         "surface": "to have",
         "lemma": "echo",
         "strongs": "G2192"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "5": [
@@ -224,6 +229,16 @@
         "surface": "Herod",
         "lemma": "herodes",
         "strongs": "G2264"
+      },
+      {
+        "surface": "having happened",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "7": [
@@ -525,6 +540,11 @@
         "surface": "sick",
         "lemma": "arrostos",
         "strongs": "G0732"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -607,6 +627,11 @@
         "surface": "some food",
         "lemma": "broma",
         "strongs": "G1033"
+      },
+      {
+        "surface": "gone",
+        "lemma": "parerchomai",
+        "strongs": "G3928"
       }
     ],
     "16": [
@@ -832,6 +857,11 @@
         "surface": "were left over",
         "lemma": "perisseuo",
         "strongs": "G4052"
+      },
+      {
+        "surface": "full",
+        "lemma": "pleres",
+        "strongs": "G4134"
       }
     ],
     "21": [
@@ -958,6 +988,11 @@
         "surface": "alone",
         "lemma": "monos",
         "strongs": "G3441"
+      },
+      {
+        "surface": "crowds",
+        "lemma": "ochlos",
+        "strongs": "G3793"
       }
     ],
     "24": [
@@ -1010,6 +1045,11 @@
         "surface": "against it",
         "lemma": "enantios",
         "strongs": "G1727"
+      },
+      {
+        "surface": "stadia",
+        "lemma": "stadios",
+        "strongs": "G4712"
       }
     ],
     "25": [
@@ -1094,6 +1134,11 @@
         "surface": "fear",
         "lemma": "phobos",
         "strongs": "G5401"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "27": [
@@ -1126,6 +1171,11 @@
         "surface": "be afraid",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "28": [
@@ -1163,6 +1213,11 @@
         "surface": "water",
         "lemma": "hudor",
         "strongs": "G5204"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "29": [
@@ -1257,6 +1312,16 @@
         "surface": "save",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "31": [
@@ -1299,6 +1364,11 @@
         "surface": "did you doubt",
         "lemma": "distazo",
         "strongs": "G1365"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "32": [
@@ -1375,6 +1445,11 @@
         "surface": "Gennesaret",
         "lemma": "gennesaret",
         "strongs": "G1082"
+      },
+      {
+        "surface": "land",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "35": [
@@ -1464,6 +1539,21 @@
         "surface": "were healed",
         "lemma": "diasozo",
         "strongs": "G1295"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ]
   }

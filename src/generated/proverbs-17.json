@@ -244,6 +244,11 @@
         "surface": "is his father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "7": [
@@ -281,6 +286,11 @@
         "surface": "to a ruler",
         "lemma": "nadiv",
         "strongs": "H5081"
+      },
+      {
+        "surface": "suitable",
+        "lemma": "naeh",
+        "strongs": "H5000"
       }
     ],
     "8": [
@@ -313,6 +323,11 @@
         "surface": "he succeeds",
         "lemma": "sakhal",
         "strongs": "H7919"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "9": [
@@ -350,6 +365,11 @@
         "surface": "friends",
         "lemma": "alluph",
         "strongs": "H0441"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "10": [
@@ -698,6 +718,11 @@
         "surface": "his neighbor",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "pledge",
+        "lemma": "arubbah_h6161",
+        "strongs": "H6161"
       }
     ],
     "19": [
@@ -1046,6 +1071,16 @@
         "surface": "spirit",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
+      },
+      {
+        "surface": "noble",
+        "lemma": "yaqar_h3368",
+        "strongs": "H3368"
       }
     ],
     "28": [

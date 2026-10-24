@@ -318,6 +318,16 @@
         "surface": "labor",
         "lemma": "kopos",
         "strongs": "G2873"
+      },
+      {
+        "surface": "own",
+        "lemma": "idios",
+        "strongs": "G2398"
+      },
+      {
+        "surface": "reward",
+        "lemma": "misthos",
+        "strongs": "G3408"
       }
     ],
     "9": [
@@ -669,6 +679,11 @@
         "surface": "dwells",
         "lemma": "oikeo",
         "strongs": "G3611"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "17": [
@@ -815,6 +830,11 @@
         "surface": "craftiness",
         "lemma": "panourgia",
         "strongs": "G3834"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "20": [

@@ -69,6 +69,11 @@
         "surface": "she was from Beersheba",
         "lemma": "beersheva",
         "strongs": "H0884"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "2": [
@@ -190,6 +195,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "5": [
@@ -297,6 +307,11 @@
         "surface": "make haste",
         "lemma": "mahar",
         "strongs": "H4116"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -754,6 +769,11 @@
         "surface": "in abundance",
         "lemma": "rov",
         "strongs": "H7230"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "12": [
@@ -851,6 +871,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "13": [
@@ -908,6 +933,11 @@
         "surface": "and they reinforced it",
         "lemma": "amats",
         "strongs": "H0553"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "14": [
@@ -1077,6 +1107,21 @@
         "surface": "of 130",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "death",
+        "lemma": "mavet",
+        "strongs": "H4194"
       }
     ],
     "16": [
@@ -1429,6 +1474,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "22": [
@@ -1583,6 +1633,21 @@
         "surface": "in Damascus",
         "lemma": "dammeseq",
         "strongs": "H1834"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "army",
+        "lemma": "chelek",
+        "strongs": "H2428"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "24": [
@@ -1772,6 +1837,11 @@
         "surface": "of the kings",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "buried",
+        "lemma": "qavar",
+        "strongs": "H6912"
       }
     ],
     "26": [
@@ -1891,6 +1961,11 @@
         "surface": "in his place",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "numerous",
+        "lemma": "ravah",
+        "strongs": "H7235"
       }
     ]
   }

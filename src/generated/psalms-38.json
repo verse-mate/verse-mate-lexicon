@@ -209,6 +209,16 @@
         "surface": "mourning",
         "lemma": "qadar",
         "strongs": "H6937"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "7": [
@@ -268,6 +278,11 @@
         "surface": "of heart",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "9": [
@@ -379,6 +394,11 @@
         "surface": "at a distance",
         "lemma": "rachoq",
         "strongs": "H7350"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "12": [
@@ -635,6 +655,11 @@
         "surface": "without reason",
         "lemma": "sheqer",
         "strongs": "H8267"
+      },
+      {
+        "surface": "numerous",
+        "lemma": "atsom",
+        "strongs": "H6105"
       }
     ],
     "20": [
@@ -731,6 +756,23 @@
         "surface": "my Savior",
         "lemma": "teshuah",
         "strongs": "H8668"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "make remembrance",
+        "lemma": "zakhar",
+        "strongs": "H2142"
       }
     ]
   }

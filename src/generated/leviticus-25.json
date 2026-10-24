@@ -29,6 +29,11 @@
         "surface": "Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -81,6 +86,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -123,6 +133,16 @@
         "surface": "its crops",
         "lemma": "tevuah",
         "strongs": "H8393"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "4": [
@@ -403,6 +423,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "9": [
@@ -465,6 +490,11 @@
         "surface": "your land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "10": [
@@ -542,6 +572,16 @@
         "surface": "his clan",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "11": [
@@ -599,6 +639,11 @@
         "surface": "the untended vines",
         "lemma": "nazir",
         "strongs": "H5139"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "12": [
@@ -705,6 +750,11 @@
         "surface": "other",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "thing sold",
+        "lemma": "mimkar",
+        "strongs": "H4465"
       }
     ],
     "15": [
@@ -1086,6 +1136,16 @@
         "surface": "comes in",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
+      },
+      {
+        "surface": "old harvest",
+        "lemma": "yashan",
+        "strongs": "H3465"
       }
     ],
     "23": [
@@ -1249,6 +1309,11 @@
         "surface": "to redeem his land",
         "lemma": "geullah",
         "strongs": "H1353"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "27": [
@@ -1373,6 +1438,11 @@
         "surface": "to his property",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "29": [
@@ -1440,6 +1510,11 @@
         "surface": "redeemed",
         "lemma": "geullah",
         "strongs": "H1353"
+      },
+      {
+        "surface": "dwelling",
+        "lemma": "moshav",
+        "strongs": "H4186"
       }
     ],
     "30": [
@@ -1512,6 +1587,16 @@
         "surface": "in the Jubilee",
         "lemma": "yovel",
         "strongs": "H3104"
+      },
+      {
+        "surface": "completed",
+        "lemma": "male",
+        "strongs": "H4390"
+      },
+      {
+        "surface": "stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "31": [
@@ -1569,6 +1654,11 @@
         "surface": "in the Jubilee",
         "lemma": "yovel",
         "strongs": "H3104"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "32": [
@@ -1688,6 +1778,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "34": [
@@ -1762,6 +1857,11 @@
         "surface": "so that he can continue to live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "36": [
@@ -1999,6 +2099,11 @@
         "surface": "of his fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "42": [
@@ -2036,6 +2141,11 @@
         "surface": "as slaves",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "sale",
+        "lemma": "mimkeret",
+        "strongs": "H4466"
       }
     ],
     "43": [
@@ -2100,6 +2210,11 @@
         "surface": "them",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "female slave",
+        "lemma": "amah",
+        "strongs": "H0519"
       }
     ],
     "45": [
@@ -2219,6 +2334,11 @@
         "surface": "over his brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "47": [
@@ -2271,6 +2391,16 @@
         "surface": "clan",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "resident alien",
+        "lemma": "toshav",
+        "strongs": "H8453"
       }
     ],
     "48": [
@@ -2345,6 +2475,26 @@
         "surface": "he may redeem himself",
         "lemma": "gaal",
         "strongs": "H1350"
+      },
+      {
+        "surface": "uncle",
+        "lemma": "dod",
+        "strongs": "H1730"
+      },
+      {
+        "surface": "redeem himself",
+        "lemma": "gaal",
+        "strongs": "H1350"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "50": [
@@ -2642,6 +2792,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

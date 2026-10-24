@@ -44,6 +44,11 @@
         "surface": "saying",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -815,6 +820,11 @@
         "surface": "GOD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "15": [
@@ -887,6 +897,11 @@
         "surface": "in your midst",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "killed",
+        "lemma": "harag",
+        "strongs": "H2026"
       }
     ],
     "16": [
@@ -1056,6 +1071,11 @@
         "surface": "peoples",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "lamentation",
+        "lemma": "qinah",
+        "strongs": "H7015"
       }
     ],
     "18": [
@@ -1175,6 +1195,11 @@
         "surface": "cover you",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "inhabited",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "20": [
@@ -1314,6 +1339,16 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

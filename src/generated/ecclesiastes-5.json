@@ -156,6 +156,11 @@
         "surface": "few",
         "lemma": "meat",
         "strongs": "H4592"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "3": [
@@ -369,6 +374,11 @@
         "surface": "of your hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "7": [
@@ -619,6 +629,16 @@
         "surface": "with his eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "sight",
+        "lemma": "reut",
+        "strongs": "H7212"
       }
     ],
     "12": [
@@ -780,6 +800,11 @@
         "surface": "to pass on",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
       }
     ],
     "15": [
@@ -894,6 +919,11 @@
         "surface": "for the wind",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "exactly as",
+        "lemma": "ummah_h5980",
+        "strongs": "H5980"
       }
     ],
     "17": [
@@ -936,6 +966,11 @@
         "surface": "and anger",
         "lemma": "qetseph",
         "strongs": "H7110"
+      },
+      {
+        "surface": "vexed",
+        "lemma": "kaas",
+        "strongs": "H3707"
       }
     ],
     "18": [
@@ -1142,6 +1177,11 @@
         "surface": "of his heart",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "much",
+        "lemma": "ravah",
+        "strongs": "H7235"
       }
     ]
   }

@@ -59,6 +59,11 @@
         "surface": "Jeshimon",
         "lemma": "yeshimon",
         "strongs": "H3452"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
@@ -121,6 +126,16 @@
         "surface": "there",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "Ziph",
+        "lemma": "ziph",
+        "strongs": "H2128"
       }
     ],
     "3": [
@@ -193,6 +208,11 @@
         "surface": "there",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "4": [
@@ -225,6 +245,11 @@
         "surface": "had arrived",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "certain",
+        "lemma": "kun",
+        "strongs": "H3559"
       }
     ],
     "5": [
@@ -419,6 +444,16 @@
         "surface": "Abishai",
         "lemma": "avishay",
         "strongs": "H0052"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "7": [
@@ -707,6 +742,11 @@
         "surface": "and perish",
         "lemma": "saphah",
         "strongs": "H5595"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "11": [
@@ -861,6 +901,11 @@
         "surface": "had fallen",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "head",
+        "lemma": "raashot",
+        "strongs": "H7226"
       }
     ],
     "13": [
@@ -985,6 +1030,16 @@
         "surface": "replied",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -1067,6 +1122,16 @@
         "surface": "to destroy him",
         "lemma": "shachat",
         "strongs": "H7843"
+      },
+      {
+        "surface": "master",
+        "lemma": "adon",
+        "strongs": "H0113"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "16": [
@@ -1293,6 +1358,11 @@
         "surface": "is in my hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "19": [
@@ -1425,6 +1495,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "20": [
@@ -1599,6 +1674,11 @@
         "surface": "error",
         "lemma": "shagah",
         "strongs": "H7686"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "22": [
@@ -1641,6 +1721,11 @@
         "surface": "and get it",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1770,6 +1855,16 @@
         "surface": "trouble",
         "lemma": "batstsarah",
         "strongs": "H6869"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadal",
+        "strongs": "H1431"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadal",
+        "strongs": "H1431"
       }
     ],
     "25": [
@@ -1842,6 +1937,11 @@
         "surface": "home",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "prevail",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ]
   }

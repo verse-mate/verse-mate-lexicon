@@ -393,6 +393,11 @@
         "surface": "breath",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "9": [
@@ -537,6 +542,16 @@
         "surface": "army",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "11": [
@@ -899,6 +914,11 @@
         "surface": "associated with him",
         "lemma": "chaver",
         "strongs": "H2270"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "17": [
@@ -963,6 +983,16 @@
         "surface": "what",
         "lemma": "mah",
         "strongs": "H4100"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "19": [
@@ -1174,6 +1204,11 @@
         "surface": "their own land",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "22": [
@@ -1276,6 +1311,16 @@
         "surface": "kingdoms",
         "lemma": "mamlakhah",
         "strongs": "H4467"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "23": [
@@ -1490,6 +1535,16 @@
       },
       {
         "surface": "forever",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "ever",
         "lemma": "olam",
         "strongs": "H5769"
       }

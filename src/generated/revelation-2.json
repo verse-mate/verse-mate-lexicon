@@ -141,6 +141,11 @@
         "surface": "apostles",
         "lemma": "apostolos",
         "strongs": "G0652"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "3": [
@@ -398,6 +403,11 @@
         "surface": "returned to life",
         "lemma": "zao",
         "strongs": "G2198"
+      },
+      {
+        "surface": "dead",
+        "lemma": "nekros",
+        "strongs": "G3498"
       }
     ],
     "9": [
@@ -455,6 +465,11 @@
         "surface": "of Satan",
         "lemma": "satanas",
         "strongs": "G4567"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "10": [
@@ -738,6 +753,11 @@
         "surface": "dwells",
         "lemma": "katoikeo",
         "strongs": "G2730"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "14": [
@@ -976,6 +996,16 @@
         "surface": "receives it",
         "lemma": "lambano",
         "strongs": "G2983"
+      },
+      {
+        "surface": "stone",
+        "lemma": "psephos",
+        "strongs": "G5586"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "18": [
@@ -1100,6 +1130,11 @@
         "surface": "first",
         "lemma": "protos",
         "strongs": "G4413"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "20": [
@@ -1194,6 +1229,11 @@
         "surface": "she is unwilling",
         "lemma": "thelo",
         "strongs": "G2309"
+      },
+      {
+        "surface": "repent",
+        "lemma": "metanoeo",
+        "strongs": "G3340"
       }
     ],
     "22": [

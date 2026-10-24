@@ -192,6 +192,11 @@
         "surface": "language",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "knew",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "6": [
@@ -382,6 +387,11 @@
         "surface": "and I will fill it",
         "lemma": "male",
         "strongs": "H4390"
+      },
+      {
+        "surface": "make large",
+        "lemma": "rachav",
+        "strongs": "H7337"
       }
     ],
     "11": [
@@ -414,6 +424,11 @@
         "surface": "obey",
         "lemma": "avah",
         "strongs": "H0014"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "12": [
@@ -527,6 +542,11 @@
         "surface": "would last forever",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "16": [
@@ -559,6 +579,23 @@
         "surface": "I would satisfy you",
         "lemma": "sava",
         "strongs": "H7646"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "Gittith",
+        "lemma": "gittit",
+        "strongs": "H1665"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

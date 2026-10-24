@@ -24,6 +24,11 @@
         "surface": "of Olives",
         "lemma": "elaia",
         "strongs": "G1636"
+      },
+      {
+        "surface": "Olives",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
       }
     ],
     "2": [
@@ -108,6 +113,11 @@
         "surface": "They made her stand",
         "lemma": "histemi",
         "strongs": "G2476"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "4": [
@@ -219,6 +229,11 @@
         "surface": "His finger",
         "lemma": "daktulos",
         "strongs": "G1147"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "7": [
@@ -345,6 +360,11 @@
         "surface": "there",
         "lemma": "mesos",
         "strongs": "G3319"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "10": [
@@ -439,6 +459,11 @@
         "surface": "no more",
         "lemma": "meketi",
         "strongs": "G3371"
+      },
+      {
+        "surface": "now",
+        "lemma": "nun",
+        "strongs": "G3568"
       }
     ],
     "12": [
@@ -620,6 +645,21 @@
         "surface": "I am going",
         "lemma": "hupago",
         "strongs": "G5217"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "15": [
@@ -815,6 +855,16 @@
         "surface": "Father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "20": [
@@ -951,6 +1001,11 @@
         "surface": "come",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "says",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "23": [
@@ -993,6 +1048,11 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "24": [
@@ -1067,6 +1127,11 @@
         "surface": "replied",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "26": [
@@ -1136,6 +1201,11 @@
         "surface": "Father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "28": [
@@ -1309,6 +1379,11 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1378,6 +1453,11 @@
         "surface": "free",
         "lemma": "eleutheros",
         "strongs": "G1658"
+      },
+      {
+        "surface": "ever",
+        "lemma": "popote",
+        "strongs": "G4455"
       }
     ],
     "34": [
@@ -1536,6 +1616,11 @@
         "surface": "has no place",
         "lemma": "choreo",
         "strongs": "G5562"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "38": [
@@ -1630,6 +1715,11 @@
         "surface": "of Abraham",
         "lemma": "abraam",
         "strongs": "G0011"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "40": [
@@ -1729,6 +1819,11 @@
         "surface": "is God Himself",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "sexual immorality",
+        "lemma": "porneia",
+        "strongs": "G4202"
       }
     ],
     "42": [
@@ -1823,6 +1918,11 @@
         "surface": "message",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "44": [
@@ -1925,6 +2025,16 @@
         "surface": "father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "stood",
+        "lemma": "histemi",
+        "strongs": "G2476"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "pseudos",
+        "strongs": "G5579"
       }
     ],
     "45": [
@@ -2058,6 +2168,11 @@
         "surface": "a demon",
         "lemma": "daimonion",
         "strongs": "G1140"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "49": [
@@ -2154,6 +2269,11 @@
         "surface": "death",
         "lemma": "thanatos",
         "strongs": "G2288"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "52": [
@@ -2226,6 +2346,11 @@
         "surface": "death",
         "lemma": "thanatos",
         "strongs": "G2288"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "53": [
@@ -2268,6 +2393,11 @@
         "surface": "do You claim to be",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "died",
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       }
     ],
     "54": [
@@ -2382,6 +2512,21 @@
         "surface": "word",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "56": [
@@ -2424,6 +2569,16 @@
         "surface": "was glad",
         "lemma": "chairo",
         "strongs": "G5463"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "57": [

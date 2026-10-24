@@ -237,6 +237,11 @@
         "surface": "existed",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "existing",
+        "lemma": "einai",
+        "strongs": "G1511"
       }
     ],
     "6": [
@@ -284,6 +289,11 @@
         "surface": "word",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "7": [
@@ -311,6 +321,11 @@
         "surface": "comes",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "8": [
@@ -772,6 +787,11 @@
         "surface": "message",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "21": [
@@ -1014,6 +1034,11 @@
         "surface": "may be",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "loved",
+        "lemma": "agapao",
+        "strongs": "G0025"
       }
     ]
   }

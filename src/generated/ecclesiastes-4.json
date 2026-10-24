@@ -178,6 +178,11 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "activity",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "4": [
@@ -230,6 +235,11 @@
         "surface": "of the wind",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "5": [
@@ -294,6 +304,16 @@
         "surface": "of the wind",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "hand",
+        "lemma": "kaph",
+        "strongs": "H3709"
+      },
+      {
+        "surface": "two hands",
+        "lemma": "chophen",
+        "strongs": "H2651"
       }
     ],
     "7": [
@@ -428,6 +448,11 @@
         "surface": "task",
         "lemma": "inyan",
         "strongs": "H6045"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "9": [
@@ -606,6 +631,11 @@
         "surface": "broken",
         "lemma": "nataq",
         "strongs": "H5423"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "13": [
@@ -695,6 +725,11 @@
         "surface": "in his own kingdom",
         "lemma": "malkhut",
         "strongs": "H4438"
+      },
+      {
+        "surface": "prisoners",
+        "lemma": "asar",
+        "strongs": "H0631"
       }
     ],
     "15": [

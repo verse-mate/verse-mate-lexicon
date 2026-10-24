@@ -250,6 +250,16 @@
         "surface": "to the Great Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "5": [
@@ -302,6 +312,11 @@
         "surface": "promised",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "6": [
@@ -468,6 +483,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "9": [
@@ -641,6 +661,11 @@
         "surface": "and associate",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "turn back",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "13": [
@@ -748,6 +773,11 @@
         "surface": "has given",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "14": [
@@ -870,6 +900,11 @@
         "surface": "has failed",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "15": [
@@ -952,6 +987,21 @@
         "surface": "has given",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "16": [

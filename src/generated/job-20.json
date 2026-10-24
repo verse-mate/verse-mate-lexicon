@@ -19,6 +19,11 @@
         "surface": "replied",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -68,6 +73,11 @@
         "surface": "prompts a reply",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "spirit",
+        "lemma": "ruach_h7307",
+        "strongs": "H7307"
       }
     ],
     "4": [
@@ -642,6 +652,11 @@
         "surface": "with his treasure",
         "lemma": "chamad",
         "strongs": "H2530"
+      },
+      {
+        "surface": "quiet",
+        "lemma": "shalev",
+        "strongs": "H7961"
       }
     ],
     "21": [
@@ -674,6 +689,11 @@
         "surface": "endure",
         "lemma": "chul",
         "strongs": "H2342"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "22": [
@@ -748,6 +768,11 @@
         "surface": "as he eats",
         "lemma": "lachum",
         "strongs": "H3894"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "24": [
@@ -864,6 +889,16 @@
         "surface": "in his tent",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "fanned",
+        "lemma": "naphach",
+        "strongs": "H5301"
+      },
+      {
+        "surface": "evil",
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ],
     "27": [

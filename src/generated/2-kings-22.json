@@ -74,6 +74,11 @@
         "surface": "she was from Bozkath",
         "lemma": "botsqat",
         "strongs": "H1218"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "2": [
@@ -223,6 +228,11 @@
         "surface": "saying",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "4": [
@@ -357,6 +367,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "6": [
@@ -610,6 +630,26 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "10": [
@@ -672,6 +712,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -786,6 +831,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -1268,6 +1318,11 @@
         "surface": "you heard",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "19": [

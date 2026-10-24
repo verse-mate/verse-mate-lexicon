@@ -64,6 +64,16 @@
         "surface": "in David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "2": [
@@ -131,6 +141,11 @@
         "surface": "and hide there",
         "lemma": "chava",
         "strongs": "H2244"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "3": [
@@ -178,6 +193,11 @@
         "surface": "I will tell",
         "lemma": "nagad",
         "strongs": "H5046"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "4": [
@@ -414,6 +434,11 @@
         "surface": "be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ],
     "7": [
@@ -481,6 +506,16 @@
         "surface": "as before",
         "lemma": "etmol",
         "strongs": "H0865"
+      },
+      {
+        "surface": "Jonathan",
+        "lemma": "yehonatan",
+        "strongs": "H3083"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "8": [
@@ -600,6 +635,11 @@
         "surface": "was playing the harp",
         "lemma": "nagan",
         "strongs": "H5059"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "10": [
@@ -677,6 +717,11 @@
         "surface": "night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "11": [
@@ -774,6 +819,11 @@
         "surface": "will be dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -811,6 +861,11 @@
         "surface": "and escaped",
         "lemma": "malat",
         "strongs": "H4422"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "13": [
@@ -863,6 +918,11 @@
         "surface": "it with a garment",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "goat hair",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "14": [
@@ -1061,6 +1121,11 @@
         "surface": "I will kill you",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ],
     "18": [
@@ -1160,6 +1225,11 @@
         "surface": "in Ramah",
         "lemma": "ramah",
         "strongs": "H7414"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "20": [
@@ -1247,6 +1317,11 @@
         "surface": "began to prophesy",
         "lemma": "nava",
         "strongs": "H5012"
+      },
+      {
+        "surface": "standing",
+        "lemma": "amad",
+        "strongs": "H5975"
       }
     ],
     "21": [
@@ -1376,6 +1451,11 @@
         "surface": "he was told",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "someone said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1433,6 +1513,11 @@
         "surface": "in Ramah",
         "lemma": "ramah",
         "strongs": "H7414"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "24": [
@@ -1505,6 +1590,11 @@
         "surface": "among the prophets",
         "lemma": "navi",
         "strongs": "H5030"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ]
   }

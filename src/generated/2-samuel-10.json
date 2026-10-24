@@ -39,6 +39,21 @@
         "surface": "Hanun",
         "lemma": "chanun",
         "strongs": "H2586"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "2": [
@@ -136,6 +151,21 @@
         "surface": "of the Ammonites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "3": [
@@ -233,6 +263,11 @@
         "surface": "and overthrow it",
         "lemma": "haphakh",
         "strongs": "H2015"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "4": [
@@ -367,6 +402,11 @@
         "surface": "and then return",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "6": [
@@ -474,6 +514,36 @@
         "surface": "from Tob",
         "lemma": "tov",
         "strongs": "H2897"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "sent",
+        "lemma": "shalach",
+        "strongs": "H7971"
+      },
+      {
+        "surface": "Aram",
+        "lemma": "aram_h0758",
+        "strongs": "H0758"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "7": [
@@ -583,6 +653,11 @@
         "surface": "in the open country",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "9": [
@@ -650,6 +725,11 @@
         "surface": "the Arameans",
         "lemma": "aram",
         "strongs": "H0758"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -697,6 +777,11 @@
         "surface": "the Ammonites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "11": [
@@ -754,6 +839,11 @@
         "surface": "to your rescue",
         "lemma": "yasah",
         "strongs": "H3467"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "12": [
@@ -920,6 +1010,16 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "15": [
@@ -952,6 +1052,11 @@
         "surface": "they regrouped",
         "lemma": "asaph",
         "strongs": "H0622"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "16": [
@@ -1019,6 +1124,16 @@
         "surface": "leading them",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "Hadadezer",
+        "lemma": "hadarezer",
+        "strongs": "H1928"
+      },
+      {
+        "surface": "Hadadezer",
+        "lemma": "hadarezer",
+        "strongs": "H1928"
       }
     ],
     "17": [
@@ -1183,6 +1298,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "Aram",
+        "lemma": "aram_h0758",
+        "strongs": "H0758"
       }
     ],
     "19": [
@@ -1265,6 +1385,16 @@
         "surface": "anymore",
         "lemma": "od",
         "strongs": "H5750"
+      },
+      {
+        "surface": "Hadadezer",
+        "lemma": "hadarezer",
+        "strongs": "H1928"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ]
   }

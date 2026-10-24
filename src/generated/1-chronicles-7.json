@@ -131,6 +131,31 @@
         "surface": "of valor",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "3": [
@@ -230,6 +255,31 @@
         "surface": "and children",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "troops",
+        "lemma": "gedud",
+        "strongs": "H1416"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "5": [
@@ -277,6 +327,16 @@
         "surface": "as listed in their genealogies",
         "lemma": "yachas",
         "strongs": "H3187"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "6": [
@@ -376,6 +436,31 @@
         "surface": "listed in their genealogies",
         "lemma": "yachas",
         "strongs": "H3187"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "8": [
@@ -485,6 +570,21 @@
         "surface": "of valor",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "10": [
@@ -599,6 +699,26 @@
         "surface": "for battle",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "battle",
+        "lemma": "milchamah",
+        "strongs": "H4421"
       }
     ],
     "12": [
@@ -725,6 +845,11 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "bore",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "15": [
@@ -792,6 +917,11 @@
         "surface": "only daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "Zelophehad",
+        "lemma": "tselophchad",
+        "strongs": "H6765"
       }
     ],
     "16": [
@@ -859,6 +989,11 @@
         "surface": "and Rekem",
         "lemma": "reqem",
         "strongs": "H7552"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "17": [
@@ -1094,6 +1229,16 @@
         "surface": "their livestock",
         "lemma": "miqneh",
         "strongs": "H4735"
+      },
+      {
+        "surface": "born",
+        "lemma": "yalad",
+        "strongs": "H3205"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "22": [
@@ -1475,6 +1620,21 @@
         "surface": "lived",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
       }
     ],
     "30": [
@@ -1892,6 +2052,26 @@
         "surface": "was 26,000",
         "lemma": "esrim",
         "strongs": "H6242"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "army",
+        "lemma": "tsava_h6635",
+        "strongs": "H6635"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ]
   }

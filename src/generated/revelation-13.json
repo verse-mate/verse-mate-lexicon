@@ -79,6 +79,11 @@
         "surface": "heads",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -156,6 +161,16 @@
         "surface": "authority",
         "lemma": "exousia",
         "strongs": "G1849"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ],
     "3": [
@@ -213,6 +228,11 @@
         "surface": "beast",
         "lemma": "therion",
         "strongs": "G2342"
+      },
+      {
+        "surface": "death",
+        "lemma": "thanatos",
+        "strongs": "G2288"
       }
     ],
     "4": [
@@ -332,6 +352,16 @@
         "surface": "months",
         "lemma": "men",
         "strongs": "G3376"
+      },
+      {
+        "surface": "given",
+        "lemma": "didomi",
+        "strongs": "G1325"
+      },
+      {
+        "surface": "two",
+        "lemma": "duo",
+        "strongs": "G1417"
       }
     ],
     "6": [
@@ -649,6 +679,11 @@
         "surface": "a dragon",
         "lemma": "drakon",
         "strongs": "G1404"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "12": [
@@ -922,6 +957,11 @@
         "surface": "to be killed",
         "lemma": "apokteino",
         "strongs": "G0615"
+      },
+      {
+        "surface": "beast",
+        "lemma": "therion",
+        "strongs": "G2342"
       }
     ],
     "16": [
@@ -1103,6 +1143,16 @@
         "surface": "666",
         "lemma": "hexakosioi",
         "strongs": "G1812"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "hexekonta",
+        "strongs": "G1835"
+      },
+      {
+        "surface": "six",
+        "lemma": "hex",
+        "strongs": "G1803"
       }
     ]
   }

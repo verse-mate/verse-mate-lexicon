@@ -34,6 +34,11 @@
         "surface": "sanctuary",
         "lemma": "hagios",
         "strongs": "G0040"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "2": [
@@ -81,6 +86,11 @@
         "surface": "the Holy Place",
         "lemma": "hagios",
         "strongs": "G0040"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "3": [
@@ -108,6 +118,16 @@
         "surface": "the Most Holy Place",
         "lemma": "hagios",
         "strongs": "G0040"
+      },
+      {
+        "surface": "Holies",
+        "lemma": "hagion",
+        "strongs": "G0039"
+      },
+      {
+        "surface": "Holies",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "4": [
@@ -185,6 +205,16 @@
         "surface": "covenant",
         "lemma": "diatheke",
         "strongs": "G1242"
+      },
+      {
+        "surface": "covered around",
+        "lemma": "perikalupto",
+        "strongs": "G4028"
+      },
+      {
+        "surface": "every part",
+        "lemma": "pantothen",
+        "strongs": "G3840"
       }
     ],
     "5": [
@@ -373,6 +403,11 @@
         "surface": "standing",
         "lemma": "stasis",
         "strongs": "G4714"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "9": [
@@ -477,6 +512,11 @@
         "surface": "of reform",
         "lemma": "diorthosis",
         "strongs": "G1357"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "11": [
@@ -591,6 +631,11 @@
         "surface": "redemption",
         "lemma": "lutrosis",
         "strongs": "G3085"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "13": [
@@ -792,6 +837,11 @@
         "surface": "covenant",
         "lemma": "diatheke",
         "strongs": "G1242"
+      },
+      {
+        "surface": "having taken place",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "16": [
@@ -1108,6 +1158,11 @@
         "surface": "sacrifices",
         "lemma": "thusia",
         "strongs": "G2378"
+      },
+      {
+        "surface": "better",
+        "lemma": "kreisson",
+        "strongs": "G2908"
       }
     ],
     "24": [
@@ -1165,6 +1220,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "25": [
@@ -1207,6 +1267,11 @@
         "surface": "that is not his own",
         "lemma": "allotrios",
         "strongs": "G0245"
+      },
+      {
+        "surface": "Holy",
+        "lemma": "hagion",
+        "strongs": "G0039"
       }
     ],
     "26": [
@@ -1368,6 +1433,11 @@
         "surface": "eagerly await",
         "lemma": "apekdechomai",
         "strongs": "G0553"
+      },
+      {
+        "surface": "appear",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ]
   }

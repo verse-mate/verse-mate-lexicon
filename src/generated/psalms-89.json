@@ -165,6 +165,16 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "5": [
@@ -239,6 +249,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "gods",
+        "lemma": "el",
+        "strongs": "H0410"
       }
     ],
     "7": [
@@ -599,6 +614,11 @@
         "surface": "they exult",
         "lemma": "rum",
         "strongs": "H7311"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "17": [
@@ -985,6 +1005,11 @@
         "surface": "the heavens endure",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "ever",
+        "lemma": "ad",
+        "strongs": "H5703"
       }
     ],
     "30": [
@@ -1369,6 +1394,11 @@
         "surface": "to his neighbors",
         "lemma": "shakhen",
         "strongs": "H7934"
+      },
+      {
+        "surface": "road",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "42": [
@@ -1771,6 +1801,23 @@
         "surface": "and amen",
         "lemma": "amen",
         "strongs": "H0543"
+      }
+    ],
+    "0": [
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "Ethan",
+        "lemma": "etan_h0387",
+        "strongs": "H0387"
+      },
+      {
+        "surface": "Ezrachite",
+        "lemma": "ezrachi",
+        "strongs": "H0250"
       }
     ]
   }

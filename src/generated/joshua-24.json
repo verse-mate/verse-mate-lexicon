@@ -186,6 +186,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "3": [
@@ -424,6 +429,16 @@
         "surface": "as far as the Red Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "reed",
+        "lemma": "suph_h5488",
+        "strongs": "H5488"
       }
     ],
     "7": [
@@ -511,6 +526,11 @@
         "surface": "time",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "8": [
@@ -645,6 +665,11 @@
         "surface": "to curse you",
         "lemma": "qalal",
         "strongs": "H7043"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "10": [
@@ -682,6 +707,11 @@
         "surface": "from his hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "barakh",
+        "strongs": "H1288"
       }
     ],
     "11": [
@@ -1082,6 +1112,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "displeasing",
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ],
     "16": [
@@ -1119,6 +1154,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1211,6 +1251,16 @@
         "surface": "we traveled",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "midst",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
       }
     ],
     "18": [
@@ -1424,6 +1474,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Joshua",
+        "lemma": "yehoshua",
+        "strongs": "H3091"
       }
     ],
     "22": [
@@ -1845,6 +1900,21 @@
         "surface": "of 110",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "ten",
+        "lemma": "eser",
+        "strongs": "H6235"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "30": [
@@ -1979,6 +2049,21 @@
         "surface": "for Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "32": [
@@ -2086,6 +2171,11 @@
         "surface": "descendants",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "33": [
@@ -2143,6 +2233,11 @@
         "surface": "of Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "Gibeah",
+        "lemma": "givah_h1390",
+        "strongs": "H1390"
       }
     ]
   }

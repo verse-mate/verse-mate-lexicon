@@ -324,6 +324,11 @@
         "surface": "truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "7": [
@@ -648,6 +653,11 @@
         "surface": "life",
         "lemma": "zoe",
         "strongs": "G2222"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "14": [
@@ -717,6 +727,16 @@
         "surface": "we have asked",
         "lemma": "aiteo",
         "strongs": "G0154"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "16": [
@@ -789,6 +809,16 @@
         "surface": "he should ask",
         "lemma": "erotao",
         "strongs": "G2065"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "death",
+        "lemma": "thanatos",
+        "strongs": "G2288"
       }
     ],
     "17": [
@@ -878,6 +908,16 @@
         "surface": "cannot touch",
         "lemma": "hapto",
         "strongs": "G0680"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "19": [
@@ -915,6 +955,11 @@
         "surface": "evil one",
         "lemma": "poneros",
         "strongs": "G4190"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "20": [
@@ -1007,6 +1052,11 @@
         "surface": "life",
         "lemma": "zoe",
         "strongs": "G2222"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "21": [

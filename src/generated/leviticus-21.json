@@ -101,6 +101,11 @@
         "surface": "or brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "3": [
@@ -133,6 +138,11 @@
         "surface": "husband",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "make himself unclean",
+        "lemma": "tame",
+        "strongs": "H2930"
       }
     ],
     "4": [
@@ -155,6 +165,11 @@
         "surface": "and so profane himself",
         "lemma": "chalal",
         "strongs": "H2490"
+      },
+      {
+        "surface": "kinspeople",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "5": [
@@ -197,6 +212,16 @@
         "surface": "in their bodies",
         "lemma": "basar",
         "strongs": "H1320"
+      },
+      {
+        "surface": "baldness",
+        "lemma": "qorchah",
+        "strongs": "H7144"
+      },
+      {
+        "surface": "shave",
+        "lemma": "galach",
+        "strongs": "H1548"
       }
     ],
     "6": [
@@ -321,6 +346,16 @@
         "surface": "to his God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "8": [
@@ -410,6 +445,11 @@
         "surface": "in the fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "10": [
@@ -487,6 +527,11 @@
         "surface": "his garments",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "11": [
@@ -586,6 +631,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "sanctuary",
+        "lemma": "miqdash",
+        "strongs": "H4720"
       }
     ],
     "13": [
@@ -650,6 +700,16 @@
         "surface": "from his own people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "15": [
@@ -699,6 +759,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -756,6 +821,16 @@
         "surface": "of his God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "18": [
@@ -830,6 +905,11 @@
         "surface": "hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "fracture",
+        "lemma": "shever",
+        "strongs": "H7667"
       }
     ],
     "20": [
@@ -949,6 +1029,11 @@
         "surface": "of his God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "22": [
@@ -1075,6 +1160,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

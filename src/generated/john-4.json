@@ -93,6 +93,11 @@
         "surface": "Galilee",
         "lemma": "galilaia",
         "strongs": "G1056"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "4": [
@@ -229,6 +234,11 @@
         "surface": "hour",
         "lemma": "hora",
         "strongs": "G5610"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "7": [
@@ -360,6 +370,11 @@
         "surface": "with Samaritans",
         "lemma": "samareites",
         "strongs": "G4541"
+      },
+      {
+        "surface": "Samaritan",
+        "lemma": "samareitis",
+        "strongs": "G4542"
       }
     ],
     "10": [
@@ -432,6 +447,11 @@
         "surface": "water",
         "lemma": "hudor",
         "strongs": "G5204"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "11": [
@@ -578,6 +598,11 @@
         "surface": "again",
         "lemma": "palin",
         "strongs": "G3825"
+      },
+      {
+        "surface": "Answered",
+        "lemma": "apokrino",
+        "strongs": "G0611"
       }
     ],
     "14": [
@@ -640,6 +665,11 @@
         "surface": "life",
         "lemma": "zoe",
         "strongs": "G2222"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "15": [
@@ -771,6 +801,11 @@
         "surface": "husband",
         "lemma": "aner",
         "strongs": "G0435"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "18": [
@@ -813,6 +848,11 @@
         "surface": "truthfully",
         "lemma": "alethes",
         "strongs": "G0227"
+      },
+      {
+        "surface": "now",
+        "lemma": "nun",
+        "strongs": "G3568"
       }
     ],
     "19": [
@@ -981,6 +1021,16 @@
         "surface": "Jews",
         "lemma": "ioudaios",
         "strongs": "G2453"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -1137,6 +1187,11 @@
         "surface": "everything",
         "lemma": "hapas",
         "strongs": "G0537"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "26": [
@@ -1295,6 +1350,11 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "30": [
@@ -1334,6 +1394,11 @@
         "surface": "eat something",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1361,6 +1426,11 @@
         "surface": "know",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "33": [
@@ -1388,6 +1458,11 @@
         "surface": "food",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "34": [
@@ -1512,6 +1587,11 @@
         "surface": "harvest",
         "lemma": "therismos",
         "strongs": "G2326"
+      },
+      {
+        "surface": "comes",
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "36": [
@@ -1690,6 +1770,11 @@
         "surface": "I ever did",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "word",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "40": [
@@ -1749,6 +1834,11 @@
         "surface": "message",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "more",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "42": [
@@ -1806,6 +1896,16 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "43": [
@@ -1917,6 +2017,16 @@
         "surface": "there",
         "lemma": "heorte",
         "strongs": "G1859"
+      },
+      {
+        "surface": "Galilee",
+        "lemma": "galilaia",
+        "strongs": "G1056"
+      },
+      {
+        "surface": "how much",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "46": [
@@ -2073,6 +2183,11 @@
         "surface": "you will never believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "49": [
@@ -2157,6 +2272,11 @@
         "surface": "departed",
         "lemma": "poreuo",
         "strongs": "G4198"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "51": [
@@ -2241,6 +2361,11 @@
         "surface": "hour",
         "lemma": "hora",
         "strongs": "G5610"
+      },
+      {
+        "surface": "better",
+        "lemma": "kompsoteron",
+        "strongs": "G2866"
       }
     ],
     "53": [

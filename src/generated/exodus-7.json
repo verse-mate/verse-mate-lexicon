@@ -111,6 +111,11 @@
         "surface": "out of his land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -225,6 +230,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "5": [
@@ -272,6 +282,11 @@
         "surface": "out from among them",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -336,6 +351,26 @@
         "surface": "Pharaoh",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "8": [
@@ -358,6 +393,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -425,6 +465,11 @@
         "surface": "a serpent",
         "lemma": "tan",
         "strongs": "H8577"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -502,6 +547,11 @@
         "surface": "a serpent",
         "lemma": "tan",
         "strongs": "H8577"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "11": [
@@ -1152,6 +1202,16 @@
         "surface": "to blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "River",
+        "lemma": "yeor",
+        "strongs": "H2975"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "21": [

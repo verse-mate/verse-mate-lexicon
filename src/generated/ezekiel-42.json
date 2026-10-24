@@ -111,6 +111,11 @@
         "surface": "cubits wide",
         "lemma": "ammah",
         "strongs": "H0520"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -230,6 +235,11 @@
         "surface": "were on the north",
         "lemma": "tsaphon",
         "strongs": "H6828"
+      },
+      {
+        "surface": "inner",
+        "lemma": "penimi",
+        "strongs": "H6442"
       }
     ],
     "5": [
@@ -314,6 +324,16 @@
         "surface": "and middle floors",
         "lemma": "tikhon",
         "strongs": "H8484"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "7": [
@@ -423,6 +443,11 @@
         "surface": "cubits long",
         "lemma": "ammah",
         "strongs": "H0520"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "9": [
@@ -460,6 +485,11 @@
         "surface": "court",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "comes",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "10": [
@@ -564,6 +594,16 @@
         "surface": "and dimensions",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "entrances",
+        "lemma": "petach_h6607",
+        "strongs": "H6607"
       }
     ],
     "12": [
@@ -621,6 +661,21 @@
         "surface": "eastward",
         "lemma": "qadim",
         "strongs": "H6921"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "direction",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "13": [
@@ -723,6 +778,26 @@
         "surface": "is holy",
         "lemma": "qadosh",
         "strongs": "H6918"
+      },
+      {
+        "surface": "rooms",
+        "lemma": "lishkah",
+        "strongs": "H3957"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "holy things",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "holy things",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "14": [
@@ -867,6 +942,11 @@
         "surface": "around",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "direction",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "16": [
@@ -914,6 +994,21 @@
         "surface": "long",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "reed",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "measurement",
+        "lemma": "middah",
+        "strongs": "H4060"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "17": [
@@ -951,6 +1046,16 @@
         "surface": "long",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "reed",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
       }
     ],
     "18": [
@@ -988,6 +1093,11 @@
         "surface": "long",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "reed",
+        "lemma": "qaneh",
+        "strongs": "H7070"
       }
     ],
     "19": [
@@ -1030,6 +1140,11 @@
         "surface": "long",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "reed",
+        "lemma": "qaneh",
+        "strongs": "H7070"
       }
     ],
     "20": [
@@ -1107,6 +1222,11 @@
         "surface": "from the common",
         "lemma": "chol",
         "strongs": "H2455"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ]
   }

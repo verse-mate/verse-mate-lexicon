@@ -171,6 +171,11 @@
         "surface": "killed",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "beds",
+        "lemma": "mittah",
+        "strongs": "H4296"
       }
     ],
     "3": [
@@ -310,6 +315,16 @@
         "surface": "son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "took",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "5": [
@@ -352,6 +367,21 @@
         "surface": "palace",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "watch",
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       }
     ],
     "6": [
@@ -404,6 +434,11 @@
         "surface": "the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "watch",
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       }
     ],
     "7": [
@@ -446,6 +481,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "watch",
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       }
     ],
     "8": [
@@ -503,6 +543,16 @@
         "surface": "wherever he goes",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "comes",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "9": [
@@ -585,6 +635,11 @@
         "surface": "the priest",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "10": [
@@ -702,6 +757,16 @@
       },
       {
         "surface": "of the temple",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
       }
@@ -1017,6 +1082,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "16": [
@@ -1059,6 +1134,16 @@
         "surface": "she was put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "17": [
@@ -1136,6 +1221,11 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "18": [
@@ -1243,6 +1333,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "thoroughly",
+        "lemma": "yatav",
+        "strongs": "H3190"
       }
     ],
     "19": [
@@ -1429,6 +1524,11 @@
         "surface": "when he became king",
         "lemma": "malakh",
         "strongs": "H4427"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ]
   }

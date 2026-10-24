@@ -287,6 +287,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "6": [
@@ -344,6 +349,11 @@
         "surface": "and fall",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "side",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "7": [
@@ -870,6 +880,11 @@
         "surface": "those around you",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -1140,6 +1155,11 @@
         "surface": "and uninhabited",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "made desolate",
+        "lemma": "yatsat",
+        "strongs": "H3341"
       }
     ],
     "20": [
@@ -1175,6 +1195,11 @@
       },
       {
         "surface": "is coming against her",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "about to come",
         "lemma": "bo",
         "strongs": "H0935"
       }
@@ -1291,6 +1316,11 @@
         "surface": "like woodsmen cutting down trees",
         "lemma": "chatav",
         "strongs": "H2404"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "23": [
@@ -1529,6 +1559,16 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "27": [
@@ -1706,6 +1746,16 @@
       },
       {
         "surface": "leave you unpunished",
+        "lemma": "naqah",
+        "strongs": "H5352"
+      },
+      {
+        "surface": "complete destruction",
+        "lemma": "kalah_h3617",
+        "strongs": "H3617"
+      },
+      {
+        "surface": "leave unpunished",
         "lemma": "naqah",
         "strongs": "H5352"
       }

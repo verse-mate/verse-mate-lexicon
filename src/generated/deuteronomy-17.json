@@ -208,6 +208,11 @@
         "surface": "I have forbidden",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "commanded",
+        "lemma": "tsavah_h6680",
+        "strongs": "H6680"
       }
     ],
     "4": [
@@ -255,6 +260,11 @@
         "surface": "has happened in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "certain",
+        "lemma": "kun",
+        "strongs": "H3559"
       }
     ],
     "5": [
@@ -302,6 +312,21 @@
         "surface": "to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "6": [
@@ -354,6 +379,16 @@
         "surface": "witness",
         "lemma": "ed",
         "strongs": "H5707"
+      },
+      {
+        "surface": "witness",
+        "lemma": "ed_h5707",
+        "strongs": "H5707"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "7": [
@@ -493,6 +528,36 @@
         "surface": "will choose",
         "lemma": "bachar",
         "strongs": "H0977"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "blood",
+        "lemma": "dam",
+        "strongs": "H1818"
+      },
+      {
+        "surface": "dispute",
+        "lemma": "din_h1779",
+        "strongs": "H1779"
+      },
+      {
+        "surface": "wound",
+        "lemma": "nega",
+        "strongs": "H5061"
+      },
+      {
+        "surface": "arise",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "9": [
@@ -540,6 +605,11 @@
         "surface": "in the case",
         "lemma": "maaseh",
         "strongs": "H4639"
+      },
+      {
+        "surface": "verdict",
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "10": [
@@ -592,6 +662,11 @@
         "surface": "they instruct you",
         "lemma": "yara",
         "strongs": "H3384"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "11": [
@@ -731,6 +806,11 @@
         "surface": "from Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "13": [
@@ -907,6 +987,21 @@
         "surface": "one of your brothers",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "appoint",
+        "lemma": "sum",
+        "strongs": "H7760"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "foreign",
+        "lemma": "nokhri",
+        "strongs": "H5237"
       }
     ],
     "16": [

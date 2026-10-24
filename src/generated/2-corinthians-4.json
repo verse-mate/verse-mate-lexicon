@@ -590,6 +590,11 @@
         "surface": "present us",
         "lemma": "paristemi",
         "strongs": "G3936"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "15": [
@@ -627,6 +632,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "thanksgiving",
+        "lemma": "eucharistia",
+        "strongs": "G2169"
       }
     ],
     "16": [
@@ -704,6 +714,11 @@
       },
       {
         "surface": "beyond comparison",
+        "lemma": "huperbole",
+        "strongs": "G5236"
+      },
+      {
+        "surface": "excessiveness",
         "lemma": "huperbole",
         "strongs": "G5236"
       }

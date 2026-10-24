@@ -158,6 +158,11 @@
         "surface": "with loving devotion",
         "lemma": "chesed",
         "strongs": "H2617"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "4": [
@@ -468,6 +473,16 @@
         "surface": "assembly",
         "lemma": "qahal",
         "strongs": "H6951"
+      },
+      {
+        "surface": "alike",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
+      },
+      {
+        "surface": "hither",
+        "lemma": "hennah",
+        "strongs": "H2008"
       }
     ],
     "9": [
@@ -617,6 +632,11 @@
         "surface": "keeps his flock",
         "lemma": "eder",
         "strongs": "H5739"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -751,6 +771,11 @@
         "surface": "will they languish",
         "lemma": "daav",
         "strongs": "H1669"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "13": [
@@ -937,6 +962,11 @@
         "surface": "they are no more",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "16": [
@@ -1113,6 +1143,21 @@
         "surface": "my God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "heard",
+        "lemma": "shama",
+        "strongs": "H8085"
+      },
+      {
+        "surface": "disciplined",
+        "lemma": "yasar",
+        "strongs": "H3256"
+      },
+      {
+        "surface": "trained",
+        "lemma": "lamad",
+        "strongs": "H3925"
       }
     ],
     "19": [
@@ -1247,6 +1292,21 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "remember",
+        "lemma": "zakhar",
+        "strongs": "H2142"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "compassion",
+        "lemma": "racham",
+        "strongs": "H7355"
       }
     ],
     "21": [
@@ -1314,6 +1374,11 @@
         "surface": "cities of yours",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "22": [
@@ -1542,6 +1607,11 @@
         "surface": "who are weak",
         "lemma": "daav",
         "strongs": "H1669"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "26": [
@@ -1787,6 +1857,16 @@
         "surface": "will be set on edge",
         "lemma": "qahah",
         "strongs": "H6949"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "person",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "31": [
@@ -2284,6 +2364,11 @@
         "surface": "before Me",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "37": [
@@ -2480,6 +2565,11 @@
         "surface": "toward Goah",
         "lemma": "goah",
         "strongs": "H1601"
+      },
+      {
+        "surface": "line",
+        "lemma": "qav_h6957",
+        "strongs": "H6957"
       }
     ],
     "40": [
@@ -2572,6 +2662,16 @@
         "surface": "or demolished",
         "lemma": "haras",
         "strongs": "H2040"
+      },
+      {
+        "surface": "terraced fields",
+        "lemma": "shedemah",
+        "strongs": "H7709"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

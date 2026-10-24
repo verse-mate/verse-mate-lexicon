@@ -93,6 +93,11 @@
         "surface": "Abihud",
         "lemma": "avihud",
         "strongs": "H0031"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "4": [
@@ -280,6 +285,11 @@
         "surface": "Malcam",
         "lemma": "malkam",
         "strongs": "H4445"
+      },
+      {
+        "surface": "fathered",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "10": [
@@ -876,6 +886,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "brothers",
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "33": [
@@ -1307,6 +1322,21 @@
         "surface": "of Benjamin",
         "lemma": "binyamin",
         "strongs": "H1144"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "bow",
+        "lemma": "qeshet",
+        "strongs": "H7198"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ]
   }

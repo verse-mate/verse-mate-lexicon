@@ -19,6 +19,11 @@
         "surface": "replied",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -51,6 +56,16 @@
         "surface": "be vindicated",
         "lemma": "tsadaq",
         "strongs": "H6663"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
+      },
+      {
+        "surface": "lips",
+        "lemma": "saphah_h8193",
+        "strongs": "H8193"
       }
     ],
     "3": [
@@ -142,6 +157,11 @@
         "surface": "His lips",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "6": [
@@ -502,6 +522,11 @@
         "surface": "and unafraid",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "fear",
+        "lemma": "yare",
+        "strongs": "H3372"
       }
     ],
     "16": [
@@ -662,6 +687,11 @@
         "surface": "for their last breath",
         "lemma": "mappach",
         "strongs": "H4646"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ]
   }

@@ -89,6 +89,11 @@
         "surface": "His command",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "2": [
@@ -528,6 +533,11 @@
         "surface": "Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -632,6 +642,16 @@
         "surface": "and the unclean",
         "lemma": "tame",
         "strongs": "H2931"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "11": [
@@ -674,6 +694,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "12": [
@@ -813,6 +838,11 @@
         "surface": "I have been commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "prescribed portion",
+        "lemma": "choq",
+        "strongs": "H2706"
       }
     ],
     "14": [
@@ -895,6 +925,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "prescribed portion",
+        "lemma": "choq",
+        "strongs": "H2706"
       }
     ],
     "15": [
@@ -977,6 +1012,11 @@
         "surface": "has commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "prescribed portion",
+        "lemma": "choq",
+        "strongs": "H2706"
       }
     ],
     "16": [
@@ -1039,6 +1079,11 @@
         "surface": "and asked",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "sought",
+        "lemma": "darash",
+        "strongs": "H1875"
       }
     ],
     "17": [
@@ -1153,6 +1198,11 @@
         "surface": "I commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "19": [
@@ -1252,6 +1302,11 @@
         "surface": "he was satisfied",
         "lemma": "yatav",
         "strongs": "H3190"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ]
   }

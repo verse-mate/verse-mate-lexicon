@@ -536,6 +536,11 @@
         "surface": "the plunder",
         "lemma": "shalal",
         "strongs": "H7998"
+      },
+      {
+        "surface": "flee",
+        "lemma": "nadad",
+        "strongs": "H5074"
       }
     ],
     "13": [
@@ -813,6 +818,11 @@
         "surface": "may dwell there",
         "lemma": "shakhan",
         "strongs": "H7931"
+      },
+      {
+        "surface": "took captive",
+        "lemma": "shavah",
+        "strongs": "H7617"
       }
     ],
     "19": [
@@ -850,6 +860,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "20": [
@@ -1408,6 +1423,11 @@
         "surface": "resounds",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "34": [
@@ -1502,6 +1522,28 @@
         "surface": "be God",
         "lemma": "elohim",
         "strongs": "H0430"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
       }
     ]
   }

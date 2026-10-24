@@ -24,6 +24,11 @@
         "surface": "words",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -145,6 +150,11 @@
         "surface": "beneath",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "5": [
@@ -534,6 +544,11 @@
         "surface": "and set it apart as holy",
         "lemma": "qadash",
         "strongs": "H6942"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -778,6 +793,16 @@
         "surface": "at a distance",
         "lemma": "rachoq",
         "strongs": "H7350"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "saw",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "19": [
@@ -877,6 +902,11 @@
         "surface": "you from sinning",
         "lemma": "chata",
         "strongs": "H2398"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "21": [
@@ -961,6 +991,11 @@
         "surface": "heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "23": [

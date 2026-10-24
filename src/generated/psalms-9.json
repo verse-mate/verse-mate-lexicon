@@ -113,6 +113,11 @@
         "surface": "before You",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "4": [
@@ -229,6 +234,11 @@
         "surface": "has vanished",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "come to an end",
+        "lemma": "tamam",
+        "strongs": "H8552"
       }
     ],
     "7": [
@@ -436,6 +446,11 @@
         "surface": "of the afflicted",
         "lemma": "ani",
         "strongs": "H6041"
+      },
+      {
+        "surface": "humble",
+        "lemma": "anav_h6035",
+        "strongs": "H6035"
       }
     ],
     "13": [
@@ -693,6 +708,11 @@
         "surface": "dashed",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "afflicted",
+        "lemma": "ani",
+        "strongs": "H6041"
       }
     ],
     "19": [
@@ -772,6 +792,33 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "alumoth",
+        "lemma": "alamot",
+        "strongs": "H5961"
+      },
+      {
+        "surface": "labben",
+        "lemma": "mut_h4192",
+        "strongs": "H4192"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

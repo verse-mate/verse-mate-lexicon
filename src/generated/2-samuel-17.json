@@ -59,6 +59,16 @@
         "surface": "David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "2": [
@@ -111,6 +121,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "3": [
@@ -205,6 +220,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -309,6 +329,16 @@
         "surface": "say",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "7": [
@@ -346,6 +376,16 @@
         "surface": "sound",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "Absalom",
+        "lemma": "avishalom",
+        "strongs": "H0053"
+      },
+      {
+        "surface": "counseled",
+        "lemma": "yaats",
+        "strongs": "H3289"
       }
     ],
     "8": [
@@ -428,6 +468,11 @@
         "surface": "the troops",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "soul",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "9": [
@@ -510,6 +555,11 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "hears",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "10": [
@@ -572,6 +622,16 @@
         "surface": "men",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "melt",
+        "lemma": "masas",
+        "strongs": "H4549"
       }
     ],
     "11": [
@@ -639,6 +699,11 @@
         "surface": "into battle",
         "lemma": "qerav",
         "strongs": "H7128"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "asaph",
+        "strongs": "H0622"
       }
     ],
     "12": [
@@ -701,6 +766,11 @@
         "surface": "will remain",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "set",
+        "lemma": "nuach",
+        "strongs": "H5117"
       }
     ],
     "13": [
@@ -875,6 +945,11 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "15": [
@@ -1009,6 +1084,16 @@
         "surface": "will be swallowed up",
         "lemma": "bala",
         "strongs": "H1104"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "pass over",
+        "lemma": "avar_h5674",
+        "strongs": "H5674"
       }
     ],
     "17": [
@@ -1322,6 +1407,11 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "21": [
@@ -1404,6 +1494,11 @@
         "surface": "advice",
         "lemma": "yaats",
         "strongs": "H3289"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "22": [
@@ -1471,6 +1566,11 @@
         "surface": "the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "23": [
@@ -1553,6 +1653,16 @@
         "surface": "tomb",
         "lemma": "qever",
         "strongs": "H6913"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "household",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "24": [
@@ -1811,6 +1921,11 @@
         "surface": "from Rogelim",
         "lemma": "rogelim",
         "strongs": "H7274"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "28": [
@@ -1863,6 +1978,11 @@
         "surface": "lentils",
         "lemma": "adash",
         "strongs": "H5742"
+      },
+      {
+        "surface": "roasted grain",
+        "lemma": "qali",
+        "strongs": "H7039"
       }
     ],
     "29": [
@@ -1935,6 +2055,11 @@
         "surface": "in the wilderness",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "brought",
+        "lemma": "nagash",
+        "strongs": "H5066"
       }
     ]
   }

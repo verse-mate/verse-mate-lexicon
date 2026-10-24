@@ -64,6 +64,11 @@
         "surface": "it did not know",
         "lemma": "ginosko",
         "strongs": "G1097"
+      },
+      {
+        "surface": "Behold",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -141,6 +146,16 @@
         "surface": "He is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "3": [
@@ -247,6 +262,11 @@
         "surface": "sin",
         "lemma": "hamartia",
         "strongs": "G0266"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "6": [
@@ -680,6 +700,11 @@
         "surface": "death",
         "lemma": "thanatos",
         "strongs": "G2288"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "15": [
@@ -737,6 +762,11 @@
         "surface": "murderer",
         "lemma": "anthropoktonos",
         "strongs": "G0443"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "16": [

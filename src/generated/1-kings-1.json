@@ -131,6 +131,11 @@
         "surface": "warm",
         "lemma": "chamam",
         "strongs": "H2552"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "3": [
@@ -183,6 +188,11 @@
         "surface": "to the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "4": [
@@ -230,6 +240,11 @@
         "surface": "relations with her",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "5": [
@@ -359,6 +374,16 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "toar",
+        "strongs": "H8389"
       }
     ],
     "7": [
@@ -406,6 +431,11 @@
         "surface": "him",
         "lemma": "adoniyyah",
         "strongs": "H0138"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "8": [
@@ -570,6 +600,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "10": [
@@ -694,6 +729,11 @@
         "surface": "know it",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -838,6 +878,11 @@
         "surface": "become king",
         "lemma": "malakh",
         "strongs": "H4427"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -1358,6 +1403,26 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "face",
+        "lemma": "aph",
+        "strongs": "H0639"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "24": [
@@ -1641,6 +1706,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "28": [
@@ -1698,6 +1768,16 @@
         "surface": "before him",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "29": [
@@ -1812,6 +1892,11 @@
         "surface": "in my place",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "31": [
@@ -1874,6 +1959,11 @@
         "surface": "forever",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "32": [
@@ -1998,6 +2088,11 @@
         "surface": "Gihon",
         "lemma": "gichon",
         "strongs": "H1521"
+      },
+      {
+        "surface": "lord",
+        "lemma": "adon",
+        "strongs": "H0113"
       }
     ],
     "34": [
@@ -2182,6 +2277,16 @@
       },
       {
         "surface": "declare it",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "say",
         "lemma": "amar",
         "strongs": "H0559"
       }
@@ -2477,6 +2582,16 @@
         "surface": "by the sound",
         "lemma": "qol",
         "strongs": "H6963"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "41": [
@@ -2668,6 +2783,16 @@
         "surface": "king",
         "lemma": "malakh",
         "strongs": "H4427"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Adonijah",
+        "lemma": "adoniyyah",
+        "strongs": "H0138"
       }
     ],
     "44": [
@@ -2988,6 +3113,16 @@
         "surface": "have seen it",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "thus",
+        "lemma": "kakhah",
+        "strongs": "H3602"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "49": [
@@ -3020,6 +3155,16 @@
         "surface": "and scattered",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "50": [
@@ -3159,6 +3304,11 @@
         "surface": "to the sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "52": [

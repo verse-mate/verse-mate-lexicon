@@ -74,6 +74,16 @@
         "surface": "hypocrisy",
         "lemma": "hupokrisis",
         "strongs": "G5272"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "2": [
@@ -153,6 +163,11 @@
         "surface": "housetops",
         "lemma": "doma",
         "strongs": "G1430"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ous",
+        "strongs": "G3775"
       }
     ],
     "4": [
@@ -195,6 +210,11 @@
         "surface": "more",
         "lemma": "perissos",
         "strongs": "G4053"
+      },
+      {
+        "surface": "more excessive",
+        "lemma": "perissoteros",
+        "strongs": "G4055"
       }
     ],
     "5": [
@@ -467,6 +487,11 @@
         "surface": "will not be forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "speak",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "11": [
@@ -689,6 +714,11 @@
         "surface": "produced an abundance",
         "lemma": "euphoreo",
         "strongs": "G2164"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "17": [
@@ -721,6 +751,16 @@
         "surface": "crops",
         "lemma": "karpos",
         "strongs": "G2590"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "where",
+        "lemma": "pou_g4226",
+        "strongs": "G4226"
       }
     ],
     "18": [
@@ -840,6 +880,16 @@
         "surface": "and be merry",
         "lemma": "euphraino",
         "strongs": "G2165"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "Soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "20": [
@@ -1233,6 +1283,11 @@
         "surface": "O you of little faith",
         "lemma": "oligopistos",
         "strongs": "G3640"
+      },
+      {
+        "surface": "dresses",
+        "lemma": "amphiezo",
+        "strongs": "G6005"
       }
     ],
     "29": [
@@ -1297,6 +1352,11 @@
         "surface": "you need",
         "lemma": "chrezo",
         "strongs": "G5535"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "31": [
@@ -1467,6 +1527,16 @@
         "surface": "burning",
         "lemma": "kaio",
         "strongs": "G2545"
+      },
+      {
+        "surface": "waist",
+        "lemma": "osphus",
+        "strongs": "G3751"
+      },
+      {
+        "surface": "girded",
+        "lemma": "perizonnumi",
+        "strongs": "G4024"
       }
     ],
     "36": [
@@ -1937,6 +2007,11 @@
         "surface": "get drunk",
         "lemma": "methusko",
         "strongs": "G3182"
+      },
+      {
+        "surface": "begin",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "46": [
@@ -2118,6 +2193,11 @@
         "surface": "will be demanded",
         "lemma": "aiteo",
         "strongs": "G0154"
+      },
+      {
+        "surface": "more excessive",
+        "lemma": "perissoteros",
+        "strongs": "G4055"
       }
     ],
     "49": [
@@ -2155,6 +2235,11 @@
         "surface": "it were already kindled",
         "lemma": "anapto",
         "strongs": "G0381"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "50": [
@@ -2395,6 +2480,21 @@
         "surface": "happens",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "55": [
@@ -2474,6 +2574,16 @@
         "surface": "present time",
         "lemma": "kairos",
         "strongs": "G2540"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "57": [
@@ -2563,6 +2673,11 @@
         "surface": "prison",
         "lemma": "phulake",
         "strongs": "G5438"
+      },
+      {
+        "surface": "way",
+        "lemma": "hodos",
+        "strongs": "G3598"
       }
     ],
     "59": [

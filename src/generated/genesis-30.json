@@ -116,6 +116,16 @@
         "surface": "children",
         "lemma": "peri",
         "strongs": "H6529"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
+      },
+      {
+        "surface": "womb",
+        "lemma": "beten",
+        "strongs": "H0990"
       }
     ],
     "3": [
@@ -264,6 +274,16 @@
         "surface": "Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "7": [
@@ -358,6 +378,11 @@
         "surface": "Naphtali",
         "lemma": "naphtali",
         "strongs": "H5321"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "9": [
@@ -630,6 +655,16 @@
         "surface": "mandrakes",
         "lemma": "duday",
         "strongs": "H1736"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "Leah",
+        "lemma": "leah",
+        "strongs": "H3812"
       }
     ],
     "15": [
@@ -779,6 +814,11 @@
         "surface": "night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "hired",
+        "lemma": "sakhar_h7936",
+        "strongs": "H7936"
       }
     ],
     "17": [
@@ -868,6 +908,16 @@
         "surface": "Issachar",
         "lemma": "yissaskhar",
         "strongs": "H3485"
+      },
+      {
+        "surface": "reward",
+        "lemma": "sakhar_h7939",
+        "strongs": "H7939"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "19": [
@@ -1182,6 +1232,11 @@
         "surface": "my homeland",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "26": [
@@ -1459,6 +1514,11 @@
         "surface": "your flocks",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "32": [
@@ -1623,6 +1683,16 @@
         "surface": "will be considered stolen",
         "lemma": "ganav",
         "strongs": "H1589"
+      },
+      {
+        "surface": "future time",
+        "lemma": "machar",
+        "strongs": "H4279"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "34": [
@@ -1784,6 +1854,16 @@
         "surface": "flocks",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "37": [
@@ -1846,6 +1926,11 @@
         "surface": "the branches",
         "lemma": "maqqel",
         "strongs": "H4731"
+      },
+      {
+        "surface": "white",
+        "lemma": "lavan",
+        "strongs": "H3836"
       }
     ],
     "38": [
@@ -1913,6 +1998,11 @@
         "surface": "to drink",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "drinking troughs",
+        "lemma": "rahat",
+        "strongs": "H7298"
       }
     ],
     "39": [

@@ -49,6 +49,16 @@
         "surface": "on behalf of the dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "baldness",
+        "lemma": "qorchah",
+        "strongs": "H7144"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "2": [
@@ -165,6 +175,16 @@
         "surface": "the goat",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "animal",
+        "lemma": "seh",
+        "strongs": "H7716"
+      },
+      {
+        "surface": "animal",
+        "lemma": "seh",
+        "strongs": "H7716"
       }
     ],
     "5": [
@@ -249,6 +269,21 @@
         "surface": "the cud",
         "lemma": "gerah",
         "strongs": "H1625"
+      },
+      {
+        "surface": "animal",
+        "lemma": "behemah",
+        "strongs": "H0929"
+      },
+      {
+        "surface": "divides",
+        "lemma": "paras",
+        "strongs": "H6536"
+      },
+      {
+        "surface": "hooves",
+        "lemma": "parsah",
+        "strongs": "H6541"
       }
     ],
     "7": [
@@ -331,6 +366,11 @@
         "surface": "are unclean",
         "lemma": "tame",
         "strongs": "H2931"
+      },
+      {
+        "surface": "cloven",
+        "lemma": "shasa",
+        "strongs": "H8156"
       }
     ],
     "8": [
@@ -420,6 +460,11 @@
         "surface": "and scales",
         "lemma": "qasqeset",
         "strongs": "H7193"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "10": [
@@ -821,6 +866,21 @@
         "surface": "from your fields",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "tithe",
+        "lemma": "asar_h6237",
+        "strongs": "H6237"
+      },
+      {
+        "surface": "seed",
+        "lemma": "zera",
+        "strongs": "H2233"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "23": [
@@ -923,6 +983,11 @@
         "surface": "always",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
@@ -990,6 +1055,11 @@
         "surface": "is too far away",
         "lemma": "rachaq",
         "strongs": "H7368"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "25": [

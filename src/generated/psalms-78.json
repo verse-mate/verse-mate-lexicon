@@ -44,6 +44,11 @@
         "surface": "of my mouth",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "2": [
@@ -363,6 +368,11 @@
         "surface": "God",
         "lemma": "el",
         "strongs": "H0410"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "9": [
@@ -395,6 +405,16 @@
         "surface": "of battle",
         "lemma": "qerav",
         "strongs": "H7128"
+      },
+      {
+        "surface": "shooters",
+        "lemma": "ramah_h7411",
+        "strongs": "H7411"
+      },
+      {
+        "surface": "bow",
+        "lemma": "qeshet",
+        "strongs": "H7198"
       }
     ],
     "10": [
@@ -656,6 +676,11 @@
         "surface": "against the Most High",
         "lemma": "elyon",
         "strongs": "H5945"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "18": [
@@ -1341,6 +1366,16 @@
         "surface": "to His covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "steadfast",
+        "lemma": "kun",
+        "strongs": "H3559"
+      },
+      {
+        "surface": "faithful",
+        "lemma": "aman",
+        "strongs": "H0539"
       }
     ],
     "38": [
@@ -1398,6 +1433,11 @@
         "surface": "His full wrath",
         "lemma": "chemah",
         "strongs": "H2534"
+      },
+      {
+        "surface": "turn back",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "39": [
@@ -1735,6 +1775,11 @@
         "surface": "angels",
         "lemma": "maleakh",
         "strongs": "H4397"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "50": [
@@ -1856,6 +1901,11 @@
         "surface": "in the wilderness",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "led out",
+        "lemma": "nasa",
+        "strongs": "H5265"
       }
     ],
     "53": [
@@ -1972,6 +2022,11 @@
         "surface": "in their tents",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "measuring-line",
+        "lemma": "chevel",
+        "strongs": "H2256"
       }
     ],
     "56": [
@@ -2346,6 +2401,11 @@
         "surface": "of Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "chose",
+        "lemma": "bachar",
+        "strongs": "H0977"
       }
     ],
     "68": [
@@ -2437,6 +2497,11 @@
         "surface": "from the sheepfolds",
         "lemma": "mikhlaah",
         "strongs": "H4356"
+      },
+      {
+        "surface": "sheep",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "71": [
@@ -2511,6 +2576,18 @@
         "surface": "hands",
         "lemma": "kaph",
         "strongs": "H3709"
+      }
+    ],
+    "0": [
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

@@ -89,6 +89,16 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "2": [
@@ -161,6 +171,21 @@
         "surface": "woman",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "3": [
@@ -307,6 +332,11 @@
         "surface": "am pregnant",
         "lemma": "harah",
         "strongs": "H2030"
+      },
+      {
+        "surface": "told",
+        "lemma": "nagad",
+        "strongs": "H5046"
       }
     ],
     "6": [
@@ -406,6 +436,11 @@
         "surface": "was going",
         "lemma": "shalom",
         "strongs": "H7965"
+      },
+      {
+        "surface": "welfare",
+        "lemma": "shalom",
+        "strongs": "H7965"
       }
     ],
     "8": [
@@ -478,6 +513,11 @@
         "surface": "him",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "9": [
@@ -530,6 +570,11 @@
         "surface": "his house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "10": [
@@ -612,6 +657,11 @@
         "surface": "home",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -739,6 +789,16 @@
         "surface": "such a thing",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "open country",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "12": [
@@ -915,6 +975,11 @@
         "surface": "it with Uriah",
         "lemma": "uriyyah",
         "strongs": "H0223"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "15": [
@@ -972,6 +1037,16 @@
         "surface": "and killed",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "16": [
@@ -1019,6 +1094,11 @@
         "surface": "the strongest enemy soldiers were",
         "lemma": "enosh",
         "strongs": "H0582"
+      },
+      {
+        "surface": "strength",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "17": [
@@ -1108,6 +1188,16 @@
         "surface": "of the battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "told",
+        "lemma": "nagad",
+        "strongs": "H5046"
+      },
+      {
+        "surface": "matters",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -1150,6 +1240,11 @@
         "surface": "of the battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "20": [
@@ -1319,6 +1414,11 @@
         "surface": "is dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "upper mill-stone",
+        "lemma": "rekhev",
+        "strongs": "H7393"
       }
     ],
     "22": [
@@ -1356,6 +1456,11 @@
         "surface": "had sent him to say",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "23": [
@@ -1589,6 +1694,11 @@
         "surface": "him",
         "lemma": "baal",
         "strongs": "H1167"
+      },
+      {
+        "surface": "Uriah",
+        "lemma": "uriyyah",
+        "strongs": "H0223"
       }
     ],
     "27": [
@@ -1666,6 +1776,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "sent",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ]
   }

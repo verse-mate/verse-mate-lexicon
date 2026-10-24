@@ -94,6 +94,21 @@
         "surface": "and Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -131,6 +146,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "3": [
@@ -228,6 +248,21 @@
         "surface": "to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "4": [
@@ -310,6 +345,11 @@
         "surface": "My instructions",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "5": [
@@ -355,6 +395,11 @@
       },
       {
         "surface": "on the other days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
       }
@@ -414,6 +459,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -548,6 +598,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "grumbling",
+        "lemma": "lun",
+        "strongs": "H3885"
       }
     ],
     "9": [
@@ -610,6 +665,11 @@
         "surface": "your grumbling",
         "lemma": "telunah",
         "strongs": "H8519"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "10": [
@@ -672,6 +732,11 @@
         "surface": "appeared",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "11": [
@@ -689,6 +754,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -766,6 +836,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -952,6 +1027,11 @@
         "surface": "to eat",
         "lemma": "okhlah",
         "strongs": "H0402"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "16": [
@@ -1009,6 +1089,21 @@
         "surface": "in your tent",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
       }
     ],
     "17": [
@@ -1041,6 +1136,11 @@
         "surface": "and some less",
         "lemma": "maat",
         "strongs": "H4591"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -1234,6 +1334,11 @@
         "surface": "it melted away",
         "lemma": "masas",
         "strongs": "H4549"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "22": [
@@ -1492,6 +1597,11 @@
         "surface": "in the field",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "26": [
@@ -1700,6 +1810,11 @@
         "surface": "his place",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "30": [
@@ -1774,6 +1889,11 @@
         "surface": "made with honey",
         "lemma": "devash",
         "strongs": "H1706"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "32": [
@@ -1846,6 +1966,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "fullness",
+        "lemma": "melo_h4393",
+        "strongs": "H4393"
       }
     ],
     "33": [
@@ -1918,6 +2048,11 @@
         "surface": "for the generations to come",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "fullness",
+        "lemma": "melo_h4393",
+        "strongs": "H4393"
       }
     ],
     "34": [
@@ -2032,6 +2167,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "36": [

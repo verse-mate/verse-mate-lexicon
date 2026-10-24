@@ -183,6 +183,16 @@
         "surface": "the other",
         "lemma": "sheni",
         "strongs": "H8145"
+      },
+      {
+        "surface": "rings",
+        "lemma": "tabbaat",
+        "strongs": "H2885"
+      },
+      {
+        "surface": "side",
+        "lemma": "tsela_h6763",
+        "strongs": "H6763"
       }
     ],
     "4": [
@@ -346,6 +356,11 @@
         "surface": "of the mercy seat",
         "lemma": "kapporet",
         "strongs": "H3727"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "8": [
@@ -378,6 +393,36 @@
         "surface": "from one piece of gold",
         "lemma": "qetsat",
         "strongs": "H7117"
+      },
+      {
+        "surface": "cherub",
+        "lemma": "keruv",
+        "strongs": "H3742"
+      },
+      {
+        "surface": "cherubim",
+        "lemma": "keruv",
+        "strongs": "H3742"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatsah_h7098",
+        "strongs": "H7098"
+      },
+      {
+        "surface": "ends",
+        "lemma": "qatsah_h7098",
+        "strongs": "H7098"
+      },
+      {
+        "surface": "atonement cover",
+        "lemma": "kapporet",
+        "strongs": "H3727"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "9": [
@@ -430,6 +475,21 @@
         "surface": "the mercy seat",
         "lemma": "kapporet",
         "strongs": "H3727"
+      },
+      {
+        "surface": "cherubim",
+        "lemma": "keruv",
+        "strongs": "H3742"
+      },
+      {
+        "surface": "wings",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -811,6 +871,16 @@
         "surface": "and petals",
         "lemma": "perach",
         "strongs": "H6525"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
       }
     ],
     "18": [
@@ -858,6 +928,31 @@
         "surface": "on the other",
         "lemma": "sheni",
         "strongs": "H8145"
+      },
+      {
+        "surface": "branches",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "branches",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "side",
+        "lemma": "tsad",
+        "strongs": "H6654"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
       }
     ],
     "19": [
@@ -935,6 +1030,26 @@
         "surface": "the lampstand",
         "lemma": "menorah",
         "strongs": "H4501"
+      },
+      {
+        "surface": "cups",
+        "lemma": "gevia",
+        "strongs": "H1375"
+      },
+      {
+        "surface": "shaped like almond blossoms",
+        "lemma": "shaqad_h8246",
+        "strongs": "H8246"
+      },
+      {
+        "surface": "bulb",
+        "lemma": "kaphtor",
+        "strongs": "H3730"
+      },
+      {
+        "surface": "blossom",
+        "lemma": "perach",
+        "strongs": "H6525"
       }
     ],
     "20": [
@@ -1024,6 +1139,26 @@
         "surface": "the third pair",
         "lemma": "shenayim",
         "strongs": "H8147"
+      },
+      {
+        "surface": "branches",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "branches",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "branches",
+        "lemma": "qaneh",
+        "strongs": "H7070"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
       }
     ],
     "22": [
@@ -1311,6 +1446,21 @@
         "surface": "used to carry",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "sides",
+        "lemma": "tsela_h6763",
+        "strongs": "H6763"
       }
     ],
     "28": [
@@ -1385,6 +1535,11 @@
         "surface": "the work of a perfumer",
         "lemma": "raqach",
         "strongs": "H7543"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ]
   }

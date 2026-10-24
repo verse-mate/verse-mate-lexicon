@@ -131,6 +131,21 @@
         "surface": "has blessed you forever",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "3": [
@@ -351,6 +366,11 @@
         "surface": "of joy",
         "lemma": "sasvon",
         "strongs": "H8342"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "8": [
@@ -583,6 +603,11 @@
         "surface": "with gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "14": [
@@ -615,6 +640,11 @@
         "surface": "are brought",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "15": [
@@ -726,6 +756,53 @@
         "surface": "and ever",
         "lemma": "ad",
         "strongs": "H5703"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "Shoshannim",
+        "lemma": "shushan",
+        "strongs": "H7799"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "love",
+        "lemma": "yedid",
+        "strongs": "H3039"
       }
     ]
   }

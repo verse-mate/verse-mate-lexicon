@@ -246,6 +246,33 @@
         "surface": "my springs of joy",
         "lemma": "mayan",
         "strongs": "H4599"
+      },
+      {
+        "surface": "pipers",
+        "lemma": "chalal",
+        "strongs": "H2490"
+      }
+    ],
+    "0": [
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
       }
     ]
   }

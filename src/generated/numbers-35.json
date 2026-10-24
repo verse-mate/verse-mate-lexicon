@@ -39,6 +39,11 @@
         "surface": "across from Jericho",
         "lemma": "yericho",
         "strongs": "H3405"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -96,6 +101,21 @@
         "surface": "the cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "Levites",
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "3": [
@@ -190,6 +210,11 @@
         "surface": "on every side",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "5": [
@@ -277,6 +302,41 @@
         "surface": "for the cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "side",
+        "lemma": "peah",
+        "strongs": "H6285"
+      },
+      {
+        "surface": "side",
+        "lemma": "peah",
+        "strongs": "H6285"
+      },
+      {
+        "surface": "side",
+        "lemma": "peah",
+        "strongs": "H6285"
+      },
+      {
+        "surface": "side",
+        "lemma": "peah",
+        "strongs": "H6285"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "6": [
@@ -339,6 +399,11 @@
         "surface": "other cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "7": [
@@ -371,6 +436,16 @@
         "surface": "pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "citi",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "8": [
@@ -443,6 +518,16 @@
         "surface": "a smaller one",
         "lemma": "meat",
         "strongs": "H4592"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "inherit",
+        "lemma": "nachal",
+        "strongs": "H5157"
       }
     ],
     "9": [
@@ -460,6 +545,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -497,6 +587,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "11": [
@@ -695,6 +790,21 @@
         "surface": "of refuge",
         "lemma": "miqlat",
         "strongs": "H4733"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "15": [
@@ -767,6 +877,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "16": [
@@ -807,6 +922,11 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -856,6 +976,11 @@
         "surface": "must surely be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "18": [
@@ -901,6 +1026,11 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -1029,6 +1159,11 @@
         "surface": "he is to kill",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "22": [
@@ -1076,6 +1211,11 @@
         "surface": "unintentionally",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "lying in wait",
+        "lemma": "tsediyyah",
+        "strongs": "H6660"
       }
     ],
     "23": [
@@ -1128,6 +1268,16 @@
         "surface": "to harm him",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "died",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "24": [
@@ -1165,6 +1315,11 @@
         "surface": "ordinances",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "25": [
@@ -1294,6 +1449,11 @@
         "surface": "to which he fled",
         "lemma": "nus",
         "strongs": "H5127"
+      },
+      {
+        "surface": "go out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "27": [
@@ -1346,6 +1506,21 @@
         "surface": "be guilty of bloodshed",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "blood",
+        "lemma": "dam",
+        "strongs": "H1818"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "killer",
+        "lemma": "ratsach",
+        "strongs": "H7523"
       }
     ],
     "28": [
@@ -1559,6 +1734,11 @@
         "surface": "he must surely be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "32": [
@@ -1683,6 +1863,11 @@
         "surface": "of the one who shed it",
         "lemma": "shaphakh",
         "strongs": "H8210"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "34": [
@@ -1730,6 +1915,16 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "among",
+        "lemma": "tavekh",
+        "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

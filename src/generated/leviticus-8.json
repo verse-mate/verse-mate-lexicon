@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -187,6 +192,16 @@
         "surface": "to be done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "congregation",
+        "lemma": "edah",
+        "strongs": "H5712"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "6": [
@@ -380,6 +395,11 @@
         "surface": "him",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -625,6 +645,16 @@
         "surface": "its head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "bull",
+        "lemma": "par",
+        "strongs": "H6499"
+      },
+      {
+        "surface": "sin offering",
+        "lemma": "chattaah_h2403",
+        "strongs": "H2403"
       }
     ],
     "15": [
@@ -826,6 +856,11 @@
         "surface": "him",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "18": [
@@ -868,6 +903,11 @@
         "surface": "its head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "ram",
+        "lemma": "ayil",
+        "strongs": "H0352"
       }
     ],
     "19": [
@@ -1024,6 +1064,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mosheh",
+        "strongs": "H4872"
       }
     ],
     "22": [
@@ -1153,6 +1198,11 @@
         "surface": "foot",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "24": [
@@ -1250,6 +1300,11 @@
         "surface": "the altar",
         "lemma": "mizbeach",
         "strongs": "H4196"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "25": [
@@ -1456,6 +1511,11 @@
         "surface": "as a wave offering",
         "lemma": "tenuphah",
         "strongs": "H8573"
+      },
+      {
+        "surface": "palms",
+        "lemma": "kaph",
+        "strongs": "H3709"
       }
     ],
     "28": [
@@ -1585,6 +1645,11 @@
         "surface": "him",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "30": [
@@ -1796,6 +1861,11 @@
         "surface": "and bread",
         "lemma": "lechem",
         "strongs": "H3899"
+      },
+      {
+        "surface": "burn",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
       }
     ],
     "33": [
@@ -1868,6 +1938,11 @@
         "surface": "you",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "34": [
@@ -2014,6 +2089,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

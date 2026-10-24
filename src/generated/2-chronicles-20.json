@@ -39,6 +39,16 @@
         "surface": "Jehoshaphat",
         "lemma": "yehoshaphat",
         "strongs": "H3092"
+      },
+      {
+        "surface": "Moab",
+        "lemma": "moav",
+        "strongs": "H4124"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "2": [
@@ -99,6 +109,16 @@
       },
       {
         "surface": "En-gedi",
+        "lemma": "engedi",
+        "strongs": "H5872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Gedi",
         "lemma": "engedi",
         "strongs": "H5872"
       }
@@ -1128,6 +1148,11 @@
         "surface": "Him",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "19": [
@@ -1185,6 +1210,16 @@
         "surface": "voice",
         "lemma": "qol",
         "strongs": "H6963"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "upwards",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "20": [
@@ -1441,6 +1476,11 @@
         "surface": "and they were defeated",
         "lemma": "nagaph",
         "strongs": "H5062"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "23": [
@@ -1518,6 +1558,11 @@
         "surface": "another",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "24": [
@@ -1667,6 +1712,21 @@
         "surface": "there was so much",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "precious things",
+        "lemma": "chamad",
+        "strongs": "H2530"
+      },
+      {
+        "surface": "plundered",
+        "lemma": "natsal",
+        "strongs": "H5337"
       }
     ],
     "26": [
@@ -1734,6 +1794,16 @@
         "surface": "this day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "27": [
@@ -1796,6 +1866,11 @@
         "surface": "over their enemies",
         "lemma": "oyev",
         "strongs": "H0341"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "28": [
@@ -1999,6 +2074,21 @@
         "surface": "of Shilhi",
         "lemma": "shilchi",
         "strongs": "H7977"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "32": [
@@ -2274,6 +2364,11 @@
         "surface": "in Ezion-geber",
         "lemma": "etsyongever",
         "strongs": "H6100"
+      },
+      {
+        "surface": "ships",
+        "lemma": "oniyyah",
+        "strongs": "H0591"
       }
     ],
     "37": [

@@ -298,6 +298,21 @@
         "surface": "of that offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "presented",
+        "lemma": "qarav",
+        "strongs": "H7126"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "9": [
@@ -402,6 +417,11 @@
         "surface": "of Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "brother",
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "11": [
@@ -1106,6 +1126,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1158,6 +1183,11 @@
         "surface": "or a goat",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1205,6 +1235,11 @@
         "surface": "it",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "fat",
+        "lemma": "chelev",
+        "strongs": "H2459"
       }
     ],
     "25": [
@@ -1331,6 +1366,16 @@
         "surface": "from his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "28": [
@@ -1348,6 +1393,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "29": [
@@ -1405,6 +1455,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "peace offering",
+        "lemma": "shelem",
+        "strongs": "H8002"
       }
     ],
     "30": [
@@ -1732,6 +1792,11 @@
         "surface": "as priests",
         "lemma": "kahan",
         "strongs": "H3547"
+      },
+      {
+        "surface": "share",
+        "lemma": "mishchah",
+        "strongs": "H4888"
       }
     ],
     "36": [
@@ -1893,6 +1958,11 @@
         "surface": "of Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

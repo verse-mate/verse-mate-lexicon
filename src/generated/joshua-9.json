@@ -99,6 +99,11 @@
         "surface": "and Jebusites",
         "lemma": "yevusi",
         "strongs": "H2983"
+      },
+      {
+        "surface": "front",
+        "lemma": "mul_h4136",
+        "strongs": "H4136"
       }
     ],
     "2": [
@@ -126,6 +131,11 @@
         "surface": "and Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "3": [
@@ -220,6 +230,16 @@
         "surface": "and mended",
         "lemma": "tsarar",
         "strongs": "H6887"
+      },
+      {
+        "surface": "cunning",
+        "lemma": "ormah",
+        "strongs": "H6195"
+      },
+      {
+        "surface": "wine",
+        "lemma": "yayin",
+        "strongs": "H3196"
       }
     ],
     "5": [
@@ -339,6 +359,11 @@
         "surface": "a treaty",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "7": [
@@ -649,6 +674,21 @@
         "surface": "a treaty",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "12": [
@@ -758,6 +798,11 @@
         "surface": "journey",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "wine",
+        "lemma": "yayin",
+        "strongs": "H3196"
       }
     ],
     "14": [
@@ -837,6 +882,11 @@
         "surface": "swore an oath",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "made",
+        "lemma": "karat",
+        "strongs": "H3772"
       }
     ],
     "16": [
@@ -884,6 +934,11 @@
         "surface": "among them",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
       }
     ],
     "17": [
@@ -941,6 +996,16 @@
         "surface": "and Kiriath-jearim",
         "lemma": "qiryatyearim",
         "strongs": "H7157"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "18": [
@@ -1008,6 +1073,11 @@
         "surface": "the leaders",
         "lemma": "nasi",
         "strongs": "H5387"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -1060,6 +1130,16 @@
         "surface": "touch",
         "lemma": "naga",
         "strongs": "H5060"
+      },
+      {
+        "surface": "congregation",
+        "lemma": "edah",
+        "strongs": "H5712"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "20": [
@@ -1154,6 +1234,11 @@
         "surface": "kept their promise",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "22": [
@@ -1201,6 +1286,16 @@
         "surface": "among us",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "23": [
@@ -1248,6 +1343,16 @@
         "surface": "of my God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "cut off",
+        "lemma": "karat",
+        "strongs": "H3772"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "24": [
@@ -1350,6 +1455,31 @@
         "surface": "and that is why we have done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "Joshua",
+        "lemma": "yehoshua",
+        "strongs": "H3091"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "told",
+        "lemma": "nagad",
+        "strongs": "H5046"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "25": [
@@ -1486,6 +1616,16 @@
         "surface": "He would choose",
         "lemma": "bachar",
         "strongs": "H0977"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ]
   }

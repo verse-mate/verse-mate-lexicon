@@ -200,6 +200,16 @@
         "surface": "Jerusalem",
         "lemma": "hierosoluma",
         "strongs": "G2414"
+      },
+      {
+        "surface": "having been",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "know",
+        "lemma": "isemi",
+        "strongs": "G2467"
       }
     ],
     "5": [
@@ -346,6 +356,11 @@
         "surface": "the Jews",
         "lemma": "ioudaios",
         "strongs": "G2453"
+      },
+      {
+        "surface": "earnestness",
+        "lemma": "ekteneia",
+        "strongs": "G1616"
       }
     ],
     "8": [
@@ -477,6 +492,11 @@
         "surface": "I cast my vote against them",
         "lemma": "kataphero",
         "strongs": "G2702"
+      },
+      {
+        "surface": "vote",
+        "lemma": "psephos",
+        "strongs": "G5586"
       }
     ],
     "11": [
@@ -519,6 +539,11 @@
         "surface": "to persecute them",
         "lemma": "dioko",
         "strongs": "G1377"
+      },
+      {
+        "surface": "Excessively",
+        "lemma": "perissos_g4057",
+        "strongs": "G4057"
       }
     ],
     "12": [
@@ -593,6 +618,21 @@
         "surface": "shining around",
         "lemma": "perilampo",
         "strongs": "G4034"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "journeying",
+        "lemma": "poreuo",
+        "strongs": "G4198"
       }
     ],
     "14": [
@@ -665,6 +705,11 @@
         "surface": "the goads",
         "lemma": "kentron",
         "strongs": "G2759"
+      },
+      {
+        "surface": "language",
+        "lemma": "dialektos",
+        "strongs": "G1258"
       }
     ],
     "15": [
@@ -759,6 +804,21 @@
         "surface": "I will show",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "appear",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "17": [
@@ -962,6 +1022,11 @@
         "surface": "repentance",
         "lemma": "metanoia",
         "strongs": "G3341"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "21": [
@@ -1306,6 +1371,11 @@
         "surface": "you do",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "28": [
@@ -1400,6 +1470,11 @@
         "surface": "chains",
         "lemma": "desmos",
         "strongs": "G1199"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "30": [
@@ -1474,6 +1549,11 @@
         "surface": "imprisonment",
         "lemma": "desmos",
         "strongs": "G1199"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [

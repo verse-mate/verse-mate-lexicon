@@ -61,6 +61,11 @@
         "surface": "tombs",
         "lemma": "mnemeion",
         "strongs": "G3419"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "3": [
@@ -224,6 +229,11 @@
         "surface": "fell on his knees",
         "lemma": "proskuneo",
         "strongs": "G4352"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -281,6 +291,11 @@
         "surface": "to torture",
         "lemma": "basanizo",
         "strongs": "G0928"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -308,6 +323,11 @@
         "surface": "spirit",
         "lemma": "pneuma",
         "strongs": "G4151"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "9": [
@@ -431,6 +451,11 @@
         "surface": "we may enter",
         "lemma": "eiserchomai",
         "strongs": "G1525"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "13": [
@@ -550,6 +575,11 @@
         "surface": "had happened",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -597,6 +627,11 @@
         "surface": "they were afraid",
         "lemma": "phobeo",
         "strongs": "G5399"
+      },
+      {
+        "surface": "having had",
+        "lemma": "echo",
+        "strongs": "G2192"
       }
     ],
     "16": [
@@ -624,6 +659,11 @@
         "surface": "pigs",
         "lemma": "choiros",
         "strongs": "G5519"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "17": [
@@ -646,6 +686,11 @@
         "surface": "region",
         "lemma": "horion",
         "strongs": "G3725"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "18": [
@@ -772,6 +817,11 @@
         "surface": "was amazed",
         "lemma": "thaumazo",
         "strongs": "G2296"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "21": [
@@ -809,6 +859,11 @@
         "surface": "sea",
         "lemma": "thalassa",
         "strongs": "G2281"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "22": [
@@ -851,6 +906,11 @@
         "surface": "feet",
         "lemma": "pous",
         "strongs": "G4228"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "23": [
@@ -903,6 +963,11 @@
         "surface": "live",
         "lemma": "zao",
         "strongs": "G2198"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "24": [
@@ -1051,6 +1116,11 @@
         "surface": "cloak",
         "lemma": "himation",
         "strongs": "G2440"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "28": [
@@ -1073,6 +1143,16 @@
         "surface": "I will be healed",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "29": [
@@ -1172,6 +1252,16 @@
         "surface": "garments",
         "lemma": "himation",
         "strongs": "G2440"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "31": [
@@ -1214,6 +1304,16 @@
         "surface": "touched",
         "lemma": "hapto",
         "strongs": "G0680"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "32": [
@@ -1231,6 +1331,11 @@
         "surface": "had done",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "33": [
@@ -1283,6 +1388,11 @@
         "surface": "truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "34": [
@@ -1434,6 +1544,11 @@
         "surface": "believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "37": [
@@ -1706,6 +1821,16 @@
         "surface": "they were utterly astounded",
         "lemma": "existemi",
         "strongs": "G1839"
+      },
+      {
+        "surface": "amazement",
+        "lemma": "ekstasis",
+        "strongs": "G1611"
+      },
+      {
+        "surface": "great",
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "43": [
@@ -1738,6 +1863,11 @@
         "surface": "something to eat",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "strictly",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ]
   }

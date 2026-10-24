@@ -74,6 +74,11 @@
         "surface": "to sound the trumpets",
         "lemma": "teruah",
         "strongs": "H8643"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "2": [
@@ -146,6 +151,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "3": [
@@ -188,6 +203,16 @@
         "surface": "with the ram",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "4": [
@@ -208,6 +233,11 @@
       },
       {
         "surface": "male lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
+      },
+      {
+        "surface": "lambs",
         "lemma": "keves",
         "strongs": "H3532"
       }
@@ -232,6 +262,11 @@
         "surface": "to make atonement",
         "lemma": "kipher",
         "strongs": "H3722"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "6": [
@@ -289,6 +324,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "burnt offering",
+        "lemma": "olah",
+        "strongs": "H5930"
+      },
+      {
+        "surface": "grain offering",
+        "lemma": "minchah",
+        "strongs": "H4503"
       }
     ],
     "7": [
@@ -428,6 +473,16 @@
         "surface": "unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "9": [
@@ -470,6 +525,16 @@
         "surface": "with the ram",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "10": [
@@ -487,6 +552,16 @@
         "surface": "of the seven",
         "lemma": "sheva",
         "strongs": "H7651"
+      },
+      {
+        "surface": "lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "issaron",
+        "strongs": "H6241"
       },
       {
         "surface": "lambs",
@@ -544,6 +619,11 @@
         "surface": "and drink offerings",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "12": [
@@ -626,6 +706,16 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "13": [
@@ -708,6 +798,26 @@
         "surface": "unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "14": [
@@ -770,6 +880,31 @@
         "surface": "rams",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "young bulls",
+        "lemma": "par",
+        "strongs": "H6499"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "rams",
+        "lemma": "ayil",
+        "strongs": "H0352"
       }
     ],
     "15": [
@@ -792,6 +927,21 @@
         "surface": "lambs",
         "lemma": "keves",
         "strongs": "H3532"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -834,6 +984,11 @@
         "surface": "and drink offering",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "17": [
@@ -886,6 +1041,31 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "young ones",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "18": [
@@ -918,6 +1098,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "19": [
@@ -960,6 +1145,11 @@
         "surface": "and drink offering",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "20": [
@@ -1012,6 +1202,21 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "21": [
@@ -1044,6 +1249,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "22": [
@@ -1138,6 +1348,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "24": [
@@ -1170,6 +1390,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "25": [
@@ -1212,6 +1437,11 @@
         "surface": "and drink offering",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "26": [
@@ -1264,6 +1494,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "27": [
@@ -1296,6 +1536,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "28": [
@@ -1390,6 +1635,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "30": [
@@ -1422,6 +1677,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "31": [
@@ -1516,6 +1776,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "33": [
@@ -1548,6 +1818,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "34": [
@@ -1632,6 +1907,11 @@
         "surface": "regular work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "36": [
@@ -1704,6 +1984,11 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "37": [
@@ -1736,6 +2021,11 @@
         "surface": "prescribed",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "drink offerings",
+        "lemma": "nesekh",
+        "strongs": "H5262"
       }
     ],
     "38": [
@@ -1867,6 +2157,11 @@
         "surface": "him",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

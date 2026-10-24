@@ -86,6 +86,11 @@
         "surface": "to stumble",
         "lemma": "skandalizo",
         "strongs": "G4624"
+      },
+      {
+        "surface": "mill",
+        "lemma": "mulikos",
+        "strongs": "G3457"
       }
     ],
     "3": [
@@ -249,6 +254,11 @@
         "surface": "it will obey",
         "lemma": "hupakouo",
         "strongs": "G5219"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "7": [
@@ -306,6 +316,11 @@
         "surface": "and sit down to eat",
         "lemma": "anapipto",
         "strongs": "G0377"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "8": [
@@ -358,6 +373,11 @@
         "surface": "drink",
         "lemma": "pino",
         "strongs": "G4095"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "9": [
@@ -469,6 +489,11 @@
         "surface": "Galilee",
         "lemma": "galilaia",
         "strongs": "G1056"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "12": [
@@ -506,6 +531,11 @@
         "surface": "at a distance",
         "lemma": "porrothen",
         "strongs": "G4207"
+      },
+      {
+        "surface": "men",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "13": [
@@ -580,6 +610,11 @@
         "surface": "they were cleansed",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -622,6 +657,11 @@
         "surface": "voice",
         "lemma": "phone",
         "strongs": "G5456"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -686,6 +726,11 @@
         "surface": "nine",
         "lemma": "ennea",
         "strongs": "G1767"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "18": [
@@ -797,6 +842,11 @@
         "surface": "observable signs",
         "lemma": "parateresis",
         "strongs": "G3907"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "21": [
@@ -829,6 +879,11 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "22": [
@@ -886,6 +941,16 @@
         "surface": "you will not see it",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "23": [
@@ -913,6 +978,11 @@
         "surface": "chase after them",
         "lemma": "dioko",
         "strongs": "G1377"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "24": [
@@ -960,6 +1030,11 @@
         "surface": "day",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "sky",
+        "lemma": "ouranos",
+        "strongs": "G3772"
       }
     ],
     "25": [
@@ -992,6 +1067,11 @@
         "surface": "generation",
         "lemma": "genea",
         "strongs": "G1074"
+      },
+      {
+        "surface": "First",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "26": [
@@ -1274,6 +1354,11 @@
         "surface": "he has left behind",
         "lemma": "opiso",
         "strongs": "G3694"
+      },
+      {
+        "surface": "house",
+        "lemma": "oikia",
+        "strongs": "G3614"
       }
     ],
     "32": [
@@ -1454,6 +1539,11 @@
         "surface": "will gather",
         "lemma": "episunago",
         "strongs": "G1996"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

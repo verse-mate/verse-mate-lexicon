@@ -59,6 +59,21 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Simeon",
+        "lemma": "shimon_h8095",
+        "strongs": "H8095"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "2": [
@@ -86,6 +101,11 @@
         "surface": "Moladah",
         "lemma": "moladah",
         "strongs": "H4137"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "3": [
@@ -184,6 +204,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "7": [
@@ -283,6 +308,11 @@
         "surface": "of Simeon",
         "lemma": "shimon",
         "strongs": "H8095"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "9": [
@@ -350,6 +380,21 @@
         "surface": "Judah’s portion",
         "lemma": "nachal",
         "strongs": "H5157"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "10": [
@@ -449,6 +494,11 @@
         "surface": "of Jokneam",
         "lemma": "yoqneam",
         "strongs": "H3362"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "12": [
@@ -501,6 +551,16 @@
         "surface": "to Japhia",
         "lemma": "yaphia",
         "strongs": "H3309"
+      },
+      {
+        "surface": "rising",
+        "lemma": "mizrach",
+        "strongs": "H4217"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "13": [
@@ -558,6 +618,11 @@
         "surface": "around toward Neah",
         "lemma": "neah",
         "strongs": "H5269"
+      },
+      {
+        "surface": "east",
+        "lemma": "mizrach",
+        "strongs": "H4217"
       }
     ],
     "14": [
@@ -600,6 +665,11 @@
         "surface": "of Iphtah-el",
         "lemma": "yiphtachel",
         "strongs": "H3317"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "15": [
@@ -647,6 +717,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -709,6 +784,11 @@
       },
       {
         "surface": "of Issachar",
+        "lemma": "yissaskhar",
+        "strongs": "H3485"
+      },
+      {
+        "surface": "Issachar",
         "lemma": "yissaskhar",
         "strongs": "H3485"
       }
@@ -866,6 +946,21 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "23": [
@@ -898,6 +993,11 @@
         "surface": "and their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "24": [
@@ -930,6 +1030,11 @@
         "surface": "of Asher",
         "lemma": "asher",
         "strongs": "H0836"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "25": [
@@ -1086,6 +1191,11 @@
         "surface": "on the left",
         "lemma": "semol",
         "strongs": "H8040"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "28": [
@@ -1180,6 +1290,16 @@
         "surface": "of Achzib",
         "lemma": "akhziv",
         "strongs": "H0392"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "30": [
@@ -1212,6 +1332,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "31": [
@@ -1244,6 +1369,11 @@
         "surface": "and their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "32": [
@@ -1274,6 +1404,16 @@
       },
       {
         "surface": "of Naphtali",
+        "lemma": "naphtali",
+        "strongs": "H5321"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Naphtali",
         "lemma": "naphtali",
         "strongs": "H5321"
       }
@@ -1333,6 +1473,16 @@
         "surface": "at the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "Nekeb",
+        "lemma": "neqev_h5346",
+        "strongs": "H5346"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "34": [
@@ -1415,6 +1565,16 @@
         "surface": "on the east",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "touches",
+        "lemma": "paga",
+        "strongs": "H6293"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "35": [
@@ -1548,6 +1708,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "39": [
@@ -1580,6 +1745,11 @@
         "surface": "and their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "40": [
@@ -1612,6 +1782,11 @@
         "surface": "of Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "41": [
@@ -1846,6 +2021,21 @@
         "surface": "Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "Dan",
+        "lemma": "dan",
+        "strongs": "H1835"
+      },
+      {
+        "surface": "Dan",
+        "lemma": "dan",
+        "strongs": "H1835"
+      },
+      {
+        "surface": "Dan",
+        "lemma": "dan",
+        "strongs": "H1835"
       }
     ],
     "48": [
@@ -1940,6 +2130,11 @@
         "surface": "among them",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "50": [

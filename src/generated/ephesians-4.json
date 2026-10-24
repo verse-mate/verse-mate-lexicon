@@ -76,6 +76,11 @@
         "surface": "love",
         "lemma": "agape",
         "strongs": "G0026"
+      },
+      {
+        "surface": "gentleness",
+        "lemma": "praotes",
+        "strongs": "G4236"
       }
     ],
     "3": [
@@ -689,6 +694,16 @@
         "surface": "part",
         "lemma": "meros",
         "strongs": "G3313"
+      },
+      {
+        "surface": "body",
+        "lemma": "soma",
+        "strongs": "G4983"
+      },
+      {
+        "surface": "makes for itself",
+        "lemma": "poieo",
+        "strongs": "G4160"
       }
     ],
     "17": [
@@ -911,6 +926,11 @@
         "surface": "desires",
         "lemma": "epithumia",
         "strongs": "G1939"
+      },
+      {
+        "surface": "former",
+        "lemma": "proteros",
+        "strongs": "G4387"
       }
     ],
     "23": [
@@ -1123,6 +1143,11 @@
         "surface": "need",
         "lemma": "chreia",
         "strongs": "G5532"
+      },
+      {
+        "surface": "rather",
+        "lemma": "mallon",
+        "strongs": "G3123"
       }
     ],
     "29": [
@@ -1175,6 +1200,11 @@
         "surface": "who listen",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "Any",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "30": [

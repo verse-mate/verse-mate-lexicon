@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -71,6 +76,11 @@
         "surface": "am holy",
         "lemma": "qadosh",
         "strongs": "H6918"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "3": [
@@ -229,6 +239,11 @@
         "surface": "must be burned up",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "burned",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
       }
     ],
     "7": [
@@ -266,6 +281,11 @@
         "surface": "be accepted",
         "lemma": "ratsah",
         "strongs": "H7521"
+      },
+      {
+        "surface": "eaten",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "8": [
@@ -365,6 +385,11 @@
         "surface": "of your harvest",
         "lemma": "qatsir",
         "strongs": "H7105"
+      },
+      {
+        "surface": "harvest",
+        "lemma": "qatser",
+        "strongs": "H7114"
       }
     ],
     "10": [
@@ -667,6 +692,21 @@
         "surface": "fairly",
         "lemma": "tsedeq",
         "strongs": "H6664"
+      },
+      {
+        "surface": "injustice",
+        "lemma": "evel_h5766",
+        "strongs": "H5766"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "16": [
@@ -761,6 +801,11 @@
         "surface": "guilt",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "rebuke",
+        "lemma": "yakhach",
+        "strongs": "H3198"
       }
     ],
     "18": [
@@ -952,6 +997,21 @@
         "surface": "been freed",
         "lemma": "chaphash",
         "strongs": "H2666"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "laying",
+        "lemma": "shekhavah",
+        "strongs": "H7902"
+      },
+      {
+        "surface": "released",
+        "lemma": "padah",
+        "strongs": "H6299"
       }
     ],
     "21": [
@@ -989,6 +1049,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "guilt offering",
+        "lemma": "asham_h0817",
+        "strongs": "H0817"
       }
     ],
     "22": [
@@ -1323,6 +1388,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "make",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "29": [
@@ -1370,6 +1440,11 @@
         "surface": "with depravity",
         "lemma": "zimmah",
         "strongs": "H2154"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "30": [
@@ -1481,6 +1556,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "33": [

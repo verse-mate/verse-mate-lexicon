@@ -474,6 +474,11 @@
         "surface": "Meshullam",
         "lemma": "meshullam",
         "strongs": "H4918"
+      },
+      {
+        "surface": "Iddo",
+        "lemma": "iddo_h5714",
+        "strongs": "H5714"
       }
     ],
     "17": [
@@ -713,6 +718,11 @@
         "surface": "of the Chronicles",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
@@ -857,6 +867,11 @@
         "surface": "at the gates",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "guard",
+        "lemma": "mishmar",
+        "strongs": "H4929"
       }
     ],
     "26": [
@@ -1095,6 +1110,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Gilgal",
+        "lemma": "bethaggilgal",
+        "strongs": "H1019"
       }
     ],
     "30": [
@@ -1226,6 +1246,11 @@
         "surface": "followed",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "33": [
@@ -1342,6 +1367,11 @@
         "surface": "of Asaph",
         "lemma": "asaph",
         "strongs": "H0623"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "36": [
@@ -1496,6 +1526,11 @@
         "surface": "on the east",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "38": [
@@ -1858,6 +1893,11 @@
         "surface": "from afar",
         "lemma": "rachoq",
         "strongs": "H7350"
+      },
+      {
+        "surface": "rejoicing",
+        "lemma": "simchah",
+        "strongs": "H8057"
       }
     ],
     "44": [
@@ -2161,6 +2201,11 @@
         "surface": "of Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

@@ -138,6 +138,11 @@
         "surface": "his friend",
         "lemma": "qarov",
         "strongs": "H7138"
+      },
+      {
+        "surface": "lifts up",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
       }
     ],
     "4": [
@@ -185,6 +190,11 @@
         "surface": "oath",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -237,6 +247,23 @@
         "surface": "be shaken",
         "lemma": "mot",
         "strongs": "H4131"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

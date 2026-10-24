@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -61,6 +66,21 @@
         "surface": "has commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "3": [
@@ -113,6 +133,16 @@
         "surface": "of it",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "cut throat",
+        "lemma": "shachat",
+        "strongs": "H7819"
       }
     ],
     "4": [
@@ -210,6 +240,11 @@
         "surface": "his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "5": [
@@ -292,6 +327,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -468,6 +508,11 @@
         "surface": "a sacrifice",
         "lemma": "zevach",
         "strongs": "H2077"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "9": [
@@ -597,6 +642,21 @@
         "surface": "his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "eats",
+        "lemma": "akhal",
+        "strongs": "H0398"
+      },
+      {
+        "surface": "blood",
+        "lemma": "dam",
+        "strongs": "H1818"
       }
     ],
     "11": [
@@ -706,6 +766,21 @@
         "surface": "blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "13": [
@@ -778,6 +853,16 @@
         "surface": "it with dirt",
         "lemma": "aphar",
         "strongs": "H6083"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -865,6 +950,16 @@
         "surface": "must be cut off",
         "lemma": "karat",
         "strongs": "H3772"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "15": [

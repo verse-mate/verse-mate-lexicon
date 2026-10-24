@@ -203,6 +203,21 @@
         "surface": "tree",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
+      },
+      {
+        "surface": "separate",
+        "lemma": "badal",
+        "strongs": "H0914"
       }
     ],
     "4": [
@@ -399,6 +414,11 @@
         "surface": "to My covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ],
     "7": [
@@ -637,6 +657,11 @@
         "surface": "to slumber",
         "lemma": "num",
         "strongs": "H5123"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "11": [
@@ -704,6 +729,21 @@
         "surface": "seeking his own gain",
         "lemma": "betsa",
         "strongs": "H1215"
+      },
+      {
+        "surface": "mighty",
+        "lemma": "az",
+        "strongs": "H5794"
+      },
+      {
+        "surface": "appetite",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "satiety",
+        "lemma": "sovah",
+        "strongs": "H7654"
       }
     ],
     "12": [
@@ -751,6 +791,16 @@
         "surface": "better",
         "lemma": "gadol",
         "strongs": "H1419"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "abundance",
+        "lemma": "yeter",
+        "strongs": "H3499"
       }
     ]
   }

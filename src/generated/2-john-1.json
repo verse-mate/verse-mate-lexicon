@@ -180,6 +180,11 @@
         "surface": "us",
         "lemma": "lambano",
         "strongs": "G2983"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "lian",
+        "strongs": "G3029"
       }
     ],
     "5": [
@@ -227,6 +232,11 @@
         "surface": "one another",
         "lemma": "allelon",
         "strongs": "G0240"
+      },
+      {
+        "surface": "am writing",
+        "lemma": "grapho",
+        "strongs": "G1125"
       }
     ],
     "6": [
@@ -358,6 +368,16 @@
         "surface": "you may be fully rewarded",
         "lemma": "apolambano",
         "strongs": "G0618"
+      },
+      {
+        "surface": "reward",
+        "lemma": "misthos",
+        "strongs": "G3408"
+      },
+      {
+        "surface": "full",
+        "lemma": "pleres",
+        "strongs": "G4134"
       }
     ],
     "9": [
@@ -452,6 +472,11 @@
         "surface": "greet",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "greet",
+        "lemma": "chairo",
+        "strongs": "G5463"
       }
     ],
     "11": [
@@ -474,6 +499,11 @@
         "surface": "deeds",
         "lemma": "ergon",
         "strongs": "G2041"
+      },
+      {
+        "surface": "rejoice",
+        "lemma": "chairo",
+        "strongs": "G5463"
       }
     ],
     "12": [

@@ -96,6 +96,16 @@
         "surface": "months",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "3": [
@@ -302,6 +312,21 @@
         "surface": "his God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "6": [
@@ -622,6 +647,11 @@
         "surface": "and Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "11": [
@@ -664,6 +694,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "12": [
@@ -865,6 +905,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "unfaithfulness",
+        "lemma": "maal_h4604",
+        "strongs": "H4604"
       }
     ],
     "15": [
@@ -917,6 +962,11 @@
         "surface": "His dwelling place",
         "lemma": "maon",
         "strongs": "H4583"
+      },
+      {
+        "surface": "sending",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "16": [
@@ -1148,6 +1198,11 @@
         "surface": "and his officials",
         "lemma": "sar",
         "strongs": "H8269"
+      },
+      {
+        "surface": "treasures",
+        "lemma": "otsar",
+        "strongs": "H0214"
       }
     ],
     "19": [
@@ -1215,6 +1270,11 @@
         "surface": "of value",
         "lemma": "machmad",
         "strongs": "H4261"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "20": [

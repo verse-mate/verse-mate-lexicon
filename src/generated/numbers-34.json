@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -71,6 +76,21 @@
         "surface": "with these boundaries",
         "lemma": "gevulah",
         "strongs": "H1367"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Canaan",
+        "lemma": "kenaan",
+        "strongs": "H3667"
       }
     ],
     "3": [
@@ -220,6 +240,16 @@
         "surface": "to Azmon",
         "lemma": "atsmon",
         "strongs": "H6111"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "5": [
@@ -257,6 +287,11 @@
         "surface": "at the Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "6": [
@@ -383,6 +418,16 @@
         "surface": "to Zedad",
         "lemma": "tsedad",
         "strongs": "H6657"
+      },
+      {
+        "surface": "mark out",
+        "lemma": "taah_h8376",
+        "strongs": "H8376"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "9": [
@@ -425,6 +470,16 @@
         "surface": "on the north",
         "lemma": "tsaphon",
         "strongs": "H6828"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "10": [
@@ -452,6 +507,16 @@
         "surface": "to Shepham",
         "lemma": "shepham",
         "strongs": "H8221"
+      },
+      {
+        "surface": "mark",
+        "lemma": "avah_h0184",
+        "strongs": "H0184"
+      },
+      {
+        "surface": "Enan",
+        "lemma": "chatsarenan",
+        "strongs": "H2704"
       }
     ],
     "11": [
@@ -509,6 +574,16 @@
         "surface": "of Chinnereth",
         "lemma": "kinnrot",
         "strongs": "H3672"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "reach",
+        "lemma": "machah",
+        "strongs": "H4229"
       }
     ],
     "12": [
@@ -561,6 +636,11 @@
         "surface": "on all sides",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "13": [
@@ -623,6 +703,21 @@
         "surface": "tribes",
         "lemma": "matteh",
         "strongs": "H4294"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "14": [
@@ -665,6 +760,46 @@
         "surface": "their inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "taken",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "Reubenite",
+        "lemma": "reuveni",
+        "strongs": "H7206"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "Gadite",
+        "lemma": "gadi_h1425",
+        "strongs": "H1425"
       }
     ],
     "15": [
@@ -717,6 +852,11 @@
         "surface": "toward the sunrise",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "16": [
@@ -734,6 +874,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -818,6 +963,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "leader",
+        "lemma": "nasi",
+        "strongs": "H5387"
       }
     ],
     "19": [
@@ -850,6 +1000,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "20": [
@@ -877,6 +1032,11 @@
         "surface": "of Simeon",
         "lemma": "shimon",
         "strongs": "H8095"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "21": [
@@ -936,6 +1096,11 @@
         "surface": "of Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "23": [
@@ -978,6 +1143,11 @@
         "surface": "of Joseph",
         "lemma": "yoseph",
         "strongs": "H3130"
+      },
+      {
+        "surface": "Manasseh",
+        "lemma": "menashsheh",
+        "strongs": "H4519"
       }
     ],
     "24": [
@@ -1010,6 +1180,11 @@
         "surface": "of Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "25": [
@@ -1042,6 +1217,11 @@
         "surface": "of Zebulun",
         "lemma": "zevulun",
         "strongs": "H2074"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "26": [
@@ -1074,6 +1254,11 @@
         "surface": "of Issachar",
         "lemma": "yissaskhar",
         "strongs": "H3485"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "27": [
@@ -1106,6 +1291,11 @@
         "surface": "of Asher",
         "lemma": "asher",
         "strongs": "H0836"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "28": [
@@ -1138,6 +1328,11 @@
         "surface": "of Naphtali",
         "lemma": "naphtali",
         "strongs": "H5321"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "29": [
@@ -1170,6 +1365,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

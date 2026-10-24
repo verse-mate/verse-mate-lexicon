@@ -101,6 +101,11 @@
         "surface": "are forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -284,6 +289,11 @@
         "surface": "home",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "7": [
@@ -343,6 +353,11 @@
         "surface": "to men",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "9": [
@@ -410,6 +425,11 @@
         "surface": "and followed",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "10": [
@@ -504,6 +524,21 @@
         "surface": "sinners",
         "lemma": "hamartolos",
         "strongs": "G0268"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "12": [
@@ -655,6 +690,11 @@
         "surface": "fast",
         "lemma": "nesteuo",
         "strongs": "G3522"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "15": [
@@ -1022,6 +1062,11 @@
         "surface": "cloak",
         "lemma": "himation",
         "strongs": "G2440"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "21": [
@@ -1049,6 +1094,21 @@
         "surface": "I will be healed",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "22": [
@@ -1106,6 +1166,11 @@
         "surface": "hour",
         "lemma": "hora",
         "strongs": "G5610"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "23": [
@@ -1148,6 +1213,11 @@
         "surface": "crowd",
         "lemma": "ochlos",
         "strongs": "G3793"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "24": [
@@ -1175,6 +1245,16 @@
         "surface": "they laughed at",
         "lemma": "katagelao",
         "strongs": "G2606"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "dead",
+        "lemma": "apothnesko",
+        "strongs": "G0599"
       }
     ],
     "25": [
@@ -1281,6 +1361,11 @@
         "surface": "of David",
         "lemma": "daueid",
         "strongs": "G1138"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "28": [
@@ -1370,6 +1455,11 @@
         "surface": "will it be done",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "30": [
@@ -1407,6 +1497,11 @@
         "surface": "finds out about this",
         "lemma": "ginosko",
         "strongs": "G1097"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "31": [
@@ -1540,6 +1635,11 @@
         "surface": "demons",
         "lemma": "daimonion",
         "strongs": "G1140"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "35": [
@@ -1654,6 +1754,16 @@
         "surface": "a shepherd",
         "lemma": "poimen",
         "strongs": "G4166"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "having",
+        "lemma": "echo",
+        "strongs": "G2192"
       }
     ],
     "37": [

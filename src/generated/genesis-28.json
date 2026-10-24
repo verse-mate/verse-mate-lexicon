@@ -54,6 +54,11 @@
         "surface": "he commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -292,6 +297,11 @@
         "surface": "and Esau",
         "lemma": "esav",
         "strongs": "H6215"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "6": [
@@ -379,6 +389,16 @@
         "surface": "woman",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "7": [
@@ -453,6 +473,11 @@
         "surface": "women",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "9": [
@@ -515,6 +540,11 @@
         "surface": "the wives",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "10": [
@@ -542,6 +572,11 @@
         "surface": "Haran",
         "lemma": "charan",
         "strongs": "H2771"
+      },
+      {
+        "surface": "Sheba",
+        "lemma": "beersheva",
+        "strongs": "H0884"
       }
     ],
     "11": [
@@ -899,6 +934,11 @@
         "surface": "was unaware of it",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "sleep",
+        "lemma": "shenah_h8142",
+        "strongs": "H8142"
       }
     ],
     "17": [
@@ -951,6 +991,11 @@
         "surface": "of heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "18": [
@@ -1055,6 +1100,11 @@
         "surface": "Luz",
         "lemma": "luz",
         "strongs": "H3870"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "20": [
@@ -1127,6 +1177,11 @@
         "surface": "to wear",
         "lemma": "lavash",
         "strongs": "H3847"
+      },
+      {
+        "surface": "going",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "21": [
@@ -1210,6 +1265,11 @@
       {
         "surface": "I will surely give You a tenth",
         "lemma": "asar",
+        "strongs": "H6237"
+      },
+      {
+        "surface": "tithe",
+        "lemma": "asar_h6237",
         "strongs": "H6237"
       }
     ]

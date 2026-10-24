@@ -49,6 +49,11 @@
         "surface": "the priest",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -116,6 +121,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "3": [
@@ -215,6 +235,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "5": [
@@ -331,6 +361,31 @@
         "surface": "numbered 43,730",
         "lemma": "shalosh",
         "strongs": "H7969"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       }
     ],
     "8": [
@@ -430,6 +485,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "called",
+        "lemma": "qari",
+        "strongs": "H7148"
       }
     ],
     "10": [
@@ -497,6 +557,11 @@
         "surface": "as a warning sign",
         "lemma": "nes",
         "strongs": "H5251"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "11": [
@@ -635,6 +700,16 @@
         "surface": "men",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "15": [
@@ -788,6 +863,21 @@
         "surface": "40,500",
         "lemma": "arbaim",
         "strongs": "H0705"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "19": [
@@ -830,6 +920,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Onan",
+        "lemma": "onan",
+        "strongs": "H0209"
       }
     ],
     "20": [
@@ -966,6 +1061,26 @@
         "surface": "76,500",
         "lemma": "shesh",
         "strongs": "H8337"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "23": [
@@ -1067,6 +1182,26 @@
         "surface": "64,300",
         "lemma": "arba",
         "strongs": "H0702"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "26": [
@@ -1151,6 +1286,21 @@
         "surface": "60,500",
         "lemma": "shishshim",
         "strongs": "H8346"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "28": [
@@ -1230,6 +1380,11 @@
         "surface": "from Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "Makir",
+        "lemma": "makhir",
+        "strongs": "H4353"
       }
     ],
     "30": [
@@ -1408,6 +1563,16 @@
         "surface": "and Tirzah",
         "lemma": "tirtsah",
         "strongs": "H8656"
+      },
+      {
+        "surface": "Zelophehad",
+        "lemma": "tselophchad",
+        "strongs": "H6765"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "34": [
@@ -1430,6 +1595,26 @@
         "surface": "52,700",
         "lemma": "shenayim",
         "strongs": "H8147"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "35": [
@@ -1561,6 +1746,26 @@
         "surface": "of Joseph",
         "lemma": "yoseph",
         "strongs": "H3130"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "38": [
@@ -1734,6 +1939,26 @@
         "surface": "45,600",
         "lemma": "chamesh",
         "strongs": "H2568"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "42": [
@@ -1776,6 +2001,11 @@
         "surface": "of Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "clans",
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       }
     ],
     "43": [
@@ -1803,6 +2033,26 @@
         "surface": "64,400",
         "lemma": "arba",
         "strongs": "H0702"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "44": [
@@ -1956,6 +2206,26 @@
         "surface": "53,400",
         "lemma": "shalosh",
         "strongs": "H7969"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "48": [
@@ -2057,6 +2327,31 @@
         "surface": "45,400",
         "lemma": "chamesh",
         "strongs": "H2568"
+      },
+      {
+        "surface": "clans",
+        "lemma": "mishpachah",
+        "strongs": "H4940"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "51": [
@@ -2079,6 +2374,36 @@
         "surface": "601,730 in all",
         "lemma": "shesh",
         "strongs": "H8337"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "one thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
       }
     ],
     "52": [
@@ -2096,6 +2421,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "53": [
@@ -2254,6 +2584,11 @@
         "surface": "and smaller tribes",
         "lemma": "meat",
         "strongs": "H4592"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "57": [
@@ -2631,6 +2966,26 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "63": [
@@ -2683,6 +3038,11 @@
         "surface": "across from Jericho",
         "lemma": "yericho",
         "strongs": "H3405"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "64": [
@@ -2740,6 +3100,11 @@
         "surface": "of Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "65": [
@@ -2802,6 +3167,21 @@
         "surface": "of Nun",
         "lemma": "nun",
         "strongs": "H5126"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ]
   }

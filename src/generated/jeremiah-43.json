@@ -64,6 +64,16 @@
         "surface": "had sent him",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "2": [
@@ -176,6 +186,16 @@
         "surface": "to reside there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "sojourn",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "3": [
@@ -295,6 +315,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "5": [
@@ -377,6 +402,11 @@
         "surface": "they had been scattered",
         "lemma": "nadach",
         "strongs": "H5080"
+      },
+      {
+        "surface": "sojourn",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "6": [
@@ -479,6 +509,11 @@
         "surface": "of Neriah",
         "lemma": "neriyyah",
         "strongs": "H5374"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "7": [
@@ -553,6 +588,11 @@
         "surface": "at Tahpanhes",
         "lemma": "tachpanches",
         "strongs": "H8471"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -620,6 +660,11 @@
         "surface": "at Tahpanhes",
         "lemma": "tachpanches",
         "strongs": "H8471"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "10": [
@@ -717,6 +762,11 @@
         "surface": "his royal pavilion",
         "lemma": "shaphrur",
         "strongs": "H8237"
+      },
+      {
+        "surface": "fetch",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "11": [
@@ -903,6 +953,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ]
   }

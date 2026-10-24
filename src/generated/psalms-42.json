@@ -163,6 +163,11 @@
         "surface": "is your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -329,6 +334,11 @@
         "surface": "Mizar",
         "lemma": "mitsar",
         "strongs": "H4706"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "7": [
@@ -579,6 +589,33 @@
         "surface": "and my God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
       }
     ]
   }

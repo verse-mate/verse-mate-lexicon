@@ -101,6 +101,16 @@
         "surface": "living ever since",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -143,6 +153,16 @@
         "surface": "and said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -324,6 +344,16 @@
         "surface": "he asked",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "presence",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "7": [
@@ -396,6 +426,16 @@
         "surface": "forever",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "8": [
@@ -592,6 +632,16 @@
         "surface": "waist",
         "lemma": "moten",
         "strongs": "H4975"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -716,6 +766,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -753,6 +808,11 @@
         "surface": "of the elders",
         "lemma": "zaqen",
         "strongs": "H2205"
+      },
+      {
+        "surface": "counseled",
+        "lemma": "yaats",
+        "strongs": "H3289"
       }
     ],
     "14": [
@@ -1039,6 +1099,16 @@
         "surface": "home",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "brought back",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1071,6 +1141,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -1153,6 +1228,11 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "19": [
@@ -1267,6 +1347,21 @@
         "surface": "of David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "called",
+        "lemma": "qara",
+        "strongs": "H7121"
+      },
+      {
+        "surface": "except",
+        "lemma": "zulah",
+        "strongs": "H2108"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "21": [
@@ -1369,6 +1464,21 @@
         "surface": "of Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "maker",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "22": [
@@ -1401,6 +1511,11 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1463,6 +1578,11 @@
         "surface": "of the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "24": [
@@ -1560,6 +1680,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "25": [
@@ -1751,6 +1881,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "28": [
@@ -1959,6 +2094,11 @@
         "surface": "Levites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ],
     "32": [
@@ -2076,6 +2216,21 @@
         "surface": "he had set up",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "el",
+        "lemma": "betel_h1008",
+        "strongs": "H1008"
       }
     ],
     "33": [
@@ -2163,6 +2318,21 @@
         "surface": "and burned incense",
         "lemma": "qatar",
         "strongs": "H6999"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "own heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

@@ -111,6 +111,16 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "3": [
@@ -414,6 +424,16 @@
         "surface": "Pharaoh’s presence",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "7": [
@@ -481,6 +501,11 @@
         "surface": "lies in ruins",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "yet",
+        "lemma": "terem",
+        "strongs": "H2962"
       }
     ],
     "8": [
@@ -642,6 +667,16 @@
         "surface": "on evil",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "11": [
@@ -776,6 +811,11 @@
         "surface": "has left behind",
         "lemma": "shaar",
         "strongs": "H7604"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "13": [
@@ -945,6 +985,26 @@
         "surface": "again will there be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "15": [
@@ -1062,6 +1122,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "16": [
@@ -1156,6 +1221,11 @@
         "surface": "death",
         "lemma": "mavet",
         "strongs": "H4194"
+      },
+      {
+        "surface": "time",
+        "lemma": "paam_h6471",
+        "strongs": "H6471"
       }
     ],
     "18": [
@@ -1265,6 +1335,11 @@
         "surface": "Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "20": [
@@ -1302,6 +1377,11 @@
         "surface": "go",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "21": [
@@ -1498,6 +1578,16 @@
         "surface": "in their dwellings",
         "lemma": "moshav",
         "strongs": "H4186"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1716,6 +1806,11 @@
         "surface": "to let them go",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "28": [
@@ -1815,6 +1910,11 @@
         "surface": "again",
         "lemma": "yasaph",
         "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ]
   }

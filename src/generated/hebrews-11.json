@@ -93,6 +93,11 @@
         "surface": "was visible",
         "lemma": "phaino",
         "strongs": "G5316"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "4": [
@@ -237,6 +242,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "6": [
@@ -594,6 +604,11 @@
         "surface": "who had promised",
         "lemma": "epangello",
         "strongs": "G1861"
+      },
+      {
+        "surface": "power",
+        "lemma": "dunamis",
+        "strongs": "G1411"
       }
     ],
     "12": [
@@ -641,6 +656,11 @@
         "surface": "seashore",
         "lemma": "cheilos",
         "strongs": "G5491"
+      },
+      {
+        "surface": "sea",
+        "lemma": "thalassa",
+        "strongs": "G2281"
       }
     ],
     "13": [
@@ -708,6 +728,11 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "14": [
@@ -757,6 +782,11 @@
         "surface": "to return",
         "lemma": "anakampto",
         "strongs": "G0344"
+      },
+      {
+        "surface": "came out",
+        "lemma": "ekbaino",
+        "strongs": "G6092"
       }
     ],
     "16": [
@@ -804,6 +834,16 @@
         "surface": "a city",
         "lemma": "polis",
         "strongs": "G4172"
+      },
+      {
+        "surface": "now",
+        "lemma": "nun",
+        "strongs": "G3568"
+      },
+      {
+        "surface": "better",
+        "lemma": "kreisson",
+        "strongs": "G2908"
       }
     ],
     "17": [
@@ -1098,6 +1138,16 @@
         "surface": "edict",
         "lemma": "diatagma",
         "strongs": "G1297"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mouses",
+        "strongs": "G3475"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "24": [
@@ -1707,6 +1757,11 @@
         "surface": "resurrection",
         "lemma": "anastasis",
         "strongs": "G0386"
+      },
+      {
+        "surface": "better",
+        "lemma": "kreisson",
+        "strongs": "G2908"
       }
     ],
     "36": [
@@ -1744,6 +1799,11 @@
         "surface": "imprisonment",
         "lemma": "phulake",
         "strongs": "G5438"
+      },
+      {
+        "surface": "trial",
+        "lemma": "peira",
+        "strongs": "G3984"
       }
     ],
     "37": [
@@ -1796,6 +1856,16 @@
         "surface": "and mistreated",
         "lemma": "kakoucheo",
         "strongs": "G2558"
+      },
+      {
+        "surface": "slaughter",
+        "lemma": "phonos",
+        "strongs": "G5408"
+      },
+      {
+        "surface": "skins",
+        "lemma": "derma",
+        "strongs": "G1192"
       }
     ],
     "38": [
@@ -1892,6 +1962,11 @@
         "surface": "they would be made perfect",
         "lemma": "teleioo",
         "strongs": "G5048"
+      },
+      {
+        "surface": "better",
+        "lemma": "kreisson",
+        "strongs": "G2908"
       }
     ]
   }

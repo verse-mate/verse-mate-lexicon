@@ -81,6 +81,11 @@
         "surface": "is red",
         "lemma": "purrazo",
         "strongs": "G4449"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "3": [
@@ -143,6 +148,11 @@
         "surface": "times",
         "lemma": "kairos",
         "strongs": "G2540"
+      },
+      {
+        "surface": "able",
+        "lemma": "dunamai",
+        "strongs": "G1410"
       }
     ],
     "4": [
@@ -548,6 +558,11 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "pronounce",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "14": [
@@ -659,6 +674,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "17": [
@@ -716,6 +736,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "18": [
@@ -954,6 +979,11 @@
         "surface": "be raised to life",
         "lemma": "egeiro",
         "strongs": "G1453"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "22": [
@@ -996,6 +1026,11 @@
         "surface": "happen",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "23": [
@@ -1328,6 +1363,11 @@
         "surface": "kingdom",
         "lemma": "basileia",
         "strongs": "G0932"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

@@ -91,6 +91,11 @@
         "surface": "both now",
         "lemma": "attah",
         "strongs": "H6258"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "3": [
@@ -212,6 +217,23 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven",
+        "strongs": "H0205"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "ascents",
+        "lemma": "maalah",
+        "strongs": "H4609"
       }
     ]
   }

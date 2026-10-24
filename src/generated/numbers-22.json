@@ -44,6 +44,11 @@
         "surface": "Jericho",
         "lemma": "yericho",
         "strongs": "H3405"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -128,6 +133,21 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "4": [
@@ -220,6 +240,11 @@
         "surface": "time",
         "lemma": "et",
         "strongs": "H6256"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "5": [
@@ -312,6 +337,16 @@
         "surface": "next to me",
         "lemma": "mul",
         "strongs": "H4136"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -446,6 +481,11 @@
         "surface": "of Balak",
         "lemma": "balaq",
         "strongs": "H1111"
+      },
+      {
+        "surface": "elders",
+        "lemma": "zaqen_h2205",
+        "strongs": "H2205"
       }
     ],
     "8": [
@@ -842,6 +882,11 @@
         "surface": "and more distinguished",
         "lemma": "kavad",
         "strongs": "H3513"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "16": [
@@ -941,6 +986,11 @@
         "surface": "people for me",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "honor",
+        "lemma": "kavad",
+        "strongs": "H3513"
       }
     ],
     "18": [
@@ -1043,6 +1093,11 @@
         "surface": "my God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1157,6 +1212,11 @@
         "surface": "I tell you",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1395,6 +1455,11 @@
         "surface": "with walls",
         "lemma": "gader",
         "strongs": "H1447"
+      },
+      {
+        "surface": "wall",
+        "lemma": "gader",
+        "strongs": "H1447"
       }
     ],
     "25": [
@@ -1581,6 +1646,11 @@
         "surface": "with his staff",
         "lemma": "maqqel",
         "strongs": "H4731"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "28": [
@@ -1747,6 +1817,16 @@
         "surface": "he replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "habit",
+        "lemma": "sakhan",
+        "strongs": "H5532"
       }
     ],
     "31": [
@@ -1819,6 +1899,11 @@
         "surface": "and fell facedown",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "bowed low",
+        "lemma": "qadad",
+        "strongs": "H6915"
       }
     ],
     "32": [
@@ -1938,6 +2023,11 @@
         "surface": "live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "34": [
@@ -2082,6 +2172,11 @@
         "surface": "of Balak",
         "lemma": "balaq",
         "strongs": "H1111"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "36": [
@@ -2206,6 +2301,16 @@
         "surface": "to reward you richly",
         "lemma": "kavad",
         "strongs": "H3513"
+      },
+      {
+        "surface": "send",
+        "lemma": "shalach",
+        "strongs": "H7971"
+      },
+      {
+        "surface": "summon",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "38": [
@@ -2263,6 +2368,21 @@
         "surface": "in my mouth",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "Balak",
+        "lemma": "balaq_h1111",
+        "strongs": "H1111"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
+      },
+      {
+        "surface": "am I able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "39": [

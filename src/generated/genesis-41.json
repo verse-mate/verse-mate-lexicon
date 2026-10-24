@@ -39,6 +39,11 @@
         "surface": "the Nile",
         "lemma": "yeor",
         "strongs": "H2975"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "2": [
@@ -81,6 +86,16 @@
         "surface": "among the reeds",
         "lemma": "achu",
         "strongs": "H0260"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "3": [
@@ -148,6 +163,16 @@
         "surface": "of the river",
         "lemma": "yeor",
         "strongs": "H2975"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "4": [
@@ -200,6 +225,21 @@
         "surface": "woke up",
         "lemma": "yaqats",
         "strongs": "H3364"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "5": [
@@ -418,6 +458,11 @@
         "surface": "for him",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "9": [
@@ -455,6 +500,11 @@
         "surface": "my failures",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -502,6 +552,11 @@
         "surface": "of the guard",
         "lemma": "tabbach",
         "strongs": "H2876"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "11": [
@@ -534,6 +589,16 @@
         "surface": "had its own meaning",
         "lemma": "pitron",
         "strongs": "H6623"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "12": [
@@ -586,6 +651,16 @@
         "surface": "individually",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "interpreted",
+        "lemma": "patar_h6622",
+        "strongs": "H6622"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "13": [
@@ -665,6 +740,11 @@
         "surface": "Pharaoh",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "15": [
@@ -722,6 +802,11 @@
         "surface": "you can interpret it",
         "lemma": "patar",
         "strongs": "H6622"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
       }
     ],
     "16": [
@@ -759,6 +844,16 @@
         "surface": "answer",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "Pharaoh",
+        "lemma": "paroh",
+        "strongs": "H6547"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -838,6 +933,16 @@
         "surface": "among the reeds",
         "lemma": "achu",
         "strongs": "H0260"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "form",
+        "lemma": "toar",
+        "strongs": "H8389"
       }
     ],
     "19": [
@@ -910,6 +1015,21 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "weak",
+        "lemma": "dallah",
+        "strongs": "H1803"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "20": [
@@ -999,6 +1119,11 @@
         "surface": "Then I awoke",
         "lemma": "yaqats",
         "strongs": "H3364"
+      },
+      {
+        "surface": "inward part",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
       }
     ],
     "22": [
@@ -1373,6 +1498,11 @@
         "surface": "He is about to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "29": [
@@ -1861,6 +1991,16 @@
         "surface": "his officials",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "38": [
@@ -2394,6 +2534,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "47": [
@@ -2503,6 +2653,11 @@
         "surface": "around it",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "midst",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "49": [
@@ -2555,6 +2710,11 @@
         "surface": "measure",
         "lemma": "mispar",
         "strongs": "H4557"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "50": [
@@ -2627,6 +2787,11 @@
         "surface": "of On",
         "lemma": "on",
         "strongs": "H0204"
+      },
+      {
+        "surface": "bore",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "51": [
@@ -2684,6 +2849,11 @@
         "surface": "household",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "52": [
@@ -2721,6 +2891,11 @@
         "surface": "of my affliction",
         "lemma": "oni",
         "strongs": "H6040"
+      },
+      {
+        "surface": "called",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "53": [
@@ -2830,6 +3005,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "55": [

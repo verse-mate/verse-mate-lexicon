@@ -81,6 +81,11 @@
         "surface": "trumpets",
         "lemma": "salpigx",
         "strongs": "G4536"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -401,6 +406,16 @@
         "surface": "grass",
         "lemma": "chortos",
         "strongs": "G5528"
+      },
+      {
+        "surface": "burned up",
+        "lemma": "katakaio",
+        "strongs": "G2618"
+      },
+      {
+        "surface": "burned up",
+        "lemma": "katakaio",
+        "strongs": "G2618"
       }
     ],
     "8": [
@@ -731,6 +746,16 @@
         "surface": "as well",
         "lemma": "homoios",
         "strongs": "G3668"
+      },
+      {
+        "surface": "third",
+        "lemma": "tritos",
+        "strongs": "G5154"
+      },
+      {
+        "surface": "third",
+        "lemma": "tritos",
+        "strongs": "G5154"
       }
     ],
     "13": [
@@ -823,6 +848,11 @@
         "surface": "angels",
         "lemma": "angelos",
         "strongs": "G0032"
+      },
+      {
+        "surface": "looked",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

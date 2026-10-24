@@ -49,6 +49,11 @@
         "surface": "Patara",
         "lemma": "patara",
         "strongs": "G3959"
+      },
+      {
+        "surface": "came",
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "2": [
@@ -143,6 +148,11 @@
         "surface": "cargo",
         "lemma": "gomos",
         "strongs": "G1117"
+      },
+      {
+        "surface": "left",
+        "lemma": "euonumos",
+        "strongs": "G2176"
       }
     ],
     "4": [
@@ -200,6 +210,11 @@
         "surface": "Jerusalem",
         "lemma": "hierosoluma",
         "strongs": "G2414"
+      },
+      {
+        "surface": "telling",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "5": [
@@ -262,6 +277,16 @@
         "surface": "to pray with us",
         "lemma": "proseuchomai",
         "strongs": "G4336"
+      },
+      {
+        "surface": "happened that",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "knees",
+        "lemma": "gonu",
+        "strongs": "G1119"
       }
     ],
     "6": [
@@ -289,6 +314,11 @@
         "surface": "home",
         "lemma": "idios",
         "strongs": "G2398"
+      },
+      {
+        "surface": "one another",
+        "lemma": "allelon",
+        "strongs": "G0240"
       }
     ],
     "7": [
@@ -467,6 +497,11 @@
         "surface": "Judea",
         "lemma": "ioudaia",
         "strongs": "G2449"
+      },
+      {
+        "surface": "many",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "11": [
@@ -564,6 +599,11 @@
         "surface": "to the Gentiles",
         "lemma": "ethnos",
         "strongs": "G1484"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "12": [
@@ -678,6 +718,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "14": [
@@ -1336,6 +1381,11 @@
         "surface": "seized",
         "lemma": "epiballo",
         "strongs": "G1911"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "28": [
@@ -1428,6 +1478,16 @@
         "surface": "place",
         "lemma": "topos",
         "strongs": "G5117"
+      },
+      {
+        "surface": "everywhere",
+        "lemma": "pantache",
+        "strongs": "G6069"
+      },
+      {
+        "surface": "besides",
+        "lemma": "eti",
+        "strongs": "G2089"
       }
     ],
     "29": [
@@ -1646,6 +1706,11 @@
         "surface": "Paul",
         "lemma": "paulos",
         "strongs": "G3972"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "33": [
@@ -1802,6 +1867,11 @@
         "surface": "mob",
         "lemma": "ochlos",
         "strongs": "G3793"
+      },
+      {
+        "surface": "happened that",
+        "lemma": "sumbaino",
+        "strongs": "G4819"
       }
     ],
     "36": [
@@ -1824,6 +1894,11 @@
         "surface": "Away with",
         "lemma": "airo",
         "strongs": "G0142"
+      },
+      {
+        "surface": "people",
+        "lemma": "laos",
+        "strongs": "G2992"
       }
     ],
     "37": [
@@ -1923,6 +1998,11 @@
         "surface": "wilderness",
         "lemma": "eremos",
         "strongs": "G2048"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "39": [
@@ -1990,6 +2070,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "man",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "40": [
@@ -2047,6 +2132,21 @@
         "surface": "Hebrew",
         "lemma": "hebrais",
         "strongs": "G1446"
+      },
+      {
+        "surface": "hand",
+        "lemma": "cheir",
+        "strongs": "G5495"
+      },
+      {
+        "surface": "language",
+        "lemma": "dialektos",
+        "strongs": "G1258"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

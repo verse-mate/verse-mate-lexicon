@@ -34,6 +34,16 @@
         "surface": "woman",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "Timnah",
+        "lemma": "timnah",
+        "strongs": "H8553"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "2": [
@@ -90,6 +100,16 @@
       {
         "surface": "as a wife",
         "lemma": "ishshah",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
         "strongs": "H0802"
       }
     ],
@@ -188,6 +208,11 @@
         "surface": "to my eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "4": [
@@ -307,6 +332,11 @@
         "surface": "at him",
         "lemma": "qara",
         "strongs": "H7122"
+      },
+      {
+        "surface": "lions",
+        "lemma": "ari",
+        "strongs": "H0738"
       }
     ],
     "6": [
@@ -463,6 +493,11 @@
         "surface": "along with their honey",
         "lemma": "devash",
         "strongs": "H1706"
+      },
+      {
+        "surface": "lion",
+        "lemma": "ari",
+        "strongs": "H0738"
       }
     ],
     "9": [
@@ -540,6 +575,11 @@
         "surface": "carcass",
         "lemma": "geviyyah",
         "strongs": "H1472"
+      },
+      {
+        "surface": "came",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "10": [
@@ -587,6 +627,11 @@
         "surface": "for the bridegroom",
         "lemma": "bachur",
         "strongs": "H0970"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "11": [
@@ -691,6 +736,16 @@
         "surface": "of clothes",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "tell",
+        "lemma": "nagad",
+        "strongs": "H5046"
+      },
+      {
+        "surface": "find out",
+        "lemma": "matsa",
+        "strongs": "H4672"
       }
     ],
     "13": [
@@ -758,6 +813,11 @@
         "surface": "Let us hear it",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "14": [
@@ -820,6 +880,11 @@
         "surface": "the riddle",
         "lemma": "chidah",
         "strongs": "H2420"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "15": [
@@ -994,6 +1059,11 @@
         "surface": "so why should I explain it",
         "lemma": "nagad",
         "strongs": "H5046"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "17": [
@@ -1056,6 +1126,11 @@
         "surface": "to her people",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "18": [
@@ -1158,6 +1233,11 @@
         "surface": "my riddle",
         "lemma": "chidah",
         "strongs": "H2420"
+      },
+      {
+        "surface": "sun",
+        "lemma": "cheres",
+        "strongs": "H2775"
       }
     ],
     "19": [
@@ -1277,6 +1357,11 @@
         "surface": "had accompanied",
         "lemma": "beteqedharoim",
         "strongs": "H7462"
+      },
+      {
+        "surface": "companion",
+        "lemma": "merea",
+        "strongs": "H4828"
       }
     ]
   }

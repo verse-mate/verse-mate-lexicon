@@ -59,6 +59,16 @@
         "surface": "was coming up",
         "lemma": "techillah",
         "strongs": "H8462"
+      },
+      {
+        "surface": "spring-crop",
+        "lemma": "leqesh",
+        "strongs": "H3954"
+      },
+      {
+        "surface": "spring-crop",
+        "lemma": "leqesh",
+        "strongs": "H3954"
       }
     ],
     "2": [
@@ -443,6 +453,11 @@
         "surface": "spare",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "9": [
@@ -592,6 +607,11 @@
         "surface": "his words",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "11": [
@@ -639,6 +659,11 @@
         "surface": "their homeland",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "go into exile",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "12": [
@@ -701,6 +726,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "bread",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "13": [
@@ -748,6 +778,11 @@
         "surface": "of the kingdom",
         "lemma": "mamlakhah",
         "strongs": "H4467"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "14": [
@@ -795,6 +830,16 @@
         "surface": "of sycamore-fig trees",
         "lemma": "shiqmah",
         "strongs": "H8256"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Amaziah",
+        "lemma": "amatsyah",
+        "strongs": "H0558"
       }
     ],
     "15": [
@@ -842,6 +887,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "16": [
@@ -1006,6 +1056,11 @@
         "surface": "their homeland",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "go into exile",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ]
   }

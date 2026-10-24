@@ -113,6 +113,11 @@
         "surface": "all day long",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -405,6 +410,11 @@
         "surface": "come",
         "lemma": "qarav",
         "strongs": "H7126"
+      },
+      {
+        "surface": "trapping",
+        "lemma": "adi",
+        "strongs": "H5716"
       }
     ],
     "10": [
@@ -484,6 +494,18 @@
         "surface": "in heart",
         "lemma": "lev",
         "strongs": "H3820"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
       }
     ]
   }

@@ -24,6 +24,16 @@
         "surface": "parables",
         "lemma": "parabole",
         "strongs": "G3850"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "2": [
@@ -355,6 +365,11 @@
         "surface": "you can find",
         "lemma": "heurisko",
         "strongs": "G2147"
+      },
+      {
+        "surface": "highways",
+        "lemma": "hodos",
+        "strongs": "G3598"
       }
     ],
     "10": [
@@ -459,6 +474,11 @@
         "surface": "clothes",
         "lemma": "enduma",
         "strongs": "G1742"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "12": [
@@ -637,6 +657,11 @@
         "surface": "His words",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "counsel",
+        "lemma": "sumboulion",
+        "strongs": "G4824"
       }
     ],
     "16": [
@@ -719,6 +744,16 @@
         "surface": "external appearance",
         "lemma": "prosopon",
         "strongs": "G4383"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "17": [
@@ -1111,6 +1146,11 @@
         "surface": "died",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "Finally",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "28": [
@@ -1185,6 +1225,16 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "30": [
@@ -1217,6 +1267,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "31": [
@@ -1244,6 +1299,11 @@
         "surface": "said",
         "lemma": "ero",
         "strongs": "G2046"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1589,6 +1649,11 @@
       },
       {
         "surface": "they answered",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "say",
         "lemma": "lego",
         "strongs": "G3004"
       }

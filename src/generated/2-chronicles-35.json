@@ -54,6 +54,11 @@
         "surface": "month",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -275,6 +280,11 @@
         "surface": "his son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "5": [
@@ -322,6 +332,21 @@
         "surface": "of the Levites",
         "lemma": "leviyyi",
         "strongs": "H3881"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "6": [
@@ -451,6 +476,31 @@
         "surface": "who were present",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "young",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "8": [
@@ -543,6 +593,21 @@
         "surface": "bulls",
         "lemma": "baqar",
         "strongs": "H1241"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "9": [
@@ -620,6 +685,16 @@
         "surface": "bulls",
         "lemma": "baqar",
         "strongs": "H1241"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "10": [
@@ -776,6 +851,11 @@
         "surface": "with the bulls",
         "lemma": "baqar",
         "strongs": "H1241"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "13": [
@@ -843,6 +923,11 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "pans",
+        "lemma": "tselachah",
+        "strongs": "H6745"
       }
     ],
     "14": [
@@ -1017,6 +1102,11 @@
         "surface": "made preparations",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
       }
     ],
     "16": [
@@ -1136,6 +1226,11 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -1280,6 +1375,11 @@
         "surface": "was observed",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "20": [
@@ -1521,6 +1621,11 @@
         "surface": "of Megiddo",
         "lemma": "megiddon",
         "strongs": "H4023"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "23": [

@@ -238,6 +238,11 @@
         "surface": "of Ekron",
         "lemma": "eqron",
         "strongs": "H6138"
+      },
+      {
+        "surface": "arise",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "4": [
@@ -295,6 +300,11 @@
         "surface": "departed",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "5": [
@@ -469,6 +479,11 @@
         "surface": "You will surely die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "7": [
@@ -558,6 +573,16 @@
         "surface": "said the king",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "owner",
+        "lemma": "baal_h1167",
+        "strongs": "H1167"
+      },
+      {
+        "surface": "girded",
+        "lemma": "azar",
+        "strongs": "H0247"
       }
     ],
     "9": [
@@ -712,6 +737,16 @@
         "surface": "his fifty men",
         "lemma": "chamishshim",
         "strongs": "H2572"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ],
     "11": [
@@ -774,6 +809,21 @@
         "surface": "at once",
         "lemma": "meherah",
         "strongs": "H4120"
+      },
+      {
+        "surface": "returned",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "12": [
@@ -856,6 +906,11 @@
         "surface": "his fifty men",
         "lemma": "chamishshim",
         "strongs": "H2572"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "13": [
@@ -963,6 +1018,26 @@
         "surface": "in your sight",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "14": [
@@ -1199,6 +1274,11 @@
         "surface": "You will surely die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "17": [
@@ -1286,6 +1366,11 @@
         "surface": "over Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "18": [
@@ -1333,6 +1418,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

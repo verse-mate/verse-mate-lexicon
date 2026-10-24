@@ -64,6 +64,11 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -311,6 +316,11 @@
         "surface": "to give",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "say",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "8": [
@@ -474,6 +484,11 @@
         "surface": "a snake",
         "lemma": "ophis",
         "strongs": "G3789"
+      },
+      {
+        "surface": "fish",
+        "lemma": "ichthus",
+        "strongs": "G2486"
       }
     ],
     "12": [
@@ -568,6 +583,11 @@
         "surface": "ask",
         "lemma": "aiteo",
         "strongs": "G0154"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "14": [
@@ -625,6 +645,11 @@
         "surface": "were amazed",
         "lemma": "thaumazo",
         "strongs": "G2296"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "15": [
@@ -736,6 +761,11 @@
         "surface": "will fall",
         "lemma": "pipto",
         "strongs": "G4098"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "18": [
@@ -1191,6 +1221,11 @@
         "surface": "nursed You",
         "lemma": "thelazo",
         "strongs": "G2337"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "28": [
@@ -1285,6 +1320,21 @@
         "surface": "of Jonah",
         "lemma": "ionas",
         "strongs": "G2495"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "generation",
+        "lemma": "genea",
+        "strongs": "G1074"
+      },
+      {
+        "surface": "sign",
+        "lemma": "semeion",
+        "strongs": "G4592"
       }
     ],
     "30": [
@@ -1528,6 +1578,11 @@
         "surface": "light",
         "lemma": "phengos",
         "strongs": "G5338"
+      },
+      {
+        "surface": "light",
+        "lemma": "phos",
+        "strongs": "G5457"
       }
     ],
     "34": [
@@ -1684,6 +1739,11 @@
         "surface": "were shining",
         "lemma": "astrape",
         "strongs": "G0796"
+      },
+      {
+        "surface": "light",
+        "lemma": "photizo",
+        "strongs": "G5461"
       }
     ],
     "37": [
@@ -1743,6 +1803,16 @@
         "surface": "meal",
         "lemma": "ariston",
         "strongs": "G0712"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "39": [
@@ -1921,6 +1991,11 @@
         "surface": "neglecting",
         "lemma": "pariemi",
         "strongs": "G3935"
+      },
+      {
+        "surface": "neglect",
+        "lemma": "pareimi",
+        "strongs": "G3918"
       }
     ],
     "43": [
@@ -1985,6 +2060,11 @@
         "surface": "even noticing",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "45": [
@@ -2059,6 +2139,16 @@
         "surface": "load",
         "lemma": "phortion",
         "strongs": "G5413"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
+      },
+      {
+        "surface": "heavy to bear",
+        "lemma": "dusbastaktos",
+        "strongs": "G1419"
       }
     ],
     "47": [
@@ -2343,6 +2433,11 @@
         "surface": "many things",
         "lemma": "pleion",
         "strongs": "G4119"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "54": [
@@ -2355,6 +2450,11 @@
         "surface": "to catch",
         "lemma": "thereuo",
         "strongs": "G2340"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ]
   }

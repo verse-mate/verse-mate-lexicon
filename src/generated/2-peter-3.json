@@ -44,6 +44,11 @@
         "surface": "thinking",
         "lemma": "dianoia",
         "strongs": "G1271"
+      },
+      {
+        "surface": "am writing",
+        "lemma": "grapho",
+        "strongs": "G1125"
       }
     ],
     "2": [
@@ -91,6 +96,11 @@
         "surface": "apostles",
         "lemma": "apostolos",
         "strongs": "G0652"
+      },
+      {
+        "surface": "spoken beforehand",
+        "lemma": "proereo",
+        "strongs": "G4280"
       }
     ],
     "3": [
@@ -143,6 +153,16 @@
         "surface": "evil desires",
         "lemma": "epithumia",
         "strongs": "G1939"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
+      },
+      {
+        "surface": "scoffing",
+        "lemma": "empaigmone",
+        "strongs": "G6032"
       }
     ],
     "4": [
@@ -284,6 +304,11 @@
         "surface": "in the flood",
         "lemma": "katakluzo",
         "strongs": "G2626"
+      },
+      {
+        "surface": "water",
+        "lemma": "hudor",
+        "strongs": "G5204"
       }
     ],
     "7": [
@@ -876,6 +901,11 @@
         "surface": "secure standing",
         "lemma": "sterigmos",
         "strongs": "G4740"
+      },
+      {
+        "surface": "own",
+        "lemma": "idios",
+        "strongs": "G2398"
       }
     ],
     "18": [

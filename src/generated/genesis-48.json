@@ -54,6 +54,11 @@
         "surface": "and Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "2": [
@@ -101,6 +106,11 @@
         "surface": "bed",
         "lemma": "mittah",
         "strongs": "H4296"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -401,6 +411,21 @@
         "surface": "Bethlehem",
         "lemma": "betlechem",
         "strongs": "H1035"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "yet",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "8": [
@@ -611,6 +636,11 @@
         "surface": "facedown",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "13": [
@@ -976,6 +1006,16 @@
         "surface": "Manasseh’s",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "18": [
@@ -1023,6 +1063,11 @@
         "surface": "his head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "19": [

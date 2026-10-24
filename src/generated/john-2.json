@@ -229,6 +229,16 @@
         "surface": "twenty to thirty gallons",
         "lemma": "duo",
         "strongs": "G1417"
+      },
+      {
+        "surface": "metretae",
+        "lemma": "metretes",
+        "strongs": "G3355"
+      },
+      {
+        "surface": "three",
+        "lemma": "treis",
+        "strongs": "G5140"
       }
     ],
     "7": [
@@ -437,6 +447,16 @@
         "surface": "now",
         "lemma": "arti",
         "strongs": "G0737"
+      },
+      {
+        "surface": "man",
+        "lemma": "anthropos",
+        "strongs": "G0444"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "11": [
@@ -724,6 +744,11 @@
         "surface": "a marketplace",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "trade",
+        "lemma": "emporion",
+        "strongs": "G1712"
       }
     ],
     "17": [
@@ -793,6 +818,11 @@
         "surface": "Your  authority  to do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "19": [
@@ -830,6 +860,11 @@
         "surface": "I will raise it up again",
         "lemma": "egeiro",
         "strongs": "G1453"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "20": [
@@ -877,6 +912,11 @@
         "surface": "days",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "six",
+        "lemma": "hex",
+        "strongs": "G1803"
       }
     ],
     "21": [
@@ -894,6 +934,11 @@
         "surface": "body",
         "lemma": "soma",
         "strongs": "G4983"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "22": [
@@ -946,6 +991,11 @@
         "surface": "had spoken",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "23": [

@@ -106,6 +106,21 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "substance",
+        "lemma": "etsem",
+        "strongs": "H6106"
       }
     ],
     "3": [
@@ -173,6 +188,11 @@
         "surface": "the water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "parable",
+        "lemma": "mashal_h4912",
+        "strongs": "H4912"
       }
     ],
     "4": [
@@ -272,6 +292,21 @@
         "surface": "in it",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "pile up",
+        "lemma": "dur",
+        "strongs": "H1752"
+      },
+      {
+        "surface": "bones",
+        "lemma": "etsem",
+        "strongs": "H6106"
+      },
+      {
+        "surface": "make boil",
+        "lemma": "ratach",
+        "strongs": "H7570"
       }
     ],
     "6": [
@@ -468,6 +503,11 @@
         "surface": "be covered",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "vengeance",
+        "lemma": "naqam_h5359",
+        "strongs": "H5359"
       }
     ],
     "9": [
@@ -661,6 +701,11 @@
         "surface": "even by the fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "rust",
+        "lemma": "chelah_h2457",
+        "strongs": "H2457"
       }
     ],
     "13": [
@@ -1278,6 +1323,11 @@
         "surface": "yourselves",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "24": [
@@ -1419,6 +1469,11 @@
         "surface": "and tell you the news",
         "lemma": "hashmaut",
         "strongs": "H2045"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "27": [

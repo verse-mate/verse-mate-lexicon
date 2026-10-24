@@ -34,6 +34,11 @@
         "surface": "of the east",
         "lemma": "qedem",
         "strongs": "H6924"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "2": [
@@ -418,6 +423,11 @@
         "surface": "the sheep",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "9": [
@@ -547,6 +557,26 @@
         "surface": "sheep",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "Laban",
+        "lemma": "lavan_h3837",
+        "strongs": "H3837"
+      },
+      {
+        "surface": "brother",
+        "lemma": "ach",
+        "strongs": "H0251"
+      },
+      {
+        "surface": "mother",
+        "lemma": "em",
+        "strongs": "H0517"
+      },
+      {
+        "surface": "mother",
+        "lemma": "em",
+        "strongs": "H0517"
       }
     ],
     "11": [
@@ -574,6 +604,11 @@
         "surface": "aloud",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "12": [
@@ -745,6 +780,11 @@
         "surface": "a month",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "15": [
@@ -876,6 +916,16 @@
         "surface": "and beautiful",
         "lemma": "yapheh",
         "strongs": "H3303"
+      },
+      {
+        "surface": "form",
+        "lemma": "toar",
+        "strongs": "H8389"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "18": [
@@ -965,6 +1015,11 @@
         "surface": "Stay here",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "20": [
@@ -1012,6 +1067,11 @@
         "surface": "because of his love",
         "lemma": "ahavah",
         "strongs": "H0160"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "21": [
@@ -1086,6 +1146,11 @@
         "surface": "a feast",
         "lemma": "mishteh",
         "strongs": "H4960"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "asaph",
+        "strongs": "H0622"
       }
     ],
     "23": [
@@ -1269,6 +1334,11 @@
         "surface": "the older",
         "lemma": "bekhirah",
         "strongs": "H1067"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "27": [
@@ -1561,6 +1631,11 @@
         "surface": "now",
         "lemma": "attah",
         "strongs": "H6258"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "33": [
@@ -1618,6 +1693,11 @@
         "surface": "Simeon",
         "lemma": "shimon",
         "strongs": "H8095"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "34": [
@@ -1690,6 +1770,16 @@
         "surface": "Levi",
         "lemma": "levi",
         "strongs": "H3878"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "35": [
@@ -1752,6 +1842,16 @@
         "surface": "having children",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ]
   }

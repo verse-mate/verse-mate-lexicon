@@ -280,6 +280,16 @@
         "surface": "Shechem",
         "lemma": "shekhem",
         "strongs": "H7927"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "5": [
@@ -332,6 +342,11 @@
         "surface": "sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "6": [
@@ -369,6 +384,16 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "el",
+        "lemma": "betel_h1008",
+        "strongs": "H1008"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "7": [
@@ -627,6 +652,16 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "11": [
@@ -862,6 +897,11 @@
         "surface": "Bethel",
         "lemma": "betel",
         "strongs": "H1008"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "16": [
@@ -919,6 +959,16 @@
         "surface": "was difficult",
         "lemma": "qashah",
         "strongs": "H7185"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "17": [
@@ -1013,6 +1063,11 @@
         "surface": "Benjamin",
         "lemma": "binyamin",
         "strongs": "H1144"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "19": [
@@ -1043,6 +1098,11 @@
       },
       {
         "surface": "Bethlehem",
+        "lemma": "betlechem",
+        "strongs": "H1035"
+      },
+      {
+        "surface": "lehem",
         "lemma": "betlechem",
         "strongs": "H1035"
       }
@@ -1117,6 +1177,11 @@
       },
       {
         "surface": "the Tower of Eder",
+        "lemma": "migdaleder",
+        "strongs": "H4029"
+      },
+      {
+        "surface": "Eder",
         "lemma": "migdaleder",
         "strongs": "H4029"
       }
@@ -1196,6 +1261,11 @@
         "surface": "sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "23": [
@@ -1438,6 +1508,21 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
       }
     ],
     "29": [

@@ -224,6 +224,11 @@
         "surface": "on every side",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "7": [
@@ -308,6 +313,38 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "fled",
+        "lemma": "barach",
+        "strongs": "H1272"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "Absalom",
+        "lemma": "avishalom",
+        "strongs": "H0053"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ]
   }

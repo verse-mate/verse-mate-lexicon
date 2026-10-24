@@ -64,6 +64,16 @@
         "surface": "in Ephes-dammim",
         "lemma": "ephesdammim",
         "strongs": "H0658"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "asaph",
+        "strongs": "H0622"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "2": [
@@ -158,6 +168,11 @@
         "surface": "between them",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "mountain",
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "4": [
@@ -215,6 +230,11 @@
         "surface": "in height",
         "lemma": "govah",
         "strongs": "H1363"
+      },
+      {
+        "surface": "champions",
+        "lemma": "benayim",
+        "strongs": "H1143"
       }
     ],
     "5": [
@@ -272,6 +292,11 @@
         "surface": "shekels",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "body armor",
+        "lemma": "siryah",
+        "strongs": "H8302"
       }
     ],
     "6": [
@@ -371,6 +396,21 @@
         "surface": "before him",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
+      },
+      {
+        "surface": "spear",
+        "lemma": "chanit",
+        "strongs": "H2595"
+      },
+      {
+        "surface": "body shield",
+        "lemma": "tsinnah",
+        "strongs": "H6793"
       }
     ],
     "8": [
@@ -448,6 +488,11 @@
         "surface": "and have him come down",
         "lemma": "yarad",
         "strongs": "H3381"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -557,6 +602,11 @@
         "surface": "to fight",
         "lemma": "lacham",
         "strongs": "H3898"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "11": [
@@ -686,6 +736,11 @@
         "surface": "in years",
         "lemma": "enosh",
         "strongs": "H0582"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "13": [
@@ -753,6 +808,41 @@
         "surface": "was Shammah",
         "lemma": "shammah",
         "strongs": "H8048"
+      },
+      {
+        "surface": "gone",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "gone",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "battle",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "14": [
@@ -785,6 +875,11 @@
         "surface": "Saul",
         "lemma": "shaul",
         "strongs": "H7586"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "15": [
@@ -827,6 +922,11 @@
         "surface": "in Bethlehem",
         "lemma": "betlechem",
         "strongs": "H1035"
+      },
+      {
+        "surface": "returning",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "16": [
@@ -1206,6 +1306,11 @@
         "surface": "how they were doing",
         "lemma": "shalom",
         "strongs": "H7965"
+      },
+      {
+        "surface": "baggage",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "23": [
@@ -1273,6 +1378,16 @@
         "surface": "also heard",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "champions",
+        "lemma": "benayim",
+        "strongs": "H1143"
+      },
+      {
+        "surface": "battle lines",
+        "lemma": "maarakhah",
+        "strongs": "H4634"
       }
     ],
     "24": [
@@ -1310,6 +1425,16 @@
         "surface": "in great fear",
         "lemma": "yare",
         "strongs": "H3372"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "25": [
@@ -1417,6 +1542,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "coming up",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
       }
     ],
     "26": [
@@ -1514,6 +1644,11 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "27": [
@@ -1678,6 +1813,11 @@
         "surface": "the battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "Eliab",
+        "lemma": "eliav",
+        "strongs": "H0446"
       }
     ],
     "29": [
@@ -1757,6 +1897,16 @@
         "surface": "the first ones {had answered",
         "lemma": "rishon",
         "strongs": "H7223"
+      },
+      {
+        "surface": "front",
+        "lemma": "mul_h4136",
+        "strongs": "H4136"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "31": [
@@ -1794,6 +1944,11 @@
         "surface": "who sent for him",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "32": [
@@ -1898,6 +2053,21 @@
         "surface": "from his youth",
         "lemma": "naur",
         "strongs": "H5271"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
       }
     ],
     "34": [
@@ -1960,6 +2130,11 @@
         "surface": "from the flock",
         "lemma": "eder",
         "strongs": "H5739"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ],
     "35": [
@@ -2156,6 +2331,11 @@
         "surface": "be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "38": [
@@ -2295,6 +2475,11 @@
         "surface": "took them",
         "lemma": "sur",
         "strongs": "H5493"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "40": [
@@ -2409,6 +2594,21 @@
         "surface": "before him",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "coming",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "bearer",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
+      },
+      {
+        "surface": "body shield",
+        "lemma": "tsinnah",
+        "strongs": "H6793"
       }
     ],
     "42": [
@@ -2456,6 +2656,11 @@
         "surface": "handsome",
         "lemma": "yapheh",
         "strongs": "H3303"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "43": [
@@ -2744,6 +2949,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "remove",
+        "lemma": "sur",
+        "strongs": "H5493"
       }
     ],
     "47": [
@@ -2863,6 +3073,11 @@
         "surface": "him",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "49": [
@@ -2945,6 +3160,11 @@
         "surface": "on the ground",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "50": [
@@ -3002,6 +3222,11 @@
         "surface": "and killed him",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "51": [
@@ -3208,6 +3433,16 @@
         "surface": "their camps",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "54": [

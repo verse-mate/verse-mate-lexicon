@@ -146,6 +146,36 @@
         "surface": "at a certain place",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "Ahimelech",
+        "lemma": "achimelekh",
+        "strongs": "H0288"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "commanded",
+        "lemma": "tsavah_h6680",
+        "strongs": "H6680"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
+      },
+      {
+        "surface": "certain one",
+        "lemma": "peloni_h6423",
+        "strongs": "H6423"
+      },
+      {
+        "surface": "certain one",
+        "lemma": "almoni",
+        "strongs": "H0492"
       }
     ],
     "3": [
@@ -193,6 +223,11 @@
         "surface": "whatever can be found",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "4": [
@@ -270,6 +305,21 @@
         "surface": "from women",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "only",
+        "lemma": "akh",
+        "strongs": "H0389"
       }
     ],
     "5": [
@@ -342,6 +392,31 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "temol",
+        "strongs": "H8543"
+      },
+      {
+        "surface": "vessel",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "holy",
+        "lemma": "qadash",
+        "strongs": "H6942"
       }
     ],
     "6": [
@@ -710,6 +785,11 @@
         "surface": "give it",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "10": [

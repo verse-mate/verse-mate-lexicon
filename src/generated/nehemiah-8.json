@@ -258,6 +258,11 @@
         "surface": "of the Law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -375,6 +380,11 @@
         "surface": "and Meshullam",
         "lemma": "meshullam",
         "strongs": "H4918"
+      },
+      {
+        "surface": "beside",
+        "lemma": "etsel",
+        "strongs": "H0681"
       }
     ],
     "5": [
@@ -437,6 +447,11 @@
         "surface": "stood up",
         "lemma": "amad",
         "strongs": "H5975"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "6": [
@@ -996,6 +1011,11 @@
         "surface": "had been made known",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "13": [
@@ -1063,6 +1083,11 @@
         "surface": "of the Law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "14": [
@@ -1130,6 +1155,11 @@
         "surface": "month",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "15": [
@@ -1232,6 +1262,31 @@
         "surface": "as it is written",
         "lemma": "katav",
         "strongs": "H3789"
+      },
+      {
+        "surface": "leaves",
+        "lemma": "aleh",
+        "strongs": "H5929"
+      },
+      {
+        "surface": "leaves",
+        "lemma": "aleh",
+        "strongs": "H5929"
+      },
+      {
+        "surface": "leaves",
+        "lemma": "aleh",
+        "strongs": "H5929"
+      },
+      {
+        "surface": "leaves",
+        "lemma": "aleh",
+        "strongs": "H5929"
+      },
+      {
+        "surface": "tree",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "16": [
@@ -1421,6 +1476,16 @@
         "surface": "rejoicing",
         "lemma": "simchah",
         "strongs": "H8057"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "18": [
@@ -1508,6 +1573,11 @@
         "surface": "according to the ordinance",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

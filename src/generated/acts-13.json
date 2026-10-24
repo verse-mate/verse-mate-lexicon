@@ -671,6 +671,11 @@
         "surface": "Lord",
         "lemma": "kurios",
         "strongs": "G2962"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -765,6 +770,16 @@
         "surface": "and sat down",
         "lemma": "kathizo",
         "strongs": "G2523"
+      },
+      {
+        "surface": "came",
+        "lemma": "paraginomai",
+        "strongs": "G3854"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "15": [
@@ -825,6 +840,11 @@
       },
       {
         "surface": "please speak",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "speak",
         "lemma": "lego",
         "strongs": "G3004"
       }
@@ -941,6 +961,11 @@
         "surface": "He led",
         "lemma": "exago",
         "strongs": "G1806"
+      },
+      {
+        "surface": "land",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "18": [
@@ -995,6 +1020,11 @@
         "surface": "to His people as an inheritance",
         "lemma": "kataklerodoteo",
         "strongs": "G2624"
+      },
+      {
+        "surface": "land",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "20": [
@@ -1027,6 +1057,11 @@
         "surface": "prophet",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "pentekonta",
+        "strongs": "G4004"
       }
     ],
     "21": [
@@ -1089,6 +1124,11 @@
         "surface": "years",
         "lemma": "etos",
         "strongs": "G2094"
+      },
+      {
+        "surface": "man",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "22": [
@@ -1240,6 +1280,11 @@
         "surface": "of Israel",
         "lemma": "israel",
         "strongs": "G2474"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "25": [
@@ -1307,6 +1352,16 @@
         "surface": "to untie",
         "lemma": "luo",
         "strongs": "G3089"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "feet",
+        "lemma": "pous",
+        "strongs": "G4228"
       }
     ],
     "26": [
@@ -1354,6 +1409,11 @@
         "surface": "has been sent",
         "lemma": "exapostello",
         "strongs": "G1821"
+      },
+      {
+        "surface": "family",
+        "lemma": "genos",
+        "strongs": "G1085"
       }
     ],
     "27": [
@@ -1554,6 +1614,16 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "many",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "32": [
@@ -1571,6 +1641,11 @@
         "surface": "fathers",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "having been made",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "33": [
@@ -1628,6 +1703,11 @@
         "surface": "have become Your Father",
         "lemma": "gennao",
         "strongs": "G1080"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ],
     "34": [
@@ -1680,6 +1760,16 @@
         "surface": "promised to David",
         "lemma": "daueid",
         "strongs": "G1138"
+      },
+      {
+        "surface": "return",
+        "lemma": "hupostrepho",
+        "strongs": "G5290"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "35": [
@@ -1712,6 +1802,11 @@
         "surface": "decay",
         "lemma": "diaphthora",
         "strongs": "G1312"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "36": [
@@ -1769,6 +1864,11 @@
         "surface": "decay",
         "lemma": "diaphthora",
         "strongs": "G1312"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "37": [
@@ -1791,6 +1891,11 @@
         "surface": "decay",
         "lemma": "diaphthora",
         "strongs": "G1312"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "38": [
@@ -1944,6 +2049,11 @@
         "surface": "told",
         "lemma": "ekdiegeomai",
         "strongs": "G1555"
+      },
+      {
+        "surface": "Behold",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "42": [
@@ -2137,6 +2247,11 @@
         "surface": "was saying",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "46": [
@@ -2219,6 +2334,16 @@
         "surface": "Gentiles",
         "lemma": "ethnos",
         "strongs": "G1484"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "47": [

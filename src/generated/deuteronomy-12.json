@@ -69,6 +69,11 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "land",
+        "lemma": "adamah",
+        "strongs": "H0127"
       }
     ],
     "2": [
@@ -141,6 +146,11 @@
         "surface": "tree",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "destroy",
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "3": [
@@ -203,6 +213,11 @@
         "surface": "every place",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "4": [
@@ -292,6 +307,11 @@
         "surface": "you must go",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "6": [
@@ -349,6 +369,11 @@
         "surface": "and flocks",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "7": [
@@ -411,6 +436,11 @@
         "surface": "has blessed you",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -500,6 +530,11 @@
         "surface": "is giving",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "10": [
@@ -659,6 +694,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "12": [
@@ -815,6 +860,11 @@
         "surface": "command you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "15": [
@@ -1016,6 +1066,11 @@
         "surface": "or special gifts",
         "lemma": "terumah",
         "strongs": "H8641"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "18": [
@@ -1118,6 +1173,16 @@
         "surface": "you do",
         "lemma": "mishlach",
         "strongs": "H4916"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "19": [
@@ -1145,6 +1210,11 @@
         "surface": "your land",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "20": [
@@ -1227,6 +1297,11 @@
         "surface": "want",
         "lemma": "avvah",
         "strongs": "H0185"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "21": [
@@ -1529,6 +1604,11 @@
         "surface": "will choose",
         "lemma": "bachar",
         "strongs": "H0977"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "27": [
@@ -1678,6 +1758,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "29": [
@@ -1921,6 +2006,11 @@
         "surface": "or subtract",
         "lemma": "gara",
         "strongs": "H1639"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

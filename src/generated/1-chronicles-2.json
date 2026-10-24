@@ -163,6 +163,16 @@
         "surface": "So the LORD put him to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Bath-",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "shua",
+        "lemma": "shua_h7770",
+        "strongs": "H7770"
       }
     ],
     "4": [
@@ -839,6 +849,11 @@
         "surface": "Segub",
         "lemma": "seguv",
         "strongs": "H7687"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "22": [
@@ -881,6 +896,11 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "23": [
@@ -1455,6 +1475,11 @@
         "surface": "Jarha",
         "lemma": "yarach",
         "strongs": "H3398"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "35": [
@@ -1492,6 +1517,11 @@
         "surface": "Attai",
         "lemma": "attay",
         "strongs": "H6262"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "36": [
@@ -1746,6 +1776,11 @@
         "surface": "Hebron",
         "lemma": "chevron",
         "strongs": "H2275"
+      },
+      {
+        "surface": "Mareshah",
+        "lemma": "mesah_h4337",
+        "strongs": "H4337"
       }
     ],
     "43": [
@@ -2040,6 +2075,11 @@
         "surface": "was Acsah",
         "lemma": "akhsah",
         "strongs": "H5915"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "50": [

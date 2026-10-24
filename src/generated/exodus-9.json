@@ -163,6 +163,11 @@
         "surface": "and flocks",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "4": [
@@ -220,6 +225,21 @@
         "surface": "will die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "5": [
@@ -262,6 +282,11 @@
         "surface": "in the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "6": [
@@ -324,6 +349,16 @@
         "surface": "died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -453,6 +488,11 @@
         "surface": "into the air",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "hands",
+        "lemma": "chophen",
+        "strongs": "H2651"
       }
     ],
     "9": [
@@ -520,6 +560,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "10": [
@@ -659,6 +704,11 @@
         "surface": "the Egyptians",
         "lemma": "mitsri",
         "strongs": "H4713"
+      },
+      {
+        "surface": "boil",
+        "lemma": "shechin",
+        "strongs": "H7822"
       }
     ],
     "12": [
@@ -845,6 +895,11 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "time",
+        "lemma": "paam_h6471",
+        "strongs": "H6471"
       }
     ],
     "15": [
@@ -1008,6 +1063,11 @@
         "surface": "now",
         "lemma": "attah",
         "strongs": "H6258"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "19": [
@@ -1184,6 +1244,11 @@
         "surface": "in the field",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "22": [
@@ -1522,6 +1587,11 @@
         "surface": "tree",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "26": [
@@ -1559,6 +1629,11 @@
         "surface": "lived",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "27": [
@@ -1616,6 +1691,11 @@
         "surface": "are wicked",
         "lemma": "rasah",
         "strongs": "H7563"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "28": [
@@ -1787,6 +1867,11 @@
         "surface": "our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "31": [
@@ -1819,6 +1904,11 @@
         "surface": "was in bloom",
         "lemma": "givol",
         "strongs": "H1392"
+      },
+      {
+        "surface": "young barley ear",
+        "lemma": "aviv",
+        "strongs": "H0024"
       }
     ],
     "32": [
@@ -2027,6 +2117,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

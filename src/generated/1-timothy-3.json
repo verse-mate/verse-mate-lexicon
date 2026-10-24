@@ -212,6 +212,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "6": [
@@ -377,6 +382,11 @@
         "surface": "let them serve as deacons",
         "lemma": "diakoneo",
         "strongs": "G1247"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "11": [
@@ -607,6 +617,11 @@
         "surface": "truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "16": [
@@ -694,6 +709,11 @@
         "surface": "glory",
         "lemma": "doxa",
         "strongs": "G1391"
+      },
+      {
+        "surface": "beheld",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ]
   }

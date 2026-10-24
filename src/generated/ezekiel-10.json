@@ -39,6 +39,21 @@
         "surface": "of sapphire",
         "lemma": "sappir",
         "strongs": "H5601"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "raah",
+        "strongs": "H7200"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "2": [
@@ -126,6 +141,21 @@
         "surface": "he went in",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "3": [
@@ -451,6 +481,16 @@
         "surface": "and went out",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "cherubim",
+        "lemma": "keruv",
+        "strongs": "H3742"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "8": [
@@ -560,6 +600,26 @@
         "surface": "stone",
         "lemma": "even",
         "strongs": "H0068"
+      },
+      {
+        "surface": "wheels",
+        "lemma": "ophan",
+        "strongs": "H0212"
+      },
+      {
+        "surface": "beside",
+        "lemma": "etsel",
+        "strongs": "H0681"
+      },
+      {
+        "surface": "cherub",
+        "lemma": "keruv",
+        "strongs": "H3742"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "10": [
@@ -726,6 +786,11 @@
         "surface": "wheels",
         "lemma": "ophan",
         "strongs": "H0212"
+      },
+      {
+        "surface": "wheels",
+        "lemma": "ophan",
+        "strongs": "H0212"
       }
     ],
     "13": [
@@ -830,6 +895,11 @@
         "surface": "of an eagle",
         "lemma": "nesher",
         "strongs": "H5404"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "15": [
@@ -1204,6 +1274,11 @@
         "surface": "their wings",
         "lemma": "kanaph",
         "strongs": "H3671"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "22": [
@@ -1246,6 +1321,21 @@
         "surface": "went",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
       }
     ]
   }

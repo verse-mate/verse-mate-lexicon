@@ -106,6 +106,16 @@
         "surface": "of the Salt Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
+      },
+      {
+        "surface": "faces",
+        "lemma": "panah",
+        "strongs": "H6437"
       }
     ],
     "3": [
@@ -183,6 +193,16 @@
         "surface": "toward Karka",
         "lemma": "qarqa",
         "strongs": "H7173"
+      },
+      {
+        "surface": "ascent",
+        "lemma": "maaleh",
+        "strongs": "H4608"
+      },
+      {
+        "surface": "Barnea",
+        "lemma": "qadeshbarnea",
+        "strongs": "H6947"
       }
     ],
     "4": [
@@ -225,6 +245,16 @@
         "surface": "southern",
         "lemma": "negev",
         "strongs": "H5045"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "goes out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       },
       {
         "surface": "border",
@@ -292,6 +322,11 @@
         "surface": "of the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
       }
     ],
     "6": [
@@ -354,6 +389,16 @@
         "surface": "of Reuben",
         "lemma": "reuven",
         "strongs": "H7205"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "7": [
@@ -461,6 +506,11 @@
         "surface": "En-rogel",
         "lemma": "enrogel",
         "strongs": "H5883"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "8": [
@@ -543,6 +593,31 @@
         "surface": "of Rephaim",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "Ben",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Hinnom",
+        "lemma": "hinnom",
+        "strongs": "H2011"
+      },
+      {
+        "surface": "Hinnom",
+        "lemma": "hinnom",
+        "strongs": "H2011"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "9": [
@@ -615,6 +690,16 @@
         "surface": "Kiriath-jearim",
         "lemma": "qiryatyearim",
         "strongs": "H7157"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "mountain",
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "10": [
@@ -774,6 +859,21 @@
         "surface": "at the Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "12": [
@@ -1007,6 +1107,11 @@
         "surface": "Kiriath-sepher",
         "lemma": "qiryatsannah",
         "strongs": "H7158"
+      },
+      {
+        "surface": "Debir",
+        "lemma": "devir_h1688",
+        "strongs": "H1688"
       }
     ],
     "16": [
@@ -1235,6 +1340,11 @@
         "surface": "springs",
         "lemma": "gullah",
         "strongs": "H1543"
+      },
+      {
+        "surface": "springs",
+        "lemma": "gullah",
+        "strongs": "H1543"
       }
     ],
     "20": [
@@ -1397,6 +1507,11 @@
         "surface": "Hazor",
         "lemma": "chatsor",
         "strongs": "H2674"
+      },
+      {
+        "surface": "Hezron",
+        "lemma": "chetsron",
+        "strongs": "H2696"
       }
     ],
     "26": [
@@ -1561,6 +1676,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "33": [
@@ -1669,6 +1789,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "37": [
@@ -1784,6 +1909,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "42": [
@@ -1894,6 +2024,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "47": [
@@ -1951,6 +2086,11 @@
         "surface": "Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "48": [
@@ -2044,6 +2184,11 @@
         "surface": "along with their villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "52": [

@@ -34,6 +34,11 @@
         "surface": "lose heart",
         "lemma": "ekkakeo",
         "strongs": "G1573"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "2": [
@@ -71,6 +76,11 @@
         "surface": "men",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -103,6 +113,11 @@
         "surface": "adversary",
         "lemma": "antidikos",
         "strongs": "G0476"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "4": [
@@ -162,6 +177,21 @@
         "surface": "she will wear me out",
         "lemma": "hupopiazo",
         "strongs": "G5299"
+      },
+      {
+        "surface": "trouble",
+        "lemma": "kopos",
+        "strongs": "G2873"
+      },
+      {
+        "surface": "end",
+        "lemma": "telos",
+        "strongs": "G5056"
+      },
+      {
+        "surface": "coming",
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "6": [
@@ -283,6 +313,11 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "speed",
+        "lemma": "tachos",
+        "strongs": "G5034"
       }
     ],
     "9": [
@@ -456,6 +491,11 @@
         "surface": "I acquire",
         "lemma": "ktaomai",
         "strongs": "G2932"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "13": [
@@ -565,6 +605,11 @@
         "surface": "will be exalted",
         "lemma": "hupsoo",
         "strongs": "G5312"
+      },
+      {
+        "surface": "house",
+        "lemma": "oikos",
+        "strongs": "G3624"
       }
     ],
     "15": [
@@ -597,6 +642,16 @@
         "surface": "they rebuked",
         "lemma": "epitimao",
         "strongs": "G2008"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -728,6 +783,11 @@
         "surface": "life",
         "lemma": "zoe",
         "strongs": "G2222"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -822,6 +882,11 @@
         "surface": "mother",
         "lemma": "meter",
         "strongs": "G3384"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "21": [
@@ -921,6 +986,11 @@
         "surface": "follow",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "23": [
@@ -1010,6 +1080,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "25": [
@@ -1062,6 +1137,16 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "eye",
+        "lemma": "trema",
+        "strongs": "G6085"
+      },
+      {
+        "surface": "needle",
+        "lemma": "belone",
+        "strongs": "G6011"
       }
     ],
     "26": [
@@ -1417,6 +1502,11 @@
         "surface": "begging",
         "lemma": "epaiteo",
         "strongs": "G1871"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "36": [
@@ -1498,6 +1588,11 @@
         "surface": "have mercy on",
         "lemma": "eleeo",
         "strongs": "G1653"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "39": [
@@ -1693,6 +1788,11 @@
         "surface": "to God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

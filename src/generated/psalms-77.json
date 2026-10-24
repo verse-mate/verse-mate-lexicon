@@ -49,6 +49,11 @@
         "surface": "to hear",
         "lemma": "azan",
         "strongs": "H0238"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "2": [
@@ -101,6 +106,11 @@
         "surface": "to be comforted",
         "lemma": "nacham",
         "strongs": "H5162"
+      },
+      {
+        "surface": "stretched out",
+        "lemma": "nagar",
+        "strongs": "H5064"
       }
     ],
     "3": [
@@ -256,6 +266,16 @@
         "surface": "show His favor again",
         "lemma": "ratsah",
         "strongs": "H7521"
+      },
+      {
+        "surface": "repeat",
+        "lemma": "yasaph",
+        "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "8": [
@@ -286,6 +306,11 @@
       },
       {
         "surface": "for all time",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
       }
@@ -347,6 +372,11 @@
         "surface": "of the Most High",
         "lemma": "elyon",
         "strongs": "H5945"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "11": [
@@ -717,6 +747,28 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "Jeduthun",
+        "lemma": "yedutun",
+        "strongs": "H3038"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

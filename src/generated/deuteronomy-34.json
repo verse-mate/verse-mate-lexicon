@@ -79,6 +79,11 @@
         "surface": "as Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
@@ -168,6 +173,16 @@
         "surface": "to Zoar",
         "lemma": "tsoar",
         "strongs": "H6820"
+      },
+      {
+        "surface": "city",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
+      },
+      {
+        "surface": "palm trees",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
       }
     ],
     "4": [
@@ -406,6 +421,11 @@
         "surface": "diminished",
         "lemma": "nus",
         "strongs": "H5127"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "8": [
@@ -468,6 +488,11 @@
         "surface": "came to an end",
         "lemma": "tamam",
         "strongs": "H8552"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -545,6 +570,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -716,6 +746,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ]
   }

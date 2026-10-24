@@ -39,6 +39,11 @@
         "surface": "Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -116,6 +121,11 @@
         "surface": "and Jeroboam",
         "lemma": "yarovam",
         "strongs": "H3379"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "3": [
@@ -193,6 +203,36 @@
         "surface": "of valor",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "battle",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "mighty",
+        "lemma": "gibbor",
+        "strongs": "H1368"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "4": [
@@ -446,6 +486,16 @@
         "surface": "them",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "8": [
@@ -523,6 +573,11 @@
         "surface": "as gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "9": [
@@ -635,6 +690,16 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "10": [
@@ -799,6 +864,21 @@
         "surface": "have forsaken",
         "lemma": "azav",
         "strongs": "H5800"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "evening",
+        "lemma": "erev_h6153",
+        "strongs": "H6153"
+      },
+      {
+        "surface": "evening",
+        "lemma": "erev_h6153",
+        "strongs": "H6153"
       }
     ],
     "12": [
@@ -1047,6 +1127,11 @@
         "surface": "and Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "16": [
@@ -1084,6 +1169,11 @@
         "surface": "into their hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "17": [
@@ -1141,6 +1231,16 @@
         "surface": "slain",
         "lemma": "chalal",
         "strongs": "H2491"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "18": [
@@ -1193,6 +1293,11 @@
         "surface": "of their fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -1243,6 +1348,21 @@
       },
       {
         "surface": "along with their villages",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
         "lemma": "bat",
         "strongs": "H1323"
       }
@@ -1349,6 +1469,21 @@
         "surface": "daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "22": [

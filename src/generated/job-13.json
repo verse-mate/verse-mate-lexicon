@@ -132,6 +132,16 @@
         "surface": "wisdom",
         "lemma": "chokhmah",
         "strongs": "H2451"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "silent",
+        "lemma": "charash",
+        "strongs": "H2790"
       }
     ],
     "6": [
@@ -208,6 +218,11 @@
         "surface": "in His defense",
         "lemma": "el",
         "strongs": "H0410"
+      },
+      {
+        "surface": "lift up",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
       }
     ],
     "9": [
@@ -257,6 +272,16 @@
         "surface": "showed partiality",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "rebuke",
+        "lemma": "yakhach",
+        "strongs": "H3198"
+      },
+      {
+        "surface": "lift up",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
       }
     ],
     "11": [
@@ -365,6 +390,11 @@
         "surface": "in my own hands",
         "lemma": "kaph",
         "strongs": "H3709"
+      },
+      {
+        "surface": "teeth",
+        "lemma": "shen",
+        "strongs": "H8127"
       }
     ],
     "15": [
@@ -446,6 +476,11 @@
         "surface": "ring in your ears",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "completely",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "18": [
@@ -468,6 +503,11 @@
         "surface": "will be vindicated",
         "lemma": "tsadaq",
         "strongs": "H6663"
+      },
+      {
+        "surface": "case",
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "19": [
@@ -763,6 +803,11 @@
         "surface": "garment",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "moth",
+        "lemma": "ash",
+        "strongs": "H6211"
       }
     ]
   }

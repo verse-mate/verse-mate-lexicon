@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -91,6 +96,16 @@
         "surface": "who is a leader",
         "lemma": "nasi",
         "strongs": "H5387"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "3": [
@@ -648,6 +663,11 @@
         "surface": "many",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "dwells",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "19": [
@@ -777,6 +797,11 @@
         "surface": "grapes",
         "lemma": "enav",
         "strongs": "H6025"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "21": [
@@ -1015,6 +1040,16 @@
         "surface": "of Eshcol",
         "lemma": "eshkol",
         "strongs": "H0812"
+      },
+      {
+        "surface": "causes",
+        "lemma": "odah",
+        "strongs": "H0182"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "25": [
@@ -1129,6 +1164,16 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "27": [
@@ -1171,6 +1216,11 @@
         "surface": "some of its fruit",
         "lemma": "peri",
         "strongs": "H6529"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "28": [
@@ -1233,6 +1283,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "fortified",
+        "lemma": "batsar",
+        "strongs": "H1219"
       }
     ],
     "29": [
@@ -1300,6 +1355,11 @@
         "surface": "the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "side",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "30": [
@@ -1342,6 +1402,16 @@
         "surface": "we can certainly conquer",
         "lemma": "yakhol",
         "strongs": "H3201"
+      },
+      {
+        "surface": "go up",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
+      },
+      {
+        "surface": "prevail",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "31": [
@@ -1379,6 +1449,11 @@
         "surface": "are stronger",
         "lemma": "chazaq",
         "strongs": "H2389"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "32": [
@@ -1456,6 +1531,26 @@
         "surface": "are great in stature",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "spy out",
+        "lemma": "tur_h8446",
+        "strongs": "H8446"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "33": [
@@ -1513,6 +1608,11 @@
         "surface": "the same to them",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ]
   }

@@ -247,6 +247,16 @@
         "surface": "the deeds of the wicked",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "6": [
@@ -390,6 +400,11 @@
         "surface": "of evildoers",
         "lemma": "paal",
         "strongs": "H6466"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven",
+        "strongs": "H0205"
       }
     ],
     "10": [
@@ -412,6 +427,23 @@
         "surface": "pass by in safety",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

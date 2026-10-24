@@ -39,6 +39,21 @@
         "surface": "has commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "2": [
@@ -116,6 +131,11 @@
         "surface": "he has promised",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "3": [
@@ -228,6 +248,21 @@
       },
       {
         "surface": "shall stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "bound",
+        "lemma": "asar",
+        "strongs": "H0631"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "stand",
         "lemma": "qamay",
         "strongs": "H6965"
       }
@@ -344,6 +379,21 @@
         "surface": "has bound",
         "lemma": "asar",
         "strongs": "H0631"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "husband",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "lips",
+        "lemma": "saphah_h8193",
+        "strongs": "H8193"
       }
     ],
     "7": [
@@ -389,6 +439,16 @@
       },
       {
         "surface": "shall stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "hears",
+        "lemma": "shama",
+        "strongs": "H8085"
+      },
+      {
+        "surface": "stand",
         "lemma": "qamay",
         "strongs": "H6965"
       }
@@ -453,6 +513,11 @@
         "surface": "will absolve",
         "lemma": "salach",
         "strongs": "H5545"
+      },
+      {
+        "surface": "lips",
+        "lemma": "saphah_h8193",
+        "strongs": "H8193"
       }
     ],
     "9": [
@@ -485,6 +550,11 @@
         "surface": "is binding",
         "lemma": "qamay",
         "strongs": "H6965"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "10": [
@@ -522,6 +592,11 @@
         "surface": "with an oath",
         "lemma": "shevuah",
         "strongs": "H7621"
+      },
+      {
+        "surface": "obligation",
+        "lemma": "esar",
+        "strongs": "H0632"
       }
     ],
     "11": [
@@ -582,6 +657,11 @@
       },
       {
         "surface": "shall stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "stand",
         "lemma": "qamay",
         "strongs": "H6965"
       }
@@ -661,6 +741,16 @@
         "surface": "will absolve",
         "lemma": "salach",
         "strongs": "H5545"
+      },
+      {
+        "surface": "broken",
+        "lemma": "parar",
+        "strongs": "H6565"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "13": [
@@ -713,6 +803,11 @@
         "surface": "herself",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "husband",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "14": [
@@ -780,6 +875,11 @@
         "surface": "he heard about them",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "kept silent",
+        "lemma": "charash",
+        "strongs": "H2790"
       }
     ],
     "15": [
@@ -812,6 +912,11 @@
         "surface": "iniquity",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "break",
+        "lemma": "parar",
+        "strongs": "H6565"
       }
     ],
     "16": [
@@ -874,6 +979,11 @@
         "surface": "home",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "youth",
+        "lemma": "naur",
+        "strongs": "H5271"
       }
     ]
   }

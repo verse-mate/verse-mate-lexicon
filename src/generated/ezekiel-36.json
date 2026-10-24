@@ -203,6 +203,11 @@
         "surface": "of their talkers",
         "lemma": "lashon",
         "strongs": "H3956"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "4": [
@@ -437,6 +442,16 @@
         "surface": "became plunder",
         "lemma": "baz",
         "strongs": "H0957"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "6": [
@@ -816,6 +831,16 @@
         "surface": "deprive them of their children",
         "lemma": "shakhol",
         "strongs": "H7921"
+      },
+      {
+        "surface": "human",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "13": [
@@ -915,6 +940,16 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "bereave",
+        "lemma": "shakhol",
+        "strongs": "H7921"
       }
     ],
     "15": [
@@ -997,6 +1032,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "16": [
@@ -1217,6 +1257,11 @@
         "surface": "His land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "21": [
@@ -1346,6 +1391,11 @@
         "surface": "you went",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "23": [
@@ -1573,6 +1623,11 @@
       {
         "surface": "of flesh",
         "lemma": "basar",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
         "strongs": "H1320"
       }
     ],
@@ -1809,6 +1864,11 @@
         "surface": "abominations",
         "lemma": "toevah",
         "strongs": "H8441"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "32": [
@@ -2228,6 +2288,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "flock",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ]
   }

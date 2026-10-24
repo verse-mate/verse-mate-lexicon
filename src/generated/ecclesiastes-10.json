@@ -133,6 +133,11 @@
         "surface": "is a fool",
         "lemma": "sakhal",
         "strongs": "H5530"
+      },
+      {
+        "surface": "lacking",
+        "lemma": "chaser",
+        "strongs": "H2637"
       }
     ],
     "4": [
@@ -479,6 +484,11 @@
         "surface": "for the charmer",
         "lemma": "baal",
         "strongs": "H1167"
+      },
+      {
+        "surface": "tongue",
+        "lemma": "lashon",
+        "strongs": "H3956"
       }
     ],
     "12": [
@@ -553,6 +563,11 @@
         "surface": "madness",
         "lemma": "holelut",
         "strongs": "H1948"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "14": [
@@ -902,6 +917,16 @@
         "surface": "your speech",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "lying down",
+        "lemma": "mishkav_h4904",
+        "strongs": "H4904"
+      },
+      {
+        "surface": "wings",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
       }
     ]
   }

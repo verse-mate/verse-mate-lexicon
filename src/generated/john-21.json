@@ -225,6 +225,16 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
+      },
+      {
+        "surface": "having become",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "5": [
@@ -406,6 +416,11 @@
         "surface": "sea",
         "lemma": "thalassa",
         "strongs": "G2281"
+      },
+      {
+        "surface": "naked",
+        "lemma": "gumnos",
+        "strongs": "G1131"
       }
     ],
     "8": [
@@ -463,6 +478,11 @@
         "surface": "a hundred yards",
         "lemma": "diakosioi",
         "strongs": "G1250"
+      },
+      {
+        "surface": "cubits",
+        "lemma": "pechus",
+        "strongs": "G4083"
       }
     ],
     "9": [
@@ -500,6 +520,11 @@
         "surface": "some bread",
         "lemma": "artos",
         "strongs": "G0740"
+      },
+      {
+        "surface": "land",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "10": [
@@ -604,6 +629,16 @@
         "surface": "was not torn",
         "lemma": "schizo",
         "strongs": "G4977"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "pentekonta",
+        "strongs": "G4004"
+      },
+      {
+        "surface": "three",
+        "lemma": "treis",
+        "strongs": "G5140"
       }
     ],
     "12": [
@@ -666,6 +701,11 @@
         "surface": "Lord",
         "lemma": "kurios",
         "strongs": "G2962"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "13": [
@@ -822,6 +862,11 @@
         "surface": "lambs",
         "lemma": "arnion",
         "strongs": "G0721"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "16": [
@@ -889,6 +934,11 @@
         "surface": "sheep",
         "lemma": "probaton",
         "strongs": "G4263"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "17": [
@@ -991,6 +1041,16 @@
         "surface": "sheep",
         "lemma": "probaton",
         "strongs": "G4263"
+      },
+      {
+        "surface": "Says",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "18": [
@@ -1209,6 +1269,16 @@
         "surface": "what about",
         "lemma": "tis",
         "strongs": "G5101"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ],
     "22": [
@@ -1350,6 +1420,11 @@
         "surface": "true",
         "lemma": "alethes",
         "strongs": "G0227"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "25": [

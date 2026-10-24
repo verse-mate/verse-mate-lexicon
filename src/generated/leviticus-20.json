@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -96,6 +101,26 @@
         "surface": "him",
         "lemma": "even",
         "strongs": "H0068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "3": [
@@ -225,6 +250,11 @@
         "surface": "to Molech",
         "lemma": "molekh",
         "strongs": "H4432"
+      },
+      {
+        "surface": "hide",
+        "lemma": "alam_h5956",
+        "strongs": "H5956"
       }
     ],
     "5": [
@@ -287,6 +317,11 @@
         "surface": "Molech",
         "lemma": "molekh",
         "strongs": "H4432"
+      },
+      {
+        "surface": "acting as prostitutes",
+        "lemma": "zanah",
+        "strongs": "H2181"
       }
     ],
     "6": [
@@ -450,6 +485,16 @@
         "surface": "his blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "10": [
@@ -495,6 +540,16 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "adulteress",
+        "lemma": "naaph",
+        "strongs": "H5003"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -549,6 +604,11 @@
         "surface": "their blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "12": [
@@ -591,6 +651,11 @@
         "surface": "their blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "13": [
@@ -638,6 +703,16 @@
         "surface": "their blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "lyings",
+        "lemma": "mishkav_h4904",
+        "strongs": "H4904"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "14": [
@@ -732,6 +807,11 @@
         "surface": "the animal",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "16": [
@@ -784,6 +864,11 @@
         "surface": "their blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "17": [
@@ -871,6 +956,26 @@
         "surface": "his iniquity",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "daughter",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "see",
+        "lemma": "raah",
+        "strongs": "H7200"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "18": [
@@ -943,6 +1048,11 @@
         "surface": "their people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "19": [
@@ -990,6 +1100,16 @@
         "surface": "their iniquity",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "sister",
+        "lemma": "achot",
+        "strongs": "H0269"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "20": [
@@ -1342,6 +1462,21 @@
         "surface": "as unclean",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "pure",
+        "lemma": "tahor",
+        "strongs": "H2889"
+      },
+      {
+        "surface": "unclean",
+        "lemma": "tame_h2931",
+        "strongs": "H2931"
+      },
+      {
+        "surface": "selves",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "26": [
@@ -1426,6 +1561,11 @@
         "surface": "their blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ]
   }

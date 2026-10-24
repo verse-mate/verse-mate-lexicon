@@ -64,6 +64,11 @@
         "surface": "of Saul",
         "lemma": "shaul",
         "strongs": "H7586"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "2": [
@@ -476,6 +481,11 @@
         "surface": "and thick clouds",
         "lemma": "av",
         "strongs": "H5645"
+      },
+      {
+        "surface": "clouds",
+        "lemma": "shachaq_h7834",
+        "strongs": "H7834"
       }
     ],
     "13": [
@@ -904,6 +914,11 @@
         "surface": "You show Yourself blameless",
         "lemma": "tamam",
         "strongs": "H8552"
+      },
+      {
+        "surface": "mighty",
+        "lemma": "gibbor",
+        "strongs": "H1368"
       }
     ],
     "27": [
@@ -1527,6 +1542,16 @@
         "surface": "they obey",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "46": [
@@ -1549,6 +1574,11 @@
         "surface": "from their strongholds",
         "lemma": "misgeret",
         "strongs": "H4526"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ],
     "47": [
@@ -1618,6 +1648,11 @@
         "surface": "beneath me",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "vengeance",
+        "lemma": "neqamah",
+        "strongs": "H5360"
       }
     ],
     "49": [
@@ -1682,6 +1717,11 @@
         "surface": "to Your name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "51": [
@@ -1724,6 +1764,16 @@
         "surface": "and his descendants",
         "lemma": "zera",
         "strongs": "H2233"
+      },
+      {
+        "surface": "tower",
+        "lemma": "migdol",
+        "strongs": "H4024"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

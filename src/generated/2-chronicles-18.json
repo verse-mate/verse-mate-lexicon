@@ -111,6 +111,11 @@
         "surface": "Ramoth-gilead",
         "lemma": "ramot",
         "strongs": "H7418"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "3": [
@@ -178,6 +183,11 @@
         "surface": "in the war",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "4": [
@@ -317,6 +327,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "6": [
@@ -354,6 +369,11 @@
         "surface": "here",
         "lemma": "poh",
         "strongs": "H6311"
+      },
+      {
+        "surface": "enquire",
+        "lemma": "darash",
+        "strongs": "H1875"
       }
     ],
     "7": [
@@ -466,6 +486,16 @@
         "surface": "replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "Jehoshaphat",
+        "lemma": "yehoshaphat",
+        "strongs": "H3092"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "8": [
@@ -518,6 +548,11 @@
         "surface": "of Imlah {at once",
         "lemma": "yimlah",
         "strongs": "H3229"
+      },
+      {
+        "surface": "Micaiah",
+        "lemma": "mikhayehu",
+        "strongs": "H4321"
       }
     ],
     "9": [
@@ -610,6 +645,11 @@
         "surface": "before them",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "sitting",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "10": [
@@ -739,6 +779,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "12": [
@@ -821,6 +866,11 @@
         "surface": "favorably",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -930,6 +980,16 @@
         "surface": "into your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "15": [
@@ -977,6 +1037,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "many",
+        "lemma": "mah",
+        "strongs": "H4100"
       }
     ],
     "16": [
@@ -1116,6 +1181,11 @@
         "surface": "bad",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "18": [
@@ -1260,6 +1330,21 @@
         "surface": "that",
         "lemma": "kakhah",
         "strongs": "H3602"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "20": [
@@ -1669,6 +1754,21 @@
         "surface": "safely",
         "lemma": "shalom",
         "strongs": "H7965"
+      },
+      {
+        "surface": "imprisonment",
+        "lemma": "kele",
+        "strongs": "H3608"
+      },
+      {
+        "surface": "oppression",
+        "lemma": "lachats_h3906",
+        "strongs": "H3906"
+      },
+      {
+        "surface": "oppression",
+        "lemma": "lachats_h3906",
+        "strongs": "H3906"
       }
     ],
     "27": [
@@ -1731,6 +1831,11 @@
         "surface": "you people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "28": [
@@ -1768,6 +1873,11 @@
         "surface": "Ramoth-gilead",
         "lemma": "ramot",
         "strongs": "H7418"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "29": [
@@ -1897,6 +2007,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "31": [
@@ -2103,6 +2228,16 @@
         "surface": "I am badly wounded",
         "lemma": "chalah",
         "strongs": "H2470"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "34": [
@@ -2165,6 +2300,16 @@
         "surface": "he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ]
   }

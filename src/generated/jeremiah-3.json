@@ -89,6 +89,21 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "polluted",
+        "lemma": "chaneph",
+        "strongs": "H2610"
       }
     ],
     "2": [
@@ -166,6 +181,11 @@
         "surface": "and wickedness",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "lain",
+        "lemma": "shakhav",
+        "strongs": "H7901"
       }
     ],
     "3": [
@@ -218,6 +238,11 @@
         "surface": "to be ashamed",
         "lemma": "kalam",
         "strongs": "H3637"
+      },
+      {
+        "surface": "prostitute",
+        "lemma": "zanah",
+        "strongs": "H2181"
       }
     ],
     "4": [
@@ -518,6 +543,16 @@
         "surface": "and prostituted herself",
         "lemma": "zanah",
         "strongs": "H2181"
+      },
+      {
+        "surface": "causes",
+        "lemma": "odah",
+        "strongs": "H0182"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "9": [
@@ -555,6 +590,11 @@
         "surface": "and trees",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "lightness",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "10": [
@@ -612,6 +652,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "11": [
@@ -741,6 +786,16 @@
         "surface": "forever",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "13": [
@@ -1121,6 +1176,16 @@
         "surface": "hearts",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "18": [

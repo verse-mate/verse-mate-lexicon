@@ -136,6 +136,21 @@
         "surface": "in circumference",
         "lemma": "qav",
         "strongs": "H6957"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "went round",
+        "lemma": "savav",
+        "strongs": "H5437"
       }
     ],
     "3": [
@@ -203,6 +218,21 @@
         "surface": "as a part of the Sea",
         "lemma": "mutsaqah",
         "strongs": "H4166"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "going round",
+        "lemma": "savav",
+        "strongs": "H5437"
       }
     ],
     "4": [
@@ -300,6 +330,16 @@
         "surface": "toward the center",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "5": [
@@ -362,6 +402,11 @@
         "surface": "baths",
         "lemma": "bat",
         "strongs": "H1324"
+      },
+      {
+        "surface": "holding",
+        "lemma": "chazaq",
+        "strongs": "H2388"
       }
     ],
     "6": [
@@ -610,6 +655,11 @@
         "surface": "with bronze",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "precinct",
+        "lemma": "azarah",
+        "strongs": "H5835"
       }
     ],
     "10": [
@@ -637,6 +687,16 @@
         "surface": "at the southeast corner",
         "lemma": "qedem",
         "strongs": "H6924"
+      },
+      {
+        "surface": "front",
+        "lemma": "mul_h4136",
+        "strongs": "H4136"
+      },
+      {
+        "surface": "south",
+        "lemma": "negev",
+        "strongs": "H5045"
       }
     ],
     "11": [
@@ -704,6 +764,11 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Huram",
+        "lemma": "churam",
+        "strongs": "H2361"
       }
     ],
     "12": [
@@ -880,6 +945,16 @@
         "surface": "the stands",
         "lemma": "mekhonah",
         "strongs": "H4350"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "15": [
@@ -902,6 +977,11 @@
         "surface": "underneath the Sea",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -969,6 +1049,11 @@
         "surface": "bronze",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "Abi",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "17": [
@@ -1011,6 +1096,16 @@
         "surface": "and Zeredah",
         "lemma": "tseredah",
         "strongs": "H6868"
+      },
+      {
+        "surface": "thickness",
+        "lemma": "avi_h5672",
+        "strongs": "H5672"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "18": [
@@ -1058,6 +1153,11 @@
         "surface": "be determined",
         "lemma": "chaqar",
         "strongs": "H2713"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "19": [
@@ -1261,6 +1361,16 @@
         "surface": "of the main hall",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "temple",
+        "lemma": "hekhal",
+        "strongs": "H1964"
       }
     ]
   }

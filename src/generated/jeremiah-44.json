@@ -69,6 +69,16 @@
         "surface": "of Pathros",
         "lemma": "patros",
         "strongs": "H6624"
+      },
+      {
+        "surface": "dwelling",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -151,6 +161,16 @@
         "surface": "desolation",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "inhabitant",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "3": [
@@ -270,6 +290,11 @@
         "surface": "I hate",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "sending",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "5": [
@@ -665,6 +690,16 @@
         "surface": "of Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "wicked deeds",
+        "lemma": "ra",
+        "strongs": "H7451"
+      },
+      {
+        "surface": "wicked deeds",
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "10": [
@@ -921,6 +956,26 @@
         "surface": "and reproach",
         "lemma": "cherpah",
         "strongs": "H2781"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "sojourn",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "13": [
@@ -1060,6 +1115,21 @@
         "surface": "a few fugitives",
         "lemma": "palit",
         "strongs": "H6412"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "desire",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "15": [
@@ -1162,6 +1232,11 @@
         "surface": "to Jeremiah",
         "lemma": "yirmeyah",
         "strongs": "H3414"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1311,6 +1386,11 @@
         "surface": "disaster",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "18": [
@@ -1467,6 +1547,21 @@
         "surface": "who were answering",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1636,6 +1731,16 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "23": [
@@ -1718,6 +1823,11 @@
         "surface": "as you see today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "24": [
@@ -1912,6 +2022,21 @@
         "surface": "your vows",
         "lemma": "neder",
         "strongs": "H5088"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "certainly",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "perform",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "26": [
@@ -2054,6 +2179,16 @@
         "surface": "lives",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "27": [
@@ -2213,6 +2348,21 @@
         "surface": "will stand",
         "lemma": "qamay",
         "strongs": "H6965"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "sojourn",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "29": [
@@ -2258,6 +2408,11 @@
       },
       {
         "surface": "will surely stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "established",
         "lemma": "qamay",
         "strongs": "H6965"
       }
@@ -2377,6 +2532,11 @@
         "surface": "his life",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ]
   }

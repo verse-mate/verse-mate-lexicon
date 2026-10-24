@@ -328,6 +328,11 @@
         "surface": "low",
         "lemma": "meod",
         "strongs": "H3966"
+      },
+      {
+        "surface": "quickly",
+        "lemma": "mahar",
+        "strongs": "H4116"
       }
     ],
     "9": [
@@ -375,6 +380,11 @@
         "surface": "of Your name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "10": [
@@ -432,6 +442,11 @@
         "surface": "of Your servants",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "poured out",
+        "lemma": "shaphakh",
+        "strongs": "H8210"
       }
     ],
     "11": [
@@ -474,6 +489,11 @@
         "surface": "to death",
         "lemma": "temutah",
         "strongs": "H8546"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "12": [
@@ -558,6 +578,18 @@
         "surface": "Your praise",
         "lemma": "tehillah",
         "strongs": "H8416"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

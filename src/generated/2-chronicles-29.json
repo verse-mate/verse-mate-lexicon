@@ -69,6 +69,21 @@
         "surface": "of Zechariah",
         "lemma": "zekharyah",
         "strongs": "H2148"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "2": [
@@ -463,6 +478,11 @@
         "surface": "with your own eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "terror",
+        "lemma": "zaavah",
+        "strongs": "H2189"
       }
     ],
     "9": [
@@ -547,6 +567,11 @@
         "surface": "will turn away",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "11": [
@@ -726,6 +751,16 @@
         "surface": "the Gershonites",
         "lemma": "gereshunni",
         "strongs": "H1649"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Kohathite",
+        "lemma": "qohati",
+        "strongs": "H6956"
       }
     ],
     "13": [
@@ -758,6 +793,16 @@
         "surface": "the Asaphites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Elizaphan",
+        "lemma": "elitsaphan",
+        "strongs": "H0469"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ],
     "14": [
@@ -790,6 +835,16 @@
         "surface": "the Jeduthunites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Heman",
+        "lemma": "heman",
+        "strongs": "H1968"
+      },
+      {
+        "surface": "Jeduthun",
+        "lemma": "yedutun",
+        "strongs": "H3038"
       }
     ],
     "15": [
@@ -939,6 +994,16 @@
         "surface": "Valley",
         "lemma": "nachal",
         "strongs": "H5158"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "17": [
@@ -1046,6 +1111,11 @@
         "surface": "month",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "18": [
@@ -1339,6 +1409,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "22": [
@@ -1751,6 +1826,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "28": [
@@ -2220,6 +2300,16 @@
         "surface": "than the priests had been",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "35": [
@@ -2267,6 +2357,11 @@
         "surface": "was established",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "abundance",
+        "lemma": "rov",
+        "strongs": "H7230"
       }
     ],
     "36": [

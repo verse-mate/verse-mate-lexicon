@@ -91,6 +91,11 @@
         "surface": "chariot",
         "lemma": "merkavah",
         "strongs": "H4818"
+      },
+      {
+        "surface": "rattling",
+        "lemma": "raash_h7494",
+        "strongs": "H7494"
       }
     ],
     "3": [
@@ -428,6 +433,11 @@
         "surface": "was the water",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "Amon",
+        "lemma": "amon_h0528",
+        "strongs": "H0528"
       }
     ],
     "9": [
@@ -470,6 +480,11 @@
         "surface": "her allies",
         "lemma": "ezrah",
         "strongs": "H5833"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
       }
     ],
     "10": [
@@ -673,6 +688,16 @@
         "surface": "their bars",
         "lemma": "beriach",
         "strongs": "H1280"
+      },
+      {
+        "surface": "midst",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
+      },
+      {
+        "surface": "opened",
+        "lemma": "patach",
+        "strongs": "H6605"
       }
     ],
     "14": [
@@ -896,6 +921,16 @@
         "surface": "where",
         "lemma": "ay",
         "strongs": "H0335"
+      },
+      {
+        "surface": "locusts",
+        "lemma": "gov_h1462",
+        "strongs": "H1462"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "18": [
@@ -1025,6 +1060,11 @@
         "surface": "cruelty",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "palm",
+        "lemma": "kaph",
+        "strongs": "H3709"
       }
     ]
   }

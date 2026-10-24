@@ -166,6 +166,11 @@
         "surface": "mercy",
         "lemma": "chanan",
         "strongs": "H2603"
+      },
+      {
+        "surface": "totally destroy",
+        "lemma": "charam",
+        "strongs": "H2763"
       }
     ],
     "3": [
@@ -332,6 +337,11 @@
         "surface": "in the fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "6": [
@@ -756,6 +766,11 @@
         "surface": "to your fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "observe",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "13": [
@@ -1123,6 +1138,11 @@
         "surface": "Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "remember",
+        "lemma": "zakhar",
+        "strongs": "H2142"
       }
     ],
     "19": [
@@ -1552,6 +1572,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "26": [
@@ -1599,6 +1624,16 @@
         "surface": "is set apart for destruction",
         "lemma": "cherem",
         "strongs": "H2764"
+      },
+      {
+        "surface": "detest",
+        "lemma": "shaqats",
+        "strongs": "H8262"
+      },
+      {
+        "surface": "abhor",
+        "lemma": "taav_h8581",
+        "strongs": "H8581"
       }
     ]
   }

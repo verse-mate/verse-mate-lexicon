@@ -106,6 +106,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -796,6 +801,11 @@
         "surface": "you shall burn sacrifices",
         "lemma": "qatar",
         "strongs": "H6999"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -873,6 +883,11 @@
         "surface": "from my hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "14": [
@@ -1057,6 +1072,11 @@
         "surface": "from my hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "16": [
@@ -1196,6 +1216,16 @@
         "surface": "from my hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "lands",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "18": [
@@ -1248,6 +1278,11 @@
         "surface": "the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "19": [
@@ -1449,6 +1484,16 @@
         "surface": "with the sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "offspring",
+        "lemma": "yatsi",
+        "strongs": "H3329"
       }
     ],
     "22": [
@@ -1893,6 +1938,11 @@
         "surface": "for the flocks",
         "lemma": "eder",
         "strongs": "H5739"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "behemah",
+        "strongs": "H0929"
       }
     ],
     "29": [
@@ -2268,6 +2318,11 @@
         "surface": "in his place",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "Hezekiah",
+        "lemma": "chizqiyyah",
+        "strongs": "H2396"
       }
     ]
   }

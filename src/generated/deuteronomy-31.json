@@ -111,6 +111,11 @@
         "surface": "Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "3": [
@@ -257,6 +262,11 @@
         "surface": "I have commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "commandment",
+        "lemma": "mitsvah",
+        "strongs": "H4687"
       }
     ],
     "6": [
@@ -597,6 +607,11 @@
         "surface": "of Tabernacles",
         "lemma": "sukkah",
         "strongs": "H5521"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -669,6 +684,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "appear",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "12": [
@@ -828,6 +848,11 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "14": [
@@ -967,6 +992,11 @@
         "surface": "to the tent",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "pillar",
+        "lemma": "ammud",
+        "strongs": "H5982"
       }
     ],
     "16": [
@@ -1054,6 +1084,11 @@
         "surface": "I have made",
         "lemma": "karat",
         "strongs": "H3772"
+      },
+      {
+        "surface": "midst",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
       }
     ],
     "17": [
@@ -1203,6 +1238,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "hide",
+        "lemma": "satar",
+        "strongs": "H5641"
       }
     ],
     "19": [
@@ -1255,6 +1295,21 @@
         "surface": "against them",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "20": [
@@ -1429,6 +1484,21 @@
         "surface": "I swore to give them",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "witness",
+        "lemma": "ed_h5707",
+        "strongs": "H5707"
+      },
+      {
+        "surface": "making",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "22": [
@@ -1461,6 +1531,11 @@
         "surface": "to the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "23": [
@@ -1523,6 +1598,11 @@
         "surface": "will be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1592,6 +1672,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Moses",
+        "lemma": "mosheh",
+        "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "26": [
@@ -1706,6 +1796,16 @@
         "surface": "my death",
         "lemma": "mavet",
         "strongs": "H4194"
+      },
+      {
+        "surface": "stiff",
+        "lemma": "qasheh",
+        "strongs": "H7186"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "28": [
@@ -1855,6 +1955,11 @@
         "surface": "of your hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "act corruptly",
+        "lemma": "shachat_h7843",
+        "strongs": "H7843"
       }
     ],
     "30": [
@@ -1897,6 +2002,11 @@
         "surface": "to end",
         "lemma": "tamam",
         "strongs": "H8552"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ]
   }

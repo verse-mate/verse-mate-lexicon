@@ -44,6 +44,16 @@
         "surface": "came in",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "shut up",
+        "lemma": "sagar",
+        "strongs": "H5462"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -342,6 +352,16 @@
         "surface": "straight into the city",
         "lemma": "neged",
         "strongs": "H5048"
+      },
+      {
+        "surface": "shout",
+        "lemma": "teruah",
+        "strongs": "H8643"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "6": [
@@ -640,6 +660,16 @@
         "surface": "the ark",
         "lemma": "aron",
         "strongs": "H0727"
+      },
+      {
+        "surface": "walking",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "10": [
@@ -717,6 +747,11 @@
         "surface": "Then you are to shout",
         "lemma": "rua",
         "strongs": "H7321"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -764,6 +799,11 @@
         "surface": "and spent the night there",
         "lemma": "lun",
         "strongs": "H3885"
+      },
+      {
+        "surface": "camp",
+        "lemma": "machaneh",
+        "strongs": "H4264"
       }
     ],
     "12": [
@@ -913,6 +953,16 @@
         "surface": "sounding",
         "lemma": "taqa",
         "strongs": "H8628"
+      },
+      {
+        "surface": "walking",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "14": [
@@ -1047,6 +1097,11 @@
         "surface": "times",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "dawn",
+        "lemma": "shachar_h7837",
+        "strongs": "H7837"
       }
     ],
     "16": [
@@ -1382,6 +1437,21 @@
         "surface": "it",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "shout",
+        "lemma": "teruah",
+        "strongs": "H8643"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "21": [
@@ -1511,6 +1581,11 @@
         "surface": "you promised",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "23": [
@@ -1655,6 +1730,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "25": [
@@ -1824,6 +1904,11 @@
         "surface": "its gates",
         "lemma": "dal",
         "strongs": "H1817"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "27": [

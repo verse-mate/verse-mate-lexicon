@@ -188,6 +188,11 @@
         "surface": "will die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "only",
+        "lemma": "akh",
+        "strongs": "H0389"
       }
     ],
     "4": [
@@ -292,6 +297,16 @@
         "surface": "again",
         "lemma": "od",
         "strongs": "H5750"
+      },
+      {
+        "surface": "service",
+        "lemma": "mishmeret",
+        "strongs": "H4931"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -354,6 +369,11 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -570,6 +590,31 @@
         "surface": "and your sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "holy thing",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "holy things",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "10": [
@@ -605,6 +650,11 @@
       },
       {
         "surface": "as holy",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "holy thing",
         "lemma": "qodesh",
         "strongs": "H6944"
       }
@@ -897,6 +947,16 @@
         "surface": "animals",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "womb",
+        "lemma": "rechem",
+        "strongs": "H7358"
+      },
+      {
+        "surface": "redeem",
+        "lemma": "padah",
+        "strongs": "H6299"
       }
     ],
     "16": [
@@ -949,6 +1009,16 @@
         "surface": "gerahs",
         "lemma": "gerah",
         "strongs": "H1626"
+      },
+      {
+        "surface": "redeem",
+        "lemma": "padah",
+        "strongs": "H6299"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "17": [
@@ -1036,6 +1106,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "firstborn",
+        "lemma": "bekhor",
+        "strongs": "H1060"
+      },
+      {
+        "surface": "firstborn",
+        "lemma": "bekhor",
+        "strongs": "H1060"
       }
     ],
     "18": [
@@ -1237,6 +1317,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "21": [
@@ -1299,6 +1384,11 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ],
     "22": [
@@ -1346,6 +1436,11 @@
         "surface": "and die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "23": [
@@ -1418,6 +1513,16 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "inheritance",
+        "lemma": "nachalah",
+        "strongs": "H5159"
       }
     ],
     "24": [
@@ -1485,6 +1590,26 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "inheritance",
+        "lemma": "nachalah",
+        "strongs": "H5159"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "25": [
@@ -1502,6 +1627,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "26": [
@@ -1569,6 +1699,11 @@
         "surface": "of the tithe",
         "lemma": "maaser",
         "strongs": "H4643"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "27": [
@@ -1668,6 +1803,11 @@
         "surface": "the priest",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "29": [
@@ -1799,6 +1939,16 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "32": [

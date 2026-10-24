@@ -899,6 +899,11 @@
         "surface": "debt",
         "lemma": "mashsah",
         "strongs": "H4855"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "32": [
@@ -1023,6 +1028,16 @@
         "surface": "of our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "row",
+        "lemma": "maarekhet",
+        "strongs": "H4635"
+      },
+      {
+        "surface": "regularity",
+        "lemma": "tamid",
+        "strongs": "H8548"
       }
     ],
     "34": [
@@ -1125,6 +1140,16 @@
         "surface": "in the Law",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "35": [
@@ -1177,6 +1202,11 @@
         "surface": "by year",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "first-fruits",
+        "lemma": "bikkur",
+        "strongs": "H1061"
       }
     ],
     "36": [
@@ -1356,6 +1386,11 @@
         "surface": "where we labor",
         "lemma": "avodah",
         "strongs": "H5656"
+      },
+      {
+        "surface": "Levites",
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "38": [
@@ -1433,6 +1468,11 @@
         "surface": "of our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "treasury",
+        "lemma": "otsar",
+        "strongs": "H0214"
       }
     ],
     "39": [
@@ -1530,6 +1570,16 @@
         "surface": "of our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Levites",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ]
   }

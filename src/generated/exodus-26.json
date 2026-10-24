@@ -64,6 +64,16 @@
         "surface": "worked",
         "lemma": "maaseh",
         "strongs": "H4639"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "2": [
@@ -126,6 +136,16 @@
         "surface": "size",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "curtains",
+        "lemma": "yeriah",
+        "strongs": "H3407"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
       }
     ],
     "3": [
@@ -168,6 +188,21 @@
         "surface": "as well",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "curtains",
+        "lemma": "yeriah",
+        "strongs": "H3407"
+      },
+      {
+        "surface": "sister",
+        "lemma": "achot",
+        "strongs": "H0269"
+      },
+      {
+        "surface": "sister",
+        "lemma": "achot",
+        "strongs": "H0269"
       }
     ],
     "4": [
@@ -322,6 +357,11 @@
         "surface": "one another",
         "lemma": "achot",
         "strongs": "H0269"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "6": [
@@ -379,6 +419,11 @@
         "surface": "a unit",
         "lemma": "echad",
         "strongs": "H0259"
+      },
+      {
+        "surface": "sister",
+        "lemma": "achot",
+        "strongs": "H0269"
       }
     ],
     "7": [
@@ -416,6 +461,16 @@
         "surface": "curtains in all",
         "lemma": "yeriah",
         "strongs": "H3407"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "8": [
@@ -473,6 +528,21 @@
         "surface": "wide",
         "lemma": "rochav",
         "strongs": "H7341"
+      },
+      {
+        "surface": "curtain",
+        "lemma": "yeriah",
+        "strongs": "H3407"
+      },
+      {
+        "surface": "curtains",
+        "lemma": "yeriah",
+        "strongs": "H3407"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "9": [
@@ -530,6 +600,16 @@
         "surface": "of the tent",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -763,6 +843,11 @@
         "surface": "to cover it",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "14": [
@@ -810,6 +895,11 @@
         "surface": "of fine leather",
         "lemma": "tachash",
         "strongs": "H8476"
+      },
+      {
+        "surface": "skins",
+        "lemma": "or_h5785",
+        "strongs": "H5785"
       }
     ],
     "15": [
@@ -879,6 +969,16 @@
         "surface": "wide",
         "lemma": "rochav",
         "strongs": "H7341"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
+      },
+      {
+        "surface": "frame",
+        "lemma": "qeresh",
+        "strongs": "H7175"
       }
     ],
     "17": [
@@ -973,6 +1073,16 @@
         "surface": "of the tabernacle",
         "lemma": "mishkan",
         "strongs": "H4908"
+      },
+      {
+        "surface": "frame",
+        "lemma": "qeresh",
+        "strongs": "H7175"
+      },
+      {
+        "surface": "south",
+        "lemma": "teman",
+        "strongs": "H8486"
       }
     ],
     "19": [
@@ -1038,6 +1148,31 @@
       },
       {
         "surface": "tenon",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "bases",
+        "lemma": "eden",
+        "strongs": "H0134"
+      },
+      {
+        "surface": "frame",
+        "lemma": "qeresh",
+        "strongs": "H7175"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "hands",
         "lemma": "yad",
         "strongs": "H3027"
       }
@@ -1114,6 +1249,21 @@
         "surface": "each",
         "lemma": "echad",
         "strongs": "H0259"
+      },
+      {
+        "surface": "frame",
+        "lemma": "qeresh",
+        "strongs": "H7175"
+      },
+      {
+        "surface": "bases",
+        "lemma": "eden",
+        "strongs": "H0134"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "frame",
@@ -1235,6 +1385,16 @@
         "surface": "corners",
         "lemma": "maqtsoa",
         "strongs": "H4740"
+      },
+      {
+        "surface": "complete",
+        "lemma": "tam",
+        "strongs": "H8535"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "25": [
@@ -1287,6 +1447,36 @@
         "surface": "frame",
         "lemma": "qeresh",
         "strongs": "H7175"
+      },
+      {
+        "surface": "frame",
+        "lemma": "qeresh",
+        "strongs": "H7175"
+      },
+      {
+        "surface": "bases",
+        "lemma": "eden",
+        "strongs": "H0134"
+      },
+      {
+        "surface": "bases",
+        "lemma": "eden",
+        "strongs": "H0134"
+      },
+      {
+        "surface": "bases",
+        "lemma": "eden",
+        "strongs": "H0134"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "26": [
@@ -1386,6 +1576,21 @@
         "surface": "to the west",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "bars",
+        "lemma": "beriach",
+        "strongs": "H1280"
+      },
+      {
+        "surface": "bars",
+        "lemma": "beriach",
+        "strongs": "H1280"
+      },
+      {
+        "surface": "tabernacle",
+        "lemma": "mishkan_h4908",
+        "strongs": "H4908"
       }
     ],
     "28": [
@@ -1416,6 +1621,11 @@
       },
       {
         "surface": "one end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
+      },
+      {
+        "surface": "end",
         "lemma": "qatseh",
         "strongs": "H7097"
       }
@@ -1559,6 +1769,11 @@
         "surface": "into it",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "32": [
@@ -1683,6 +1898,21 @@
         "surface": "from the Most Holy Place",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "34": [
@@ -1708,6 +1938,11 @@
       },
       {
         "surface": "in the Most Holy Place",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "holy places",
         "lemma": "qodesh",
         "strongs": "H6944"
       }
@@ -1777,6 +2012,11 @@
         "surface": "side",
         "lemma": "tsela",
         "strongs": "H6763"
+      },
+      {
+        "surface": "table",
+        "lemma": "shulchan",
+        "strongs": "H7979"
       }
     ],
     "36": [
@@ -1829,6 +2069,16 @@
         "surface": "linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "37": [

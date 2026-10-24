@@ -141,6 +141,11 @@
         "surface": "been built",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "3": [
@@ -414,6 +419,11 @@
         "surface": "very day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "7": [
@@ -528,6 +538,11 @@
         "surface": "or number",
         "lemma": "saphar",
         "strongs": "H5608"
+      },
+      {
+        "surface": "numerous",
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "9": [
@@ -632,6 +647,16 @@
         "surface": "had made this request",
         "lemma": "shaal",
         "strongs": "H7592"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "11": [
@@ -714,6 +739,21 @@
         "surface": "justice",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "asked",
+        "lemma": "shaal",
+        "strongs": "H7592"
+      },
+      {
+        "surface": "asked",
+        "lemma": "shaal",
+        "strongs": "H7592"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "12": [
@@ -771,6 +811,11 @@
         "surface": "will there ever be",
         "lemma": "qamay",
         "strongs": "H6965"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "13": [
@@ -972,6 +1017,11 @@
         "surface": "his servants",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "16": [
@@ -1118,6 +1168,11 @@
         "surface": "the two",
         "lemma": "shenayim",
         "strongs": "H8147"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "19": [
@@ -1269,6 +1324,11 @@
         "surface": "I had borne",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "22": [
@@ -1455,6 +1515,16 @@
         "surface": "a sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "25": [
@@ -1609,6 +1679,11 @@
         "surface": "Cut him in two",
         "lemma": "gazar",
         "strongs": "H1504"
+      },
+      {
+        "surface": "kill",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "27": [
@@ -1651,6 +1726,16 @@
         "surface": "is his mother",
         "lemma": "em",
         "strongs": "H0517"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
+      },
+      {
+        "surface": "kill",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "28": [

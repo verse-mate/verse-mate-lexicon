@@ -212,6 +212,11 @@
         "surface": "world",
         "lemma": "oikoumene",
         "strongs": "G3625"
+      },
+      {
+        "surface": "time",
+        "lemma": "chronos",
+        "strongs": "G5550"
       }
     ],
     "6": [
@@ -318,6 +323,11 @@
         "surface": "only",
         "lemma": "monos",
         "strongs": "G3441"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "9": [
@@ -456,6 +466,11 @@
         "surface": "God {to the test",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "13": [
@@ -609,6 +624,11 @@
         "surface": "to read",
         "lemma": "anaginosko",
         "strongs": "G0314"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "17": [
@@ -661,6 +681,11 @@
         "surface": "written",
         "lemma": "grapho",
         "strongs": "G1125"
+      },
+      {
+        "surface": "where",
+        "lemma": "hou",
+        "strongs": "G3757"
       }
     ],
     "18": [
@@ -728,6 +753,11 @@
         "surface": "the oppressed",
         "lemma": "thrauo",
         "strongs": "G2352"
+      },
+      {
+        "surface": "deliverance",
+        "lemma": "aphesis",
+        "strongs": "G0859"
       }
     ],
     "19": [
@@ -834,6 +864,11 @@
         "surface": "hearing",
         "lemma": "ous",
         "strongs": "G3775"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "22": [
@@ -891,6 +926,11 @@
         "surface": "they asked",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "23": [
@@ -958,6 +998,11 @@
         "surface": "Capernaum",
         "lemma": "kapernaoum",
         "strongs": "G2584"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "24": [
@@ -1087,6 +1132,11 @@
         "surface": "land",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "months",
+        "lemma": "men",
+        "strongs": "G3376"
       }
     ],
     "26": [
@@ -1198,6 +1248,11 @@
         "surface": "were enraged",
         "lemma": "pletho",
         "strongs": "G4130"
+      },
+      {
+        "surface": "anger",
+        "lemma": "thumos",
+        "strongs": "G2372"
       }
     ],
     "29": [
@@ -1430,6 +1485,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "35": [
@@ -1554,6 +1614,11 @@
         "surface": "they come out",
         "lemma": "exerchomai",
         "strongs": "G1831"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "37": [
@@ -1571,6 +1636,16 @@
         "surface": "surrounding region",
         "lemma": "perichoros",
         "strongs": "G4066"
+      },
+      {
+        "surface": "every",
+        "lemma": "pas",
+        "strongs": "G3956"
+      },
+      {
+        "surface": "place",
+        "lemma": "topos",
+        "strongs": "G5117"
       }
     ],
     "38": [
@@ -1732,6 +1807,16 @@
         "surface": "He healed",
         "lemma": "therapeuo",
         "strongs": "G2323"
+      },
+      {
+        "surface": "sun",
+        "lemma": "helios",
+        "strongs": "G2246"
+      },
+      {
+        "surface": "as many as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "41": [
@@ -1799,6 +1884,11 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "42": [
@@ -1849,6 +1939,11 @@
       },
       {
         "surface": "leaving",
+        "lemma": "poreuo",
+        "strongs": "G4198"
+      },
+      {
+        "surface": "go",
         "lemma": "poreuo",
         "strongs": "G4198"
       }

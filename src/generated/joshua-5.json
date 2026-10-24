@@ -129,6 +129,21 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "2": [
@@ -186,6 +201,11 @@
         "surface": "once again",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "3": [
@@ -228,6 +248,11 @@
         "surface": "Gibeath-haaraloth",
         "lemma": "givah",
         "strongs": "H1389"
+      },
+      {
+        "surface": "foreskins",
+        "lemma": "orlah",
+        "strongs": "H6190"
       }
     ],
     "4": [
@@ -305,6 +330,11 @@
         "surface": "Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "males",
+        "lemma": "zakhar_h2145",
+        "strongs": "H2145"
       }
     ],
     "5": [
@@ -367,6 +397,11 @@
         "surface": "had been circumcised",
         "lemma": "mul",
         "strongs": "H4135"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "6": [
@@ -509,6 +544,16 @@
         "surface": "and honey",
         "lemma": "devash",
         "strongs": "H1706"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "7": [
@@ -603,6 +648,11 @@
         "surface": "they were healed",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "finished",
+        "lemma": "tamam",
+        "strongs": "H8552"
       }
     ],
     "9": [
@@ -660,6 +710,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "10": [
@@ -717,6 +772,16 @@
         "surface": "the Passover",
         "lemma": "pesach",
         "strongs": "H6453"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "11": [
@@ -846,6 +911,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -928,6 +998,11 @@
         "surface": "for our enemies",
         "lemma": "tsar",
         "strongs": "H6862"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "14": [
@@ -1005,6 +1080,16 @@
         "surface": "His servant",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "15": [
@@ -1067,6 +1152,16 @@
         "surface": "so",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "Joshua",
+        "lemma": "yehoshua",
+        "strongs": "H3091"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ]
   }

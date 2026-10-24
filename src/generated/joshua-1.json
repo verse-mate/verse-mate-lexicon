@@ -250,6 +250,16 @@
         "surface": "Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "river",
+        "lemma": "nahar_h5104",
+        "strongs": "H5104"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "5": [
@@ -359,6 +369,11 @@
         "surface": "I would give",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "7": [
@@ -602,6 +617,11 @@
         "surface": "of the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -699,6 +719,11 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -729,6 +754,16 @@
       },
       {
         "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "saying",
         "lemma": "amar",
         "strongs": "H0559"
       }
@@ -788,6 +823,11 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "14": [
@@ -967,6 +1007,16 @@
         "surface": "of the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "brothers",
+        "lemma": "ach",
+        "strongs": "H0251"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "16": [
@@ -1004,6 +1054,11 @@
         "surface": "we will go",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1108,6 +1163,11 @@
         "surface": "and courageous",
         "lemma": "amats",
         "strongs": "H0553"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ]
   }

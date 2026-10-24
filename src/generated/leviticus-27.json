@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -66,6 +71,11 @@
         "surface": "of persons",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -133,6 +143,21 @@
         "surface": "shekel",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "4": [
@@ -227,6 +252,21 @@
         "surface": "shekels",
         "lemma": "sheqel",
         "strongs": "H8255"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -299,6 +339,21 @@
         "surface": "of silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "valuation",
+        "lemma": "erekh_h6187",
+        "strongs": "H6187"
       }
     ],
     "7": [
@@ -361,6 +416,16 @@
         "surface": "for the female",
         "lemma": "neqevah",
         "strongs": "H5347"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "8": [
@@ -413,6 +478,26 @@
         "surface": "can afford",
         "lemma": "nasag",
         "strongs": "H5381"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "evaluate",
+        "lemma": "arakh_h6186",
+        "strongs": "H6186"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "9": [
@@ -537,6 +622,11 @@
         "surface": "holy",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "exchange",
+        "lemma": "mur",
+        "strongs": "H4171"
       }
     ],
     "11": [
@@ -641,6 +731,16 @@
         "surface": "will be set",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "13": [
@@ -668,6 +768,11 @@
         "surface": "its value",
         "lemma": "erekh",
         "strongs": "H6187"
+      },
+      {
+        "surface": "redeem",
+        "lemma": "gaal",
+        "strongs": "H1350"
       }
     ],
     "14": [
@@ -978,6 +1083,11 @@
         "surface": "will be reduced",
         "lemma": "gara",
         "strongs": "H1639"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "19": [
@@ -1025,6 +1135,11 @@
         "surface": "and it shall belong",
         "lemma": "qamay",
         "strongs": "H6965"
+      },
+      {
+        "surface": "redeem",
+        "lemma": "gaal",
+        "strongs": "H1350"
       }
     ],
     "20": [
@@ -1238,6 +1353,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "valuation",
+        "lemma": "erekh_h6187",
+        "strongs": "H6187"
       }
     ],
     "24": [
@@ -1523,6 +1643,21 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "nevertheless",
+        "lemma": "akh",
+        "strongs": "H0389"
+      },
+      {
+        "surface": "dedicate to destruction",
+        "lemma": "charam",
+        "strongs": "H2763"
+      },
+      {
+        "surface": "possession",
+        "lemma": "achuzzah",
+        "strongs": "H0272"
       }
     ],
     "29": [
@@ -1548,6 +1683,16 @@
       },
       {
         "surface": "he must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "dedicated person",
+        "lemma": "cherem",
+        "strongs": "H2764"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -1691,6 +1836,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "asiri",
+        "strongs": "H6224"
       }
     ],
     "33": [
@@ -1763,6 +1913,11 @@
         "surface": "be redeemed",
         "lemma": "gaal",
         "strongs": "H1350"
+      },
+      {
+        "surface": "exchange",
+        "lemma": "mur",
+        "strongs": "H4171"
       }
     ],
     "34": [
@@ -1800,6 +1955,11 @@
         "surface": "Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

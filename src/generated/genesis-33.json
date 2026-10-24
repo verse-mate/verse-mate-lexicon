@@ -74,6 +74,11 @@
         "surface": "maidservants",
         "lemma": "shiphchah",
         "strongs": "H8198"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "2": [
@@ -205,6 +210,11 @@
         "surface": "And they both wept",
         "lemma": "bakhah",
         "strongs": "H1058"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
       }
     ],
     "5": [
@@ -262,6 +272,11 @@
         "surface": "your servant",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "6": [
@@ -566,6 +581,11 @@
         "surface": "ahead of you",
         "lemma": "neged",
         "strongs": "H5048"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "13": [
@@ -700,6 +720,16 @@
         "surface": "at Seir",
         "lemma": "seir",
         "strongs": "H8165"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "15": [
@@ -831,6 +861,21 @@
         "surface": "Succoth",
         "lemma": "sukkot",
         "strongs": "H5523"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "18": [
@@ -987,6 +1032,16 @@
         "surface": "El-Elohe-Israel",
         "lemma": "el",
         "strongs": "H0410"
+      },
+      {
+        "surface": "Elohe",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yaaqov",
+        "strongs": "H3290"
       }
     ]
   }

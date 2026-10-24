@@ -39,6 +39,11 @@
         "surface": "heavens",
         "lemma": "raqia",
         "strongs": "H7549"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "2": [
@@ -189,6 +194,11 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

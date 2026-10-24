@@ -39,6 +39,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "2": [
@@ -66,6 +71,11 @@
         "surface": "both now",
         "lemma": "attah",
         "strongs": "H6258"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "3": [
@@ -93,6 +103,11 @@
         "surface": "is praised",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "4": [
@@ -265,6 +280,11 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

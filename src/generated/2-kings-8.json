@@ -84,6 +84,16 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "2": [
@@ -146,6 +156,11 @@
         "surface": "of the Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "3": [
@@ -531,6 +546,11 @@
         "surface": "here",
         "lemma": "hennah",
         "strongs": "H2008"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -603,6 +623,11 @@
         "surface": "illness",
         "lemma": "choli",
         "strongs": "H2483"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -725,6 +750,11 @@
         "surface": "illness",
         "lemma": "choli",
         "strongs": "H2483"
+      },
+      {
+        "surface": "camel",
+        "lemma": "gamal_h1581",
+        "strongs": "H1581"
       }
     ],
     "10": [
@@ -765,6 +795,16 @@
       },
       {
         "surface": "in fact he will die",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -1040,6 +1080,11 @@
         "surface": "you would surely recover",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "15": [
@@ -1169,6 +1214,21 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "Jehoshaphat",
+        "lemma": "yehoshaphat",
+        "strongs": "H3092"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "17": [
@@ -1206,6 +1266,16 @@
         "surface": "eight",
         "lemma": "shemoneh",
         "strongs": "H8083"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       },
       {
         "surface": "years",
@@ -1283,6 +1353,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "became",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "19": [
@@ -1340,6 +1415,16 @@
         "surface": "forever",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "20": [
@@ -1558,6 +1643,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
@@ -1677,6 +1767,21 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "26": [
@@ -1754,6 +1859,16 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "27": [
@@ -1883,6 +1998,11 @@
         "surface": "Joram",
         "lemma": "yoram",
         "strongs": "H3141"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "29": [

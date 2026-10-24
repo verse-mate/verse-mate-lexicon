@@ -54,6 +54,11 @@
         "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "2": [
@@ -121,6 +126,11 @@
         "surface": "and its mate",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
       }
     ],
     "3": [
@@ -173,6 +183,11 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
       }
     ],
     "4": [
@@ -314,6 +329,16 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "7": [
@@ -408,6 +433,11 @@
         "surface": "the ground",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "animal",
+        "lemma": "behemah",
+        "strongs": "H0929"
       }
     ],
     "9": [
@@ -492,6 +522,11 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "flood",
+        "lemma": "mabbul",
+        "strongs": "H3999"
       }
     ],
     "11": [
@@ -584,6 +619,21 @@
         "surface": "were opened",
         "lemma": "patach",
         "strongs": "H6605"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "12": [
@@ -693,6 +743,11 @@
         "surface": "of his sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Noah",
+        "lemma": "noach",
+        "strongs": "H5146"
       }
     ],
     "14": [
@@ -740,6 +795,46 @@
         "surface": "winged creature",
         "lemma": "tsippor",
         "strongs": "H6833"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
+      },
+      {
+        "surface": "creeps",
+        "lemma": "ramas_h7430",
+        "strongs": "H7430"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "wing",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
       }
     ],
     "15": [
@@ -834,6 +929,16 @@
         "surface": "shut him in",
         "lemma": "sagar",
         "strongs": "H5462"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "behind",
+        "lemma": "bead",
+        "strongs": "H1157"
       }
     ],
     "17": [
@@ -886,6 +991,11 @@
         "surface": "the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "rose",
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "18": [
@@ -990,6 +1100,11 @@
         "surface": "were covered",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "20": [
@@ -1027,6 +1142,11 @@
         "surface": "cubits",
         "lemma": "ammah",
         "strongs": "H0520"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "21": [
@@ -1094,6 +1214,11 @@
         "surface": "mankind",
         "lemma": "adam",
         "strongs": "H0120"
+      },
+      {
+        "surface": "swarms",
+        "lemma": "sharats",
+        "strongs": "H8317"
       }
     ],
     "22": [
@@ -1245,6 +1370,11 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ]
   }

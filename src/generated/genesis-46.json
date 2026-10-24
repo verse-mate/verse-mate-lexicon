@@ -205,6 +205,11 @@
         "surface": "your eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "completely",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
       }
     ],
     "5": [
@@ -381,6 +386,16 @@
         "surface": "his offspring",
         "lemma": "zera",
         "strongs": "H2233"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "8": [
@@ -752,6 +767,11 @@
         "surface": "was thirty-three",
         "lemma": "sheloshim",
         "strongs": "H7970"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "16": [
@@ -913,6 +933,11 @@
         "surface": "in all",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "19": [
@@ -1007,6 +1032,11 @@
         "surface": "of On",
         "lemma": "on",
         "strongs": "H0204"
+      },
+      {
+        "surface": "bore",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "21": [
@@ -1101,6 +1131,16 @@
         "surface": "in all",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "23": [
@@ -1202,6 +1242,11 @@
         "surface": "in all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "26": [
@@ -1259,6 +1304,26 @@
         "surface": "persons",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "thigh",
+        "lemma": "yarekh",
+        "strongs": "H3409"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
       }
     ],
     "27": [
@@ -1321,6 +1386,11 @@
         "surface": "in all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "28": [
@@ -1368,6 +1438,11 @@
         "surface": "of Goshen",
         "lemma": "goshen",
         "strongs": "H1657"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "29": [
@@ -1435,6 +1510,11 @@
         "surface": "profusely",
         "lemma": "od",
         "strongs": "H5750"
+      },
+      {
+        "surface": "neck",
+        "lemma": "tsavvar_h6677",
+        "strongs": "H6677"
       }
     ],
     "30": [
@@ -1482,6 +1562,11 @@
         "surface": "alive",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "31": [
@@ -1554,6 +1639,11 @@
         "surface": "have come",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "32": [
@@ -1591,6 +1681,16 @@
         "surface": "and all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "flock",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "33": [
@@ -1680,6 +1780,21 @@
         "surface": "to the Egyptians",
         "lemma": "mitsri",
         "strongs": "H4713"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
+      },
+      {
+        "surface": "sheep",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ]
   }

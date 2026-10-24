@@ -156,6 +156,16 @@
         "surface": "had none",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "children",
+        "lemma": "yeled",
+        "strongs": "H3206"
       }
     ],
     "3": [
@@ -238,6 +248,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -446,6 +466,11 @@
         "surface": "eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "8": [
@@ -595,6 +620,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "10": [
@@ -615,6 +645,16 @@
       },
       {
         "surface": "and wept with many tears",
+        "lemma": "bakhah",
+        "strongs": "H1058"
+      },
+      {
+        "surface": "soul",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "wept",
         "lemma": "bakhah",
         "strongs": "H1058"
       }
@@ -739,6 +779,21 @@
         "surface": "his head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "look",
+        "lemma": "raah",
+        "strongs": "H7200"
+      },
+      {
+        "surface": "maidservant",
+        "lemma": "amah",
+        "strongs": "H0519"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "12": [
@@ -860,6 +915,11 @@
         "surface": "your wine",
         "lemma": "yayin",
         "strongs": "H3196"
+      },
+      {
+        "surface": "Eli",
+        "lemma": "eli_h5941",
+        "strongs": "H5941"
       }
     ],
     "15": [
@@ -937,6 +997,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -984,6 +1049,16 @@
         "surface": "and grief",
         "lemma": "kaas",
         "strongs": "H3708"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "now",
+        "lemma": "hennah",
+        "strongs": "H2008"
       }
     ],
     "17": [
@@ -1031,6 +1106,11 @@
         "surface": "you have asked",
         "lemma": "shaal",
         "strongs": "H7592"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1170,6 +1250,11 @@
         "surface": "remembered her",
         "lemma": "zakhar",
         "strongs": "H2142"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "20": [
@@ -1279,6 +1364,11 @@
         "surface": "his vow",
         "lemma": "neder",
         "strongs": "H5088"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "22": [
@@ -1346,6 +1436,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "23": [
@@ -1606,6 +1701,11 @@
         "surface": "I asked",
         "lemma": "shaal",
         "strongs": "H7592"
+      },
+      {
+        "surface": "petition",
+        "lemma": "sheelah",
+        "strongs": "H7596"
       }
     ],
     "28": [
@@ -1653,6 +1753,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

@@ -49,6 +49,11 @@
         "surface": "by Your righteousness",
         "lemma": "tsedaqah",
         "strongs": "H6666"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "2": [
@@ -96,6 +101,11 @@
         "surface": "of my deliverance",
         "lemma": "yasah",
         "strongs": "H3467"
+      },
+      {
+        "surface": "strongholds",
+        "lemma": "matsudah",
+        "strongs": "H4686"
       }
     ],
     "3": [
@@ -209,6 +219,11 @@
         "surface": "trust",
         "lemma": "batach",
         "strongs": "H0982"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "shav",
+        "strongs": "H7723"
       }
     ],
     "7": [
@@ -518,6 +533,11 @@
         "surface": "my life",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "14": [
@@ -913,6 +933,16 @@
         "surface": "the arrogant",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "excess",
+        "lemma": "yeter",
+        "strongs": "H3499"
+      },
+      {
+        "surface": "pride",
+        "lemma": "gaavah",
+        "strongs": "H1346"
       }
     ],
     "24": [
@@ -940,6 +970,28 @@
         "surface": "in the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

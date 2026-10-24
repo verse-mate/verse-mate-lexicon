@@ -76,6 +76,26 @@
         "surface": "his statue",
         "lemma": "dagon",
         "strongs": "H1712"
+      },
+      {
+        "surface": "took",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "Philistines",
+        "lemma": "pelishti",
+        "strongs": "H6430"
+      },
+      {
+        "surface": "ark",
+        "lemma": "aron",
+        "strongs": "H0727"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "3": [
@@ -143,6 +163,11 @@
         "surface": "to his place",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "4": [
@@ -225,6 +250,21 @@
         "surface": "remained",
         "lemma": "shaar",
         "strongs": "H7604"
+      },
+      {
+        "surface": "Dagon",
+        "lemma": "dagon",
+        "strongs": "H1712"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "5": [
@@ -282,6 +322,16 @@
         "surface": "the threshold",
         "lemma": "miphtan",
         "strongs": "H4670"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "Dagon",
+        "lemma": "dagon",
+        "strongs": "H1712"
       }
     ],
     "6": [
@@ -324,6 +374,16 @@
         "surface": "with tumors",
         "lemma": "ophel",
         "strongs": "H6076"
+      },
+      {
+        "surface": "tumors",
+        "lemma": "techor",
+        "strongs": "H2914"
+      },
+      {
+        "surface": "Ashdod",
+        "lemma": "ashdod",
+        "strongs": "H0795"
       }
     ],
     "7": [
@@ -483,6 +543,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "sent",
+        "lemma": "shalach",
+        "strongs": "H7971"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -555,6 +630,21 @@
         "surface": "of tumors",
         "lemma": "ophel",
         "strongs": "H6076"
+      },
+      {
+        "surface": "old",
+        "lemma": "gadol",
+        "strongs": "H1419"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "tumors",
+        "lemma": "techor",
+        "strongs": "H2914"
       }
     ],
     "10": [
@@ -627,6 +717,21 @@
         "surface": "our people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "Ekron",
+        "lemma": "eqron",
+        "strongs": "H6138"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -796,6 +901,11 @@
         "surface": "to heaven",
         "lemma": "shamayim",
         "strongs": "H8064"
+      },
+      {
+        "surface": "tumors",
+        "lemma": "techor",
+        "strongs": "H2914"
       }
     ]
   }

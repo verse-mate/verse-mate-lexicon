@@ -19,6 +19,11 @@
         "surface": "to Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -163,6 +173,11 @@
         "surface": "or raisins",
         "lemma": "yavesh",
         "strongs": "H3002"
+      },
+      {
+        "surface": "vinegar",
+        "lemma": "chomets",
+        "strongs": "H2558"
       }
     ],
     "4": [
@@ -210,6 +225,11 @@
         "surface": "skins",
         "lemma": "zag",
         "strongs": "H2085"
+      },
+      {
+        "surface": "wine",
+        "lemma": "yayin",
+        "strongs": "H3196"
       }
     ],
     "5": [
@@ -418,6 +438,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -475,6 +500,21 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "dead",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "suddenly",
+        "lemma": "pitom",
+        "strongs": "H6597"
+      },
+      {
+        "surface": "shave",
+        "lemma": "galach",
+        "strongs": "H1548"
       }
     ],
     "10": [
@@ -666,6 +706,11 @@
         "surface": "was defiled",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "13": [
@@ -805,6 +850,16 @@
         "surface": "as a peace offering",
         "lemma": "shelem",
         "strongs": "H8002"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "15": [
@@ -1033,6 +1088,16 @@
         "surface": "the peace offering",
         "lemma": "shelem",
         "strongs": "H8002"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "Nazirite vow",
+        "lemma": "nezer_h5145",
+        "strongs": "H5145"
       }
     ],
     "19": [
@@ -1274,6 +1339,16 @@
         "surface": "of his separation",
         "lemma": "nezer",
         "strongs": "H5145"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "22": [
@@ -1291,6 +1366,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1323,6 +1403,21 @@
         "surface": "Say",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1411,6 +1506,11 @@
         "surface": "will bless them",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

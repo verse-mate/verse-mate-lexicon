@@ -178,6 +178,11 @@
         "surface": "and its firepans",
         "lemma": "machtah",
         "strongs": "H4289"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "4": [
@@ -230,6 +235,16 @@
         "surface": "the mesh",
         "lemma": "reshet",
         "strongs": "H7568"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "5": [
@@ -309,6 +324,11 @@
         "surface": "with bronze",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "poles",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "7": [
@@ -460,6 +480,11 @@
         "surface": "side",
         "lemma": "peah",
         "strongs": "H6285"
+      },
+      {
+        "surface": "south",
+        "lemma": "teman",
+        "strongs": "H8486"
       }
     ],
     "10": [
@@ -725,6 +750,11 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "15": [
@@ -767,6 +797,11 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -844,6 +879,16 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "17": [
@@ -891,6 +936,11 @@
         "surface": "bases",
         "lemma": "eden",
         "strongs": "H0134"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "18": [
@@ -1077,6 +1127,11 @@
         "surface": "continually",
         "lemma": "tamid",
         "strongs": "H8548"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "21": [
@@ -1159,6 +1214,11 @@
         "surface": "for the generations to come",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

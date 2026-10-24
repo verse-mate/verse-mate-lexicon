@@ -59,6 +59,26 @@
         "surface": "to serve Me as priests",
         "lemma": "kahan",
         "strongs": "H3547"
+      },
+      {
+        "surface": "Aaron",
+        "lemma": "haaron",
+        "strongs": "H0175"
+      },
+      {
+        "surface": "Aaron",
+        "lemma": "haaron",
+        "strongs": "H0175"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -153,6 +173,11 @@
         "surface": "so that he may serve Me as priest",
         "lemma": "kahan",
         "strongs": "H3547"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "4": [
@@ -267,6 +292,11 @@
         "surface": "and fine linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "6": [
@@ -314,6 +344,16 @@
         "surface": "and scarlet yarn",
         "lemma": "tola",
         "strongs": "H8438"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "skillful worker",
+        "lemma": "chashav",
+        "strongs": "H2803"
       }
     ],
     "7": [
@@ -403,6 +443,11 @@
         "surface": "linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "9": [
@@ -487,6 +532,16 @@
         "surface": "in the order of their birth",
         "lemma": "toledah",
         "strongs": "H8435"
+      },
+      {
+        "surface": "names",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "11": [
@@ -554,6 +609,16 @@
         "surface": "filigree settings",
         "lemma": "mishbetsah",
         "strongs": "H4865"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "12": [
@@ -782,6 +847,26 @@
         "surface": "linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
+      },
+      {
+        "surface": "skillful worker",
+        "lemma": "chashav",
+        "strongs": "H2803"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "16": [
@@ -876,6 +961,11 @@
         "surface": "and an emerald",
         "lemma": "bareqet",
         "strongs": "H1304"
+      },
+      {
+        "surface": "row",
+        "lemma": "tur",
+        "strongs": "H2905"
       }
     ],
     "18": [
@@ -972,6 +1062,11 @@
         "surface": "filigree settings",
         "lemma": "milluah",
         "strongs": "H4396"
+      },
+      {
+        "surface": "set",
+        "lemma": "shavats",
+        "strongs": "H7660"
       }
     ],
     "21": [
@@ -1034,6 +1129,21 @@
         "surface": "tribes",
         "lemma": "shevet",
         "strongs": "H7626"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "22": [
@@ -1066,6 +1176,16 @@
         "surface": "gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "chains",
+        "lemma": "sharshah",
+        "strongs": "H8331"
+      },
+      {
+        "surface": "cordage",
+        "lemma": "avot_h5688",
+        "strongs": "H5688"
       }
     ],
     "23": [
@@ -1113,6 +1233,16 @@
         "surface": "of the breastpiece",
         "lemma": "choshen",
         "strongs": "H2833"
+      },
+      {
+        "surface": "breastpiece",
+        "lemma": "choshen",
+        "strongs": "H2833"
+      },
+      {
+        "surface": "rings",
+        "lemma": "tabbaat",
+        "strongs": "H2885"
       }
     ],
     "24": [
@@ -1212,6 +1342,11 @@
         "surface": "the front",
         "lemma": "mul",
         "strongs": "H4136"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "26": [
@@ -1269,6 +1404,11 @@
         "surface": "the ephod",
         "lemma": "ephod",
         "strongs": "H0646"
+      },
+      {
+        "surface": "side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
       }
     ],
     "27": [
@@ -1341,6 +1481,16 @@
         "surface": "its woven waistband",
         "lemma": "cheshev",
         "strongs": "H2805"
+      },
+      {
+        "surface": "ephod",
+        "lemma": "ephod_h0646",
+        "strongs": "H0646"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "28": [
@@ -1686,6 +1836,11 @@
         "surface": "tear",
         "lemma": "qara",
         "strongs": "H7167"
+      },
+      {
+        "surface": "weaver",
+        "lemma": "arag",
+        "strongs": "H0707"
       }
     ],
     "33": [
@@ -1743,6 +1898,16 @@
         "surface": "them",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "skirt",
+        "lemma": "shul",
+        "strongs": "H7757"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "34": [
@@ -1775,6 +1940,21 @@
         "surface": "of the robe",
         "lemma": "meil",
         "strongs": "H4598"
+      },
+      {
+        "surface": "bell",
+        "lemma": "paamon",
+        "strongs": "H6472"
+      },
+      {
+        "surface": "gold",
+        "lemma": "zahav",
+        "strongs": "H2091"
+      },
+      {
+        "surface": "pomegranate",
+        "lemma": "rimmon",
+        "strongs": "H7416"
       }
     ],
     "35": [
@@ -1916,6 +2096,11 @@
         "surface": "of the turban",
         "lemma": "mitsnephet",
         "strongs": "H4701"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "38": [
@@ -2060,6 +2245,11 @@
         "surface": "sash",
         "lemma": "avnet",
         "strongs": "H0073"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "40": [
@@ -2107,6 +2297,11 @@
         "surface": "and splendor",
         "lemma": "tipharah",
         "strongs": "H8597"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "41": [
@@ -2149,6 +2344,11 @@
         "surface": "so that they may serve Me as priests",
         "lemma": "kahan",
         "strongs": "H3547"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "42": [

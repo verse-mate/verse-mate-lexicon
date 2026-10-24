@@ -96,6 +96,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -185,6 +190,11 @@
         "surface": "they lived as foreigners",
         "lemma": "gur",
         "strongs": "H1481"
+      },
+      {
+        "surface": "sojournings",
+        "lemma": "magur",
+        "strongs": "H4033"
       }
     ],
     "5": [
@@ -304,6 +314,11 @@
         "surface": "acts of judgment",
         "lemma": "shephet",
         "strongs": "H8201"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -413,6 +428,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "9": [
@@ -470,6 +490,11 @@
         "surface": "him",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -487,6 +512,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -529,6 +559,11 @@
         "surface": "of his land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "12": [
@@ -591,6 +626,16 @@
         "surface": "in speech",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -658,6 +703,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -844,6 +899,21 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "17": [
@@ -923,6 +993,21 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "19": [
@@ -1017,6 +1102,26 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "21": [
@@ -1133,6 +1238,11 @@
         "surface": "and Ithamar",
         "lemma": "itamar",
         "strongs": "H0385"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "24": [
@@ -1232,6 +1342,11 @@
         "surface": "by their clans",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "26": [
@@ -1279,6 +1394,11 @@
         "surface": "their divisions",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "27": [
@@ -1326,6 +1446,11 @@
         "surface": "out of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "28": [
@@ -1415,6 +1540,11 @@
         "surface": "say",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "30": [

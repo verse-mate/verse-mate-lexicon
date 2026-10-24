@@ -74,6 +74,11 @@
         "surface": "in Goshen",
         "lemma": "goshen",
         "strongs": "H1657"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -111,6 +116,11 @@
         "surface": "Pharaoh",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
       }
     ],
     "3": [
@@ -158,6 +168,16 @@
         "surface": "our fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Pharaoh",
+        "lemma": "paroh",
+        "strongs": "H6547"
+      },
+      {
+        "surface": "sheep",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "4": [
@@ -282,6 +302,11 @@
         "surface": "have come",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -453,6 +478,16 @@
         "surface": "asked",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "Jacob",
+        "lemma": "yaaqov",
+        "strongs": "H3290"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "9": [
@@ -525,6 +560,51 @@
         "surface": "of my fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Pharaoh",
+        "lemma": "paroh",
+        "strongs": "H6547"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "thirty",
+        "lemma": "sheloshim",
+        "strongs": "H7970"
+      },
+      {
+        "surface": "life",
+        "lemma": "chay",
+        "strongs": "H2416"
+      },
+      {
+        "surface": "lives",
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ],
     "10": [
@@ -624,6 +704,11 @@
         "surface": "had commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "gave",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "12": [
@@ -1051,6 +1136,11 @@
         "surface": "their livestock",
         "lemma": "miqneh",
         "strongs": "H4735"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "miqneh",
+        "strongs": "H4735"
       }
     ],
     "18": [
@@ -1153,6 +1243,16 @@
         "surface": "and our land",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "behemah",
+        "strongs": "H0929"
       }
     ],
     "19": [
@@ -1322,6 +1422,11 @@
         "surface": "became Pharaoh’s",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "Pharaoh",
+        "lemma": "paroh",
+        "strongs": "H6547"
       }
     ],
     "21": [
@@ -1354,6 +1459,11 @@
         "surface": "the other",
         "lemma": "qatseh",
         "strongs": "H7097"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "22": [
@@ -1416,6 +1526,21 @@
         "surface": "their land",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "priests",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "allowance",
+        "lemma": "choq",
+        "strongs": "H2706"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "23": [
@@ -1525,6 +1650,16 @@
         "surface": "and children",
         "lemma": "taph",
         "strongs": "H2945"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "25": [
@@ -1639,6 +1774,11 @@
         "surface": "Pharaoh",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "27": [
@@ -1753,6 +1893,31 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "Jacob",
+        "lemma": "yaaqov",
+        "strongs": "H3290"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "life",
+        "lemma": "chay",
+        "strongs": "H2416"
+      },
+      {
+        "surface": "forty",
+        "lemma": "arbaim",
+        "strongs": "H0705"
       }
     ],
     "29": [

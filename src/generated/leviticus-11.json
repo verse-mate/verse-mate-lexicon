@@ -66,6 +66,16 @@
         "surface": "you may eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -108,6 +118,16 @@
         "surface": "the cud",
         "lemma": "gerah",
         "strongs": "H1625"
+      },
+      {
+        "surface": "divides in two",
+        "lemma": "paras",
+        "strongs": "H6536"
+      },
+      {
+        "surface": "hooves",
+        "lemma": "parsah",
+        "strongs": "H6541"
       }
     ],
     "4": [
@@ -296,6 +316,16 @@
         "surface": "unclean",
         "lemma": "tame",
         "strongs": "H2931"
+      },
+      {
+        "surface": "hoof",
+        "lemma": "parsah",
+        "strongs": "H6541"
+      },
+      {
+        "surface": "cleaving",
+        "lemma": "shasa",
+        "strongs": "H8156"
       }
     ],
     "8": [
@@ -370,6 +400,16 @@
         "surface": "and scales",
         "lemma": "qasqeset",
         "strongs": "H7193"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
+      },
+      {
+        "surface": "waters",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "10": [
@@ -432,6 +472,11 @@
         "surface": "and scales",
         "lemma": "qasqeset",
         "strongs": "H7193"
+      },
+      {
+        "surface": "waters",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "11": [
@@ -796,6 +841,21 @@
         "surface": "or grasshopper",
         "lemma": "chagav",
         "strongs": "H2284"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
+      },
+      {
+        "surface": "kind",
+        "lemma": "min",
+        "strongs": "H4327"
       }
     ],
     "23": [
@@ -964,6 +1024,11 @@
         "surface": "will be unclean",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "cleaving",
+        "lemma": "shasa",
+        "strongs": "H8156"
       }
     ],
     "27": [
@@ -1021,6 +1086,16 @@
         "surface": "evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "28": [
@@ -1261,6 +1336,11 @@
         "surface": "then it will be clean",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "put",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "33": [
@@ -1303,6 +1383,11 @@
         "surface": "you must break the pot",
         "lemma": "shavar",
         "strongs": "H7665"
+      },
+      {
+        "surface": "midst",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "34": [
@@ -1360,6 +1445,11 @@
         "surface": "will be unclean",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "drink",
+        "lemma": "mashqeh",
+        "strongs": "H4945"
       }
     ],
     "35": [
@@ -1496,6 +1586,11 @@
         "surface": "is clean",
         "lemma": "tahor",
         "strongs": "H2889"
+      },
+      {
+        "surface": "sown",
+        "lemma": "zara_h2232",
+        "strongs": "H2232"
       }
     ],
     "38": [
@@ -1736,6 +1831,16 @@
         "surface": "are detestable",
         "lemma": "sheqets",
         "strongs": "H8263"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "43": [
@@ -1778,6 +1883,11 @@
         "surface": "or defiled",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "swarms",
+        "lemma": "sharats",
+        "strongs": "H8317"
       }
     ],
     "44": [
@@ -2001,6 +2111,21 @@
         "surface": "may not",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "eaten",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ]
   }

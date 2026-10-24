@@ -135,6 +135,11 @@
         "surface": "eye",
         "lemma": "ophthalmos",
         "strongs": "G3788"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "5": [
@@ -192,6 +197,11 @@
         "surface": "eye",
         "lemma": "ophthalmos",
         "strongs": "G3788"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "6": [
@@ -345,6 +355,11 @@
         "surface": "a stone",
         "lemma": "lithos",
         "strongs": "G3037"
+      },
+      {
+        "surface": "man",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "10": [
@@ -434,6 +449,11 @@
         "surface": "who ask",
         "lemma": "aiteo",
         "strongs": "G0154"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [
@@ -476,6 +496,16 @@
         "surface": "Prophets",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "13": [
@@ -654,6 +684,11 @@
         "surface": "thistles",
         "lemma": "tribolos",
         "strongs": "G5146"
+      },
+      {
+        "surface": "grapes",
+        "lemma": "staphule",
+        "strongs": "G4718"
       }
     ],
     "17": [
@@ -961,6 +996,16 @@
         "surface": "miracles",
         "lemma": "dunamis",
         "strongs": "G1411"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "name",
+        "lemma": "onoma",
+        "strongs": "G3686"
       }
     ],
     "23": [
@@ -993,6 +1038,11 @@
         "surface": "of lawlessness",
         "lemma": "anomia",
         "strongs": "G0458"
+      },
+      {
+        "surface": "Never",
+        "lemma": "oudepote",
+        "strongs": "G3763"
       }
     ],
     "24": [

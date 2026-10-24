@@ -286,6 +286,11 @@
         "surface": "rise again",
         "lemma": "anistemi",
         "strongs": "G0450"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -382,6 +387,11 @@
         "surface": "apostles",
         "lemma": "apostolos",
         "strongs": "G0652"
+      },
+      {
+        "surface": "telling",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "11": [
@@ -508,6 +518,16 @@
         "surface": "Jerusalem",
         "lemma": "hierousalem",
         "strongs": "G2419"
+      },
+      {
+        "surface": "distant",
+        "lemma": "apecho",
+        "strongs": "G0568"
+      },
+      {
+        "surface": "stadia",
+        "lemma": "stadios",
+        "strongs": "G4712"
       }
     ],
     "14": [
@@ -616,6 +636,11 @@
         "surface": "with sadness on their faces",
         "lemma": "skuthropos",
         "strongs": "G4659"
+      },
+      {
+        "surface": "one another",
+        "lemma": "allelon",
+        "strongs": "G0240"
       }
     ],
     "18": [
@@ -668,6 +693,11 @@
         "surface": "days",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "19": [
@@ -935,6 +965,11 @@
         "surface": "they did not see",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "25": [
@@ -1041,6 +1076,11 @@
         "surface": "Scriptures",
         "lemma": "graphe",
         "strongs": "G1124"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "28": [
@@ -1120,6 +1160,16 @@
         "surface": "to stay",
         "lemma": "meno",
         "strongs": "G3306"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "now",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "30": [
@@ -1152,6 +1202,11 @@
         "surface": "and gave it",
         "lemma": "epididomi",
         "strongs": "G1929"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "31": [
@@ -1263,6 +1318,11 @@
         "surface": "gathered together",
         "lemma": "sunathroizo",
         "strongs": "G4867"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "athroizo",
+        "strongs": "G6003"
       }
     ],
     "34": [
@@ -1295,6 +1355,11 @@
         "surface": "to Simon",
         "lemma": "simon",
         "strongs": "G4613"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "35": [
@@ -1418,6 +1483,11 @@
         "surface": "hearts",
         "lemma": "kardia",
         "strongs": "G2588"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "39": [
@@ -1480,6 +1550,16 @@
         "surface": "have",
         "lemma": "echo",
         "strongs": "G2192"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "40": [
@@ -1766,6 +1846,11 @@
         "surface": "Jerusalem",
         "lemma": "hierousalem",
         "strongs": "G2419"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "48": [
@@ -1869,6 +1954,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "52": [

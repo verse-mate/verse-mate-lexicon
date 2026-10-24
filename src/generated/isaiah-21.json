@@ -183,6 +183,11 @@
         "surface": "to see",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "4": [
@@ -376,6 +381,11 @@
         "surface": "alert",
         "lemma": "qeshev",
         "strongs": "H7182"
+      },
+      {
+        "surface": "attentiveness",
+        "lemma": "qeshev",
+        "strongs": "H7182"
       }
     ],
     "8": [
@@ -505,6 +515,11 @@
         "surface": "on the ground",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "10": [
@@ -740,6 +755,11 @@
         "surface": "with food",
         "lemma": "lechem",
         "strongs": "H3899"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
       }
     ],
     "15": [
@@ -797,6 +817,11 @@
         "surface": "of battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "16": [
@@ -849,6 +874,11 @@
         "surface": "will be gone",
         "lemma": "kalah",
         "strongs": "H3615"
+      },
+      {
+        "surface": "yet",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "17": [
@@ -896,6 +926,16 @@
         "surface": "has spoken",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ]
   }

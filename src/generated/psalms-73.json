@@ -418,6 +418,11 @@
         "surface": "my hands",
         "lemma": "kaph",
         "strongs": "H3709"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "14": [
@@ -440,6 +445,16 @@
         "surface": "and punished every morning",
         "lemma": "tokhechah",
         "strongs": "H8433"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "mornings",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "15": [
@@ -863,6 +878,18 @@
         "surface": "Your works",
         "lemma": "melakhah",
         "strongs": "H4399"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

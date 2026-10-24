@@ -188,6 +188,18 @@
         "lemma": "dor",
         "strongs": "H1755"
       }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "thanksgiving",
+        "lemma": "todah",
+        "strongs": "H8426"
+      }
     ]
   }
 }
