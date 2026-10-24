@@ -81,6 +81,16 @@
         "surface": "Greece",
         "lemma": "hellas",
         "strongs": "G1671"
+      },
+      {
+        "surface": "talk",
+        "lemma": "logos",
+        "strongs": "G3056"
+      },
+      {
+        "surface": "much",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "3": [
@@ -143,6 +153,11 @@
         "surface": "Macedonia",
         "lemma": "makedonia",
         "strongs": "G3109"
+      },
+      {
+        "surface": "arose",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "4": [
@@ -210,6 +225,11 @@
         "surface": "from the province of Asia",
         "lemma": "asianos",
         "strongs": "G0774"
+      },
+      {
+        "surface": "Pyrrhus",
+        "lemma": "purros_g6077",
+        "strongs": "G6077"
       }
     ],
     "5": [
@@ -648,6 +668,11 @@
         "surface": "on foot",
         "lemma": "pezeuo",
         "strongs": "G3978"
+      },
+      {
+        "surface": "readying",
+        "lemma": "mello",
+        "strongs": "G3195"
       }
     ],
     "14": [
@@ -1056,6 +1081,11 @@
         "surface": "will happen",
         "lemma": "sunantao",
         "strongs": "G4876"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -1093,6 +1123,11 @@
         "surface": "await",
         "lemma": "meno",
         "strongs": "G3306"
+      },
+      {
+        "surface": "city",
+        "lemma": "polis",
+        "strongs": "G4172"
       }
     ],
     "24": [
@@ -1165,6 +1200,11 @@
         "surface": "grace",
         "lemma": "charis",
         "strongs": "G5485"
+      },
+      {
+        "surface": "account",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "25": [
@@ -1207,6 +1247,16 @@
         "surface": "face",
         "lemma": "prosopon",
         "strongs": "G4383"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "26": [
@@ -1375,6 +1425,11 @@
         "surface": "flock",
         "lemma": "poimnion",
         "strongs": "G4168"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "30": [
@@ -1652,6 +1707,11 @@
         "surface": "to receive",
         "lemma": "lambano",
         "strongs": "G2983"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "36": [
@@ -1674,6 +1734,11 @@
         "surface": "and prayed",
         "lemma": "proseuchomai",
         "strongs": "G4336"
+      },
+      {
+        "surface": "knee",
+        "lemma": "gonu",
+        "strongs": "G1119"
       }
     ],
     "37": [
@@ -1711,6 +1776,11 @@
         "surface": "and kissed",
         "lemma": "kataphileo",
         "strongs": "G2705"
+      },
+      {
+        "surface": "neck",
+        "lemma": "trachelos",
+        "strongs": "G5137"
       }
     ],
     "38": [
@@ -1753,6 +1823,16 @@
         "surface": "ship",
         "lemma": "ploion",
         "strongs": "G4143"
+      },
+      {
+        "surface": "especially",
+        "lemma": "malista",
+        "strongs": "G3122"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ]
   }

@@ -198,6 +198,11 @@
         "surface": "standard",
         "lemma": "middah",
         "strongs": "H4060"
+      },
+      {
+        "surface": "cubits",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "4": [
@@ -260,6 +265,16 @@
         "surface": "gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "length",
+        "lemma": "orekh",
+        "strongs": "H0753"
       }
     ],
     "5": [
@@ -498,6 +513,16 @@
         "surface": "gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "9": [
@@ -587,6 +612,11 @@
         "surface": "with gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "11": [
@@ -813,6 +843,11 @@
         "surface": "the main room",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "spreading out",
+        "lemma": "paras_h6566",
+        "strongs": "H6566"
       }
     ],
     "14": [
@@ -917,6 +952,11 @@
         "surface": "cubits",
         "lemma": "ammah",
         "strongs": "H0520"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
       }
     ],
     "16": [
@@ -1046,6 +1086,16 @@
         "surface": "Boaz",
         "lemma": "boaz",
         "strongs": "H1162"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "south",
+        "lemma": "yemani",
+        "strongs": "H3233"
       }
     ]
   }

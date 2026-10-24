@@ -146,6 +146,21 @@
         "surface": "I was overwhelmed with fear",
         "lemma": "yare",
         "strongs": "H3372"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "greatly",
+        "lemma": "ravah",
+        "strongs": "H7235"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "3": [
@@ -223,6 +238,16 @@
         "surface": "by fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "4": [
@@ -409,6 +434,11 @@
         "surface": "a time",
         "lemma": "zeman",
         "strongs": "H2165"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "7": [
@@ -573,6 +603,11 @@
         "surface": "granted",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "9": [
@@ -707,6 +742,11 @@
         "surface": "of the Israelites",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "displeasure",
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "11": [
@@ -821,6 +861,11 @@
         "surface": "was riding",
         "lemma": "rakhav",
         "strongs": "H7392"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "13": [
@@ -898,6 +943,11 @@
         "surface": "by fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -1007,6 +1057,11 @@
         "surface": "Gate",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "returned",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "16": [
@@ -1089,6 +1144,11 @@
         "surface": "workers",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "17": [
@@ -1166,6 +1226,11 @@
         "surface": "a disgrace",
         "lemma": "cherpah",
         "strongs": "H2781"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "18": [
@@ -1228,6 +1293,11 @@
         "surface": "to this good work",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -1305,6 +1375,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "20": [
@@ -1372,6 +1447,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

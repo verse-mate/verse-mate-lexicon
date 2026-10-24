@@ -89,6 +89,21 @@
         "surface": "the Gibeonites",
         "lemma": "givoni",
         "strongs": "H1393"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "2": [
@@ -176,6 +191,26 @@
         "surface": "to kill them",
         "lemma": "nakhah",
         "strongs": "H5221"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "3": [
@@ -419,6 +454,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "7": [
@@ -496,6 +536,16 @@
         "surface": "of Saul",
         "lemma": "shaul",
         "strongs": "H7586"
+      },
+      {
+        "surface": "bosheth",
+        "lemma": "mephivoshet",
+        "strongs": "H4648"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "8": [
@@ -690,6 +740,11 @@
         "surface": "harvest",
         "lemma": "qatsir",
         "strongs": "H7105"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
       }
     ],
     "10": [
@@ -931,6 +986,26 @@
         "surface": "at Gilboa",
         "lemma": "gilboa",
         "strongs": "H1533"
+      },
+      {
+        "surface": "bones",
+        "lemma": "etsem",
+        "strongs": "H6106"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
+      },
+      {
+        "surface": "Shan",
+        "lemma": "betshean",
+        "strongs": "H1052"
+      },
+      {
+        "surface": "hung up",
+        "lemma": "tala_h8511",
+        "strongs": "H8511"
       }
     ],
     "13": [
@@ -978,6 +1053,11 @@
         "surface": "of those who had been hanged",
         "lemma": "yaqa",
         "strongs": "H3363"
+      },
+      {
+        "surface": "bones",
+        "lemma": "etsem",
+        "strongs": "H6106"
       }
     ],
     "14": [
@@ -1075,6 +1155,11 @@
         "surface": "for the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "15": [
@@ -1132,6 +1217,11 @@
         "surface": "became exhausted",
         "lemma": "ayeph",
         "strongs": "H5888"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "16": [
@@ -1301,6 +1391,11 @@
         "surface": "be extinguished",
         "lemma": "kavah",
         "strongs": "H3518"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1363,6 +1458,11 @@
         "surface": "of Rapha",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "19": [
@@ -1542,6 +1642,16 @@
         "surface": "from Rapha",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "stature",
+        "lemma": "madon_h4067",
+        "strongs": "H4067"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "21": [
@@ -1584,6 +1694,11 @@
         "surface": "killed him",
         "lemma": "nakhah",
         "strongs": "H5221"
+      },
+      {
+        "surface": "Shimeah",
+        "lemma": "shimah_h8093",
+        "strongs": "H8093"
       }
     ],
     "22": [
@@ -1626,6 +1741,11 @@
         "surface": "and his servants",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ]
   }

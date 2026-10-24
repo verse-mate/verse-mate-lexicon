@@ -111,6 +111,11 @@
         "surface": "Jesus replied",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -155,6 +160,11 @@
         "surface": "they are bringing against",
         "lemma": "kategoreo",
         "strongs": "G2723"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "5": [
@@ -268,6 +278,16 @@
         "surface": "asking Pilate",
         "lemma": "aiteo",
         "strongs": "G0154"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "doing",
+        "lemma": "poieo",
+        "strongs": "G4160"
       }
     ],
     "9": [
@@ -300,6 +320,11 @@
         "surface": "asked",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -401,6 +426,11 @@
         "surface": "Jews",
         "lemma": "ioudaios",
         "strongs": "G2453"
+      },
+      {
+        "surface": "named",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "13": [
@@ -460,6 +490,11 @@
         "surface": "Crucify",
         "lemma": "stauroo",
         "strongs": "G4717"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -623,6 +658,11 @@
         "surface": "Jews",
         "lemma": "ioudaios",
         "strongs": "G2453"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "19": [
@@ -655,6 +695,11 @@
         "surface": "and bowed",
         "lemma": "proskuneo",
         "strongs": "G4352"
+      },
+      {
+        "surface": "knees",
+        "lemma": "gonu",
+        "strongs": "G1119"
       }
     ],
     "20": [
@@ -1067,6 +1112,11 @@
         "surface": "save",
         "lemma": "sozo",
         "strongs": "G4982"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1119,6 +1169,11 @@
         "surface": "berated",
         "lemma": "oneidizo",
         "strongs": "G3679"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "33": [
@@ -1161,6 +1216,11 @@
         "surface": "land",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "came",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "34": [
@@ -1233,6 +1293,11 @@
         "surface": "have You forsaken",
         "lemma": "egkataleipo",
         "strongs": "G1459"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "35": [
@@ -1260,6 +1325,11 @@
         "surface": "Elijah",
         "lemma": "helias",
         "strongs": "G2243"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "36": [
@@ -1327,6 +1397,11 @@
         "surface": "to take Him down",
         "lemma": "kathaireo",
         "strongs": "G2507"
+      },
+      {
+        "surface": "us see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "37": [
@@ -1443,6 +1518,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "40": [
@@ -1656,6 +1736,11 @@
         "surface": "of Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "went",
+        "lemma": "eiserchomai",
+        "strongs": "G1525"
       }
     ],
     "44": [
@@ -1698,6 +1783,11 @@
         "surface": "this was so",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "old",
+        "lemma": "palai",
+        "strongs": "G3819"
       }
     ],
     "45": [
@@ -1834,6 +1924,11 @@
         "surface": "His body was placed",
         "lemma": "tithemi",
         "strongs": "G5087"
+      },
+      {
+        "surface": "where",
+        "lemma": "pou_g4226",
+        "strongs": "G4226"
       }
     ]
   }

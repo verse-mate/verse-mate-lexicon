@@ -138,6 +138,11 @@
         "surface": "doing nothing",
         "lemma": "argos",
         "strongs": "G0692"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "4": [
@@ -373,6 +378,11 @@
         "surface": "first",
         "lemma": "protos",
         "strongs": "G4413"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "9": [
@@ -543,6 +553,11 @@
         "surface": "on one denarius",
         "lemma": "denarion",
         "strongs": "G1220"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "14": [
@@ -617,6 +632,11 @@
         "surface": "generous",
         "lemma": "agathos",
         "strongs": "G0018"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ophthalmos",
+        "strongs": "G3788"
       }
     ],
     "16": [
@@ -686,6 +706,16 @@
         "surface": "said",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "own",
+        "lemma": "idios",
+        "strongs": "G2398"
+      },
+      {
+        "surface": "way",
+        "lemma": "hodos",
+        "strongs": "G3598"
       }
     ],
     "18": [
@@ -946,6 +976,16 @@
         "surface": "the brothers answered",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -1077,6 +1117,11 @@
         "surface": "exercise authority over",
         "lemma": "katexousiazo",
         "strongs": "G2715"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "26": [
@@ -1277,6 +1322,11 @@
         "surface": "have mercy on",
         "lemma": "eleeo",
         "strongs": "G1653"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "31": [
@@ -1324,6 +1374,11 @@
         "surface": "have mercy on",
         "lemma": "eleeo",
         "strongs": "G1653"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1420,6 +1475,11 @@
         "surface": "followed",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ]
   }

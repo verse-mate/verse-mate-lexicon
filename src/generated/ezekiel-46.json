@@ -206,6 +206,11 @@
         "surface": "evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
       }
     ],
     "3": [
@@ -414,6 +419,11 @@
         "surface": "without blemish",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "7": [
@@ -471,6 +481,11 @@
         "surface": "per ephah",
         "lemma": "ephah",
         "strongs": "H0374"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -876,6 +891,11 @@
         "surface": "he goes out",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "freewill offering",
+        "lemma": "nedavah",
+        "strongs": "H5071"
       }
     ],
     "13": [
@@ -922,6 +942,16 @@
       {
         "surface": "every morning",
         "lemma": "boqer",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
         "strongs": "H1242"
       }
     ],
@@ -995,6 +1025,16 @@
         "surface": "statute",
         "lemma": "chuqqah",
         "strongs": "H2708"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "continually",
+        "lemma": "tamid",
+        "strongs": "H8548"
       }
     ],
     "15": [
@@ -1032,6 +1072,11 @@
         "surface": "burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "16": [
@@ -1248,6 +1293,11 @@
         "surface": "from his property",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "19": [
@@ -1439,6 +1489,21 @@
         "surface": "corners",
         "lemma": "maqtsoa",
         "strongs": "H4740"
+      },
+      {
+        "surface": "courtyard",
+        "lemma": "chatser",
+        "strongs": "H2691"
+      },
+      {
+        "surface": "courtyard",
+        "lemma": "chatser",
+        "strongs": "H2691"
+      },
+      {
+        "surface": "corner",
+        "lemma": "maqtsoa",
+        "strongs": "H4740"
       }
     ],
     "22": [
@@ -1590,6 +1655,11 @@
         "surface": "offered by the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "boil",
+        "lemma": "bashal",
+        "strongs": "H1310"
       }
     ]
   }

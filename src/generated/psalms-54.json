@@ -163,6 +163,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "4": [
@@ -249,6 +254,11 @@
         "surface": "it is good",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "7": [
@@ -281,6 +291,58 @@
         "surface": "my foes",
         "lemma": "oyev",
         "strongs": "H0341"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "stringed instruments",
+        "lemma": "neginah",
+        "strongs": "H5058"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "Ziphites",
+        "lemma": "ziphi",
+        "strongs": "H2130"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "hiding himself",
+        "lemma": "satar",
+        "strongs": "H5641"
       }
     ]
   }

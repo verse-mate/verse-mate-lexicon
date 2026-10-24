@@ -64,6 +64,11 @@
         "surface": "of bronze",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "mountains",
+        "lemma": "har",
+        "strongs": "H2022"
       }
     ],
     "2": [
@@ -101,6 +106,11 @@
         "surface": "horses",
         "lemma": "sus",
         "strongs": "H5483"
+      },
+      {
+        "surface": "chariot",
+        "lemma": "merkavah",
+        "strongs": "H4818"
       }
     ],
     "3": [
@@ -138,6 +148,16 @@
         "surface": "all of them strong",
         "lemma": "amots",
         "strongs": "H0554"
+      },
+      {
+        "surface": "chariot",
+        "lemma": "merkavah",
+        "strongs": "H4818"
+      },
+      {
+        "surface": "chariot",
+        "lemma": "merkavah",
+        "strongs": "H4818"
       }
     ],
     "4": [
@@ -165,6 +185,11 @@
         "surface": "my lord",
         "lemma": "adon",
         "strongs": "H0113"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "5": [
@@ -269,6 +294,21 @@
         "surface": "the south",
         "lemma": "teman",
         "strongs": "H8486"
+      },
+      {
+        "surface": "gone out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
+      },
+      {
+        "surface": "gone out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "7": [
@@ -383,6 +423,11 @@
         "surface": "of the north",
         "lemma": "tsaphon",
         "strongs": "H6828"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "9": [
@@ -472,6 +517,11 @@
         "surface": "of Zephaniah",
         "lemma": "tsephanyah",
         "strongs": "H6846"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "11": [
@@ -601,6 +651,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -817,6 +877,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "listen",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ]
   }

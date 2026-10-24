@@ -98,6 +98,16 @@
         "surface": "my bed",
         "lemma": "yatsua",
         "strongs": "H3326"
+      },
+      {
+        "surface": "tent",
+        "lemma": "hoel",
+        "strongs": "H0168"
+      },
+      {
+        "surface": "couch",
+        "lemma": "eres",
+        "strongs": "H6210"
       }
     ],
     "4": [
@@ -211,6 +221,11 @@
         "surface": "at His footstool",
         "lemma": "hadom",
         "strongs": "H1916"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "8": [
@@ -292,6 +307,11 @@
         "surface": "Your anointed one",
         "lemma": "mashiach",
         "strongs": "H4899"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "11": [
@@ -334,6 +354,16 @@
         "surface": "on your throne",
         "lemma": "kisse",
         "strongs": "H3678"
+      },
+      {
+        "surface": "faithfulness",
+        "lemma": "emet",
+        "strongs": "H0571"
+      },
+      {
+        "surface": "belly",
+        "lemma": "beten",
+        "strongs": "H0990"
       }
     ],
     "12": [
@@ -509,6 +539,11 @@
         "surface": "will sing out in joy",
         "lemma": "run",
         "strongs": "H7442"
+      },
+      {
+        "surface": "shout for joy",
+        "lemma": "run",
+        "strongs": "H7442"
       }
     ],
     "17": [
@@ -573,6 +608,18 @@
         "surface": "will gleam",
         "lemma": "tsuts",
         "strongs": "H6692"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "ascents",
+        "lemma": "maalah",
+        "strongs": "H4609"
       }
     ]
   }

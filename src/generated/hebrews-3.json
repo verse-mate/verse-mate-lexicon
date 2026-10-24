@@ -360,6 +360,16 @@
         "surface": "works",
         "lemma": "ergon",
         "strongs": "G2041"
+      },
+      {
+        "surface": "testing",
+        "lemma": "dokimasia",
+        "strongs": "G6020"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "10": [
@@ -624,6 +634,11 @@
         "surface": "Egypt",
         "lemma": "aiguptos",
         "strongs": "G0125"
+      },
+      {
+        "surface": "having come",
+        "lemma": "exerchomai",
+        "strongs": "G1831"
       }
     ],
     "17": [

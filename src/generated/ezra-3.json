@@ -54,6 +54,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -270,6 +275,21 @@
         "surface": "for each day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "5": [
@@ -653,6 +673,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "9": [
@@ -745,6 +770,11 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "10": [
@@ -924,6 +954,11 @@
         "surface": "had been laid",
         "lemma": "yasad",
         "strongs": "H3245"
+      },
+      {
+        "surface": "shout of joy",
+        "lemma": "teruah",
+        "strongs": "H8643"
       }
     ],
     "12": [
@@ -1011,6 +1046,21 @@
         "surface": "joyfully",
         "lemma": "qol",
         "strongs": "H6963"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
+      },
+      {
+        "surface": "gladness",
+        "lemma": "simchah",
+        "strongs": "H8057"
+      },
+      {
+        "surface": "lift up",
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "13": [
@@ -1078,6 +1128,21 @@
         "surface": "afar",
         "lemma": "rachoq",
         "strongs": "H7350"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "shout of joy",
+        "lemma": "teruah",
+        "strongs": "H8643"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ]
   }

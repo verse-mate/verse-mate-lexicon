@@ -176,6 +176,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -476,6 +481,16 @@
         "surface": "was shut",
         "lemma": "sagar",
         "strongs": "H5462"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "8": [
@@ -560,6 +575,11 @@
         "surface": "of you",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "10": [
@@ -724,6 +744,16 @@
         "surface": "below",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "12": [
@@ -781,6 +811,11 @@
         "surface": "sign",
         "lemma": "ot",
         "strongs": "H0226"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "13": [
@@ -945,6 +980,11 @@
       },
       {
         "surface": "of the city",
+        "lemma": "chomah",
+        "strongs": "H2346"
+      },
+      {
+        "surface": "city wall",
         "lemma": "chomah",
         "strongs": "H2346"
       }
@@ -1123,6 +1163,11 @@
         "surface": "into your house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "thread",
+        "lemma": "chut_h2339",
+        "strongs": "H2339"
       }
     ],
     "19": [
@@ -1346,6 +1391,16 @@
         "surface": "along the road",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "pursuers",
+        "lemma": "radaph",
+        "strongs": "H7291"
       }
     ],
     "23": [
@@ -1408,6 +1463,11 @@
         "surface": "that had happened",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "24": [

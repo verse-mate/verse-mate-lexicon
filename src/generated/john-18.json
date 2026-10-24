@@ -195,6 +195,11 @@
         "surface": "are you seeking",
         "lemma": "zeteo",
         "strongs": "G2212"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "5": [
@@ -447,6 +452,11 @@
         "surface": "Malchus",
         "lemma": "malchos",
         "strongs": "G3124"
+      },
+      {
+        "surface": "ear",
+        "lemma": "otarion",
+        "strongs": "G6090"
       }
     ],
     "11": [
@@ -573,6 +583,11 @@
         "surface": "year",
         "lemma": "eniautos",
         "strongs": "G1763"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "14": [
@@ -749,6 +764,11 @@
         "surface": "Peter in",
         "lemma": "petros",
         "strongs": "G4074"
+      },
+      {
+        "surface": "other",
+        "lemma": "allos",
+        "strongs": "G0243"
       }
     ],
     "17": [
@@ -1004,6 +1024,11 @@
         "surface": "said",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "22": [
@@ -1056,6 +1081,11 @@
         "surface": "high priest",
         "lemma": "archiereus",
         "strongs": "G0749"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ],
     "23": [
@@ -1239,6 +1269,11 @@
         "surface": "garden",
         "lemma": "kepos",
         "strongs": "G2779"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "27": [
@@ -1392,6 +1427,11 @@
         "surface": "we would not have handed Him over",
         "lemma": "paradidomi",
         "strongs": "G3860"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "31": [
@@ -1714,6 +1754,11 @@
         "surface": "of this realm",
         "lemma": "enteuthen",
         "strongs": "G1782"
+      },
+      {
+        "surface": "world",
+        "lemma": "kosmos",
+        "strongs": "G2889"
       }
     ],
     "37": [
@@ -1952,6 +1997,16 @@
         "surface": "an insurrectionist",
         "lemma": "lestes",
         "strongs": "G3027"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

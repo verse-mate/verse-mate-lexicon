@@ -439,6 +439,11 @@
         "surface": "have blasphemed",
         "lemma": "gadaph",
         "strongs": "H1442"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "7": [
@@ -600,6 +605,11 @@
         "surface": "saying",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -677,6 +687,16 @@
         "surface": "of Assyria",
         "lemma": "ashshur",
         "strongs": "H0804"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -818,6 +838,16 @@
         "surface": "and Ivvah",
         "lemma": "ivvah",
         "strongs": "H5755"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "14": [
@@ -880,6 +910,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Hezekiah",
+        "lemma": "chizqiyyah",
+        "strongs": "H2396"
       }
     ],
     "15": [
@@ -967,6 +1002,11 @@
         "surface": "and the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1282,6 +1322,11 @@
         "surface": "of Assyria",
         "lemma": "ashshur",
         "strongs": "H0804"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1518,6 +1563,11 @@
         "surface": "of its forests",
         "lemma": "karmel",
         "strongs": "H3759"
+      },
+      {
+        "surface": "abundance",
+        "lemma": "rov",
+        "strongs": "H7230"
       }
     ],
     "24": [
@@ -1642,6 +1692,11 @@
         "surface": "of rubble",
         "lemma": "natsah",
         "strongs": "H5327"
+      },
+      {
+        "surface": "make desolate",
+        "lemma": "shaah",
+        "strongs": "H7582"
       }
     ],
     "26": [
@@ -2118,6 +2173,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "34": [
@@ -2217,6 +2277,21 @@
         "surface": "bodies",
         "lemma": "peger",
         "strongs": "H6297"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "36": [
@@ -2341,6 +2416,11 @@
         "surface": "in his place",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "haddon",
+        "lemma": "esarchaddon",
+        "strongs": "H0634"
       }
     ]
   }

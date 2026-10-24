@@ -59,6 +59,16 @@
         "surface": "And they contended",
         "lemma": "riv",
         "strongs": "H7378"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "force",
+        "lemma": "chozqah",
+        "strongs": "H2394"
       }
     ],
     "2": [
@@ -178,6 +188,11 @@
         "surface": "subsided",
         "lemma": "raphah",
         "strongs": "H7503"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "4": [
@@ -292,6 +307,16 @@
         "surface": "of Midian",
         "lemma": "midyan",
         "strongs": "H4080"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "6": [
@@ -463,6 +488,11 @@
         "surface": "of Succoth",
         "lemma": "sukkot",
         "strongs": "H5523"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "9": [
@@ -500,6 +530,11 @@
         "surface": "tower",
         "lemma": "migdal",
         "strongs": "H4026"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -587,6 +622,21 @@
         "surface": "had already fallen",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "drew",
+        "lemma": "shalaph",
+        "strongs": "H8025"
+      },
+      {
+        "surface": "sword",
+        "lemma": "cherev",
+        "strongs": "H2719"
       }
     ],
     "11": [
@@ -649,6 +699,11 @@
         "surface": "by surprise",
         "lemma": "betach",
         "strongs": "H0983"
+      },
+      {
+        "surface": "tents",
+        "lemma": "hoel",
+        "strongs": "H0168"
       }
     ],
     "12": [
@@ -706,6 +761,21 @@
         "surface": "army",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "Zebah",
+        "lemma": "zevach_h2078",
+        "strongs": "H2078"
+      },
+      {
+        "surface": "Zalmunna",
+        "lemma": "tsalmunna",
+        "strongs": "H6759"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "13": [
@@ -790,6 +860,21 @@
         "surface": "of Succoth",
         "lemma": "sukkot",
         "strongs": "H5523"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "15": [
@@ -1256,6 +1341,16 @@
         "surface": "of Midian",
         "lemma": "midyan",
         "strongs": "H4080"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "23": [
@@ -1355,6 +1450,11 @@
         "surface": "were Ishmaelites",
         "lemma": "yishmaeli",
         "strongs": "H3459"
+      },
+      {
+        "surface": "petition",
+        "lemma": "sheelah",
+        "strongs": "H7596"
       }
     ],
     "25": [
@@ -1402,6 +1502,11 @@
         "surface": "onto it",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "26": [
@@ -1489,6 +1594,21 @@
         "surface": "of their camels",
         "lemma": "gamal",
         "strongs": "H1581"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "apart",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "27": [
@@ -1638,6 +1758,11 @@
         "surface": "of Gideon",
         "lemma": "gidon",
         "strongs": "H1439"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "29": [
@@ -1712,6 +1837,11 @@
         "surface": "wives",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "thigh",
+        "lemma": "yarekh",
+        "strongs": "H3409"
       }
     ],
     "31": [
@@ -1878,6 +2008,11 @@
         "surface": "as their god",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "34": [
@@ -1930,6 +2065,11 @@
         "surface": "on every side",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "35": [

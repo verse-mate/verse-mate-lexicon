@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -66,6 +71,16 @@
         "surface": "of the lampstand",
         "lemma": "menorah",
         "strongs": "H4501"
+      },
+      {
+        "surface": "lamps",
+        "lemma": "ner",
+        "strongs": "H5216"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "3": [
@@ -180,6 +195,16 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "lampstand",
+        "lemma": "menorah",
+        "strongs": "H4501"
+      },
+      {
+        "surface": "hammered work",
+        "lemma": "miqshah",
+        "strongs": "H4749"
       }
     ],
     "5": [
@@ -229,6 +254,11 @@
         "surface": "and make them ceremonially clean",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -291,6 +321,11 @@
         "surface": "and so purify themselves",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "razor",
+        "lemma": "taar_h8593",
+        "strongs": "H8593"
       }
     ],
     "8": [
@@ -343,6 +378,26 @@
         "surface": "for a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "9": [
@@ -390,6 +445,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "10": [
@@ -432,6 +492,11 @@
         "surface": "them",
         "lemma": "leviyyi",
         "strongs": "H3881"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "11": [
@@ -598,6 +663,11 @@
         "surface": "as a wave offering",
         "lemma": "tenuphah",
         "strongs": "H8573"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -682,6 +752,11 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "16": [
@@ -749,6 +824,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "assigned",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "17": [
@@ -965,6 +1045,26 @@
         "surface": "the sanctuary",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "20": [
@@ -1032,6 +1132,21 @@
         "surface": "should do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Levites",
+        "lemma": "leviyyi",
+        "strongs": "H3881"
       }
     ],
     "21": [
@@ -1181,6 +1296,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "23": [
@@ -1198,6 +1318,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "24": [
@@ -1250,6 +1375,16 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "25": [
@@ -1292,6 +1427,11 @@
         "surface": "serve",
         "lemma": "avad",
         "strongs": "H5647"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "26": [

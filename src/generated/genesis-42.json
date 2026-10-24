@@ -470,6 +470,11 @@
         "surface": "is vulnerable",
         "lemma": "ervah",
         "strongs": "H6172"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
       }
     ],
     "10": [
@@ -658,6 +663,11 @@
         "surface": "is no more",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "14": [
@@ -680,6 +690,11 @@
         "surface": "are spies",
         "lemma": "ragal",
         "strongs": "H7270"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -811,6 +826,11 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "custody",
+        "lemma": "mishmar",
+        "strongs": "H4929"
       }
     ],
     "18": [
@@ -900,6 +920,21 @@
         "surface": "of your households",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "brother",
+        "lemma": "ach",
+        "strongs": "H0251"
+      },
+      {
+        "surface": "households",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "custody",
+        "lemma": "mishmar",
+        "strongs": "H4929"
       }
     ],
     "20": [
@@ -1019,6 +1054,11 @@
         "surface": "has come",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "22": [
@@ -1076,6 +1116,16 @@
         "surface": "his blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1415,6 +1465,11 @@
         "surface": "that had happened to them",
         "lemma": "qarah",
         "strongs": "H7136"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "30": [
@@ -1452,6 +1507,11 @@
         "surface": "on the country",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "made",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "31": [
@@ -1536,6 +1596,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "33": [
@@ -1841,6 +1906,11 @@
         "surface": "will return him",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "38": [
@@ -1913,6 +1983,16 @@
         "surface": "in sorrow",
         "lemma": "yagon",
         "strongs": "H3015"
+      },
+      {
+        "surface": "harm",
+        "lemma": "ason",
+        "strongs": "H0611"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ]
   }

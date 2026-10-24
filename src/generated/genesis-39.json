@@ -74,6 +74,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "2": [
@@ -163,6 +168,11 @@
         "surface": "did",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "4": [
@@ -369,6 +379,21 @@
         "surface": "and handsome",
         "lemma": "yapheh",
         "strongs": "H3303"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "form",
+        "lemma": "toar",
+        "strongs": "H8389"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "7": [
@@ -416,6 +441,11 @@
         "surface": "Sleep",
         "lemma": "shakhav",
         "strongs": "H7901"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "8": [
@@ -550,6 +580,11 @@
         "surface": "against God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
       }
     ],
     "10": [
@@ -597,6 +632,11 @@
         "surface": "or even be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "listened",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "11": [
@@ -810,6 +850,16 @@
         "surface": "as I could",
         "lemma": "gadol",
         "strongs": "H1419"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "15": [
@@ -847,6 +897,21 @@
         "surface": "out of the house",
         "lemma": "chuts",
         "strongs": "H2351"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "called out",
+        "lemma": "qara",
+        "strongs": "H7121"
+      },
+      {
+        "surface": "went out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "16": [
@@ -916,6 +981,11 @@
         "surface": "to make sport",
         "lemma": "tsachaq",
         "strongs": "H6711"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -948,6 +1018,16 @@
         "surface": "out of the house",
         "lemma": "chuts",
         "strongs": "H2351"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "called out",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "19": [
@@ -1072,6 +1152,21 @@
         "surface": "in the prison",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
+      },
+      {
+        "surface": "prisoners",
+        "lemma": "asir",
+        "strongs": "H0615"
       }
     ],
     "21": [
@@ -1124,6 +1219,11 @@
         "surface": "warden",
         "lemma": "sar",
         "strongs": "H8269"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
       }
     ],
     "22": [
@@ -1186,6 +1286,16 @@
         "surface": "the prison",
         "lemma": "sohar",
         "strongs": "H5470"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
       }
     ],
     "23": [
@@ -1228,6 +1338,26 @@
         "surface": "did",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ]
   }

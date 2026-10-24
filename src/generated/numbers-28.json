@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,11 @@
         "surface": "aroma to Me",
         "lemma": "reach",
         "strongs": "H7381"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -133,6 +143,11 @@
         "surface": "male lambs",
         "lemma": "keves",
         "strongs": "H3532"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "4": [
@@ -170,6 +185,16 @@
         "surface": "twilight",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "lamb",
+        "lemma": "keves",
+        "strongs": "H3532"
+      },
+      {
+        "surface": "offer",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "5": [
@@ -378,6 +403,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "offer",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "9": [
@@ -440,6 +470,16 @@
         "surface": "as well as a drink offering",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "10": [
@@ -467,6 +507,11 @@
         "surface": "and its drink offering",
         "lemma": "nesekh",
         "strongs": "H5262"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ],
     "11": [
@@ -539,6 +584,16 @@
         "surface": "all unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "12": [
@@ -606,6 +661,16 @@
         "surface": "with the ram",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "13": [
@@ -668,6 +733,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "14": [
@@ -750,6 +820,11 @@
         "surface": "throughout the year",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "months",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "15": [
@@ -792,6 +867,11 @@
         "surface": "as a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "16": [
@@ -824,6 +904,16 @@
         "surface": "Passover",
         "lemma": "pesach",
         "strongs": "H6453"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "17": [
@@ -866,6 +956,11 @@
         "surface": "is to be eaten",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "18": [
@@ -908,6 +1003,11 @@
         "surface": "regular work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "19": [
@@ -980,6 +1080,16 @@
         "surface": "unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "20": [
@@ -1027,6 +1137,16 @@
         "surface": "with the ram",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "21": [
@@ -1049,6 +1169,16 @@
         "surface": "of the seven",
         "lemma": "sheva",
         "strongs": "H7651"
+      },
+      {
+        "surface": "lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "issaron",
+        "strongs": "H6241"
       },
       {
         "surface": "lambs",
@@ -1098,6 +1228,11 @@
         "surface": "morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "burnt offering",
+        "lemma": "olah",
+        "strongs": "H5930"
       },
       {
         "surface": "burnt offering",
@@ -1217,6 +1352,11 @@
         "surface": "regular work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "26": [
@@ -1289,6 +1429,11 @@
         "surface": "regular work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "servitude",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "27": [
@@ -1356,6 +1501,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "28": [
@@ -1403,6 +1558,16 @@
         "surface": "with the ram",
         "lemma": "ayil",
         "strongs": "H0352"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "29": [
@@ -1425,6 +1590,16 @@
         "surface": "lambs",
         "lemma": "keves",
         "strongs": "H3532"
+      },
+      {
+        "surface": "tenth",
+        "lemma": "issaron",
+        "strongs": "H6241"
+      },
+      {
+        "surface": "lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
       }
     ],
     "30": [
@@ -1442,6 +1617,11 @@
         "surface": "to make atonement",
         "lemma": "kipher",
         "strongs": "H3722"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "31": [

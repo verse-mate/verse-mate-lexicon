@@ -126,6 +126,16 @@
         "surface": "them",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "temol",
+        "strongs": "H8543"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -461,6 +471,11 @@
         "surface": "of David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "8": [
@@ -674,6 +689,11 @@
         "surface": "time",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "officers",
+        "lemma": "shalish",
+        "strongs": "H7991"
       }
     ],
     "12": [
@@ -996,6 +1016,11 @@
         "surface": "of Bethlehem",
         "lemma": "betlechem",
         "strongs": "H1035"
+      },
+      {
+        "surface": "lehem",
+        "lemma": "betlechem",
+        "strongs": "H1035"
       }
     ],
     "18": [
@@ -1078,6 +1103,21 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "lehem",
+        "lemma": "betlechem",
+        "strongs": "H1035"
+      },
+      {
+        "surface": "carried",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "19": [
@@ -1463,6 +1503,11 @@
         "surface": "with his own spear",
         "lemma": "chanit",
         "strongs": "H2595"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "24": [
@@ -1594,6 +1639,11 @@
         "surface": "Bethlehem",
         "lemma": "betlechem",
         "strongs": "H1035"
+      },
+      {
+        "surface": "strength",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "27": [
@@ -1739,6 +1789,11 @@
         "surface": "the Pirathonite",
         "lemma": "piratoni",
         "strongs": "H6553"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
       }
     ],
     "32": [
@@ -1985,6 +2040,11 @@
         "surface": "of Zeruiah",
         "lemma": "tseruyah",
         "strongs": "H6870"
+      },
+      {
+        "surface": "weapons",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "40": [

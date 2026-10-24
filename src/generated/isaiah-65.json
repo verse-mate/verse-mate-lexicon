@@ -111,6 +111,16 @@
         "surface": "their own imaginations",
         "lemma": "machashavah",
         "strongs": "H4284"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "3": [
@@ -200,6 +210,11 @@
         "surface": "from their bowls",
         "lemma": "keli",
         "strongs": "H3627"
+      },
+      {
+        "surface": "broth",
+        "lemma": "maraq_h4839",
+        "strongs": "H4839"
       }
     ],
     "5": [
@@ -252,6 +267,11 @@
         "surface": "all day long",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "6": [
@@ -289,6 +309,11 @@
         "surface": "their laps",
         "lemma": "cheq",
         "strongs": "H2436"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "7": [
@@ -1058,6 +1083,11 @@
         "surface": "to be a delight",
         "lemma": "masvos",
         "strongs": "H4885"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "19": [
@@ -1110,6 +1140,11 @@
         "surface": "be heard",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "20": [
@@ -1192,6 +1227,21 @@
         "surface": "will be considered accursed",
         "lemma": "qalal",
         "strongs": "H7043"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "21": [

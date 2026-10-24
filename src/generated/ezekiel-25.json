@@ -56,6 +56,11 @@
         "surface": "and prophesy",
         "lemma": "nava",
         "strongs": "H5012"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "3": [
@@ -158,6 +163,11 @@
         "surface": "into exile",
         "lemma": "golah",
         "strongs": "H1473"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "4": [
@@ -272,6 +282,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "6": [
@@ -411,6 +426,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "spoil",
+        "lemma": "baz",
+        "strongs": "H0957"
       }
     ],
     "8": [
@@ -535,6 +555,11 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "10": [
@@ -674,6 +699,16 @@
       },
       {
         "surface": "incurred grievous guilt",
+        "lemma": "asham",
+        "strongs": "H0816"
+      },
+      {
+        "surface": "vengeance",
+        "lemma": "naqam_h5359",
+        "strongs": "H5359"
+      },
+      {
+        "surface": "continually",
         "lemma": "asham",
         "strongs": "H0816"
       }

@@ -94,6 +94,16 @@
         "surface": "wept bitterly",
         "lemma": "bakhah",
         "strongs": "H1058"
+      },
+      {
+        "surface": "great",
+        "lemma": "ravah",
+        "strongs": "H7235"
+      },
+      {
+        "surface": "weeping",
+        "lemma": "bekheh",
+        "strongs": "H1059"
       }
     ],
     "2": [
@@ -186,6 +196,11 @@
         "surface": "for Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Elam",
+        "lemma": "elam_h5867",
+        "strongs": "H5867"
       }
     ],
     "3": [
@@ -337,6 +352,11 @@
         "surface": "And they took the oath",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "manner",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "6": [
@@ -486,6 +506,11 @@
         "surface": "at Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "exile",
+        "lemma": "golah",
+        "strongs": "H1473"
       }
     ],
     "8": [
@@ -660,6 +685,11 @@
         "surface": "and because of the heavy rain",
         "lemma": "geshem",
         "strongs": "H1653"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "10": [
@@ -826,6 +856,11 @@
         "surface": "as you say",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -1015,6 +1050,16 @@
         "surface": "is turned away",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "15": [
@@ -1169,6 +1214,21 @@
         "surface": "the investigation",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "exile",
+        "lemma": "golah",
+        "strongs": "H1473"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "sat down",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "17": [
@@ -1335,6 +1395,11 @@
         "surface": "a guilt offering",
         "lemma": "ashmah",
         "strongs": "H0819"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "20": [
@@ -1720,6 +1785,11 @@
         "surface": "and Jeremoth",
         "lemma": "yerimot",
         "strongs": "H3406"
+      },
+      {
+        "surface": "Ramoth",
+        "lemma": "ramot_h7418",
+        "strongs": "H7418"
       }
     ],
     "30": [

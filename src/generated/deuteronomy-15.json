@@ -101,6 +101,16 @@
         "surface": "has been proclaimed",
         "lemma": "qara",
         "strongs": "H7121"
+      },
+      {
+        "surface": "loan",
+        "lemma": "mashsheh",
+        "strongs": "H4874"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "3": [
@@ -128,6 +138,11 @@
         "surface": "owes",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "4": [
@@ -190,6 +205,11 @@
         "surface": "as an inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "bless",
+        "lemma": "barakh",
+        "strongs": "H1288"
       }
     ],
     "5": [
@@ -237,6 +257,21 @@
         "surface": "am giving you today",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "listen",
+        "lemma": "shama",
+        "strongs": "H8085"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "6": [
@@ -423,6 +458,21 @@
         "surface": "he needs",
         "lemma": "machsor",
         "strongs": "H4270"
+      },
+      {
+        "surface": "open",
+        "lemma": "patach",
+        "strongs": "H6605"
+      },
+      {
+        "surface": "lend",
+        "lemma": "avat",
+        "strongs": "H5670"
+      },
+      {
+        "surface": "lacking",
+        "lemma": "chaser",
+        "strongs": "H2637"
       }
     ],
     "9": [
@@ -520,6 +570,11 @@
         "surface": "guilty of sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -592,6 +647,16 @@
         "surface": "your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "giving",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "11": [
@@ -664,6 +729,11 @@
         "surface": "in your land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -743,6 +813,11 @@
         "surface": "empty-handed",
         "lemma": "reqam",
         "strongs": "H7387"
+      },
+      {
+        "surface": "free",
+        "lemma": "chophshi",
+        "strongs": "H2670"
       }
     ],
     "14": [
@@ -785,6 +860,11 @@
         "surface": "has blessed you",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "provide",
+        "lemma": "anaq_h6059",
+        "strongs": "H6059"
       }
     ],
     "15": [
@@ -842,6 +922,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "16": [
@@ -1147,6 +1232,11 @@
         "surface": "will choose",
         "lemma": "bachar",
         "strongs": "H0977"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "21": [

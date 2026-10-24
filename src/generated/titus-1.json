@@ -314,6 +314,11 @@
         "surface": "insubordination",
         "lemma": "anupotaktos",
         "strongs": "G0506"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "7": [
@@ -455,6 +460,11 @@
         "surface": "contradict it",
         "lemma": "antilego",
         "strongs": "G0483"
+      },
+      {
+        "surface": "able",
+        "lemma": "dunatos",
+        "strongs": "G1415"
       }
     ],
     "10": [
@@ -784,6 +794,11 @@
         "surface": "deed",
         "lemma": "ergon",
         "strongs": "G2041"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ]
   }

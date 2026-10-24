@@ -188,6 +188,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "4": [
@@ -302,6 +307,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "hundreds",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
       }
     ],
     "6": [
@@ -372,6 +392,21 @@
       },
       {
         "surface": "for each year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "right",
+        "lemma": "yemani",
+        "strongs": "H3233"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "year",
         "lemma": "shaneh",
         "strongs": "H8141"
       }
@@ -550,6 +585,21 @@
         "surface": "your side",
         "lemma": "tsad",
         "strongs": "H6654"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "hundreds",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ninety",
+        "lemma": "tishim",
+        "strongs": "H8673"
       }
     ],
     "10": [
@@ -592,6 +642,11 @@
         "surface": "at set times",
         "lemma": "et",
         "strongs": "H6256"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "11": [
@@ -628,6 +683,11 @@
       {
         "surface": "at set times",
         "lemma": "et",
+        "strongs": "H6256"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
         "strongs": "H6256"
       }
     ],
@@ -666,6 +726,11 @@
         "surface": "in the sight of the people",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "excrement",
+        "lemma": "tsaah",
+        "strongs": "H6627"
       }
     ],
     "13": [
@@ -713,6 +778,11 @@
         "surface": "I will banish them",
         "lemma": "nadach",
         "strongs": "H5080"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [

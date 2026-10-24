@@ -279,6 +279,11 @@
         "surface": "capable men",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "7": [
@@ -403,6 +408,11 @@
         "surface": "from Obed-edom",
         "lemma": "ovededom",
         "strongs": "H5654"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "9": [
@@ -435,6 +445,11 @@
         "surface": "18 in all",
         "lemma": "shemoneh",
         "strongs": "H8083"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "10": [
@@ -492,6 +507,11 @@
         "surface": "as the first",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "Merari",
+        "lemma": "merari",
+        "strongs": "H4847"
       }
     ],
     "11": [
@@ -549,6 +569,11 @@
         "surface": "in all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "12": [
@@ -633,6 +658,16 @@
         "surface": "and old alike",
         "lemma": "gadol",
         "strongs": "H1419"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
       }
     ],
     "14": [
@@ -727,6 +762,11 @@
         "surface": "to his sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "store",
+        "lemma": "asuph",
+        "strongs": "H0624"
       }
     ],
     "16": [
@@ -831,6 +871,16 @@
         "surface": "at the storehouse",
         "lemma": "asuph",
         "strongs": "H0624"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "18": [
@@ -927,6 +977,11 @@
         "surface": "of the dedicated things",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "Ahijah",
+        "lemma": "achiyyah",
+        "strongs": "H0281"
       }
     ],
     "21": [
@@ -1142,6 +1197,11 @@
         "surface": "his son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Shelomith",
+        "lemma": "shelomit",
+        "strongs": "H8019"
       }
     ],
     "26": [
@@ -1214,6 +1274,11 @@
         "surface": "commanders",
         "lemma": "sar",
         "strongs": "H8269"
+      },
+      {
+        "surface": "holy things",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "27": [
@@ -1457,6 +1522,21 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "other side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
       }
     ],
     "31": [
@@ -1631,6 +1711,21 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ]
   }

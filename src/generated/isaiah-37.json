@@ -434,6 +434,11 @@
         "surface": "have blasphemed Me",
         "lemma": "gadaph",
         "strongs": "H1442"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "7": [
@@ -533,6 +538,11 @@
         "surface": "Libnah",
         "lemma": "livnah",
         "strongs": "H3841"
+      },
+      {
+        "surface": "Assyria",
+        "lemma": "ashshur",
+        "strongs": "H0804"
       }
     ],
     "9": [
@@ -585,6 +595,11 @@
         "surface": "Hezekiah",
         "lemma": "chizqiyyah",
         "strongs": "H2396"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       },
       {
         "surface": "saying",
@@ -667,6 +682,16 @@
         "surface": "of Assyria",
         "lemma": "ashshur",
         "strongs": "H0804"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -808,6 +833,16 @@
         "surface": "and Ivvah",
         "lemma": "ivvah",
         "strongs": "H5755"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "14": [
@@ -870,6 +905,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Hezekiah",
+        "lemma": "chizqiyyah",
+        "strongs": "H2396"
       }
     ],
     "15": [
@@ -887,6 +927,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1140,6 +1185,11 @@
         "surface": "hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "20": [
@@ -1269,6 +1319,11 @@
         "surface": "of Assyria",
         "lemma": "ashshur",
         "strongs": "H0804"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "22": [
@@ -2090,6 +2145,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "35": [
@@ -2179,6 +2239,21 @@
         "surface": "bodies",
         "lemma": "peger",
         "strongs": "H6297"
+      },
+      {
+        "surface": "eighty",
+        "lemma": "shemonim",
+        "strongs": "H8084"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "37": [

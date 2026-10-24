@@ -130,6 +130,16 @@
         "surface": "the whole sequence of events",
         "lemma": "kathexes",
         "strongs": "G2517"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "5": [
@@ -207,6 +217,16 @@
         "surface": "it came right down to",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "vessel",
+        "lemma": "skeuos",
+        "strongs": "G4632"
       }
     ],
     "6": [
@@ -249,6 +269,11 @@
         "surface": "air",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -387,6 +412,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "11": [
@@ -424,6 +454,11 @@
         "surface": "I was staying",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "exautes",
+        "strongs": "G1824"
       }
     ],
     "12": [
@@ -543,6 +578,11 @@
         "surface": "Peter",
         "lemma": "petros",
         "strongs": "G4074"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "14": [
@@ -602,6 +642,11 @@
         "surface": "the beginning",
         "lemma": "arche",
         "strongs": "G0746"
+      },
+      {
+        "surface": "beginning",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "16": [
@@ -654,6 +699,11 @@
         "surface": "Spirit",
         "lemma": "pneuma",
         "strongs": "G4151"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "17": [
@@ -835,6 +885,11 @@
         "surface": "to Jews",
         "lemma": "ioudaios",
         "strongs": "G2453"
+      },
+      {
+        "surface": "solely",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "20": [
@@ -1033,6 +1088,11 @@
         "surface": "hearts",
         "lemma": "kardia",
         "strongs": "G2588"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "24": [
@@ -1184,6 +1244,16 @@
         "surface": "Antioch",
         "lemma": "antiocheia",
         "strongs": "G0490"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos_g6078",
+        "strongs": "G6078"
       }
     ],
     "27": [
@@ -1357,6 +1427,11 @@
         "surface": "Saul",
         "lemma": "saulos",
         "strongs": "G4569"
+      },
+      {
+        "surface": "hand",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ]
   }

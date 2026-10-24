@@ -44,6 +44,16 @@
         "surface": "Jordan",
         "lemma": "iordanes",
         "strongs": "G2446"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "words",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "2": [
@@ -160,6 +170,11 @@
         "surface": "female",
         "lemma": "thelus",
         "strongs": "G2338"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "5": [
@@ -380,6 +395,21 @@
         "surface": "another woman",
         "lemma": "allos",
         "strongs": "G0243"
+      },
+      {
+        "surface": "commits adultery",
+        "lemma": "moichao",
+        "strongs": "G3429"
+      },
+      {
+        "surface": "divorced",
+        "lemma": "apoluo",
+        "strongs": "G0630"
+      },
+      {
+        "surface": "having married",
+        "lemma": "gameo",
+        "strongs": "G1060"
       },
       {
         "surface": "commits adultery",
@@ -986,6 +1016,11 @@
         "surface": "wealth",
         "lemma": "ktema",
         "strongs": "G2933"
+      },
+      {
+        "surface": "statement",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "23": [
@@ -1095,6 +1130,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "go through",
+        "lemma": "dierchomai",
+        "strongs": "G1330"
       }
     ],
     "25": [
@@ -1221,6 +1261,11 @@
         "surface": "will there be",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "28": [

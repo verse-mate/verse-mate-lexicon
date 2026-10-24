@@ -54,6 +54,11 @@
         "surface": "you to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "2": [
@@ -205,6 +210,26 @@
         "surface": "has commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "5": [
@@ -294,6 +319,11 @@
         "surface": "and goat hair",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "7": [
@@ -395,6 +425,11 @@
         "surface": "and breastpiece",
         "lemma": "choshen",
         "strongs": "H2833"
+      },
+      {
+        "surface": "onyx",
+        "lemma": "shoham",
+        "strongs": "H7718"
       }
     ],
     "10": [
@@ -432,6 +467,11 @@
         "surface": "has commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "11": [
@@ -822,6 +862,11 @@
         "surface": "of Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "21": [
@@ -909,6 +954,11 @@
         "surface": "garments",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "22": [
@@ -1006,6 +1056,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "23": [
@@ -1063,6 +1118,26 @@
         "surface": "brought them",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "hides",
+        "lemma": "or_h5785",
+        "strongs": "H5785"
       }
     ],
     "24": [
@@ -1202,6 +1277,16 @@
         "surface": "or fine linen",
         "lemma": "shesh",
         "strongs": "H8336"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
       }
     ],
     "26": [
@@ -1234,6 +1319,11 @@
         "surface": "the goat hair",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "skill",
+        "lemma": "chokhmah",
+        "strongs": "H2451"
       }
     ],
     "27": [
@@ -1400,6 +1490,11 @@
         "surface": "to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "brought",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "30": [
@@ -1472,6 +1567,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "31": [
@@ -1717,6 +1817,26 @@
         "surface": "of craft",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "designers",
+        "lemma": "chashav",
+        "strongs": "H2803"
+      },
+      {
+        "surface": "scarlet",
+        "lemma": "shani",
+        "strongs": "H8144"
+      },
+      {
+        "surface": "designs",
+        "lemma": "machashavah",
+        "strongs": "H4284"
       }
     ]
   }

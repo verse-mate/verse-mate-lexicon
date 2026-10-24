@@ -64,6 +64,11 @@
         "surface": "our father’s expense",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -96,6 +101,11 @@
         "surface": "had changed",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "3": [
@@ -217,6 +227,16 @@
         "surface": "has been",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "temol",
+        "strongs": "H8543"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "6": [
@@ -388,6 +408,16 @@
         "surface": "streaked offspring",
         "lemma": "aqod",
         "strongs": "H6124"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "9": [
@@ -472,6 +502,16 @@
         "surface": "the females",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "saw",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "11": [
@@ -576,6 +616,11 @@
         "surface": "has done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "13": [
@@ -690,6 +735,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -722,6 +772,11 @@
         "surface": "what was paid for us",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "16": [
@@ -873,6 +928,26 @@
         "surface": "in Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "miqneh",
+        "strongs": "H4735"
+      },
+      {
+        "surface": "accumulated",
+        "lemma": "rakhash",
+        "strongs": "H7408"
+      },
+      {
+        "surface": "acquisition",
+        "lemma": "qinyan",
+        "strongs": "H7075"
+      },
+      {
+        "surface": "Paddan",
+        "lemma": "paddan",
+        "strongs": "H6307"
       }
     ],
     "19": [
@@ -952,6 +1027,11 @@
         "surface": "was running away",
         "lemma": "barach",
         "strongs": "H1272"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "21": [
@@ -989,6 +1069,16 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "22": [
@@ -1068,6 +1158,11 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "journey",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "24": [
@@ -1239,6 +1334,16 @@
         "surface": "of war",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
+      },
+      {
+        "surface": "led away",
+        "lemma": "nahag",
+        "strongs": "H5090"
       }
     ],
     "27": [
@@ -1395,6 +1500,21 @@
         "surface": "bad",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "power",
+        "lemma": "el",
+        "strongs": "H0410"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "30": [
@@ -1437,6 +1557,16 @@
         "surface": "my gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "gone",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "longed",
+        "lemma": "kasaph",
+        "strongs": "H3700"
       }
     ],
     "31": [
@@ -1474,6 +1604,11 @@
         "surface": "by force",
         "lemma": "gazal",
         "strongs": "H1497"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "32": [
@@ -1767,6 +1902,21 @@
         "surface": "the household idols",
         "lemma": "teraphim",
         "strongs": "H8655"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "am able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "women",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "36": [
@@ -1829,6 +1979,16 @@
         "surface": "me",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "Laban",
+        "lemma": "lavan_h3837",
+        "strongs": "H3837"
+      },
+      {
+        "surface": "answered",
+        "lemma": "un",
+        "strongs": "H6030"
       }
     ],
     "37": [
@@ -1901,6 +2061,11 @@
         "surface": "the two of us",
         "lemma": "shenayim",
         "strongs": "H8147"
+      },
+      {
+        "surface": "household",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "38": [
@@ -2000,6 +2165,11 @@
         "surface": "or night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "stolen",
+        "lemma": "ganav",
+        "strongs": "H1589"
       }
     ],
     "40": [
@@ -2124,6 +2294,11 @@
         "surface": "times",
         "lemma": "moneh",
         "strongs": "H4489"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "42": [
@@ -2303,6 +2478,11 @@
         "surface": "they have borne",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "44": [
@@ -2338,6 +2518,11 @@
       },
       {
         "surface": "between you and me",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
         "lemma": "bayin",
         "strongs": "H0996"
       }
@@ -2513,6 +2698,16 @@
         "surface": "Galeed",
         "lemma": "galed",
         "strongs": "H1567"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "49": [
@@ -2555,6 +2750,11 @@
         "surface": "from each other",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "50": [
@@ -2617,6 +2817,16 @@
         "surface": "between you and me",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "51": [
@@ -2652,6 +2862,11 @@
       },
       {
         "surface": "between you and me",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
         "lemma": "bayin",
         "strongs": "H0996"
       }
@@ -2845,6 +3060,11 @@
         "surface": "on the mountain",
         "lemma": "har",
         "strongs": "H2022"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "55": [

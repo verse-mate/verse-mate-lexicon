@@ -69,6 +69,11 @@
         "surface": "and we will serve you",
         "lemma": "avad",
         "strongs": "H5647"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "2": [
@@ -203,6 +208,11 @@
         "surface": "we will surrender",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "4": [
@@ -260,6 +270,16 @@
         "surface": "aloud",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "5": [
@@ -369,6 +389,16 @@
         "surface": "and he burned with great anger",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "burned",
+        "lemma": "charah",
+        "strongs": "H2734"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "7": [
@@ -501,6 +531,11 @@
         "surface": "man",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "8": [
@@ -543,6 +578,26 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "9": [
@@ -625,6 +680,21 @@
         "surface": "they rejoiced",
         "lemma": "samach",
         "strongs": "H8055"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "10": [
@@ -779,6 +849,11 @@
         "surface": "together",
         "lemma": "yachad",
         "strongs": "H3162"
+      },
+      {
+        "surface": "midst",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "12": [
@@ -1032,6 +1107,21 @@
         "surface": "rejoiced",
         "lemma": "samach",
         "strongs": "H8055"
+      },
+      {
+        "surface": "Gilgal",
+        "lemma": "gilgal_h1537",
+        "strongs": "H1537"
+      },
+      {
+        "surface": "sacrifices",
+        "lemma": "zevach",
+        "strongs": "H2077"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ]
   }

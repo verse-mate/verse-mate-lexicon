@@ -210,6 +210,11 @@
         "surface": "ones will cry out",
         "lemma": "zeaqah",
         "strongs": "H2201"
+      },
+      {
+        "surface": "make heard",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "5": [
@@ -465,6 +470,11 @@
         "surface": "to dwell",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "go out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "10": [
@@ -599,6 +609,11 @@
         "surface": "is unchanged",
         "lemma": "mur",
         "strongs": "H4171"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -702,6 +717,11 @@
       {
         "surface": "Bethel",
         "lemma": "betel",
+        "strongs": "H1008"
+      },
+      {
+        "surface": "el",
+        "lemma": "betel_h1008",
         "strongs": "H1008"
       }
     ],
@@ -834,6 +854,11 @@
         "surface": "swiftly",
         "lemma": "meod",
         "strongs": "H3966"
+      },
+      {
+        "surface": "coming",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "17": [
@@ -1015,6 +1040,11 @@
         "surface": "has happened",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "20": [
@@ -1311,6 +1341,11 @@
         "surface": "you shake your head",
         "lemma": "nud",
         "strongs": "H5110"
+      },
+      {
+        "surface": "thieves",
+        "lemma": "gannav",
+        "strongs": "H1590"
       }
     ],
     "28": [
@@ -1472,6 +1507,11 @@
         "surface": "his deeds",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "right",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "31": [
@@ -1519,6 +1559,11 @@
         "surface": "of Kir-heres",
         "lemma": "qircheres",
         "strongs": "H7025"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "32": [
@@ -1591,6 +1636,11 @@
         "surface": "and grape harvest",
         "lemma": "batsir",
         "strongs": "H1210"
+      },
+      {
+        "surface": "sea",
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "33": [
@@ -1735,6 +1785,11 @@
         "surface": "have dried up",
         "lemma": "meshammah",
         "strongs": "H4923"
+      },
+      {
+        "surface": "Shelishiyah",
+        "lemma": "shelishi",
+        "strongs": "H7992"
       }
     ],
     "35": [
@@ -1844,6 +1899,16 @@
         "surface": "has perished",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "37": [
@@ -2280,6 +2345,16 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "flees",
+        "lemma": "nus",
+        "strongs": "H5127"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "45": [

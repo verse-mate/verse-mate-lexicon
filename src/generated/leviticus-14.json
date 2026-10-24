@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -98,6 +103,16 @@
         "surface": "has healed",
         "lemma": "rapah",
         "strongs": "H7495"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "plague",
+        "lemma": "nega",
+        "strongs": "H5061"
       }
     ],
     "4": [
@@ -160,6 +175,11 @@
         "surface": "for the one to be cleansed",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "worm",
+        "lemma": "tola",
+        "strongs": "H8438"
       }
     ],
     "5": [
@@ -274,6 +294,21 @@
         "surface": "water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "bird",
+        "lemma": "tsippor",
+        "strongs": "H6833"
+      },
+      {
+        "surface": "living",
+        "lemma": "chay",
+        "strongs": "H2416"
+      },
+      {
+        "surface": "worm",
+        "lemma": "tola",
+        "strongs": "H8438"
       }
     ],
     "7": [
@@ -500,6 +535,16 @@
         "surface": "and he will be clean",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "shave",
+        "lemma": "galach",
+        "strongs": "H1548"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "10": [
@@ -592,6 +637,16 @@
         "surface": "of olive oil",
         "lemma": "shemen",
         "strongs": "H8081"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "11": [
@@ -768,6 +823,11 @@
         "surface": "holy",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "14": [
@@ -840,6 +900,16 @@
         "surface": "foot",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "lobe",
+        "lemma": "tenukh",
+        "strongs": "H8571"
       }
     ],
     "15": [
@@ -949,6 +1019,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "17": [
@@ -1031,6 +1106,11 @@
         "surface": "of the guilt offering",
         "lemma": "asham",
         "strongs": "H0817"
+      },
+      {
+        "surface": "lobe",
+        "lemma": "tenukh",
+        "strongs": "H8571"
       }
     ],
     "18": [
@@ -1083,6 +1163,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "19": [
@@ -1162,6 +1247,16 @@
         "surface": "and he will be clean",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "21": [
@@ -1249,6 +1344,11 @@
         "surface": "of olive oil",
         "lemma": "shemen",
         "strongs": "H8081"
+      },
+      {
+        "surface": "reaching",
+        "lemma": "nasag_h5381",
+        "strongs": "H5381"
       }
     ],
     "22": [
@@ -1306,6 +1406,11 @@
         "surface": "a burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "23": [
@@ -1410,6 +1515,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "25": [
@@ -1497,6 +1607,11 @@
         "surface": "foot",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "26": [
@@ -1581,6 +1696,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "28": [
@@ -1663,6 +1783,11 @@
         "surface": "of the guilt offering",
         "lemma": "asham",
         "strongs": "H0817"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "29": [
@@ -1742,6 +1867,11 @@
         "surface": "he can afford",
         "lemma": "nasag",
         "strongs": "H5381"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "31": [
@@ -1794,6 +1924,16 @@
         "surface": "the one to be cleansed",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "reach",
+        "lemma": "nasag_h5381",
+        "strongs": "H5381"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "32": [
@@ -1821,6 +1961,16 @@
         "surface": "the cost of his cleansing",
         "lemma": "tohorah",
         "strongs": "H2893"
+      },
+      {
+        "surface": "plague",
+        "lemma": "nega",
+        "strongs": "H5061"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "33": [
@@ -1843,6 +1993,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "34": [
@@ -1895,6 +2050,11 @@
         "surface": "in that land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "possession",
+        "lemma": "achuzzah",
+        "strongs": "H0272"
       }
     ],
     "35": [
@@ -1932,6 +2092,11 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "36": [
@@ -2076,6 +2241,11 @@
         "surface": "the surface of the wall",
         "lemma": "qir",
         "strongs": "H7023"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "38": [
@@ -2118,6 +2288,11 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "39": [
@@ -2160,6 +2335,11 @@
         "surface": "on the walls",
         "lemma": "qir",
         "strongs": "H7023"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "40": [
@@ -2316,6 +2496,16 @@
         "surface": "the house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "43": [
@@ -2373,6 +2563,16 @@
         "surface": "and replastered",
         "lemma": "tuach",
         "strongs": "H2902"
+      },
+      {
+        "surface": "break out",
+        "lemma": "parach",
+        "strongs": "H6524"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "44": [
@@ -2556,6 +2756,16 @@
         "surface": "his clothes",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "wash",
+        "lemma": "kavas",
+        "strongs": "H3526"
+      },
+      {
+        "surface": "garments",
+        "lemma": "beged",
+        "strongs": "H0899"
       }
     ],
     "48": [
@@ -2633,6 +2843,16 @@
         "surface": "is gone",
         "lemma": "rapah",
         "strongs": "H7495"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "49": [
@@ -2680,6 +2900,11 @@
         "surface": "the house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "worm",
+        "lemma": "tola",
+        "strongs": "H8438"
       }
     ],
     "50": [
@@ -2804,6 +3029,11 @@
         "surface": "times",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "worm",
+        "lemma": "tola",
+        "strongs": "H8438"
       }
     ],
     "52": [
@@ -2866,6 +3096,11 @@
         "surface": "and the scarlet yarn",
         "lemma": "shani",
         "strongs": "H8144"
+      },
+      {
+        "surface": "worm",
+        "lemma": "tola",
+        "strongs": "H8438"
       }
     ],
     "53": [
@@ -2940,6 +3175,11 @@
         "surface": "for a scaly outbreak",
         "lemma": "neteq",
         "strongs": "H5424"
+      },
+      {
+        "surface": "plague",
+        "lemma": "nega",
+        "strongs": "H5061"
       }
     ],
     "55": [
@@ -3006,6 +3246,11 @@
         "surface": "regarding skin diseases and mildew",
         "lemma": "tsaraat",
         "strongs": "H6883"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

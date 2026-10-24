@@ -61,6 +61,11 @@
         "surface": "place",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "3": [
@@ -118,6 +123,11 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "fathered",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "4": [
@@ -545,6 +555,16 @@
         "surface": "and bridegroom",
         "lemma": "chatan",
         "strongs": "H2860"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "10": [
@@ -704,6 +724,11 @@
         "surface": "My instruction",
         "lemma": "torah",
         "strongs": "H8451"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "12": [
@@ -756,6 +781,11 @@
         "surface": "obeying",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "13": [
@@ -905,6 +935,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "15": [
@@ -972,6 +1007,16 @@
         "surface": "to their forefathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "16": [
@@ -1054,6 +1099,21 @@
         "surface": "of the rocks",
         "lemma": "sela",
         "strongs": "H5553"
+      },
+      {
+        "surface": "fishermen",
+        "lemma": "dayyag",
+        "strongs": "H1771"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "17": [

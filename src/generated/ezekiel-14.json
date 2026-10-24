@@ -29,6 +29,11 @@
         "surface": "before me",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "2": [
@@ -240,6 +245,16 @@
         "surface": "idolatry",
         "lemma": "gillul",
         "strongs": "H1544"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "5": [
@@ -461,6 +476,11 @@
         "surface": "will answer",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "8": [
@@ -580,6 +600,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "prophet",
+        "lemma": "navi",
+        "strongs": "H5030"
       }
     ],
     "10": [
@@ -808,6 +833,11 @@
         "surface": "and beast",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "unfaithfulness",
+        "lemma": "maal_h4604",
+        "strongs": "H4604"
       }
     ],
     "14": [
@@ -875,6 +905,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel_h1841",
+        "strongs": "H1841"
       }
     ],
     "15": [
@@ -927,6 +962,11 @@
         "surface": "of the beasts",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "passes",
+        "lemma": "avar_h5674",
+        "strongs": "H5674"
       }
     ],
     "16": [
@@ -1262,6 +1302,11 @@
         "surface": "only themselves",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel_h1841",
+        "strongs": "H1841"
       }
     ],
     "21": [
@@ -1488,6 +1533,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "done",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ]
   }

@@ -595,6 +595,11 @@
         "surface": "without fear",
         "lemma": "aphobos",
         "strongs": "G0870"
+      },
+      {
+        "surface": "more abundantly",
+        "lemma": "perissoteros_g4056",
+        "strongs": "G4056"
       }
     ],
     "15": [
@@ -780,6 +785,11 @@
         "surface": "deliverance",
         "lemma": "soteria",
         "strongs": "G4991"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "20": [
@@ -948,6 +958,11 @@
         "surface": "better",
         "lemma": "kreisson",
         "strongs": "G2908"
+      },
+      {
+        "surface": "more",
+        "lemma": "mallon",
+        "strongs": "G3123"
       }
     ],
     "24": [
@@ -1007,6 +1022,11 @@
         "surface": "faith",
         "lemma": "pistis",
         "strongs": "G4102"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "26": [
@@ -1126,6 +1146,21 @@
         "surface": "gospel",
         "lemma": "euangelion",
         "strongs": "G2098"
+      },
+      {
+        "surface": "Only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "mind",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "28": [
@@ -1217,6 +1252,21 @@
         "surface": "hear that",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "such as",
+        "lemma": "hoios",
+        "strongs": "G3634"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "now",
+        "lemma": "nun",
+        "strongs": "G3568"
       }
     ]
   }

@@ -59,6 +59,26 @@
         "surface": "to visit",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "two",
+        "lemma": "duo",
+        "strongs": "G1417"
+      },
+      {
+        "surface": "two",
+        "lemma": "duo",
+        "strongs": "G1417"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
+      },
+      {
+        "surface": "where",
+        "lemma": "hou",
+        "strongs": "G3757"
       }
     ],
     "2": [
@@ -116,6 +136,11 @@
         "surface": "harvest",
         "lemma": "therismos",
         "strongs": "G2326"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -212,6 +237,11 @@
         "surface": "house",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "6": [
@@ -392,6 +422,11 @@
         "surface": "and declare",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "streets",
+        "lemma": "platus",
+        "strongs": "G4116"
       }
     ],
     "11": [
@@ -666,6 +701,11 @@
         "surface": "name",
         "lemma": "onoma",
         "strongs": "G3686"
+      },
+      {
+        "surface": "two",
+        "lemma": "duo",
+        "strongs": "G1417"
       }
     ],
     "18": [
@@ -1065,6 +1105,16 @@
         "surface": "did not hear it",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "25": [
@@ -1352,6 +1402,11 @@
         "surface": "half dead",
         "lemma": "hemithanes",
         "strongs": "G2253"
+      },
+      {
+        "surface": "wounds",
+        "lemma": "plege",
+        "strongs": "G4127"
       }
     ],
     "31": [
@@ -1384,6 +1439,11 @@
         "surface": "he passed by on the other side",
         "lemma": "antiparerchomai",
         "strongs": "G0492"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "32": [
@@ -1421,6 +1481,11 @@
         "surface": "he passed by on the other side",
         "lemma": "antiparerchomai",
         "strongs": "G0492"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "33": [
@@ -1448,6 +1513,11 @@
         "surface": "he had compassion",
         "lemma": "splagchnizo",
         "strongs": "G4697"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "34": [
@@ -1802,6 +1872,11 @@
         "surface": "help",
         "lemma": "sunantilambanomai",
         "strongs": "G4878"
+      },
+      {
+        "surface": "much",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "41": [
@@ -1839,6 +1914,11 @@
         "surface": "many things",
         "lemma": "polus",
         "strongs": "G4183"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "42": [

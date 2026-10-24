@@ -76,6 +76,11 @@
         "surface": "tongues",
         "lemma": "lashon",
         "strongs": "H3956"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "3": [
@@ -216,6 +221,11 @@
         "surface": "as sin",
         "lemma": "chataah",
         "strongs": "H2401"
+      },
+      {
+        "surface": "him come forth",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "8": [
@@ -302,6 +312,11 @@
         "surface": "far from their ruined homes",
         "lemma": "chorbah",
         "strongs": "H2723"
+      },
+      {
+        "surface": "wander",
+        "lemma": "nua",
+        "strongs": "H5128"
       }
     ],
     "11": [
@@ -544,6 +559,11 @@
         "surface": "even to their death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "17": [
@@ -1019,6 +1039,23 @@
         "surface": "of his soul",
         "lemma": "nephesh",
         "strongs": "H5315"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

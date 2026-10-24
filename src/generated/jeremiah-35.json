@@ -54,6 +54,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -270,6 +275,11 @@
         "surface": "the doorkeeper",
         "lemma": "shamar",
         "strongs": "H8104"
+      },
+      {
+        "surface": "threshold",
+        "lemma": "saph",
+        "strongs": "H5592"
       }
     ],
     "5": [
@@ -399,6 +409,16 @@
         "surface": "wine",
         "lemma": "yayin",
         "strongs": "H3196"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "7": [
@@ -501,6 +521,11 @@
         "surface": "wander",
         "lemma": "gur",
         "strongs": "H1481"
+      },
+      {
+        "surface": "surface",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "8": [
@@ -754,6 +779,16 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "army",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "12": [
@@ -776,6 +811,11 @@
         "surface": "Jeremiah",
         "lemma": "yirmeyah",
         "strongs": "H3414"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -975,6 +1015,11 @@
         "surface": "obeyed Me",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "15": [
@@ -1112,6 +1157,11 @@
         "surface": "listened",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "16": [
@@ -1455,6 +1505,16 @@
         "surface": "before Me",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

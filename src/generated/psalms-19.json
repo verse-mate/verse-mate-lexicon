@@ -415,6 +415,11 @@
         "surface": "righteous",
         "lemma": "tsadaq",
         "strongs": "H6663"
+      },
+      {
+        "surface": "ever",
+        "lemma": "ad",
+        "strongs": "H5703"
       }
     ],
     "10": [
@@ -610,6 +615,23 @@
         "surface": "and my Redeemer",
         "lemma": "gaal",
         "strongs": "H1350"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

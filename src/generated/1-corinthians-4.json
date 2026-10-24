@@ -71,6 +71,11 @@
         "surface": "faithful",
         "lemma": "pistos",
         "strongs": "G4103"
+      },
+      {
+        "surface": "moreover",
+        "lemma": "loipon",
+        "strongs": "G3063"
       }
     ],
     "3": [
@@ -98,6 +103,11 @@
         "surface": "I do not even judge",
         "lemma": "anakrino",
         "strongs": "G0350"
+      },
+      {
+        "surface": "smallest matter",
+        "lemma": "elachistos",
+        "strongs": "G1646"
       }
     ],
     "4": [
@@ -125,6 +135,11 @@
         "surface": "judges",
         "lemma": "anakrino",
         "strongs": "G0350"
+      },
+      {
+        "surface": "conscious",
+        "lemma": "sunoida",
+        "strongs": "G6083"
       }
     ],
     "5": [
@@ -511,6 +526,11 @@
         "surface": "we endure it",
         "lemma": "anecho",
         "strongs": "G0430"
+      },
+      {
+        "surface": "working",
+        "lemma": "ergazomai",
+        "strongs": "G2038"
       }
     ],
     "13": [
@@ -553,6 +573,11 @@
         "surface": "of the world",
         "lemma": "pas",
         "strongs": "G3956"
+      },
+      {
+        "surface": "defamed",
+        "lemma": "dusphemeo",
+        "strongs": "G6022"
       }
     ],
     "14": [
@@ -834,6 +859,11 @@
         "surface": "spirit",
         "lemma": "pneuma",
         "strongs": "G4151"
+      },
+      {
+        "surface": "gentleness",
+        "lemma": "praotes",
+        "strongs": "G4236"
       }
     ]
   }

@@ -34,6 +34,16 @@
         "surface": "at war",
         "lemma": "strateuo",
         "strongs": "G4754"
+      },
+      {
+        "surface": "where",
+        "lemma": "pothen",
+        "strongs": "G4159"
+      },
+      {
+        "surface": "members",
+        "lemma": "melos",
+        "strongs": "G3196"
       }
     ],
     "2": [
@@ -190,6 +200,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "5": [
@@ -232,6 +247,11 @@
         "surface": "envy",
         "lemma": "phthonos",
         "strongs": "G5355"
+      },
+      {
+        "surface": "settled",
+        "lemma": "katoikizo",
+        "strongs": "G6052"
       }
     ],
     "6": [
@@ -400,6 +420,11 @@
         "surface": "gloom",
         "lemma": "katepheia",
         "strongs": "G2726"
+      },
+      {
+        "surface": "turned",
+        "lemma": "metatrepo",
+        "strongs": "G6060"
       }
     ],
     "10": [
@@ -771,6 +796,11 @@
         "surface": "guilty of sin",
         "lemma": "hamartia",
         "strongs": "G0266"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ]
   }

@@ -429,6 +429,11 @@
         "surface": "that are uninhabited",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "inhabited",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "7": [
@@ -647,6 +652,16 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "continually",
+        "lemma": "bakhah",
+        "strongs": "H1058"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "11": [
@@ -724,6 +739,16 @@
         "surface": "return",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "12": [
@@ -828,6 +853,11 @@
         "surface": "wages",
         "lemma": "poal",
         "strongs": "H6467"
+      },
+      {
+        "surface": "justice",
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "14": [
@@ -947,6 +977,11 @@
         "surface": "it went well",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "well",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "16": [
@@ -994,6 +1029,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "well",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "17": [
@@ -1046,6 +1086,11 @@
         "surface": "oppression",
         "lemma": "merutsah",
         "strongs": "H4835"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "18": [
@@ -1512,6 +1557,26 @@
         "surface": "and to the Chaldeans",
         "lemma": "kasdi",
         "strongs": "H3778"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "26": [
@@ -1581,6 +1646,16 @@
         "surface": "long",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "desire",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "28": [
@@ -1787,6 +1862,11 @@
         "surface": "in Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ]
   }

@@ -139,6 +139,11 @@
         "surface": "to his own property",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -231,6 +236,11 @@
         "surface": "dwelling",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "divisions",
+        "lemma": "machaloqet",
+        "strongs": "H4256"
       }
     ],
     "3": [
@@ -298,6 +308,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "burnt offerings",
+        "lemma": "olah",
+        "strongs": "H5930"
       }
     ],
     "4": [
@@ -437,6 +452,11 @@
         "surface": "of everything",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -517,6 +537,16 @@
       },
       {
         "surface": "in large heaps",
+        "lemma": "aremah",
+        "strongs": "H6194"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "heaps",
         "lemma": "aremah",
         "strongs": "H6194"
       }
@@ -737,6 +767,11 @@
         "surface": "is what is left over",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -826,6 +861,11 @@
         "surface": "was second",
         "lemma": "mishneh",
         "strongs": "H4932"
+      },
+      {
+        "surface": "faithfulness",
+        "lemma": "emunah",
+        "strongs": "H0530"
       }
     ],
     "13": [
@@ -1077,6 +1117,11 @@
         "surface": "and young alike",
         "lemma": "qatan",
         "strongs": "H6996"
+      },
+      {
+        "surface": "priests",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "16": [
@@ -1154,6 +1199,16 @@
         "surface": "of their divisions",
         "lemma": "machaloqet",
         "strongs": "H4256"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "17": [
@@ -1206,6 +1261,16 @@
         "surface": "and divisions",
         "lemma": "machaloqet",
         "strongs": "H4256"
+      },
+      {
+        "surface": "genealogical enrolment",
+        "lemma": "yachas_h3188",
+        "strongs": "H3188"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "18": [
@@ -1263,6 +1328,11 @@
         "surface": "as holy",
         "lemma": "qodesh",
         "strongs": "H6944"
+      },
+      {
+        "surface": "genealogical enrolment",
+        "lemma": "yachas_h3188",
+        "strongs": "H3188"
       }
     ],
     "19": [
@@ -1355,6 +1425,16 @@
         "surface": "listed by the genealogies",
         "lemma": "yachas",
         "strongs": "H3187"
+      },
+      {
+        "surface": "pasture land",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "20": [

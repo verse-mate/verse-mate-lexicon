@@ -49,6 +49,11 @@
         "surface": "and strength",
         "lemma": "oz",
         "strongs": "H5797"
+      },
+      {
+        "surface": "gods",
+        "lemma": "el",
+        "strongs": "H0410"
       }
     ],
     "2": [
@@ -444,6 +449,18 @@
         "surface": "with peace",
         "lemma": "shalom",
         "strongs": "H7965"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

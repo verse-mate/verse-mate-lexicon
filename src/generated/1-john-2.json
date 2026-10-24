@@ -91,6 +91,11 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "3": [
@@ -192,6 +197,11 @@
         "surface": "we are",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "truly",
+        "lemma": "alethos",
+        "strongs": "G0230"
       }
     ],
     "6": [
@@ -219,6 +229,11 @@
         "surface": "walked",
         "lemma": "peripateo",
         "strongs": "G4043"
+      },
+      {
+        "surface": "same way",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "7": [
@@ -281,6 +296,11 @@
         "surface": "you have heard",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "old",
+        "lemma": "palaios",
+        "strongs": "G3820"
       }
     ],
     "8": [
@@ -380,6 +400,11 @@
         "surface": "darkness",
         "lemma": "skotia",
         "strongs": "G4653"
+      },
+      {
+        "surface": "now",
+        "lemma": "arti",
+        "strongs": "G0737"
       }
     ],
     "10": [
@@ -474,6 +499,16 @@
         "surface": "eyes",
         "lemma": "ophthalmos",
         "strongs": "G3788"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "where",
+        "lemma": "pou_g4226",
+        "strongs": "G4226"
       }
     ],
     "12": [
@@ -907,6 +942,11 @@
         "surface": "all of you know the truth",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "21": [
@@ -944,6 +984,21 @@
         "surface": "truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "any",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "22": [
@@ -1090,6 +1145,16 @@
         "surface": "Father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "heard",
+        "lemma": "akouo",
+        "strongs": "G0191"
+      },
+      {
+        "surface": "beginning",
+        "lemma": "arche",
+        "strongs": "G0746"
       }
     ],
     "25": [
@@ -1280,6 +1345,11 @@
         "surface": "has been born",
         "lemma": "gennao",
         "strongs": "G1080"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ]
   }

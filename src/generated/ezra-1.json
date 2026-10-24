@@ -355,6 +355,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "5": [
@@ -670,6 +675,11 @@
         "surface": "silver utensils",
         "lemma": "machalaph",
         "strongs": "H4252"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
       }
     ],
     "10": [
@@ -722,6 +732,16 @@
         "surface": "articles",
         "lemma": "keli",
         "strongs": "H3627"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ten",
+        "lemma": "eser",
+        "strongs": "H6235"
       }
     ],
     "11": [
@@ -784,6 +804,21 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ]
   }

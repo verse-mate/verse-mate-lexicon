@@ -253,6 +253,21 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "make know",
+        "lemma": "yada",
+        "strongs": "H3045"
+      },
+      {
+        "surface": "lives",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "4": [
@@ -436,6 +451,11 @@
         "surface": "and hills",
         "lemma": "har",
         "strongs": "H2022"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "8": [
@@ -555,6 +575,11 @@
         "surface": "for copper",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "anything",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "10": [
@@ -1070,6 +1095,16 @@
         "surface": "you will surely perish",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "forget",
+        "lemma": "shakhach",
+        "strongs": "H7911"
+      },
+      {
+        "surface": "perish",
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "20": [
@@ -1122,6 +1157,16 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "consequence",
+        "lemma": "eqev",
+        "strongs": "H6118"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ]
   }

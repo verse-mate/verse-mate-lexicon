@@ -178,6 +178,21 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "go into exile",
+        "lemma": "galah",
+        "strongs": "H1540"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "4": [
@@ -230,6 +245,11 @@
         "surface": "into exile",
         "lemma": "golah",
         "strongs": "H1473"
+      },
+      {
+        "surface": "baggage",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "5": [
@@ -401,6 +421,11 @@
         "surface": "as they watched",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "baggage",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "8": [
@@ -475,6 +500,11 @@
         "surface": "doing",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "10": [
@@ -651,6 +681,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "13": [
@@ -864,6 +899,11 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "17": [
@@ -1171,6 +1211,11 @@
         "surface": "fails",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1258,6 +1303,16 @@
         "surface": "will be fulfilled",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "24": [
@@ -1310,6 +1365,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "25": [
@@ -1392,6 +1452,11 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "26": [

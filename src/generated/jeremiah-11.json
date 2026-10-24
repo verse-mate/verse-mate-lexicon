@@ -24,6 +24,11 @@
         "surface": "from the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -215,6 +220,11 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "5": [
@@ -282,6 +292,11 @@
         "surface": "I answered",
         "lemma": "un",
         "strongs": "H6030"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -411,6 +426,16 @@
         "surface": "My voice",
         "lemma": "qol",
         "strongs": "H6963"
+      },
+      {
+        "surface": "warned",
+        "lemma": "ud_h5749",
+        "strongs": "H5749"
+      },
+      {
+        "surface": "warning",
+        "lemma": "ud_h5749",
+        "strongs": "H5749"
       }
     ],
     "8": [
@@ -632,6 +657,16 @@
         "surface": "their fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "former",
+        "lemma": "rishon",
+        "strongs": "H7223"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "11": [
@@ -689,6 +724,11 @@
         "surface": "listen",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "12": [
@@ -751,6 +791,11 @@
         "surface": "of disaster",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "deliver",
+        "lemma": "yasah",
+        "strongs": "H3467"
       }
     ],
     "13": [
@@ -1019,6 +1064,16 @@
         "surface": "will be consumed",
         "lemma": "raa",
         "strongs": "H7489"
+      },
+      {
+        "surface": "rainstorm",
+        "lemma": "hamullah",
+        "strongs": "H1999"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "17": [
@@ -1210,6 +1265,11 @@
         "surface": "more",
         "lemma": "od",
         "strongs": "H5750"
+      },
+      {
+        "surface": "plans",
+        "lemma": "machashavah",
+        "strongs": "H4284"
       }
     ],
     "20": [
@@ -1406,6 +1466,11 @@
         "surface": "by famine",
         "lemma": "raav",
         "strongs": "H7458"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "23": [

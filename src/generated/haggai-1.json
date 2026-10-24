@@ -129,6 +129,11 @@
         "surface": "stating",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "2": [
@@ -191,6 +196,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "3": [
@@ -297,6 +312,11 @@
         "surface": "your ways",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "6": [
@@ -379,6 +399,11 @@
         "surface": "pierced through",
         "lemma": "naqav",
         "strongs": "H5344"
+      },
+      {
+        "surface": "earning wages",
+        "lemma": "sakhar_h7936",
+        "strongs": "H7936"
       }
     ],
     "7": [
@@ -411,6 +436,11 @@
         "surface": "your ways",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "8": [
@@ -567,6 +597,11 @@
         "surface": "its crops",
         "lemma": "yevul",
         "strongs": "H2981"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "11": [
@@ -808,6 +843,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -977,6 +1017,11 @@
         "surface": "Darius",
         "lemma": "daryavesh",
         "strongs": "H1867"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ]
   }

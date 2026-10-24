@@ -313,6 +313,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -362,6 +367,11 @@
         "surface": "have plundered us",
         "lemma": "shasah",
         "strongs": "H8154"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "11": [
@@ -490,6 +500,11 @@
         "surface": "the peoples",
         "lemma": "ummah",
         "strongs": "H0523"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "15": [
@@ -522,6 +537,11 @@
         "surface": "my face",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "16": [
@@ -618,6 +638,11 @@
         "surface": "Your path",
         "lemma": "orach",
         "strongs": "H0734"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "19": [
@@ -714,6 +739,11 @@
         "surface": "of the heart",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "search out",
+        "lemma": "chaqar",
+        "strongs": "H2713"
       }
     ],
     "22": [
@@ -741,6 +771,11 @@
         "surface": "to be slaughtered",
         "lemma": "tivchah",
         "strongs": "H2878"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "23": [
@@ -778,6 +813,11 @@
         "surface": "reject us forever",
         "lemma": "zanach",
         "strongs": "H2186"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
       }
     ],
     "24": [
@@ -864,6 +904,28 @@
         "surface": "Your loving devotion",
         "lemma": "chesed",
         "strongs": "H2617"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
       }
     ]
   }

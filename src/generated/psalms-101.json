@@ -331,6 +331,11 @@
         "surface": "in my presence",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "8": [
@@ -383,6 +388,23 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven",
+        "strongs": "H0205"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

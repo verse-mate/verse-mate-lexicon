@@ -269,6 +269,11 @@
         "surface": "and wide",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "7": [
@@ -296,6 +301,23 @@
         "surface": "His head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

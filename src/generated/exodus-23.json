@@ -54,6 +54,11 @@
         "surface": "witness",
         "lemma": "ed",
         "strongs": "H5707"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "2": [
@@ -111,6 +116,11 @@
         "surface": "the crowd",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "3": [
@@ -165,6 +175,11 @@
         "surface": "you must return it",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "5": [
@@ -210,6 +225,11 @@
       },
       {
         "surface": "you must help him",
+        "lemma": "azav",
+        "strongs": "H5800"
+      },
+      {
+        "surface": "loose",
         "lemma": "azav",
         "strongs": "H5800"
       }
@@ -385,6 +405,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "10": [
@@ -836,6 +861,11 @@
         "surface": "GOD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "presence",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "18": [
@@ -1101,6 +1131,11 @@
         "surface": "to your foes",
         "lemma": "tsarar",
         "strongs": "H6887"
+      },
+      {
+        "surface": "listen",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "23": [
@@ -1210,6 +1245,16 @@
         "surface": "to pieces",
         "lemma": "shavar",
         "strongs": "H7665"
+      },
+      {
+        "surface": "tear down",
+        "lemma": "haras",
+        "strongs": "H2040"
+      },
+      {
+        "surface": "shatter into pieces",
+        "lemma": "shavar",
+        "strongs": "H7665"
       }
     ],
     "25": [
@@ -1294,6 +1339,11 @@
         "surface": "of your days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "anyone will be",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "27": [
@@ -1346,6 +1396,11 @@
         "surface": "turn",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "neck",
+        "lemma": "oreph",
+        "strongs": "H6203"
       }
     ],
     "28": [
@@ -1549,6 +1604,11 @@
         "surface": "before you",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "32": [

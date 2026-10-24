@@ -128,6 +128,11 @@
         "surface": "bore",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "borne",
+        "lemma": "yalad",
+        "strongs": "H3205"
       }
     ],
     "4": [
@@ -170,6 +175,11 @@
         "surface": "had commanded him",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "5": [
@@ -202,6 +212,11 @@
         "surface": "was born",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -479,6 +494,11 @@
         "surface": "his son Ishmael",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "12": [
@@ -551,6 +571,16 @@
         "surface": "will be reckoned",
         "lemma": "qara",
         "strongs": "H7121"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "13": [
@@ -655,6 +685,21 @@
         "surface": "Beersheba",
         "lemma": "beersheva",
         "strongs": "H0884"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
+      },
+      {
+        "surface": "gave",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "sent away",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "15": [
@@ -774,6 +819,11 @@
         "surface": "and wept",
         "lemma": "bakhah",
         "strongs": "H1058"
+      },
+      {
+        "surface": "bow",
+        "lemma": "qeshet",
+        "strongs": "H7198"
       }
     ],
     "17": [
@@ -866,6 +916,11 @@
         "surface": "lies",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -965,6 +1020,11 @@
         "surface": "a drink",
         "lemma": "shaqah",
         "strongs": "H8248"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "20": [
@@ -1106,6 +1166,11 @@
         "surface": "do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1227,6 +1292,16 @@
         "surface": "had seized",
         "lemma": "gazal",
         "strongs": "H1497"
+      },
+      {
+        "surface": "causes",
+        "lemma": "odah",
+        "strongs": "H0182"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "26": [
@@ -1284,6 +1359,16 @@
         "surface": "about it until today",
         "lemma": "bilti",
         "strongs": "H1115"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "27": [
@@ -1358,6 +1443,11 @@
         "surface": "from the flock",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "29": [
@@ -1395,6 +1485,11 @@
         "surface": "ewe lambs",
         "lemma": "kivsah",
         "strongs": "H3535"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "30": [
@@ -1474,6 +1569,16 @@
         "surface": "of them swore an oath",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "Sheba",
+        "lemma": "beersheva",
+        "strongs": "H0884"
       }
     ],
     "32": [

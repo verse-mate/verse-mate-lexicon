@@ -452,6 +452,11 @@
         "surface": "the new",
         "lemma": "chadash",
         "strongs": "H2319"
+      },
+      {
+        "surface": "old harvest",
+        "lemma": "yashan",
+        "strongs": "H3465"
       }
     ],
     "11": [
@@ -667,6 +672,11 @@
         "surface": "My covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "16": [
@@ -979,6 +989,11 @@
         "surface": "according to your sins",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "22": [
@@ -1310,6 +1325,11 @@
         "surface": "daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "30": [
@@ -1592,6 +1612,11 @@
         "surface": "when you lived",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "36": [
@@ -1946,6 +1971,11 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "remember",
+        "lemma": "zakhar",
+        "strongs": "H2142"
       }
     ],
     "43": [
@@ -2003,6 +2033,11 @@
         "surface": "My statutes",
         "lemma": "chuqqah",
         "strongs": "H2708"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "44": [
@@ -2179,6 +2214,16 @@
         "surface": "Sinai",
         "lemma": "sinay",
         "strongs": "H5514"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

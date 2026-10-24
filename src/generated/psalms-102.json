@@ -121,6 +121,11 @@
         "surface": "I call",
         "lemma": "qara",
         "strongs": "H7121"
+      },
+      {
+        "surface": "hurry",
+        "lemma": "mahar",
+        "strongs": "H4116"
       }
     ],
     "3": [
@@ -148,6 +153,11 @@
         "surface": "burn",
         "lemma": "charar",
         "strongs": "H2787"
+      },
+      {
+        "surface": "hearth",
+        "lemma": "moqed",
+        "strongs": "H4168"
       }
     ],
     "4": [
@@ -414,6 +424,11 @@
       },
       {
         "surface": "to all generations",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
       }
@@ -746,6 +761,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "23": [
@@ -813,6 +833,11 @@
       },
       {
         "surface": "go on through all generations",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "generations",
         "lemma": "dor",
         "strongs": "H1755"
       }
@@ -938,6 +963,43 @@
         "surface": "before You",
         "lemma": "paneh",
         "strongs": "H6440"
+      }
+    ],
+    "0": [
+      {
+        "surface": "prayer",
+        "lemma": "tephillah",
+        "strongs": "H8605"
+      },
+      {
+        "surface": "afflicted",
+        "lemma": "ani",
+        "strongs": "H6041"
+      },
+      {
+        "surface": "grows faint",
+        "lemma": "ataph",
+        "strongs": "H5848"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "pours out",
+        "lemma": "shaphakh",
+        "strongs": "H8210"
+      },
+      {
+        "surface": "complaint",
+        "lemma": "siach_h7879",
+        "strongs": "H7879"
       }
     ]
   }

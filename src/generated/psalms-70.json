@@ -86,6 +86,11 @@
         "surface": "and humiliated",
         "lemma": "kalam",
         "strongs": "H3637"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "3": [
@@ -103,6 +108,11 @@
         "surface": "their shame",
         "lemma": "boshet",
         "strongs": "H1322"
+      },
+      {
+        "surface": "consequence",
+        "lemma": "eqev",
+        "strongs": "H6118"
       }
     ],
     "4": [
@@ -202,6 +212,23 @@
         "surface": "delay",
         "lemma": "achar",
         "strongs": "H0309"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "make remembrance",
+        "lemma": "zakhar",
+        "strongs": "H2142"
       }
     ]
   }

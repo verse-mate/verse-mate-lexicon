@@ -49,6 +49,11 @@
         "surface": "eat them",
         "lemma": "esthio",
         "strongs": "G2068"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -113,6 +118,11 @@
         "surface": "were hungry",
         "lemma": "peinao",
         "strongs": "G3983"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "4": [
@@ -165,6 +175,16 @@
         "surface": "to eat",
         "lemma": "phagein",
         "strongs": "G5315"
+      },
+      {
+        "surface": "presentation",
+        "lemma": "prothesis",
+        "strongs": "G4286"
+      },
+      {
+        "surface": "solely",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "5": [
@@ -197,6 +217,11 @@
         "surface": "Sabbath",
         "lemma": "sabbaton",
         "strongs": "G4521"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "6": [
@@ -259,6 +284,11 @@
         "surface": "withered",
         "lemma": "xeros",
         "strongs": "G3584"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "7": [
@@ -531,6 +561,11 @@
         "surface": "to God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "13": [
@@ -657,6 +692,11 @@
         "surface": "the Zealot",
         "lemma": "zelotes",
         "strongs": "G2207"
+      },
+      {
+        "surface": "Zealot",
+        "lemma": "zelotes_g2208",
+        "strongs": "G2208"
       }
     ],
     "16": [
@@ -855,6 +895,11 @@
         "surface": "them all",
         "lemma": "pas",
         "strongs": "G3956"
+      },
+      {
+        "surface": "touch",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "20": [
@@ -902,6 +947,16 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "gaze",
+        "lemma": "ophthalmos",
+        "strongs": "G3788"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "21": [
@@ -1294,6 +1349,11 @@
         "surface": "do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "likewise",
+        "lemma": "homoios_g3668",
+        "strongs": "G3668"
       }
     ],
     "32": [
@@ -1507,6 +1567,11 @@
         "surface": "wicked",
         "lemma": "poneros",
         "strongs": "G4190"
+      },
+      {
+        "surface": "nothing",
+        "lemma": "medeis",
+        "strongs": "G3367"
       }
     ],
     "36": [
@@ -1866,6 +1931,16 @@
         "surface": "eye",
         "lemma": "ophthalmos",
         "strongs": "G3788"
+      },
+      {
+        "surface": "brother",
+        "lemma": "adelphos",
+        "strongs": "G0080"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "43": [
@@ -1975,6 +2050,11 @@
         "surface": "brambles",
         "lemma": "batos",
         "strongs": "G0942"
+      },
+      {
+        "surface": "gather they",
+        "lemma": "trugao",
+        "strongs": "G5166"
       }
     ],
     "45": [
@@ -2126,6 +2206,11 @@
         "surface": "acts on",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "Everyone",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "48": [
@@ -2218,6 +2303,11 @@
         "surface": "was well built",
         "lemma": "oikodomeo",
         "strongs": "G3618"
+      },
+      {
+        "surface": "well",
+        "lemma": "kalos_g2573",
+        "strongs": "G2573"
       }
     ],
     "49": [
@@ -2305,6 +2395,11 @@
         "surface": "destruction",
         "lemma": "rhegma",
         "strongs": "G4485"
+      },
+      {
+        "surface": "fell",
+        "lemma": "sumpipto",
+        "strongs": "G6081"
       }
     ]
   }

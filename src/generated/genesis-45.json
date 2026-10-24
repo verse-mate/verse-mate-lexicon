@@ -74,6 +74,16 @@
         "surface": "his brothers",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "2": [
@@ -111,6 +121,11 @@
         "surface": "soon heard of it",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "3": [
@@ -173,6 +188,11 @@
         "surface": "in his presence",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "4": [
@@ -592,6 +612,11 @@
         "surface": "and everything you own",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "11": [
@@ -770,6 +795,11 @@
         "surface": "they embraced",
         "lemma": "tsavvar",
         "strongs": "H6677"
+      },
+      {
+        "surface": "neck",
+        "lemma": "tsavvar_h6677",
+        "strongs": "H6677"
       }
     ],
     "15": [
@@ -807,6 +837,11 @@
         "surface": "talked",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "16": [
@@ -859,6 +894,21 @@
         "surface": "were pleased",
         "lemma": "yatav",
         "strongs": "H3190"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "17": [
@@ -916,6 +966,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "18": [
@@ -1062,6 +1117,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "look with regret",
+        "lemma": "chus",
+        "strongs": "H2347"
       }
     ],
     "21": [
@@ -1394,6 +1454,16 @@
         "surface": "believe",
         "lemma": "aman",
         "strongs": "H0539"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "27": [
@@ -1461,6 +1531,11 @@
         "surface": "was revived",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "28": [

@@ -49,6 +49,11 @@
         "surface": "of Your pasture",
         "lemma": "mirit",
         "strongs": "H4830"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
       }
     ],
     "2": [
@@ -207,6 +212,11 @@
         "surface": "of trees",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "upwards",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "6": [
@@ -271,6 +281,11 @@
         "surface": "of Your Name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "8": [
@@ -434,6 +449,11 @@
         "surface": "to destroy them",
         "lemma": "kalah",
         "strongs": "H3615"
+      },
+      {
+        "surface": "bosom",
+        "lemma": "cheq",
+        "strongs": "H2436"
       }
     ],
     "12": [
@@ -540,6 +560,11 @@
         "surface": "of the desert",
         "lemma": "tsiyyi",
         "strongs": "H6728"
+      },
+      {
+        "surface": "food",
+        "lemma": "maakhal",
+        "strongs": "H3978"
       }
     ],
     "15": [
@@ -767,6 +792,11 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "settlements",
+        "lemma": "naah_h4999",
+        "strongs": "H4999"
       }
     ],
     "21": [
@@ -898,6 +928,18 @@
         "surface": "continually",
         "lemma": "tamid",
         "strongs": "H8548"
+      }
+    ],
+    "0": [
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

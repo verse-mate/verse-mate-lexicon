@@ -141,6 +141,11 @@
         "surface": "and his concubines",
         "lemma": "lechenah",
         "strongs": "H3904"
+      },
+      {
+        "surface": "taste",
+        "lemma": "teem",
+        "strongs": "H2942"
       }
     ],
     "3": [
@@ -337,6 +342,11 @@
         "surface": "was writing",
         "lemma": "ketav",
         "strongs": "H3790"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad_h3028",
+        "strongs": "H3028"
       }
     ],
     "6": [
@@ -374,6 +384,21 @@
         "surface": "and his knees",
         "lemma": "arkhuvah",
         "strongs": "H0755"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
+      },
+      {
+        "surface": "joints",
+        "lemma": "qetar",
+        "strongs": "H7001"
+      },
+      {
+        "surface": "knocking",
+        "lemma": "neqash",
+        "strongs": "H5368"
       }
     ],
     "7": [
@@ -486,6 +511,26 @@
         "surface": "in the kingdom",
         "lemma": "malkhu",
         "strongs": "H4437"
+      },
+      {
+        "surface": "power",
+        "lemma": "chayil_h2429",
+        "strongs": "H2429"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol_h3606",
+        "strongs": "H3606"
+      },
+      {
+        "surface": "person",
+        "lemma": "enash",
+        "strongs": "H0606"
       }
     ],
     "8": [
@@ -538,6 +583,11 @@
         "surface": "for him",
         "lemma": "melekh",
         "strongs": "H4430"
+      },
+      {
+        "surface": "make known",
+        "lemma": "yeda_h3046",
+        "strongs": "H3046"
       }
     ],
     "9": [
@@ -667,6 +717,11 @@
         "surface": "grow pale",
         "lemma": "shena",
         "strongs": "H8133"
+      },
+      {
+        "surface": "replied",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
       }
     ],
     "11": [
@@ -896,6 +951,11 @@
         "surface": "the interpretation",
         "lemma": "peshar",
         "strongs": "H6591"
+      },
+      {
+        "surface": "name",
+        "lemma": "shum_h8036",
+        "strongs": "H8036"
       }
     ],
     "13": [
@@ -963,6 +1023,26 @@
         "surface": "Judah",
         "lemma": "yehud",
         "strongs": "H3061"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "exile",
+        "lemma": "galut_h1547",
+        "strongs": "H1547"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "yehud_h3061",
+        "strongs": "H3061"
       }
     ],
     "14": [
@@ -1000,6 +1080,11 @@
         "surface": "wisdom",
         "lemma": "chokhmah",
         "strongs": "H2452"
+      },
+      {
+        "surface": "found",
+        "lemma": "shekhach",
+        "strongs": "H7912"
       }
     ],
     "15": [
@@ -1174,6 +1259,11 @@
         "surface": "in the kingdom",
         "lemma": "malkhu",
         "strongs": "H4437"
+      },
+      {
+        "surface": "interpret",
+        "lemma": "peshar",
+        "strongs": "H6590"
       }
     ],
     "17": [
@@ -1241,6 +1331,11 @@
         "surface": "for him",
         "lemma": "yeda",
         "strongs": "H3046"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
       }
     ],
     "18": [
@@ -1574,6 +1669,16 @@
         "surface": "He wishes",
         "lemma": "tseva",
         "strongs": "H6634"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "made",
+        "lemma": "shevah",
+        "strongs": "H7739"
       }
     ],
     "22": [
@@ -1805,6 +1910,11 @@
         "surface": "inscription",
         "lemma": "ketav",
         "strongs": "H3792"
+      },
+      {
+        "surface": "palm",
+        "lemma": "pas_h6447",
+        "strongs": "H6447"
       }
     ],
     "25": [
@@ -2054,6 +2164,21 @@
         "surface": "of sixty-two",
         "lemma": "shittin",
         "strongs": "H8361"
+      },
+      {
+        "surface": "Median",
+        "lemma": "madaah_h4077",
+        "strongs": "H4077"
+      },
+      {
+        "surface": "years",
+        "lemma": "shenah_h8140",
+        "strongs": "H8140"
+      },
+      {
+        "surface": "two",
+        "lemma": "teren",
+        "strongs": "H8648"
       }
     ]
   }

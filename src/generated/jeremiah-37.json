@@ -69,6 +69,16 @@
         "surface": "of Jehoiakim",
         "lemma": "yehoyaqim",
         "strongs": "H3079"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
@@ -255,6 +265,11 @@
         "surface": "in prison",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "imprisonment",
+        "lemma": "keli_h3628",
+        "strongs": "H3628"
       }
     ],
     "5": [
@@ -339,6 +354,11 @@
         "surface": "the prophet",
         "lemma": "navi",
         "strongs": "H5030"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "7": [
@@ -463,6 +483,11 @@
         "surface": "it and burn it down",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "9": [
@@ -515,6 +540,16 @@
         "surface": "they will not",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "10": [
@@ -587,6 +622,11 @@
         "surface": "down",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "11": [
@@ -758,6 +798,11 @@
         "surface": "the Chaldeans",
         "lemma": "kasdi",
         "strongs": "H3778"
+      },
+      {
+        "surface": "prophet",
+        "lemma": "navi",
+        "strongs": "H5030"
       }
     ],
     "14": [
@@ -882,6 +927,16 @@
         "surface": "into a prison",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "fetter",
+        "lemma": "esur",
+        "strongs": "H0612"
+      },
+      {
+        "surface": "imprisonment",
+        "lemma": "kele",
+        "strongs": "H3608"
       }
     ],
     "16": [
@@ -919,6 +974,21 @@
         "surface": "a long time",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "Jeremiah",
+        "lemma": "yirmeyah",
+        "strongs": "H3414"
+      },
+      {
+        "surface": "cistern",
+        "lemma": "bor_h0953",
+        "strongs": "H0953"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "17": [
@@ -1006,6 +1076,21 @@
         "surface": "of Babylon",
         "lemma": "bavel",
         "strongs": "H0894"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1058,6 +1143,11 @@
         "surface": "prison",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "imprisonment",
+        "lemma": "kele",
+        "strongs": "H3608"
       }
     ],
     "19": [
@@ -1105,6 +1195,11 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "where",
+        "lemma": "ayyeh",
+        "strongs": "H0346"
       }
     ],
     "20": [

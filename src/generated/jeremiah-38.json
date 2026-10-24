@@ -89,6 +89,16 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -223,6 +233,11 @@
         "surface": "and he will capture it",
         "lemma": "lakhad",
         "strongs": "H3920"
+      },
+      {
+        "surface": "given",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "4": [
@@ -320,6 +335,26 @@
         "surface": "their ruin",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "5": [
@@ -357,6 +392,11 @@
         "surface": "to stop you",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "6": [
@@ -454,6 +494,11 @@
         "surface": "into the mud",
         "lemma": "tit",
         "strongs": "H2916"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "7": [
@@ -526,6 +571,11 @@
         "surface": "of Benjamin",
         "lemma": "binyamin",
         "strongs": "H1144"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "8": [
@@ -563,6 +613,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -645,6 +700,16 @@
         "surface": "in the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "famine",
+        "lemma": "raav",
+        "strongs": "H7458"
       }
     ],
     "10": [
@@ -722,6 +787,11 @@
         "surface": "he dies",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -896,6 +966,11 @@
         "surface": "so",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "13": [
@@ -1072,6 +1147,16 @@
         "surface": "listen",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "Zedekiah",
+        "lemma": "tsidqiyyah",
+        "strongs": "H6667"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "16": [
@@ -1159,6 +1244,11 @@
         "surface": "your life",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1271,6 +1361,16 @@
         "surface": "will survive",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "go out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "18": [
@@ -1343,6 +1443,11 @@
         "surface": "their grasp",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "19": [
@@ -1663,6 +1768,11 @@
         "surface": "will be burned down",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "24": [
@@ -1958,6 +2068,16 @@
         "surface": "was captured",
         "lemma": "lakhad",
         "strongs": "H3920"
+      },
+      {
+        "surface": "captured",
+        "lemma": "lakhad",
+        "strongs": "H3920"
+      },
+      {
+        "surface": "Jerusalem",
+        "lemma": "yerushalaim",
+        "strongs": "H3389"
       }
     ]
   }

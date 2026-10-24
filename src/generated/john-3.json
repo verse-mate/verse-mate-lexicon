@@ -116,6 +116,11 @@
         "surface": "were",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "3": [
@@ -163,6 +168,16 @@
         "surface": "again",
         "lemma": "anothen",
         "strongs": "G0509"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "4": [
@@ -428,6 +443,11 @@
         "surface": "Spirit",
         "lemma": "pneuma",
         "strongs": "G4151"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "9": [
@@ -450,6 +470,11 @@
         "surface": "asked",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "10": [
@@ -482,6 +507,11 @@
         "surface": "you do not understand",
         "lemma": "ginosko",
         "strongs": "G1097"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "11": [
@@ -519,6 +549,11 @@
         "surface": "testimony",
         "lemma": "marturia",
         "strongs": "G3141"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [
@@ -1236,6 +1271,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "28": [
@@ -1330,6 +1370,16 @@
         "surface": "and it is now complete",
         "lemma": "pleroo",
         "strongs": "G4137"
+      },
+      {
+        "surface": "having",
+        "lemma": "echo",
+        "strongs": "G2192"
+      },
+      {
+        "surface": "joy",
+        "lemma": "chara",
+        "strongs": "G5479"
       }
     ],
     "30": [
@@ -1619,6 +1669,11 @@
         "surface": "remains",
         "lemma": "meno",
         "strongs": "G3306"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ]
   }

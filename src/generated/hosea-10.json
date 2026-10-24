@@ -443,6 +443,11 @@
         "surface": "Fall",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven_h0206",
+        "strongs": "H0206"
       }
     ],
     "9": [
@@ -542,6 +547,11 @@
         "surface": "transgression",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "iniquities",
+        "lemma": "avan_h5771",
+        "strongs": "H5771"
       }
     ],
     "11": [
@@ -676,6 +686,11 @@
         "surface": "like rain",
         "lemma": "yara",
         "strongs": "H3384"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "13": [
@@ -805,6 +820,11 @@
         "surface": "their children",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Arbel",
+        "lemma": "betarbel",
+        "strongs": "H1009"
       }
     ],
     "15": [
@@ -861,6 +881,11 @@
       {
         "surface": "will be utterly cut off",
         "lemma": "damah",
+        "strongs": "H1820"
+      },
+      {
+        "surface": "destroyed",
+        "lemma": "damah_h1820",
         "strongs": "H1820"
       }
     ]

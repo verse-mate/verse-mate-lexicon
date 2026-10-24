@@ -86,6 +86,11 @@
         "surface": "His work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "done",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "3": [
@@ -190,6 +195,11 @@
         "surface": "them",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "heaven",
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "5": [
@@ -287,6 +297,11 @@
         "surface": "the ground",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "yet",
+        "lemma": "terem",
+        "strongs": "H2962"
       }
     ],
     "6": [
@@ -587,6 +602,11 @@
         "surface": "headwaters",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "became",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "11": [
@@ -854,6 +874,16 @@
         "surface": "of the garden",
         "lemma": "gan",
         "strongs": "H1588"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "17": [
@@ -899,6 +929,11 @@
       },
       {
         "surface": "you will surely die",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
       }

@@ -54,6 +54,11 @@
         "surface": "cities",
         "lemma": "polis",
         "strongs": "G4172"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -155,6 +160,11 @@
         "surface": "see",
         "lemma": "blepo",
         "strongs": "G0991"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "5": [
@@ -301,6 +311,11 @@
         "surface": "the wind",
         "lemma": "anemos",
         "strongs": "G0417"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "8": [
@@ -358,6 +373,11 @@
         "surface": "palaces",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "9": [
@@ -395,6 +415,16 @@
         "surface": "than a prophet",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "more excellent",
+        "lemma": "perissoteron",
+        "strongs": "G4054"
       }
     ],
     "10": [
@@ -427,6 +457,11 @@
         "surface": "way",
         "lemma": "hodos",
         "strongs": "G3598"
+      },
+      {
+        "surface": "face",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "11": [
@@ -686,6 +721,11 @@
         "surface": "you did not mourn",
         "lemma": "kopto",
         "strongs": "G2875"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "18": [
@@ -842,6 +882,11 @@
         "surface": "they did not repent",
         "lemma": "metanoeo",
         "strongs": "G3340"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "21": [
@@ -1025,6 +1070,11 @@
         "surface": "of judgment",
         "lemma": "krisis",
         "strongs": "G2920"
+      },
+      {
+        "surface": "land",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "25": [
@@ -1260,6 +1310,11 @@
         "surface": "souls",
         "lemma": "psuche",
         "strongs": "G5590"
+      },
+      {
+        "surface": "gentle",
+        "lemma": "praos",
+        "strongs": "G4235"
       }
     ],
     "30": [

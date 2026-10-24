@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -66,6 +71,11 @@
         "surface": "and beast",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -408,6 +418,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -480,6 +495,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "10": [
@@ -606,6 +626,11 @@
         "surface": "belong to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "offspring",
+        "lemma": "sheger",
+        "strongs": "H7698"
       }
     ],
     "13": [
@@ -673,6 +698,11 @@
         "surface": "you must redeem",
         "lemma": "padah",
         "strongs": "H6299"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "14": [
@@ -857,6 +887,16 @@
         "surface": "of my sons",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "firstborn",
+        "lemma": "bekhor",
+        "strongs": "H1060"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "16": [
@@ -909,6 +949,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "17": [
@@ -1063,6 +1108,11 @@
         "surface": "arrayed for battle",
         "lemma": "chamush",
         "strongs": "H2571"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -1125,6 +1175,16 @@
         "surface": "my bones",
         "lemma": "etsem",
         "strongs": "H6106"
+      },
+      {
+        "surface": "made swear",
+        "lemma": "shava",
+        "strongs": "H7650"
+      },
+      {
+        "surface": "visit",
+        "lemma": "paqad",
+        "strongs": "H6485"
       }
     ],
     "20": [

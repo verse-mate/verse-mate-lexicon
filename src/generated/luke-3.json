@@ -374,6 +374,16 @@
         "surface": "salvation",
         "lemma": "soterion",
         "strongs": "G4992"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "salvation",
+        "lemma": "soteria",
+        "strongs": "G4991"
       }
     ],
     "7": [
@@ -431,6 +441,11 @@
         "surface": "wrath",
         "lemma": "orge",
         "strongs": "G3709"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -513,6 +528,11 @@
         "surface": "for Abraham",
         "lemma": "abraam",
         "strongs": "G0011"
+      },
+      {
+        "surface": "begin",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "9": [
@@ -602,6 +622,11 @@
         "surface": "should we do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "11": [
@@ -654,6 +679,11 @@
         "surface": "the same",
         "lemma": "homoios",
         "strongs": "G3668"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "12": [
@@ -765,6 +795,11 @@
         "surface": "wages",
         "lemma": "opsonion",
         "strongs": "G3800"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -889,6 +924,11 @@
         "surface": "with fire",
         "lemma": "pur",
         "strongs": "G4442"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "17": [
@@ -946,6 +986,11 @@
         "surface": "fire",
         "lemma": "pur",
         "strongs": "G4442"
+      },
+      {
+        "surface": "scour",
+        "lemma": "diakathairo",
+        "strongs": "G6016"
       }
     ],
     "18": [
@@ -1094,6 +1139,11 @@
         "surface": "was opened",
         "lemma": "anoigo",
         "strongs": "G0455"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "22": [
@@ -1213,6 +1263,11 @@
         "surface": "of Heli",
         "lemma": "heli",
         "strongs": "G2242"
+      },
+      {
+        "surface": "beginning",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "24": [
@@ -1294,6 +1349,16 @@
         "surface": "of Joda",
         "lemma": "iouda",
         "strongs": "G2448"
+      },
+      {
+        "surface": "Josech",
+        "lemma": "iosech",
+        "strongs": "G6044"
+      },
+      {
+        "surface": "Joda",
+        "lemma": "ioda",
+        "strongs": "G6043"
       }
     ],
     "27": [
@@ -1402,6 +1467,11 @@
         "surface": "of Eliakim",
         "lemma": "eliakeim",
         "strongs": "G1662"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "ioudas",
+        "strongs": "G2455"
       }
     ],
     "31": [
@@ -1488,6 +1558,21 @@
         "surface": "of Judah",
         "lemma": "iouda",
         "strongs": "G2448"
+      },
+      {
+        "surface": "Admin",
+        "lemma": "admin",
+        "strongs": "G6002"
+      },
+      {
+        "surface": "Arni",
+        "lemma": "arni",
+        "strongs": "G6095"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "ioudas",
+        "strongs": "G2455"
       }
     ],
     "34": [

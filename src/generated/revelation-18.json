@@ -59,6 +59,11 @@
         "surface": "glory",
         "lemma": "doxa",
         "strongs": "G1391"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -161,6 +166,26 @@
         "surface": "beast",
         "lemma": "therion",
         "strongs": "G2342"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "prison",
+        "lemma": "phulake",
+        "strongs": "G5438"
+      },
+      {
+        "surface": "prison",
+        "lemma": "phulake",
+        "strongs": "G5438"
+      },
+      {
+        "surface": "unclean",
+        "lemma": "akathartos",
+        "strongs": "G0169"
       }
     ],
     "3": [
@@ -364,6 +389,11 @@
         "surface": "cup",
         "lemma": "poterion",
         "strongs": "G4221"
+      },
+      {
+        "surface": "mix",
+        "lemma": "kerannumi",
+        "strongs": "G2767"
       }
     ],
     "7": [
@@ -441,6 +471,11 @@
         "surface": "grief",
         "lemma": "penthos",
         "strongs": "G3997"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "8": [
@@ -771,6 +806,11 @@
         "surface": "marble",
         "lemma": "marmaros",
         "strongs": "G3139"
+      },
+      {
+        "surface": "article",
+        "lemma": "skeuos",
+        "strongs": "G4632"
       }
     ],
     "13": [
@@ -853,6 +893,11 @@
         "surface": "of slaves",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "spice",
+        "lemma": "amomon",
+        "strongs": "G6007"
       }
     ],
     "14": [
@@ -1071,6 +1116,21 @@
         "surface": "a distance",
         "lemma": "makrothen",
         "strongs": "G3113"
+      },
+      {
+        "surface": "every",
+        "lemma": "pas",
+        "strongs": "G3956"
+      },
+      {
+        "surface": "place",
+        "lemma": "topos",
+        "strongs": "G5117"
+      },
+      {
+        "surface": "sailing",
+        "lemma": "pleo",
+        "strongs": "G4126"
       }
     ],
     "18": [
@@ -1205,6 +1265,11 @@
         "surface": "she has been destroyed",
         "lemma": "eremoo",
         "strongs": "G2049"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "20": [
@@ -1339,6 +1404,11 @@
         "surface": "again",
         "lemma": "eti",
         "strongs": "G2089"
+      },
+      {
+        "surface": "millstone",
+        "lemma": "mulinos",
+        "strongs": "G6061"
       }
     ],
     "22": [

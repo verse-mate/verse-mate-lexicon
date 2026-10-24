@@ -54,6 +54,21 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "parts",
+        "lemma": "meros",
+        "strongs": "G3313"
+      },
+      {
+        "surface": "come down",
+        "lemma": "katerchomai",
+        "strongs": "G2718"
       }
     ],
     "2": [
@@ -395,6 +410,11 @@
         "surface": "of Tyrannus",
         "lemma": "turannos",
         "strongs": "G5181"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "10": [
@@ -531,6 +551,11 @@
         "surface": "left",
         "lemma": "ekporeuo",
         "strongs": "G1607"
+      },
+      {
+        "surface": "departing",
+        "lemma": "apallasso",
+        "strongs": "G0525"
       }
     ],
     "13": [
@@ -697,6 +722,11 @@
         "surface": "are",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "16": [
@@ -920,6 +950,11 @@
         "surface": "drachmas",
         "lemma": "argurion",
         "strongs": "G0694"
+      },
+      {
+        "surface": "myriads",
+        "lemma": "murias",
+        "strongs": "G3461"
       }
     ],
     "20": [
@@ -1029,6 +1064,11 @@
         "surface": "Rome",
         "lemma": "rhome",
         "strongs": "G4516"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "22": [
@@ -1284,6 +1324,16 @@
         "surface": "gods at all",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "27": [
@@ -1366,6 +1416,11 @@
         "surface": "world",
         "lemma": "oikoumene",
         "strongs": "G3625"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "28": [
@@ -1408,6 +1463,11 @@
         "surface": "of the Ephesians",
         "lemma": "ephesios",
         "strongs": "G2180"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "29": [
@@ -1591,6 +1651,11 @@
         "surface": "they were there",
         "lemma": "sunerchomai",
         "strongs": "G4905"
+      },
+      {
+        "surface": "most",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "33": [
@@ -1643,6 +1708,11 @@
         "surface": "people",
         "lemma": "demos",
         "strongs": "G1218"
+      },
+      {
+        "surface": "hand",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "34": [
@@ -1690,6 +1760,11 @@
         "surface": "of the Ephesians",
         "lemma": "ephesios",
         "strongs": "G2180"
+      },
+      {
+        "surface": "crying out",
+        "lemma": "krazo",
+        "strongs": "G2896"
       }
     ],
     "35": [
@@ -1920,6 +1995,11 @@
         "surface": "assembly",
         "lemma": "ekklesia",
         "strongs": "G1577"
+      },
+      {
+        "surface": "beyond this",
+        "lemma": "peraitero",
+        "strongs": "G6071"
       }
     ],
     "40": [
@@ -1972,6 +2052,11 @@
         "surface": "commotion",
         "lemma": "sustrophe",
         "strongs": "G4963"
+      },
+      {
+        "surface": "render",
+        "lemma": "apodidomi",
+        "strongs": "G0591"
       }
     ],
     "41": [

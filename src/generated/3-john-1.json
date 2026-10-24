@@ -103,6 +103,11 @@
         "surface": "continue to walk",
         "lemma": "peripateo",
         "strongs": "G4043"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "lian",
+        "strongs": "G3029"
       }
     ],
     "4": [
@@ -357,6 +362,21 @@
         "surface": "church",
         "lemma": "ekklesia",
         "strongs": "G1577"
+      },
+      {
+        "surface": "works",
+        "lemma": "ergon",
+        "strongs": "G2041"
+      },
+      {
+        "surface": "doing",
+        "lemma": "poieo",
+        "strongs": "G4160"
+      },
+      {
+        "surface": "words",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "11": [
@@ -456,6 +476,11 @@
         "surface": "true",
         "lemma": "alethes",
         "strongs": "G0227"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "13": [
@@ -555,6 +580,11 @@
         "surface": "name",
         "lemma": "onoma",
         "strongs": "G3686"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

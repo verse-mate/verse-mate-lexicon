@@ -54,6 +54,11 @@
         "surface": "O Most High",
         "lemma": "elyon",
         "strongs": "H5945"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "2": [
@@ -251,6 +256,11 @@
         "surface": "destroyed",
         "lemma": "shamad",
         "strongs": "H8045"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven",
+        "strongs": "H0205"
       }
     ],
     "8": [
@@ -263,6 +273,11 @@
         "surface": "are exalted forever",
         "lemma": "marom",
         "strongs": "H4791"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "9": [
@@ -300,6 +315,11 @@
         "surface": "will be scattered",
         "lemma": "parad",
         "strongs": "H6504"
+      },
+      {
+        "surface": "wickedness",
+        "lemma": "aven",
+        "strongs": "H0205"
       }
     ],
     "10": [
@@ -497,6 +517,28 @@
         "surface": "unrighteousness",
         "lemma": "evel",
         "strongs": "H5766"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "sabbath",
+        "lemma": "shabbat",
+        "strongs": "H7676"
       }
     ]
   }

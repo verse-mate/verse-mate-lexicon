@@ -137,6 +137,11 @@
         "surface": "would have swept us away",
         "lemma": "avar",
         "strongs": "H5674"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "6": [
@@ -243,6 +248,23 @@
         "surface": "and earth",
         "lemma": "erets",
         "strongs": "H0776"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "ascents",
+        "lemma": "maalah",
+        "strongs": "H4609"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

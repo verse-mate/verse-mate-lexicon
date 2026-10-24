@@ -310,6 +310,36 @@
         "surface": "Seneh",
         "lemma": "seneh",
         "strongs": "H5573"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "tooth",
+        "lemma": "shen",
+        "strongs": "H8127"
+      },
+      {
+        "surface": "rock",
+        "lemma": "sela",
+        "strongs": "H5553"
+      },
+      {
+        "surface": "rock",
+        "lemma": "sela",
+        "strongs": "H5553"
+      },
+      {
+        "surface": "other side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "5": [
@@ -491,6 +521,11 @@
         "surface": "heart and soul",
         "lemma": "levav",
         "strongs": "H3824"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "8": [
@@ -560,6 +595,11 @@
         "surface": "go up",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "10": [
@@ -602,6 +642,11 @@
         "surface": "into our hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "11": [
@@ -741,6 +786,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -803,6 +863,16 @@
         "surface": "and finished them off",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "14": [
@@ -855,6 +925,16 @@
         "surface": "of land",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "acre",
+        "lemma": "tsemed",
+        "strongs": "H6776"
       }
     ],
     "15": [
@@ -1031,6 +1111,11 @@
         "surface": "were not there",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "18": [
@@ -1083,6 +1168,16 @@
         "surface": "with the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -1150,6 +1245,11 @@
         "surface": "your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "20": [
@@ -1212,6 +1312,11 @@
         "surface": "against his neighbor",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "21": [
@@ -1259,6 +1364,11 @@
         "surface": "and Jonathan",
         "lemma": "yonatan",
         "strongs": "H3129"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "22": [
@@ -1311,6 +1421,16 @@
         "surface": "in close pursuit",
         "lemma": "davaq",
         "strongs": "H1692"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "23": [
@@ -1482,6 +1602,16 @@
         "surface": "the ground",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "26": [
@@ -1631,6 +1761,16 @@
         "surface": "brightened",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "honey",
+        "lemma": "devash",
+        "strongs": "H1706"
+      },
+      {
+        "surface": "brightened",
+        "lemma": "or",
+        "strongs": "H0215"
       }
     ],
     "28": [
@@ -1708,6 +1848,11 @@
         "surface": "are faint",
         "lemma": "ayeph",
         "strongs": "H5888"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "29": [
@@ -1817,6 +1962,11 @@
         "surface": "have been much greater",
         "lemma": "ravah",
         "strongs": "H7235"
+      },
+      {
+        "surface": "eaten",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "31": [
@@ -1911,6 +2061,26 @@
         "surface": "the blood still in it",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "rushed",
+        "lemma": "it",
+        "strongs": "H5860"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "33": [
@@ -1978,6 +2148,11 @@
         "surface": "at once",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "34": [
@@ -2090,6 +2265,26 @@
         "surface": "it there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "each one",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "each one",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "35": [
@@ -2239,6 +2434,11 @@
         "surface": "here",
         "lemma": "halom",
         "strongs": "H1988"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "37": [
@@ -2363,6 +2563,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "see",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "39": [
@@ -2430,6 +2635,11 @@
         "surface": "a word",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "40": [
@@ -2512,6 +2722,11 @@
         "surface": "replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ],
     "41": [
@@ -2698,6 +2913,16 @@
         "surface": "I must die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "tasted",
+        "lemma": "taam_h2938",
+        "strongs": "H2938"
       }
     ],
     "44": [
@@ -2743,6 +2968,11 @@
       },
       {
         "surface": "surely die",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -2991,6 +3221,11 @@
         "surface": "he routed them",
         "lemma": "rasah",
         "strongs": "H7561"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "48": [
@@ -3105,6 +3340,16 @@
         "surface": "his younger daughter",
         "lemma": "qatan",
         "strongs": "H6996"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "50": [
@@ -3291,6 +3536,11 @@
         "surface": "Saul would enlist him",
         "lemma": "asaph",
         "strongs": "H0622"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ]
   }

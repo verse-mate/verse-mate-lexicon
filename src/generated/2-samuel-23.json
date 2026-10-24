@@ -225,6 +225,16 @@
         "surface": "of the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "dawns",
+        "lemma": "zarach",
+        "strongs": "H2224"
+      },
+      {
+        "surface": "clouds",
+        "lemma": "av_h5645",
+        "strongs": "H5645"
       }
     ],
     "5": [
@@ -391,6 +401,11 @@
         "surface": "in the place where they lie",
         "lemma": "shevet",
         "strongs": "H7675"
+      },
+      {
+        "surface": "burned",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
       }
     ],
     "8": [
@@ -463,6 +478,11 @@
         "surface": "time",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "Basshebeth",
+        "lemma": "yoshevbashshevet",
+        "strongs": "H3429"
       }
     ],
     "9": [
@@ -637,6 +657,11 @@
         "surface": "to plunder the dead",
         "lemma": "pashat",
         "strongs": "H6584"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "11": [
@@ -714,6 +739,16 @@
         "surface": "them",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "Lehi",
+        "lemma": "chay",
+        "strongs": "H2416"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "12": [
@@ -833,6 +868,16 @@
         "surface": "of Rephaim",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "14": [
@@ -1004,6 +1049,16 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "carried",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "17": [
@@ -1061,6 +1116,16 @@
         "surface": "mighty men",
         "lemma": "gibbor",
         "strongs": "H1368"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "18": [
@@ -1131,6 +1196,11 @@
       },
       {
         "surface": "along with the Three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "three",
         "lemma": "shalosh",
         "strongs": "H7969"
       }
@@ -1272,6 +1342,11 @@
         "surface": "a lion",
         "lemma": "ari",
         "strongs": "H0738"
+      },
+      {
+        "surface": "strength",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "21": [
@@ -1349,6 +1424,11 @@
         "surface": "with his own spear",
         "lemma": "chanit",
         "strongs": "H2595"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "22": [
@@ -1625,6 +1705,11 @@
         "surface": "of the Benjamites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
       }
     ],
     "30": [
@@ -1780,6 +1865,11 @@
         "surface": "the Gilonite",
         "lemma": "giloni",
         "strongs": "H1526"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "35": [
@@ -1876,6 +1966,11 @@
         "surface": "of Zeruiah",
         "lemma": "tseruyah",
         "strongs": "H6870"
+      },
+      {
+        "surface": "armor",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "38": [
@@ -1920,6 +2015,11 @@
         "surface": "in all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
       }
     ]
   }

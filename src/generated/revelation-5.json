@@ -54,6 +54,11 @@
         "surface": "seals",
         "lemma": "sphragis",
         "strongs": "G4973"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -116,6 +121,11 @@
         "surface": "scroll",
         "lemma": "biblion",
         "strongs": "G0975"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -272,6 +282,11 @@
         "surface": "seals",
         "lemma": "sphragis",
         "strongs": "G4973"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "ioudas",
+        "strongs": "G2455"
       }
     ],
     "6": [
@@ -379,6 +394,16 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "7": [
@@ -498,6 +523,11 @@
         "surface": "saints",
         "lemma": "hagios",
         "strongs": "G0040"
+      },
+      {
+        "surface": "four",
+        "lemma": "tessares",
+        "strongs": "G5064"
       }
     ],
     "9": [
@@ -590,6 +620,11 @@
         "surface": "nation",
         "lemma": "ethnos",
         "strongs": "G1484"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -699,6 +734,11 @@
         "surface": "of thousands",
         "lemma": "chilias",
         "strongs": "G5505"
+      },
+      {
+        "surface": "looked",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "12": [
@@ -771,6 +811,11 @@
         "surface": "blessing",
         "lemma": "eulogia",
         "strongs": "G2129"
+      },
+      {
+        "surface": "loud",
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "13": [
@@ -895,6 +940,11 @@
         "surface": "worshiped",
         "lemma": "proskuneo",
         "strongs": "G4352"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ]
   }

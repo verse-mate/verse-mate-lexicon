@@ -121,6 +121,11 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "3": [
@@ -391,6 +396,11 @@
         "surface": "will mourn",
         "lemma": "kopto",
         "strongs": "G2875"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "8": [
@@ -686,6 +696,11 @@
         "surface": "lampstands",
         "lemma": "luchnia",
         "strongs": "G3087"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -738,6 +753,11 @@
         "surface": "chest",
         "lemma": "mastos",
         "strongs": "G3149"
+      },
+      {
+        "surface": "feet",
+        "lemma": "poderes",
+        "strongs": "G4158"
       }
     ],
     "14": [
@@ -961,6 +981,11 @@
         "surface": "Last",
         "lemma": "eschatos",
         "strongs": "G2078"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "18": [
@@ -1045,6 +1070,11 @@
         "surface": "happen",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "20": [
@@ -1142,6 +1172,11 @@
         "surface": "churches",
         "lemma": "ekklesia",
         "strongs": "G1577"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

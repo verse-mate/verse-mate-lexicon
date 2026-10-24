@@ -176,6 +176,36 @@
         "surface": "of Joseph",
         "lemma": "yoseph",
         "strongs": "H3130"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "clans",
+        "lemma": "mishpachah",
+        "strongs": "H4940"
       }
     ],
     "3": [
@@ -395,6 +425,21 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "5": [
@@ -561,6 +606,21 @@
         "surface": "of En-tappuah",
         "lemma": "entappuach",
         "strongs": "H5887"
+      },
+      {
+        "surface": "border",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "south",
+        "lemma": "yamin",
+        "strongs": "H3225"
       }
     ],
     "8": [
@@ -690,6 +750,16 @@
         "surface": "at the Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "wadi",
+        "lemma": "nachal_h5158",
+        "strongs": "H5158"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "10": [
@@ -829,6 +899,51 @@
         "surface": "each with their surrounding settlements",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "Shean",
+        "lemma": "betshean",
+        "strongs": "H1052"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "12": [
@@ -923,6 +1038,11 @@
         "surface": "completely",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -1000,6 +1120,16 @@
         "surface": "has blessed us abundantly",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "portion",
+        "lemma": "chevel",
+        "strongs": "H2256"
       }
     ],
     "15": [
@@ -1154,6 +1284,21 @@
         "surface": "of Jezreel",
         "lemma": "yizreel",
         "strongs": "H3157"
+      },
+      {
+        "surface": "Joseph",
+        "lemma": "yoseph",
+        "strongs": "H3130"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Shean",
+        "lemma": "betshean",
+        "strongs": "H1052"
       }
     ],
     "17": [
@@ -1226,6 +1371,11 @@
         "surface": "allotment",
         "lemma": "goral",
         "strongs": "H1486"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1278,6 +1428,11 @@
         "surface": "drive them out",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "Canaanite",
+        "lemma": "kenaani",
+        "strongs": "H3669"
       }
     ]
   }

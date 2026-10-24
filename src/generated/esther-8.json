@@ -228,6 +228,11 @@
         "surface": "the Jews",
         "lemma": "yehudi",
         "strongs": "H3064"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "4": [
@@ -412,6 +417,11 @@
         "surface": "provinces",
         "lemma": "medinah",
         "strongs": "H4082"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "6": [
@@ -546,6 +556,11 @@
         "surface": "the Jews",
         "lemma": "yehudi",
         "strongs": "H3064"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -785,6 +800,31 @@
         "surface": "and language",
         "lemma": "lashon",
         "strongs": "H3956"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "writing",
+        "lemma": "katav_h3791",
+        "strongs": "H3791"
       }
     ],
     "10": [
@@ -969,6 +1009,16 @@
         "surface": "their possessions",
         "lemma": "bazaz",
         "strongs": "H0962"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "make a stand",
+        "lemma": "amad",
+        "strongs": "H5975"
       }
     ],
     "12": [
@@ -1026,6 +1076,16 @@
         "surface": "of Adar",
         "lemma": "adar",
         "strongs": "H0143"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "13": [
@@ -1103,6 +1163,16 @@
         "surface": "on their enemies",
         "lemma": "oyev",
         "strongs": "H0341"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
+      },
+      {
+        "surface": "ready",
+        "lemma": "atid_h6264",
+        "strongs": "H6264"
       }
     ],
     "14": [
@@ -1257,6 +1327,11 @@
         "surface": "and rejoiced",
         "lemma": "samach",
         "strongs": "H8055"
+      },
+      {
+        "surface": "royalty",
+        "lemma": "malkhut",
+        "strongs": "H4438"
       }
     ],
     "16": [
@@ -1396,6 +1471,21 @@
         "surface": "had fallen",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ]
   }

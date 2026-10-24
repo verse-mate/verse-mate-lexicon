@@ -146,6 +146,11 @@
         "surface": "image",
         "lemma": "eikon",
         "strongs": "G1504"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "3": [
@@ -661,6 +666,11 @@
         "surface": "East",
         "lemma": "anatole",
         "strongs": "G0395"
+      },
+      {
+        "surface": "sun",
+        "lemma": "helios",
+        "strongs": "G2246"
       }
     ],
     "13": [
@@ -708,6 +718,21 @@
         "surface": "false prophet",
         "lemma": "pseudoprophetes",
         "strongs": "G5578"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ],
     "14": [
@@ -832,6 +857,11 @@
         "surface": "be exposed",
         "lemma": "blepo",
         "strongs": "G0991"
+      },
+      {
+        "surface": "keeping",
+        "lemma": "tereo",
+        "strongs": "G5083"
       }
     ],
     "16": [

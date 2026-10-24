@@ -260,6 +260,16 @@
         "surface": "like amber",
         "lemma": "chashmal",
         "strongs": "H2830"
+      },
+      {
+        "surface": "storm",
+        "lemma": "saar_h5591",
+        "strongs": "H5591"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "5": [
@@ -376,6 +386,16 @@
         "surface": "bronze",
         "lemma": "nechoshet",
         "strongs": "H5178"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "8": [
@@ -475,6 +495,11 @@
         "surface": "ahead",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "each",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "10": [
@@ -547,6 +572,11 @@
         "surface": "of an eagle",
         "lemma": "nesher",
         "strongs": "H5404"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "11": [
@@ -646,6 +676,16 @@
         "surface": "as they moved",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "13": [
@@ -750,6 +790,11 @@
         "surface": "flashes of lightning",
         "lemma": "bazaq",
         "strongs": "H0965"
+      },
+      {
+        "surface": "returning",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "15": [
@@ -1042,6 +1087,16 @@
         "surface": "was in the wheels",
         "lemma": "ophan",
         "strongs": "H0212"
+      },
+      {
+        "surface": "spirit",
+        "lemma": "ruach_h7307",
+        "strongs": "H7307"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "21": [
@@ -1146,6 +1201,16 @@
         "surface": "like crystal",
         "lemma": "qerach",
         "strongs": "H7140"
+      },
+      {
+        "surface": "heads",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "23": [
@@ -1198,6 +1263,21 @@
         "surface": "its body",
         "lemma": "geviyyah",
         "strongs": "H1472"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "covering",
+        "lemma": "kasah",
+        "strongs": "H3680"
       }
     ],
     "24": [
@@ -1275,6 +1355,11 @@
         "surface": "their wings",
         "lemma": "kanaph",
         "strongs": "H3671"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "25": [
@@ -1369,6 +1454,21 @@
         "surface": "of a man",
         "lemma": "adam",
         "strongs": "H0120"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "likeness",
+        "lemma": "demut",
+        "strongs": "H1823"
       }
     ],
     "27": [
@@ -1548,6 +1648,11 @@
         "surface": "speaking",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ]
   }

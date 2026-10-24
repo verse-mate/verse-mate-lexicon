@@ -54,6 +54,11 @@
         "surface": "he lives",
         "lemma": "zao",
         "strongs": "G2198"
+      },
+      {
+        "surface": "time",
+        "lemma": "chronos",
+        "strongs": "G5550"
       }
     ],
     "2": [
@@ -421,6 +426,16 @@
         "surface": "Do not covet",
         "lemma": "epithumeo",
         "strongs": "G1937"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "8": [
@@ -715,6 +730,11 @@
         "surface": "sin",
         "lemma": "hamartia",
         "strongs": "G0266"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "15": [
@@ -843,6 +863,11 @@
         "surface": "good",
         "lemma": "kalos",
         "strongs": "G2570"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "19": [

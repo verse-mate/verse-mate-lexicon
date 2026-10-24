@@ -224,6 +224,11 @@
         "surface": "span many generations",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "7": [
@@ -308,6 +313,23 @@
         "surface": "by day",
         "lemma": "yom",
         "strongs": "H3117"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "stringed instrument",
+        "lemma": "neginah",
+        "strongs": "H5058"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

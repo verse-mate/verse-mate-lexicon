@@ -56,6 +56,11 @@
         "surface": "seat",
         "lemma": "kathedra",
         "strongs": "G2515"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -98,6 +103,11 @@
         "surface": "they preach",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "4": [
@@ -453,6 +463,11 @@
         "surface": "wish to enter",
         "lemma": "eiserchomai",
         "strongs": "G1525"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "15": [
@@ -624,6 +639,11 @@
         "surface": "that makes it sacred",
         "lemma": "hagiazo",
         "strongs": "G0037"
+      },
+      {
+        "surface": "gold",
+        "lemma": "chrusos",
+        "strongs": "G5557"
       }
     ],
     "18": [
@@ -693,6 +713,11 @@
         "surface": "that makes it sacred",
         "lemma": "hagiazo",
         "strongs": "G0037"
+      },
+      {
+        "surface": "gift",
+        "lemma": "doron",
+        "strongs": "G1435"
       }
     ],
     "20": [
@@ -977,6 +1002,11 @@
         "surface": "clean",
         "lemma": "katharos",
         "strongs": "G2513"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "27": [
@@ -1091,6 +1121,11 @@
         "surface": "wickedness",
         "lemma": "anomia",
         "strongs": "G0458"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "29": [
@@ -1553,6 +1588,16 @@
         "surface": "of the Lord",
         "lemma": "kurios",
         "strongs": "G2962"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "now",
+        "lemma": "arti",
+        "strongs": "G0737"
       }
     ]
   }

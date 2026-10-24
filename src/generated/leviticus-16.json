@@ -59,6 +59,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "died",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "2": [
@@ -161,6 +166,11 @@
         "surface": "the mercy seat",
         "lemma": "kapporet",
         "strongs": "H3727"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "3": [
@@ -198,6 +208,16 @@
         "surface": "for a burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "herd",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "4": [
@@ -290,6 +310,11 @@
         "surface": "before he wears them",
         "lemma": "lavash",
         "strongs": "H3847"
+      },
+      {
+        "surface": "body",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "5": [
@@ -337,6 +362,16 @@
         "surface": "for a burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "6": [
@@ -473,6 +508,16 @@
         "surface": "for the scapegoat",
         "lemma": "azazel",
         "strongs": "H5799"
+      },
+      {
+        "surface": "lot",
+        "lemma": "goral",
+        "strongs": "H1486"
+      },
+      {
+        "surface": "lot",
+        "lemma": "goral",
+        "strongs": "H1486"
       }
     ],
     "9": [
@@ -706,6 +751,11 @@
         "surface": "the veil",
         "lemma": "porekhet",
         "strongs": "H6532"
+      },
+      {
+        "surface": "hands",
+        "lemma": "chophen",
+        "strongs": "H2651"
       }
     ],
     "13": [
@@ -1649,6 +1699,11 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "27": [
@@ -1721,6 +1776,16 @@
         "surface": "must be burned up",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "outside",
+        "lemma": "chuts",
+        "strongs": "H2351"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "28": [
@@ -1768,6 +1833,11 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "29": [
@@ -1976,6 +2046,21 @@
         "surface": "garments",
         "lemma": "beged",
         "strongs": "H0899"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
+      },
+      {
+        "surface": "garments",
+        "lemma": "beged",
+        "strongs": "H0899"
       }
     ],
     "33": [
@@ -2023,6 +2108,21 @@
         "surface": "of the assembly",
         "lemma": "qahal",
         "strongs": "H6951"
+      },
+      {
+        "surface": "make atonement",
+        "lemma": "kipher",
+        "strongs": "H3722"
+      },
+      {
+        "surface": "make atonement",
+        "lemma": "kipher",
+        "strongs": "H3722"
+      },
+      {
+        "surface": "holiness",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "34": [
@@ -2090,6 +2190,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

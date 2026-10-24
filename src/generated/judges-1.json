@@ -59,6 +59,16 @@
         "surface": "the Canaanites",
         "lemma": "kenaani",
         "strongs": "H3669"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -299,6 +309,21 @@
         "surface": "and big toes",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "Bezek",
+        "lemma": "adonivezeq",
+        "strongs": "H0137"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "7": [
@@ -386,6 +411,16 @@
         "surface": "where he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Bezek",
+        "lemma": "adonivezeq",
+        "strongs": "H0137"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -562,6 +597,11 @@
         "surface": "and Talmai",
         "lemma": "talmay",
         "strongs": "H8526"
+      },
+      {
+        "surface": "Hebron",
+        "lemma": "chevron",
+        "strongs": "H2275"
       }
     ],
     "11": [
@@ -604,6 +644,11 @@
         "surface": "Kiriath-sepher",
         "lemma": "qiryatsannah",
         "strongs": "H7158"
+      },
+      {
+        "surface": "Debir",
+        "lemma": "devir_h1688",
+        "strongs": "H1688"
       }
     ],
     "12": [
@@ -842,6 +887,11 @@
         "surface": "springs",
         "lemma": "gullah",
         "strongs": "H1543"
+      },
+      {
+        "surface": "springs",
+        "lemma": "gullah",
+        "strongs": "H1543"
       }
     ],
     "16": [
@@ -924,6 +974,16 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "city",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
+      },
+      {
+        "surface": "palm trees",
+        "lemma": "irhattmarim",
+        "strongs": "H5899"
       }
     ],
     "17": [
@@ -981,6 +1041,16 @@
         "surface": "Hormah",
         "lemma": "chormah",
         "strongs": "H2767"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "18": [
@@ -1011,6 +1081,16 @@
       },
       {
         "surface": "its territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
+      },
+      {
+        "surface": "territory",
         "lemma": "gevul",
         "strongs": "H1366"
       }
@@ -1174,6 +1254,16 @@
         "surface": "the Benjamites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
       }
     ],
     "22": [
@@ -1238,6 +1328,21 @@
         "surface": "Luz",
         "lemma": "luz",
         "strongs": "H3870"
+      },
+      {
+        "surface": "Joseph",
+        "lemma": "yoseph",
+        "strongs": "H3130"
+      },
+      {
+        "surface": "el",
+        "lemma": "betel_h1008",
+        "strongs": "H1008"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "24": [
@@ -1404,6 +1509,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "27": [
@@ -1476,6 +1586,41 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "dwell",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "28": [
@@ -1627,6 +1772,11 @@
         "surface": "as forced laborers",
         "lemma": "mas",
         "strongs": "H4522"
+      },
+      {
+        "surface": "dwelt",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "31": [
@@ -1684,6 +1834,11 @@
         "surface": "Rehob",
         "lemma": "rechov",
         "strongs": "H7340"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "32": [
@@ -1828,6 +1983,11 @@
         "surface": "as forced laborers",
         "lemma": "mas",
         "strongs": "H4522"
+      },
+      {
+        "surface": "inhabitants",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "34": [
@@ -1870,6 +2030,11 @@
         "surface": "into the plain",
         "lemma": "emeq",
         "strongs": "H6010"
+      },
+      {
+        "surface": "Dan",
+        "lemma": "dan",
+        "strongs": "H1835"
       }
     ],
     "35": [
@@ -1969,6 +2134,11 @@
         "surface": "and beyond",
         "lemma": "maal",
         "strongs": "H4605"
+      },
+      {
+        "surface": "ascent",
+        "lemma": "maaleh",
+        "strongs": "H4608"
       }
     ]
   }

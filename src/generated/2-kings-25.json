@@ -94,6 +94,11 @@
         "surface": "all around it",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "2": [
@@ -131,6 +136,11 @@
         "surface": "year",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "3": [
@@ -327,6 +337,11 @@
         "surface": "deserted",
         "lemma": "puts",
         "strongs": "H6327"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "6": [
@@ -508,6 +523,26 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "9": [
@@ -565,6 +600,16 @@
         "surface": "building",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "burned",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "10": [
@@ -783,6 +828,16 @@
         "surface": "to Babylon",
         "lemma": "bavel",
         "strongs": "H0894"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "14": [
@@ -867,6 +922,16 @@
         "surface": "or fine silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "gold",
+        "lemma": "zahav",
+        "strongs": "H2091"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "16": [
@@ -934,6 +999,11 @@
         "surface": "was beyond measure",
         "lemma": "mishqal",
         "strongs": "H4948"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "17": [
@@ -1026,6 +1096,21 @@
         "surface": "with its network",
         "lemma": "sevakhah",
         "strongs": "H7639"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "capital",
+        "lemma": "koteret",
+        "strongs": "H3805"
+      },
+      {
+        "surface": "capital",
+        "lemma": "koteret",
+        "strongs": "H3805"
       }
     ],
     "18": [
@@ -1083,6 +1168,11 @@
         "surface": "doorkeepers",
         "lemma": "shamar",
         "strongs": "H8104"
+      },
+      {
+        "surface": "threshold",
+        "lemma": "saph",
+        "strongs": "H5592"
       }
     ],
     "19": [
@@ -1185,6 +1275,36 @@
         "surface": "in the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "20": [
@@ -1346,6 +1466,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "left behind",
+        "lemma": "shaar",
+        "strongs": "H7604"
       }
     ],
     "23": [
@@ -1811,6 +1936,36 @@
         "surface": "prison",
         "lemma": "kele",
         "strongs": "H3608"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "became king",
+        "lemma": "malakh_h4427",
+        "strongs": "H4427"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "28": [
@@ -1890,6 +2045,16 @@
         "surface": "of his life",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "bread",
+        "lemma": "lechem",
+        "strongs": "H3899"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "30": [
@@ -1927,6 +2092,26 @@
         "surface": "of his life",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "allowance",
+        "lemma": "aruchah",
+        "strongs": "H0737"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

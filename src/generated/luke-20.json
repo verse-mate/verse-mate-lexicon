@@ -54,6 +54,11 @@
         "surface": "came up to Him",
         "lemma": "ephistemi",
         "strongs": "G2186"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -96,6 +101,11 @@
         "surface": "authority",
         "lemma": "exousia",
         "strongs": "G1849"
+      },
+      {
+        "surface": "tell",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "3": [
@@ -118,6 +128,11 @@
         "surface": "Tell",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "Answering",
+        "lemma": "apokrino",
+        "strongs": "G0611"
       }
     ],
     "4": [
@@ -177,6 +192,16 @@
         "surface": "did you not believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "6": [
@@ -246,6 +271,11 @@
         "surface": "where it was from",
         "lemma": "pothen",
         "strongs": "G4159"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "8": [
@@ -340,6 +370,11 @@
         "surface": "time",
         "lemma": "chronos",
         "strongs": "G5550"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "10": [
@@ -570,6 +605,11 @@
         "surface": "will be",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -706,6 +746,11 @@
         "surface": "the cornerstone",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "corner’",
+        "lemma": "gonia",
+        "strongs": "G1137"
       }
     ],
     "18": [
@@ -790,6 +835,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "20": [
@@ -904,6 +954,26 @@
         "surface": "the truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "speak",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "receive",
+        "lemma": "lambano",
+        "strongs": "G2983"
+      },
+      {
+        "surface": "person",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "22": [
@@ -1266,6 +1336,11 @@
         "surface": "died",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "Finally",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "33": [
@@ -1301,6 +1376,11 @@
       },
       {
         "surface": "were married",
+        "lemma": "gune",
+        "strongs": "G1135"
+      },
+      {
+        "surface": "as wife",
         "lemma": "gune",
         "strongs": "G1135"
       }
@@ -1555,6 +1635,11 @@
         "surface": "well",
         "lemma": "kalos",
         "strongs": "G2573"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "40": [
@@ -1836,6 +1921,11 @@
         "surface": "condemnation",
         "lemma": "krima",
         "strongs": "G2917"
+      },
+      {
+        "surface": "more excessive",
+        "lemma": "perissoteros",
+        "strongs": "G4055"
       }
     ]
   }

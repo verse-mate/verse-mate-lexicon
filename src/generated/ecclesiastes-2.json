@@ -168,6 +168,21 @@
         "surface": "of their lives",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "gratify",
+        "lemma": "mashakh",
+        "strongs": "H4900"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "4": [
@@ -269,6 +284,11 @@
         "surface": "trees",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "7": [
@@ -331,6 +351,16 @@
         "surface": "before me",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "miqneh",
+        "strongs": "H4735"
       }
     ],
     "8": [
@@ -440,6 +470,11 @@
         "surface": "remained",
         "lemma": "amad",
         "strongs": "H5975"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -666,6 +701,11 @@
         "surface": "been accomplished",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "13": [
@@ -998,6 +1038,11 @@
         "surface": "after me",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "laborer",
+        "lemma": "amel",
+        "strongs": "H6001"
       }
     ],
     "19": [
@@ -1226,6 +1271,11 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "23": [
@@ -1330,6 +1380,16 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "25": [
@@ -1449,6 +1509,11 @@
         "surface": "of the wind",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ]
   }

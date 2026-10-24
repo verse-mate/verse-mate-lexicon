@@ -39,6 +39,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "2": [
@@ -103,6 +108,11 @@
         "surface": "it is lovely",
         "lemma": "naim",
         "strongs": "H5273"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "4": [
@@ -473,6 +483,11 @@
         "surface": "through all generations",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "14": [
@@ -744,6 +759,11 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

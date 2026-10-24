@@ -203,6 +203,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "4": [
@@ -235,6 +240,11 @@
         "surface": "assembly",
         "lemma": "qahal",
         "strongs": "H6951"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -608,6 +618,16 @@
         "surface": "will turn away",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "9": [
@@ -918,6 +938,16 @@
         "surface": "of Unleavened Bread",
         "lemma": "matstsah",
         "strongs": "H4682"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "numerous",
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "14": [
@@ -1032,6 +1062,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "16": [
@@ -1151,6 +1186,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "clean",
+        "lemma": "tahor",
+        "strongs": "H2889"
       }
     ],
     "18": [
@@ -1434,6 +1474,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "22": [
@@ -1521,6 +1566,21 @@
         "surface": "of their fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "understanding",
+        "lemma": "sakhal_h7919",
+        "strongs": "H7919"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "23": [

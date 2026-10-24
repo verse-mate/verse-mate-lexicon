@@ -49,6 +49,11 @@
         "surface": "recur",
         "lemma": "naqaph",
         "strongs": "H5362"
+      },
+      {
+        "surface": "add",
+        "lemma": "yasaph",
+        "strongs": "H3254"
       }
     ],
     "2": [
@@ -468,6 +473,16 @@
         "surface": "Zion",
         "lemma": "tsiyyon",
         "strongs": "H6726"
+      },
+      {
+        "surface": "appetite",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "throat",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "9": [
@@ -629,6 +644,26 @@
         "surface": "is sealed",
         "lemma": "chatam",
         "strongs": "H2856"
+      },
+      {
+        "surface": "writing",
+        "lemma": "sepher",
+        "strongs": "H5612"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "read aloud",
+        "lemma": "qara",
+        "strongs": "H7121"
+      },
+      {
+        "surface": "am able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "12": [
@@ -661,6 +696,31 @@
         "surface": "I cannot read",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "writing",
+        "lemma": "sepher",
+        "strongs": "H5612"
+      },
+      {
+        "surface": "writing",
+        "lemma": "sepher",
+        "strongs": "H5612"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "read aloud",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "13": [
@@ -1246,6 +1306,11 @@
         "surface": "grow pale",
         "lemma": "chavar",
         "strongs": "H2357"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "23": [

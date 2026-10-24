@@ -176,6 +176,16 @@
         "surface": "side",
         "lemma": "kateph",
         "strongs": "H3802"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "3": [
@@ -231,6 +241,11 @@
       },
       {
         "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
+      },
+      {
+        "surface": "waters",
         "lemma": "mayim",
         "strongs": "H4325"
       }
@@ -493,6 +508,11 @@
         "surface": "becomes fresh",
         "lemma": "rapah",
         "strongs": "H7495"
+      },
+      {
+        "surface": "brought out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "9": [
@@ -585,6 +605,21 @@
         "surface": "will flourish",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "10": [
@@ -657,6 +692,16 @@
         "surface": "Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "Gedi",
+        "lemma": "engedi",
+        "strongs": "H5872"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "11": [
@@ -863,6 +908,11 @@
         "surface": "shall receive two portions",
         "lemma": "chevel",
         "strongs": "H2256"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "14": [
@@ -1024,6 +1074,16 @@
         "surface": "of Hauran",
         "lemma": "chavran",
         "strongs": "H2362"
+      },
+      {
+        "surface": "Hamath",
+        "lemma": "chamat",
+        "strongs": "H2574"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "17": [
@@ -1178,6 +1238,11 @@
         "surface": "boundary",
         "lemma": "peah",
         "strongs": "H6285"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "19": [
@@ -1235,6 +1300,16 @@
         "surface": "boundary",
         "lemma": "peah",
         "strongs": "H6285"
+      },
+      {
+        "surface": "south",
+        "lemma": "teman",
+        "strongs": "H8486"
+      },
+      {
+        "surface": "Kadesh",
+        "lemma": "qadesh_h6946",
+        "strongs": "H6946"
       }
     ],
     "20": [
@@ -1282,6 +1357,11 @@
         "surface": "boundary",
         "lemma": "peah",
         "strongs": "H6285"
+      },
+      {
+        "surface": "Hamath",
+        "lemma": "chamat",
+        "strongs": "H2574"
       }
     ],
     "21": [
@@ -1384,6 +1464,16 @@
       },
       {
         "surface": "of Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "among",
+        "lemma": "tavekh",
+        "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
       }

@@ -44,6 +44,11 @@
         "surface": "empire",
         "lemma": "oikoumene",
         "strongs": "G3625"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "2": [
@@ -98,6 +103,11 @@
         "surface": "to register",
         "lemma": "apographo",
         "strongs": "G0583"
+      },
+      {
+        "surface": "each",
+        "lemma": "hekastos",
+        "strongs": "G1538"
       }
     ],
     "4": [
@@ -165,6 +175,11 @@
         "surface": "of David",
         "lemma": "daueid",
         "strongs": "G1138"
+      },
+      {
+        "surface": "City",
+        "lemma": "polis",
+        "strongs": "G4172"
       }
     ],
     "5": [
@@ -637,6 +652,11 @@
         "surface": "has made known",
         "lemma": "gnorizo",
         "strongs": "G1107"
+      },
+      {
+        "surface": "us see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -706,6 +726,11 @@
         "surface": "Him",
         "lemma": "paidion",
         "strongs": "G3813"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "18": [
@@ -812,6 +837,11 @@
         "surface": "the angel had told",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -864,6 +894,11 @@
         "surface": "was conceived",
         "lemma": "sullambano",
         "strongs": "G4815"
+      },
+      {
+        "surface": "womb",
+        "lemma": "koilia",
+        "strongs": "G2836"
       }
     ],
     "22": [
@@ -953,6 +988,16 @@
         "surface": "Lord",
         "lemma": "kurios",
         "strongs": "G2962"
+      },
+      {
+        "surface": "womb",
+        "lemma": "metra",
+        "strongs": "G3388"
+      },
+      {
+        "surface": "holy",
+        "lemma": "hagios",
+        "strongs": "G0040"
       }
     ],
     "24": [
@@ -1124,6 +1169,16 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "27": [
@@ -1230,6 +1285,11 @@
         "surface": "peace",
         "lemma": "eirene",
         "strongs": "G1515"
+      },
+      {
+        "surface": "Now",
+        "lemma": "nun",
+        "strongs": "G3568"
       }
     ],
     "30": [
@@ -1247,6 +1307,11 @@
         "surface": "salvation",
         "lemma": "soterion",
         "strongs": "G4992"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "31": [
@@ -1489,6 +1554,21 @@
         "surface": "years",
         "lemma": "etos",
         "strongs": "G2094"
+      },
+      {
+        "surface": "great",
+        "lemma": "polus",
+        "strongs": "G4183"
+      },
+      {
+        "surface": "husband",
+        "lemma": "aner",
+        "strongs": "G0435"
+      },
+      {
+        "surface": "marriage",
+        "lemma": "partheneia",
+        "strongs": "G3932"
       }
     ],
     "37": [
@@ -1536,6 +1616,16 @@
         "surface": "praying",
         "lemma": "deesis",
         "strongs": "G1162"
+      },
+      {
+        "surface": "years",
+        "lemma": "etos",
+        "strongs": "G2094"
+      },
+      {
+        "surface": "four",
+        "lemma": "tessares",
+        "strongs": "G5064"
       }
     ],
     "38": [
@@ -1889,6 +1979,16 @@
         "surface": "asking them questions",
         "lemma": "eperotao",
         "strongs": "G1905"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "midst",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "47": [
@@ -1968,6 +2068,16 @@
         "surface": "have been anxiously searching",
         "lemma": "zeteo",
         "strongs": "G2212"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "distressing",
+        "lemma": "odunao",
+        "strongs": "G3600"
       }
     ],
     "49": [
@@ -2069,6 +2179,11 @@
         "surface": "heart",
         "lemma": "kardia",
         "strongs": "G2588"
+      },
+      {
+        "surface": "came",
+        "lemma": "erchomai",
+        "strongs": "G2064"
       }
     ],
     "52": [

@@ -131,6 +131,11 @@
         "surface": "of those you killed",
         "lemma": "echad",
         "strongs": "H0259"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "3": [
@@ -183,6 +188,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "4": [
@@ -280,6 +290,16 @@
         "surface": "than my fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "5": [
@@ -637,6 +657,21 @@
         "surface": "my life {as well",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "zealous",
+        "lemma": "qana",
+        "strongs": "H7065"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "take away",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "11": [
@@ -985,6 +1020,21 @@
         "surface": "my life {as well",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "zealous",
+        "lemma": "qana",
+        "strongs": "H7065"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "take away",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "15": [
@@ -1114,6 +1164,11 @@
         "surface": "as prophet",
         "lemma": "navi",
         "strongs": "H5030"
+      },
+      {
+        "surface": "anoint",
+        "lemma": "mashach",
+        "strongs": "H4886"
       }
     ],
     "17": [
@@ -1310,6 +1365,16 @@
         "surface": "his cloak",
         "lemma": "adderet",
         "strongs": "H0155"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "20": [
@@ -1479,6 +1544,11 @@
         "surface": "Elijah",
         "lemma": "eliyyah",
         "strongs": "H0452"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ]
   }

@@ -54,6 +54,11 @@
         "surface": "from the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -161,6 +166,11 @@
         "surface": "a word",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "3": [
@@ -518,6 +528,11 @@
         "surface": "You must surely die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "9": [
@@ -749,6 +764,11 @@
         "surface": "with your own ears",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -821,6 +841,11 @@
         "surface": "you have heard",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -992,6 +1017,11 @@
         "surface": "in your hearing",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "16": [
@@ -1101,6 +1131,16 @@
         "surface": "of the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1228,6 +1268,16 @@
         "surface": "ridge",
         "lemma": "bamah",
         "strongs": "H1116"
+      },
+      {
+        "surface": "Micah",
+        "lemma": "mikhah",
+        "strongs": "H4318"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1330,6 +1380,16 @@
         "surface": "ourselves",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "fearing",
+        "lemma": "yare",
+        "strongs": "H3372"
       }
     ],
     "20": [
@@ -1407,6 +1467,11 @@
         "surface": "that Jeremiah did",
         "lemma": "yirmeyah",
         "strongs": "H3414"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1541,6 +1606,11 @@
         "surface": "some other men",
         "lemma": "enosh",
         "strongs": "H0582"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "23": [
@@ -1660,6 +1730,11 @@
         "surface": "to be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ]
   }

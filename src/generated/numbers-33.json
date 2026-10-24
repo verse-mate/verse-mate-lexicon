@@ -173,6 +173,26 @@
         "surface": "the Egyptians",
         "lemma": "mitsri",
         "strongs": "H4713"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "raised",
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "4": [
@@ -252,6 +272,11 @@
         "surface": "at Succoth",
         "lemma": "sukkot",
         "strongs": "H5523"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -336,6 +361,11 @@
         "surface": "Migdol",
         "lemma": "migdol",
         "strongs": "H4024"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "8": [
@@ -398,6 +428,21 @@
         "surface": "at Marah",
         "lemma": "marah",
         "strongs": "H4785"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "journey",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -450,6 +495,21 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "Elim",
+        "lemma": "elim",
+        "strongs": "H0362"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "10": [
@@ -1308,6 +1368,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "39": [
@@ -1340,6 +1410,21 @@
         "surface": "Hor",
         "lemma": "hor",
         "strongs": "H2023"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "40": [
@@ -1392,6 +1477,11 @@
         "surface": "were coming",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "41": [
@@ -1522,6 +1612,11 @@
         "surface": "at Dibon-gad",
         "lemma": "divon",
         "strongs": "H1769"
+      },
+      {
+        "surface": "gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "46": [
@@ -1549,6 +1644,11 @@
         "surface": "at Almon-diblathaim",
         "lemma": "almondivlatayemah",
         "strongs": "H5963"
+      },
+      {
+        "surface": "gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "47": [
@@ -1712,6 +1812,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "51": [
@@ -1749,6 +1854,11 @@
         "surface": "of Canaan",
         "lemma": "kenaan",
         "strongs": "H3667"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "52": [
@@ -1816,6 +1926,11 @@
         "surface": "their high places",
         "lemma": "bamah",
         "strongs": "H1116"
+      },
+      {
+        "surface": "destroy",
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "53": [

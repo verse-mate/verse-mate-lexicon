@@ -269,6 +269,16 @@
         "surface": "inlaid with ivory",
         "lemma": "shen",
         "strongs": "H8127"
+      },
+      {
+        "surface": "inlaid",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "pine",
+        "lemma": "ashur_h0839",
+        "strongs": "H0839"
       }
     ],
     "7": [
@@ -688,6 +698,11 @@
         "surface": "for your merchandise",
         "lemma": "maarav",
         "strongs": "H4627"
+      },
+      {
+        "surface": "human",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "14": [
@@ -720,6 +735,11 @@
         "surface": "for your wares",
         "lemma": "izzavon",
         "strongs": "H5801"
+      },
+      {
+        "surface": "Togarmah",
+        "lemma": "togarmah",
+        "strongs": "H8425"
       }
     ],
     "15": [
@@ -772,6 +792,16 @@
         "surface": "and ebony",
         "lemma": "hoven",
         "strongs": "H1894"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "tribute",
+        "lemma": "eshkar",
+        "strongs": "H0814"
       }
     ],
     "16": [
@@ -1000,6 +1030,11 @@
         "surface": "for your merchandise",
         "lemma": "maarav",
         "strongs": "H4627"
+      },
+      {
+        "surface": "Javan",
+        "lemma": "yavan",
+        "strongs": "H3120"
       }
     ],
     "20": [
@@ -1022,6 +1057,11 @@
         "surface": "for riding",
         "lemma": "rikhbah",
         "strongs": "H7396"
+      },
+      {
+        "surface": "material",
+        "lemma": "chophesh",
+        "strongs": "H2667"
       }
     ],
     "21": [
@@ -1069,6 +1109,11 @@
         "surface": "and goats",
         "lemma": "attud",
         "strongs": "H6260"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "22": [
@@ -1277,6 +1322,11 @@
         "surface": "of the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "26": [
@@ -1406,6 +1456,26 @@
         "surface": "of your downfall",
         "lemma": "mappelet",
         "strongs": "H4658"
+      },
+      {
+        "surface": "merchandise",
+        "lemma": "maarav_h4627",
+        "strongs": "H4627"
+      },
+      {
+        "surface": "leaks",
+        "lemma": "bedeq",
+        "strongs": "H0919"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
+      },
+      {
+        "surface": "midst",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "28": [
@@ -1579,6 +1649,11 @@
         "surface": "mourning",
         "lemma": "misped",
         "strongs": "H4553"
+      },
+      {
+        "surface": "baldness",
+        "lemma": "qorchah",
+        "strongs": "H7144"
       }
     ],
     "32": [
@@ -1777,6 +1852,11 @@
         "surface": "are contorted",
         "lemma": "raam",
         "strongs": "H7481"
+      },
+      {
+        "surface": "shuddering",
+        "lemma": "saar_h8178",
+        "strongs": "H8178"
       }
     ],
     "36": [
@@ -1809,6 +1889,11 @@
         "surface": "and will be no more",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

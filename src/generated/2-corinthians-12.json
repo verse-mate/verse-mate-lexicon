@@ -106,6 +106,26 @@
         "surface": "knows",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "3": [
@@ -143,6 +163,21 @@
         "surface": "knows",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "4": [
@@ -180,6 +215,11 @@
         "surface": "to tell",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "declaration",
+        "lemma": "rhema",
+        "strongs": "G4487"
       }
     ],
     "5": [
@@ -249,6 +289,11 @@
         "surface": "hears",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "7": [
@@ -296,6 +341,11 @@
         "surface": "torment",
         "lemma": "kolaphizo",
         "strongs": "G2852"
+      },
+      {
+        "surface": "become conceited",
+        "lemma": "huperairo",
+        "strongs": "G5229"
       }
     ],
     "8": [
@@ -489,6 +539,11 @@
         "surface": "nothing",
         "lemma": "oudeis",
         "strongs": "G3762"
+      },
+      {
+        "surface": "apostles",
+        "lemma": "apostolos",
+        "strongs": "G0652"
       }
     ],
     "12": [
@@ -672,6 +727,11 @@
         "surface": "less",
         "lemma": "hetton",
         "strongs": "G2276"
+      },
+      {
+        "surface": "more abundantly",
+        "lemma": "perissoteros_g4056",
+        "strongs": "G4056"
       }
     ],
     "16": [

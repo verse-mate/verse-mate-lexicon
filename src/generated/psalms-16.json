@@ -172,6 +172,11 @@
         "surface": "my lot {secure",
         "lemma": "goral",
         "strongs": "H1486"
+      },
+      {
+        "surface": "possession",
+        "lemma": "cheleq",
+        "strongs": "H2506"
       }
     ],
     "6": [
@@ -404,6 +409,18 @@
         "surface": "at Your right hand",
         "lemma": "yamin",
         "strongs": "H3225"
+      }
+    ],
+    "0": [
+      {
+        "surface": "miktam",
+        "lemma": "mikhtam",
+        "strongs": "H4387"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

@@ -136,6 +136,11 @@
         "surface": "affliction",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "foreign",
+        "lemma": "nokhri",
+        "strongs": "H5237"
       }
     ],
     "3": [
@@ -223,6 +228,16 @@
         "surface": "is better off",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "4": [
@@ -537,6 +552,21 @@
         "surface": "one stronger",
         "lemma": "taqaph",
         "strongs": "H8630"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "mighty",
+        "lemma": "taqqiph",
+        "strongs": "H8623"
       }
     ],
     "11": [
@@ -676,6 +706,11 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "life",
+        "lemma": "chay",
+        "strongs": "H2416"
       }
     ]
   }

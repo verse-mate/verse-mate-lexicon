@@ -523,6 +523,16 @@
         "surface": "death",
         "lemma": "thanatos",
         "strongs": "G2288"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "sleep",
+        "lemma": "hupnos",
+        "strongs": "G5258"
       }
     ],
     "14": [
@@ -651,6 +661,11 @@
         "surface": "tomb",
         "lemma": "mnemeion",
         "strongs": "G3419"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "18": [
@@ -673,6 +688,11 @@
         "surface": "two miles",
         "lemma": "dekapente",
         "strongs": "G1178"
+      },
+      {
+        "surface": "stadia",
+        "lemma": "stadios",
+        "strongs": "G4712"
       }
     ],
     "19": [
@@ -831,6 +851,11 @@
         "surface": "Him",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -890,6 +915,11 @@
         "surface": "day",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "25": [
@@ -959,6 +989,11 @@
         "surface": "Do you believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "27": [
@@ -1204,6 +1239,11 @@
         "surface": "there",
         "lemma": "ekei",
         "strongs": "G1563"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "32": [
@@ -1266,6 +1306,11 @@
         "surface": "have died",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "33": [
@@ -1313,6 +1358,11 @@
         "surface": "troubled",
         "lemma": "tarasso",
         "strongs": "G5015"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "34": [
@@ -1345,6 +1395,11 @@
         "surface": "they answered",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "35": [
@@ -1374,6 +1429,11 @@
         "surface": "He loved",
         "lemma": "phileo",
         "strongs": "G5368"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "37": [
@@ -1876,6 +1936,11 @@
         "surface": "signs",
         "lemma": "semeion",
         "strongs": "G4592"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "48": [
@@ -1965,6 +2030,11 @@
         "surface": "nothing at all",
         "lemma": "oudeis",
         "strongs": "G3762"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "50": [
@@ -2096,6 +2166,11 @@
         "surface": "one",
         "lemma": "heis",
         "strongs": "G1520"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "53": [
@@ -2279,6 +2354,11 @@
         "surface": "feast",
         "lemma": "heorte",
         "strongs": "G1859"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "57": [

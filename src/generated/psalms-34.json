@@ -298,6 +298,11 @@
         "surface": "who takes refuge",
         "lemma": "chasah",
         "strongs": "H2620"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "9": [
@@ -372,6 +377,11 @@
         "surface": "good thing",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "11": [
@@ -643,6 +653,11 @@
         "surface": "in spirit",
         "lemma": "ruach",
         "strongs": "H7307"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "19": [
@@ -776,6 +791,48 @@
         "surface": "will be condemned",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "changed",
+        "lemma": "shanah",
+        "strongs": "H8138"
+      },
+      {
+        "surface": "sense",
+        "lemma": "taam_h2940",
+        "strongs": "H2940"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "Abimelech",
+        "lemma": "avimelekh",
+        "strongs": "H0040"
+      },
+      {
+        "surface": "drove away",
+        "lemma": "garash",
+        "strongs": "H1644"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ]
   }

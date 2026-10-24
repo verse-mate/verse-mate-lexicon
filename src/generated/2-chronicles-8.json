@@ -96,6 +96,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -217,6 +222,16 @@
         "surface": "and bars",
         "lemma": "beriach",
         "strongs": "H1280"
+      },
+      {
+        "surface": "Beth",
+        "lemma": "betchoron",
+        "strongs": "H1032"
+      },
+      {
+        "surface": "Horon",
+        "lemma": "betchoron",
+        "strongs": "H1032"
       }
     ],
     "6": [
@@ -314,6 +329,16 @@
         "surface": "of his dominion",
         "lemma": "memshalah",
         "strongs": "H4475"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "desire",
+        "lemma": "chesheq",
+        "strongs": "H2837"
       }
     ],
     "7": [
@@ -418,6 +443,16 @@
         "surface": "this",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -522,6 +557,21 @@
         "surface": "supervisors",
         "lemma": "radah",
         "strongs": "H7287"
+      },
+      {
+        "surface": "overseers",
+        "lemma": "natsav",
+        "strongs": "H5324"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "11": [
@@ -753,6 +803,16 @@
         "surface": "of Tabernacles",
         "lemma": "sukkah",
         "strongs": "H5521"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "times",
+        "lemma": "paam_h6471",
+        "strongs": "H6471"
       }
     ],
     "14": [
@@ -870,6 +930,16 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
       }
     ],
     "15": [
@@ -1016,6 +1086,16 @@
         "surface": "of Edom",
         "lemma": "edom",
         "strongs": "H0123"
+      },
+      {
+        "surface": "sea",
+        "lemma": "yam",
+        "strongs": "H3220"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "18": [
@@ -1113,6 +1193,21 @@
         "surface": "Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "sea",
+        "lemma": "yam",
+        "strongs": "H3220"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
       }
     ]
   }

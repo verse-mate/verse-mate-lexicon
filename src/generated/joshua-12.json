@@ -84,6 +84,16 @@
         "surface": "eastward",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "2": [
@@ -258,6 +268,16 @@
         "surface": "of Pisgah",
         "lemma": "pisgah",
         "strongs": "H6449"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
+      },
+      {
+        "surface": "slopes",
+        "lemma": "ashdothappisgah",
+        "strongs": "H0798"
       }
     ],
     "4": [
@@ -444,6 +464,26 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "servant",
+        "lemma": "eved",
+        "strongs": "H5650"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "7": [
@@ -556,6 +596,11 @@
         "surface": "as an inheritance",
         "lemma": "yerushshah",
         "strongs": "H3425"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [

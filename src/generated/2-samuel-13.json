@@ -59,6 +59,21 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "2": [
@@ -449,6 +464,16 @@
         "surface": "from her hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "make cakes",
+        "lemma": "lavav",
+        "strongs": "H3823"
       }
     ],
     "7": [
@@ -501,6 +526,11 @@
         "surface": "a meal",
         "lemma": "biryah",
         "strongs": "H1279"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -630,6 +660,16 @@
         "surface": "went out",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "10": [
@@ -868,6 +908,11 @@
         "surface": "withhold me",
         "lemma": "mana",
         "strongs": "H4513"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "14": [
@@ -895,6 +940,16 @@
         "surface": "and lay with",
         "lemma": "shakhav",
         "strongs": "H7901"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "15": [
@@ -947,6 +1002,26 @@
         "surface": "Be gone",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "hated",
+        "lemma": "sane",
+        "strongs": "H8130"
+      },
+      {
+        "surface": "Amnon",
+        "lemma": "amnon",
+        "strongs": "H0550"
+      },
+      {
+        "surface": "hatred",
+        "lemma": "sinah",
+        "strongs": "H8135"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "16": [
@@ -994,6 +1069,16 @@
         "surface": "to listen",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "causes",
+        "lemma": "odah",
+        "strongs": "H0182"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "17": [
@@ -1036,6 +1121,11 @@
         "surface": "behind her",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "served",
+        "lemma": "sharat",
+        "strongs": "H8334"
       }
     ],
     "18": [
@@ -1103,6 +1193,11 @@
         "surface": "wore",
         "lemma": "lavash",
         "strongs": "H3847"
+      },
+      {
+        "surface": "robes",
+        "lemma": "meil",
+        "strongs": "H4598"
       }
     ],
     "19": [
@@ -1160,6 +1255,16 @@
         "surface": "crying aloud",
         "lemma": "zaaq",
         "strongs": "H2199"
+      },
+      {
+        "surface": "palms and soles",
+        "lemma": "pas_h6446",
+        "strongs": "H6446"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "20": [
@@ -1289,6 +1394,16 @@
         "surface": "he was furious",
         "lemma": "charah",
         "strongs": "H2734"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "22": [
@@ -1351,6 +1466,11 @@
         "surface": "Tamar",
         "lemma": "tamar",
         "strongs": "H8559"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "23": [
@@ -1413,6 +1533,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "24": [
@@ -1537,6 +1662,11 @@
         "surface": "but gave him his blessing",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "Absalom",
+        "lemma": "avishalom",
+        "strongs": "H0053"
       }
     ],
     "26": [
@@ -1723,6 +1853,16 @@
         "surface": "valiant",
         "lemma": "chayil",
         "strongs": "H2428"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "29": [
@@ -1790,6 +1930,11 @@
         "surface": "his mule",
         "lemma": "pered",
         "strongs": "H6505"
+      },
+      {
+        "surface": "mounted",
+        "lemma": "rakhav",
+        "strongs": "H7392"
       }
     ],
     "30": [
@@ -1857,6 +2002,11 @@
         "surface": "is left",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "31": [
@@ -2026,6 +2176,21 @@
         "surface": "Tamar",
         "lemma": "tamar",
         "strongs": "H8559"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "young men",
+        "lemma": "naar_h5288",
+        "strongs": "H5288"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "33": [
@@ -2098,6 +2263,11 @@
         "surface": "is dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "34": [
@@ -2165,6 +2335,11 @@
         "surface": "of the hill. And the watchman went and reported to the king, “I see men coming from the direction of Horonaim, along the side of the hill",
         "lemma": "har",
         "strongs": "H2022"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "35": [
@@ -2212,6 +2387,11 @@
         "surface": "said",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "happened",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "36": [
@@ -2279,6 +2459,16 @@
         "surface": "bitterly",
         "lemma": "gadol",
         "strongs": "H1419"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "weeping",
+        "lemma": "bekhi",
+        "strongs": "H1065"
       }
     ],
     "37": [
@@ -2341,6 +2531,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "Ammihud",
+        "lemma": "ammihud",
+        "strongs": "H5989"
       }
     ],
     "38": [

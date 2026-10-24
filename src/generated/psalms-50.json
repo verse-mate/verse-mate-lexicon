@@ -54,6 +54,11 @@
         "surface": "where it sets",
         "lemma": "mavo",
         "strongs": "H3996"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "2": [
@@ -128,6 +133,11 @@
         "surface": "rages around Him",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "4": [
@@ -719,6 +729,11 @@
         "surface": "to your face",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "am",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "22": [
@@ -793,6 +808,18 @@
         "surface": "of God",
         "lemma": "elohim",
         "strongs": "H0430"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
       }
     ]
   }

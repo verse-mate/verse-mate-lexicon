@@ -151,6 +151,11 @@
         "surface": "consumed",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "bush",
+        "lemma": "seneh",
+        "strongs": "H5572"
       }
     ],
     "3": [
@@ -317,6 +322,11 @@
         "surface": "ground",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "6": [
@@ -456,6 +466,11 @@
         "surface": "of their sufferings",
         "lemma": "makhov",
         "strongs": "H4341"
+      },
+      {
+        "surface": "seen",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "8": [
@@ -647,6 +662,11 @@
         "surface": "out of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "11": [
@@ -694,6 +714,11 @@
         "surface": "out of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "12": [
@@ -818,6 +843,11 @@
         "surface": "should I tell",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -870,6 +900,16 @@
         "surface": "has sent me",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "15": [
@@ -972,6 +1012,21 @@
         "surface": "in every generation",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "16": [
@@ -1059,6 +1114,11 @@
         "surface": "in Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "observed",
+        "lemma": "paqad",
+        "strongs": "H6485"
       }
     ],
     "17": [
@@ -1233,6 +1293,16 @@
         "surface": "our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "19": [
@@ -1275,6 +1345,11 @@
         "surface": "a mighty hand compels him",
         "lemma": "chazaq",
         "strongs": "H2389"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "20": [
@@ -1451,6 +1526,11 @@
         "surface": "the Egyptians",
         "lemma": "mitsri",
         "strongs": "H4713"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ]
   }

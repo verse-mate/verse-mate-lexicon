@@ -49,6 +49,11 @@
         "surface": "had been decreed",
         "lemma": "gazar",
         "strongs": "H1504"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "2": [
@@ -91,6 +96,16 @@
         "surface": "for the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "serving",
+        "lemma": "sharat",
+        "strongs": "H8334"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "3": [
@@ -203,6 +218,16 @@
         "surface": "beauty treatments",
         "lemma": "tamruq",
         "strongs": "H8562"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "women",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "4": [
@@ -260,6 +285,16 @@
         "surface": "accordingly",
         "lemma": "ken",
         "strongs": "H3651"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -332,6 +367,11 @@
         "surface": "of Kish",
         "lemma": "qish",
         "strongs": "H7027"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "6": [
@@ -379,6 +419,16 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "taken into exile",
+        "lemma": "galah",
+        "strongs": "H1540"
+      },
+      {
+        "surface": "taken into exile",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "7": [
@@ -578,6 +628,11 @@
         "surface": "of the women",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "9": [
@@ -675,6 +730,16 @@
         "surface": "in the harem",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "10": [
@@ -779,6 +844,21 @@
         "surface": "was happening",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "women",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "12": [
@@ -876,6 +956,41 @@
         "surface": "months",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "arrived",
+        "lemma": "naga",
+        "strongs": "H5060"
+      },
+      {
+        "surface": "young woman",
+        "lemma": "naarah",
+        "strongs": "H5291"
+      },
+      {
+        "surface": "end",
+        "lemma": "qets",
+        "strongs": "H7093"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "completed",
+        "lemma": "male",
+        "strongs": "H4390"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "13": [
@@ -928,6 +1043,11 @@
         "surface": "palace",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "women",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "14": [
@@ -1025,6 +1145,21 @@
         "surface": "by name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "women",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "15": [
@@ -1152,6 +1287,16 @@
         "surface": "who saw her",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "arrived",
+        "lemma": "naga",
+        "strongs": "H5060"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "16": [
@@ -1584,6 +1729,11 @@
         "surface": "Xerxes",
         "lemma": "achashverosh",
         "strongs": "H0325"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "22": [
@@ -1636,6 +1786,11 @@
         "surface": "on Mordecai’s behalf",
         "lemma": "mordekhay",
         "strongs": "H4782"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "23": [
@@ -1693,6 +1848,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

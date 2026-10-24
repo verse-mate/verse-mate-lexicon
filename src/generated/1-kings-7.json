@@ -39,6 +39,16 @@
         "surface": "palace",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -136,6 +146,11 @@
         "surface": "beams",
         "lemma": "karutah",
         "strongs": "H3773"
+      },
+      {
+        "surface": "pillars",
+        "lemma": "ammud",
+        "strongs": "H5982"
       }
     ],
     "3": [
@@ -178,6 +193,16 @@
         "surface": "per row",
         "lemma": "tur",
         "strongs": "H2905"
+      },
+      {
+        "surface": "fif-",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "4": [
@@ -210,6 +235,11 @@
         "surface": "tiers",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "window",
+        "lemma": "mechezah",
+        "strongs": "H4237"
       }
     ],
     "5": [
@@ -252,6 +282,16 @@
         "surface": "tiers",
         "lemma": "paam",
         "strongs": "H6471"
+      },
+      {
+        "surface": "doorposts",
+        "lemma": "mezuzah",
+        "strongs": "H4201"
+      },
+      {
+        "surface": "window",
+        "lemma": "mechezah",
+        "strongs": "H4237"
       }
     ],
     "6": [
@@ -312,6 +352,16 @@
       },
       {
         "surface": "the portico",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "pillars",
+        "lemma": "ammud",
+        "strongs": "H5982"
+      },
+      {
+        "surface": "face",
         "lemma": "paneh",
         "strongs": "H6440"
       }
@@ -428,6 +478,21 @@
         "surface": "had married",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "court",
+        "lemma": "chatser",
+        "strongs": "H2691"
+      },
+      {
+        "surface": "porch",
+        "lemma": "ulam",
+        "strongs": "H0197"
       }
     ],
     "9": [
@@ -547,6 +612,16 @@
         "surface": "cubits long",
         "lemma": "ammah",
         "strongs": "H0520"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "11": [
@@ -651,6 +726,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "13": [
@@ -795,6 +875,16 @@
         "surface": "his work",
         "lemma": "melakhah",
         "strongs": "H4399"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "worker",
+        "lemma": "charash",
+        "strongs": "H2790"
       }
     ],
     "15": [
@@ -852,6 +942,36 @@
         "surface": "in circumference",
         "lemma": "chut",
         "strongs": "H2339"
+      },
+      {
+        "surface": "pillar",
+        "lemma": "ammud",
+        "strongs": "H5982"
+      },
+      {
+        "surface": "pillar",
+        "lemma": "ammud",
+        "strongs": "H5982"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "went round",
+        "lemma": "savav",
+        "strongs": "H5437"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "16": [
@@ -919,6 +1039,31 @@
         "surface": "high",
         "lemma": "qomah",
         "strongs": "H6967"
+      },
+      {
+        "surface": "capital",
+        "lemma": "koteret",
+        "strongs": "H3805"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "cubits",
+        "lemma": "ammah",
+        "strongs": "H0520"
+      },
+      {
+        "surface": "height",
+        "lemma": "qomah",
+        "strongs": "H6967"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "17": [
@@ -981,6 +1126,21 @@
         "surface": "capital",
         "lemma": "koteret",
         "strongs": "H3805"
+      },
+      {
+        "surface": "capital",
+        "lemma": "koteret",
+        "strongs": "H3805"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "18": [
@@ -1038,6 +1198,21 @@
         "surface": "atop the pillars",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "capital",
+        "lemma": "koteret",
+        "strongs": "H3805"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "19": [
@@ -1147,6 +1322,11 @@
         "surface": "each capital",
         "lemma": "koteret",
         "strongs": "H3805"
+      },
+      {
+        "surface": "second",
+        "lemma": "sheni",
+        "strongs": "H8145"
       }
     ],
     "21": [
@@ -1209,6 +1389,26 @@
         "surface": "Boaz",
         "lemma": "boaz",
         "strongs": "H1162"
+      },
+      {
+        "surface": "set up",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "set up",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "22": [
@@ -1318,6 +1518,26 @@
         "surface": "in circumference",
         "lemma": "qaveh",
         "strongs": "H6961"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "measuring-line",
+        "lemma": "qav_h6957",
+        "strongs": "H6957"
+      },
+      {
+        "surface": "went round",
+        "lemma": "savav",
+        "strongs": "H5437"
       }
     ],
     "24": [
@@ -1385,6 +1605,16 @@
         "surface": "as a part of the Sea",
         "lemma": "yetsuqah",
         "strongs": "H3333"
+      },
+      {
+        "surface": "gourds",
+        "lemma": "peqa",
+        "strongs": "H6497"
+      },
+      {
+        "surface": "surrounding",
+        "lemma": "savav",
+        "strongs": "H5437"
       }
     ],
     "25": [
@@ -1482,6 +1712,16 @@
         "surface": "toward the center",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "above",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "26": [
@@ -1611,6 +1851,11 @@
         "surface": "high",
         "lemma": "qomah",
         "strongs": "H6967"
+      },
+      {
+        "surface": "stand",
+        "lemma": "mekhonah",
+        "strongs": "H4350"
       }
     ],
     "28": [
@@ -1638,6 +1883,11 @@
         "surface": "to uprights",
         "lemma": "shalav",
         "strongs": "H7948"
+      },
+      {
+        "surface": "rims",
+        "lemma": "misgeret",
+        "strongs": "H4526"
       }
     ],
     "29": [
@@ -1792,6 +2042,11 @@
         "surface": "side",
         "lemma": "ever",
         "strongs": "H5676"
+      },
+      {
+        "surface": "cast",
+        "lemma": "yetsuqah",
+        "strongs": "H3333"
       }
     ],
     "31": [
@@ -1879,6 +2134,11 @@
         "surface": "round",
         "lemma": "agol",
         "strongs": "H5696"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "32": [
@@ -1941,6 +2201,11 @@
         "surface": "in diameter",
         "lemma": "qomah",
         "strongs": "H6967"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "33": [
@@ -2273,6 +2538,21 @@
         "surface": "stands",
         "lemma": "mekhonah",
         "strongs": "H4350"
+      },
+      {
+        "surface": "laver",
+        "lemma": "kiyyor",
+        "strongs": "H3595"
+      },
+      {
+        "surface": "laver",
+        "lemma": "kiyyor",
+        "strongs": "H3595"
+      },
+      {
+        "surface": "stands",
+        "lemma": "mekhonah",
+        "strongs": "H4350"
       }
     ],
     "39": [
@@ -2345,6 +2625,31 @@
         "surface": "of the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "side",
+        "lemma": "kateph",
+        "strongs": "H3802"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "south",
+        "lemma": "yamin",
+        "strongs": "H3225"
+      },
+      {
+        "surface": "front",
+        "lemma": "mul_h4136",
+        "strongs": "H4136"
+      },
+      {
+        "surface": "south",
+        "lemma": "negev",
+        "strongs": "H5045"
       }
     ],
     "40": [
@@ -2630,6 +2935,11 @@
         "surface": "the Sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "45": [
@@ -2744,6 +3054,11 @@
         "surface": "and Zarethan",
         "lemma": "tsaretan",
         "strongs": "H6891"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "47": [
@@ -2796,6 +3111,11 @@
         "surface": "be determined",
         "lemma": "chaqar",
         "strongs": "H2713"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "48": [
@@ -3007,6 +3327,11 @@
         "surface": "of the temple",
         "lemma": "hekhal",
         "strongs": "H1964"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "51": [

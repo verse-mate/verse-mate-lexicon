@@ -166,6 +166,26 @@
         "surface": "in silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "beside",
+        "lemma": "etsel",
+        "strongs": "H0681"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "3": [
@@ -198,6 +218,11 @@
         "surface": "of my fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Ahab",
+        "lemma": "achav",
+        "strongs": "H0256"
       }
     ],
     "4": [
@@ -290,6 +315,21 @@
         "surface": "to eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "5": [
@@ -337,6 +377,11 @@
         "surface": "to eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "6": [
@@ -501,6 +546,11 @@
         "surface": "the Jezreelite",
         "lemma": "yizreeli",
         "strongs": "H3158"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "8": [
@@ -610,6 +660,11 @@
         "surface": "among the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -667,6 +722,21 @@
         "surface": "to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -714,6 +784,21 @@
         "surface": "she had written",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "written",
+        "lemma": "katav",
+        "strongs": "H3789"
       }
     ],
     "12": [
@@ -848,6 +933,26 @@
         "surface": "to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "14": [
@@ -875,6 +980,11 @@
         "surface": "to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -1220,6 +1330,16 @@
         "surface": "your blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "20": [
@@ -1334,6 +1454,11 @@
         "surface": "and free",
         "lemma": "azav",
         "strongs": "H5800"
+      },
+      {
+        "surface": "wall",
+        "lemma": "qir",
+        "strongs": "H7023"
       }
     ],
     "22": [
@@ -1448,6 +1573,11 @@
         "surface": "of Jezreel",
         "lemma": "yizreel",
         "strongs": "H3157"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "24": [
@@ -1614,6 +1744,16 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "done",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "27": [
@@ -1676,6 +1816,11 @@
         "surface": "meekly",
         "lemma": "itti",
         "strongs": "H0328"
+      },
+      {
+        "surface": "body",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "28": [

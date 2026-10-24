@@ -281,6 +281,11 @@
         "surface": "of foreigners",
         "lemma": "nekhar",
         "strongs": "H5236"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "8": [
@@ -308,6 +313,11 @@
         "surface": "are deceitful",
         "lemma": "sheqer",
         "strongs": "H8267"
+      },
+      {
+        "surface": "right",
+        "lemma": "yamin",
+        "strongs": "H3225"
       }
     ],
     "9": [
@@ -434,6 +444,16 @@
         "surface": "are deceitful",
         "lemma": "sheqer",
         "strongs": "H8267"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
+      },
+      {
+        "surface": "right",
+        "lemma": "yamin",
+        "strongs": "H3225"
       }
     ],
     "12": [
@@ -612,6 +632,13 @@
         "surface": "is the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

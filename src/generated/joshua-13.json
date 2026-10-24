@@ -188,6 +188,11 @@
         "surface": "as well as that of the Avvites",
         "lemma": "avvim",
         "strongs": "H5761"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "4": [
@@ -297,6 +302,11 @@
         "surface": "Lebo-hamath",
         "lemma": "chamat",
         "strongs": "H2574"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "6": [
@@ -374,6 +384,11 @@
         "surface": "I have commanded you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -416,6 +431,11 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "8": [
@@ -587,6 +607,11 @@
         "surface": "of the Ammonites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "11": [
@@ -763,6 +788,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -909,6 +939,11 @@
         "surface": "Medeba",
         "lemma": "medeva",
         "strongs": "H4311"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "17": [
@@ -961,6 +996,21 @@
         "surface": "Beth-baal-meon",
         "lemma": "betbaalmeon",
         "strongs": "H1010"
+      },
+      {
+        "surface": "Beth",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Baal",
+        "lemma": "baalmeon",
+        "strongs": "H1186"
+      },
+      {
+        "surface": "Meon",
+        "lemma": "baalmeon",
+        "strongs": "H1186"
       }
     ],
     "18": [
@@ -1042,6 +1092,11 @@
         "surface": "and Beth-jeshimoth",
         "lemma": "bethayshimot",
         "strongs": "H1020"
+      },
+      {
+        "surface": "slopes",
+        "lemma": "ashdothappisgah",
+        "strongs": "H0798"
       }
     ],
     "21": [
@@ -1191,6 +1246,21 @@
         "surface": "to the sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "slain",
+        "lemma": "chalal_h2491",
+        "strongs": "H2491"
       }
     ],
     "23": [
@@ -1243,6 +1313,16 @@
         "surface": "and villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
       }
     ],
     "24": [
@@ -1270,6 +1350,16 @@
         "surface": "of Gad",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "25": [
@@ -1322,6 +1412,21 @@
         "surface": "Rabbah",
         "lemma": "rabbah",
         "strongs": "H7237"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "26": [
@@ -1354,6 +1459,11 @@
         "surface": "of Debir",
         "lemma": "devir",
         "strongs": "H1688"
+      },
+      {
+        "surface": "Mizpah",
+        "lemma": "ramathammitspeh",
+        "strongs": "H7434"
       }
     ],
     "27": [
@@ -1451,6 +1561,11 @@
         "surface": "of Chinnereth",
         "lemma": "kinnrot",
         "strongs": "H3672"
+      },
+      {
+        "surface": "Jordan",
+        "lemma": "yarden",
+        "strongs": "H3383"
       }
     ],
     "28": [
@@ -1478,6 +1593,11 @@
         "surface": "and villages",
         "lemma": "chatser",
         "strongs": "H2691"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "29": [
@@ -1530,6 +1650,11 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "30": [

@@ -147,6 +147,11 @@
         "surface": "words",
         "lemma": "emer",
         "strongs": "H0561"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "6": [
@@ -270,6 +275,16 @@
         "surface": "of the night",
         "lemma": "ishon",
         "strongs": "H0380"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "10": [
@@ -398,6 +413,11 @@
         "surface": "says",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -447,6 +467,16 @@
         "surface": "and I have found you",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "16": [
@@ -607,6 +637,11 @@
         "surface": "the moon is full",
         "lemma": "kese",
         "strongs": "H3677"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "21": [
@@ -681,6 +716,11 @@
         "surface": "a trap",
         "lemma": "musar",
         "strongs": "H4148"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "23": [

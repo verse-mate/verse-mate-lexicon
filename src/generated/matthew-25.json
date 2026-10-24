@@ -199,6 +199,11 @@
         "surface": "meet",
         "lemma": "apantesis",
         "strongs": "G0529"
+      },
+      {
+        "surface": "night",
+        "lemma": "nux",
+        "strongs": "G3571"
       }
     ],
     "7": [
@@ -305,6 +310,11 @@
         "surface": "buy some",
         "lemma": "agorazo",
         "strongs": "G0059"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -394,6 +404,11 @@
         "surface": "open the door",
         "lemma": "anoigo",
         "strongs": "G0455"
+      },
+      {
+        "surface": "Afterward",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "12": [
@@ -411,6 +426,16 @@
         "surface": "I do not know",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "13": [
@@ -433,6 +458,11 @@
         "surface": "hour",
         "lemma": "hora",
         "strongs": "G5610"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "14": [
@@ -517,6 +547,11 @@
         "surface": "he went on his journey",
         "lemma": "apodemeo",
         "strongs": "G0589"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "16": [
@@ -747,6 +782,16 @@
         "surface": "more",
         "lemma": "allos",
         "strongs": "G0243"
+      },
+      {
+        "surface": "talents",
+        "lemma": "talanton",
+        "strongs": "G5007"
+      },
+      {
+        "surface": "talents",
+        "lemma": "talanton",
+        "strongs": "G5007"
       }
     ],
     "21": [
@@ -876,6 +921,11 @@
         "surface": "more",
         "lemma": "allos",
         "strongs": "G0243"
+      },
+      {
+        "surface": "talents",
+        "lemma": "talanton",
+        "strongs": "G5007"
       }
     ],
     "23": [
@@ -1109,6 +1159,11 @@
         "surface": "I have not scattered seed",
         "lemma": "diaskorpizo",
         "strongs": "G1287"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "27": [
@@ -1450,6 +1505,11 @@
         "surface": "of the world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "35": [
@@ -1576,6 +1636,16 @@
         "surface": "give You something to drink",
         "lemma": "potizo",
         "strongs": "G4222"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saw we",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "38": [
@@ -1603,6 +1673,11 @@
         "surface": "clothe You",
         "lemma": "periballo",
         "strongs": "G4016"
+      },
+      {
+        "surface": "saw we",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "39": [
@@ -1625,6 +1700,11 @@
         "surface": "visit",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "saw we",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "40": [
@@ -1672,6 +1752,16 @@
         "surface": "you did",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "41": [
@@ -1724,6 +1814,11 @@
         "surface": "angels",
         "lemma": "angelos",
         "strongs": "G0032"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "42": [
@@ -1850,6 +1945,16 @@
         "surface": "did not minister",
         "lemma": "diakoneo",
         "strongs": "G1247"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saw we",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "45": [
@@ -1887,6 +1992,16 @@
         "surface": "you did not do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "46": [

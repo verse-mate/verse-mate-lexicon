@@ -133,6 +133,11 @@
         "surface": "each",
         "lemma": "hekastos",
         "strongs": "G1538"
+      },
+      {
+        "surface": "there appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "4": [
@@ -185,6 +190,16 @@
         "surface": "enabled",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "utter forth",
+        "lemma": "apophthengomai",
+        "strongs": "G0669"
       }
     ],
     "5": [
@@ -227,6 +242,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "men",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "6": [
@@ -526,6 +546,11 @@
         "surface": "mean",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "other",
+        "lemma": "allos",
+        "strongs": "G0243"
       }
     ],
     "13": [
@@ -558,6 +583,16 @@
         "surface": "on new wine",
         "lemma": "gleukos",
         "strongs": "G1098"
+      },
+      {
+        "surface": "mocking",
+        "lemma": "diachleuazo",
+        "strongs": "G6017"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "14": [
@@ -776,6 +811,11 @@
         "surface": "dreams",
         "lemma": "enupnion",
         "strongs": "G1798"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "18": [
@@ -808,6 +848,11 @@
         "surface": "they will prophesy",
         "lemma": "propheteuo",
         "strongs": "G4395"
+      },
+      {
+        "surface": "handmaidens",
+        "lemma": "doulos",
+        "strongs": "G1401"
       }
     ],
     "19": [
@@ -1021,6 +1066,11 @@
         "surface": "know",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -1221,6 +1271,11 @@
         "surface": "decay",
         "lemma": "diaphthora",
         "strongs": "G1312"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "28": [
@@ -1367,6 +1422,11 @@
         "surface": "throne",
         "lemma": "thronos",
         "strongs": "G2362"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "31": [
@@ -1414,6 +1474,11 @@
         "surface": "decay",
         "lemma": "diaphthora",
         "strongs": "G1312"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "32": [
@@ -1847,6 +1912,11 @@
         "surface": "generation",
         "lemma": "genea",
         "strongs": "G1074"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "41": [
@@ -1879,6 +1949,11 @@
         "surface": "day",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "souls",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "42": [
@@ -1963,6 +2038,11 @@
         "surface": "signs",
         "lemma": "semeion",
         "strongs": "G4592"
+      },
+      {
+        "surface": "soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "44": [

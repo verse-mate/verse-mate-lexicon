@@ -219,6 +219,11 @@
         "surface": "be shaken",
         "lemma": "mot",
         "strongs": "H4131"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "7": [
@@ -446,6 +451,33 @@
         "surface": "forever",
         "lemma": "olam",
         "strongs": "H5769"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "dedication",
+        "lemma": "chanukkah_h2598",
+        "strongs": "H2598"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

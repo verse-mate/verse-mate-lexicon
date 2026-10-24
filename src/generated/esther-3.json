@@ -69,6 +69,11 @@
         "surface": "the princes",
         "lemma": "sar",
         "strongs": "H8269"
+      },
+      {
+        "surface": "placed",
+        "lemma": "sum",
+        "strongs": "H7760"
       }
     ],
     "2": [
@@ -404,6 +409,11 @@
         "surface": "of Xerxes",
         "lemma": "achashverosh",
         "strongs": "H0325"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "7": [
@@ -496,6 +506,26 @@
         "surface": "the month of Adar",
         "lemma": "adar",
         "strongs": "H0143"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "8": [
@@ -700,6 +730,16 @@
         "surface": "those who carry it out",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "10": [
@@ -799,6 +839,11 @@
         "surface": "as you please",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "12": [
@@ -951,6 +996,21 @@
         "surface": "signet ring",
         "lemma": "tabbaat",
         "strongs": "H2885"
+      },
+      {
+        "surface": "teenth",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
       }
     ],
     "13": [
@@ -1073,6 +1133,21 @@
         "surface": "month",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
       }
     ],
     "14": [
@@ -1130,6 +1205,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "province",
+        "lemma": "medinah",
+        "strongs": "H4082"
       }
     ],
     "15": [

@@ -302,6 +302,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -441,6 +451,16 @@
         "surface": "forever",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "8": [
@@ -771,6 +791,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "because",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "13": [
@@ -1071,6 +1096,16 @@
         "surface": "his youngest",
         "lemma": "qatan",
         "strongs": "H6996"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "18": [
@@ -1108,6 +1143,11 @@
         "surface": "of the bowels",
         "lemma": "meeh",
         "strongs": "H4578"
+      },
+      {
+        "surface": "healing",
+        "lemma": "marpe",
+        "strongs": "H4832"
       }
     ],
     "19": [
@@ -1205,6 +1245,11 @@
         "surface": "for his fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "20": [
@@ -1292,6 +1337,11 @@
         "surface": "of the kings",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ]
   }

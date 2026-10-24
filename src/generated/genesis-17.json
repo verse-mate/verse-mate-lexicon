@@ -79,6 +79,16 @@
         "surface": "blameless",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "2": [
@@ -106,6 +116,16 @@
         "surface": "exceedingly",
         "lemma": "meod",
         "strongs": "H3966"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "3": [
@@ -128,6 +148,16 @@
         "surface": "said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "4": [
@@ -212,6 +242,11 @@
         "surface": "nations",
         "lemma": "goy",
         "strongs": "H1471"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "6": [
@@ -244,6 +279,11 @@
         "surface": "will descend",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "7": [
@@ -301,6 +341,21 @@
         "surface": "after you",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "generations",
+        "lemma": "dor",
+        "strongs": "H1755"
       }
     ],
     "8": [
@@ -358,6 +413,11 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "9": [
@@ -442,6 +502,16 @@
         "surface": "must be circumcised",
         "lemma": "mul",
         "strongs": "H4135"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "11": [
@@ -477,6 +547,11 @@
       },
       {
         "surface": "between Me and you",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
         "lemma": "bayin",
         "strongs": "H0996"
       }
@@ -546,6 +621,21 @@
         "surface": "your offspring",
         "lemma": "zera",
         "strongs": "H2233"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "13": [
@@ -593,6 +683,16 @@
         "surface": "covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "circumcised",
+        "lemma": "mul",
+        "strongs": "H4135"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "14": [
@@ -630,6 +730,26 @@
         "surface": "My covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "uncircumcised",
+        "lemma": "arel_h6189",
+        "strongs": "H6189"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "foreskin",
+        "lemma": "orlah",
+        "strongs": "H6190"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "15": [
@@ -796,6 +916,21 @@
         "surface": "at the age of ninety",
         "lemma": "tishim",
         "strongs": "H8673"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "daughter",
+        "lemma": "bat",
+        "strongs": "H1323"
       }
     ],
     "18": [
@@ -972,6 +1107,16 @@
         "surface": "nation",
         "lemma": "goy",
         "strongs": "H1471"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "21": [
@@ -1138,6 +1283,16 @@
         "surface": "had told",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "foreskin",
+        "lemma": "orlah",
+        "strongs": "H6190"
       }
     ],
     "24": [
@@ -1170,6 +1325,16 @@
         "surface": "when he was circumcised",
         "lemma": "mul",
         "strongs": "H4135"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "25": [
@@ -1187,6 +1352,36 @@
         "surface": "was thirteen",
         "lemma": "shalosh",
         "strongs": "H7969"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "circumcised",
+        "lemma": "mul",
+        "strongs": "H4135"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "foreskin",
+        "lemma": "orlah",
+        "strongs": "H6190"
       }
     ],
     "26": [
@@ -1261,6 +1456,16 @@
         "surface": "were circumcised with him",
         "lemma": "mul",
         "strongs": "H4135"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ]
   }

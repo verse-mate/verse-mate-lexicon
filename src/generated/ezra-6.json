@@ -44,6 +44,16 @@
         "surface": "of Babylon",
         "lemma": "bavel",
         "strongs": "H0895"
+      },
+      {
+        "surface": "decree",
+        "lemma": "teem",
+        "strongs": "H2942"
+      },
+      {
+        "surface": "books",
+        "lemma": "sephar",
+        "strongs": "H5609"
       }
     ],
     "2": [
@@ -208,6 +218,11 @@
         "surface": "wide",
         "lemma": "petay",
         "strongs": "H6613"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
       }
     ],
     "4": [
@@ -255,6 +270,16 @@
         "surface": "treasury",
         "lemma": "bayit",
         "strongs": "H1005"
+      },
+      {
+        "surface": "row",
+        "lemma": "nidbakh",
+        "strongs": "H5073"
+      },
+      {
+        "surface": "rolling",
+        "lemma": "gelal",
+        "strongs": "H1560"
       }
     ],
     "5": [
@@ -342,6 +367,16 @@
         "surface": "of God",
         "lemma": "elah",
         "strongs": "H0426"
+      },
+      {
+        "surface": "go",
+        "lemma": "hukh",
+        "strongs": "H1946"
+      },
+      {
+        "surface": "place",
+        "lemma": "atar",
+        "strongs": "H0870"
       }
     ],
     "6": [
@@ -409,6 +444,11 @@
         "surface": "that place",
         "lemma": "tammah",
         "strongs": "H8536"
+      },
+      {
+        "surface": "river",
+        "lemma": "nehar",
+        "strongs": "H5103"
       }
     ],
     "7": [
@@ -466,6 +506,11 @@
         "surface": "its original site",
         "lemma": "atar",
         "strongs": "H0870"
+      },
+      {
+        "surface": "Jews",
+        "lemma": "yehudai",
+        "strongs": "H3062"
       }
     ],
     "8": [
@@ -675,6 +720,16 @@
         "surface": "fail",
         "lemma": "shalu",
         "strongs": "H7960"
+      },
+      {
+        "surface": "young",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom_h3118",
+        "strongs": "H3118"
       }
     ],
     "10": [
@@ -722,6 +777,11 @@
         "surface": "and his sons",
         "lemma": "ben",
         "strongs": "H1123"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
       }
     ],
     "11": [
@@ -789,6 +849,11 @@
         "surface": "a pile of rubble",
         "lemma": "nevalu",
         "strongs": "H5122"
+      },
+      {
+        "surface": "decree",
+        "lemma": "teem",
+        "strongs": "H2942"
       }
     ],
     "12": [
@@ -958,6 +1023,11 @@
         "surface": "had decreed",
         "lemma": "shelach",
         "strongs": "H7972"
+      },
+      {
+        "surface": "accordingly",
+        "lemma": "kenema",
+        "strongs": "H3660"
       }
     ],
     "14": [
@@ -1179,6 +1249,21 @@
         "surface": "with joy",
         "lemma": "chedvah",
         "strongs": "H2305"
+      },
+      {
+        "surface": "people",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "people",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "exile",
+        "lemma": "galut_h1547",
+        "strongs": "H1547"
       }
     ],
     "17": [
@@ -1271,6 +1356,26 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3479"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez_h5796",
+        "strongs": "H5796"
+      },
+      {
+        "surface": "sin offering",
+        "lemma": "chattaah",
+        "strongs": "H2402"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6236",
+        "strongs": "H6236"
+      },
+      {
+        "surface": "number",
+        "lemma": "minyan",
+        "strongs": "H4510"
       }
     ],
     "18": [
@@ -1360,6 +1465,16 @@
         "surface": "the Passover",
         "lemma": "pesach",
         "strongs": "H6453"
+      },
+      {
+        "surface": "exile",
+        "lemma": "golah",
+        "strongs": "H1473"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "20": [
@@ -1417,6 +1532,11 @@
         "surface": "brothers",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "exile",
+        "lemma": "golah",
+        "strongs": "H1473"
       }
     ],
     "21": [
@@ -1482,6 +1602,11 @@
       },
       {
         "surface": "of Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
       }
@@ -1576,6 +1701,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ]
   }

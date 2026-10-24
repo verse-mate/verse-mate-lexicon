@@ -59,6 +59,11 @@
         "surface": "in Gerar",
         "lemma": "gerar",
         "strongs": "H1642"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "2": [
@@ -329,6 +334,11 @@
         "surface": "you touch",
         "lemma": "naga",
         "strongs": "H5060"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "7": [
@@ -401,6 +411,11 @@
         "surface": "and all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "8": [
@@ -458,6 +473,16 @@
         "surface": "were terrified",
         "lemma": "yare",
         "strongs": "H3372"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "9": [
@@ -624,6 +649,11 @@
         "surface": "my wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "12": [
@@ -733,6 +763,11 @@
         "surface": "my brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "14": [
@@ -817,6 +852,16 @@
         "surface": "Settle wherever you please",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "16": [
@@ -869,6 +914,11 @@
         "surface": "cleared",
         "lemma": "yakhach",
         "strongs": "H3198"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "17": [
@@ -968,6 +1018,16 @@
         "surface": "household",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "shut up",
+        "lemma": "atsar_h6113",
+        "strongs": "H6113"
+      },
+      {
+        "surface": "behind",
+        "lemma": "bead",
+        "strongs": "H1157"
       }
     ]
   }

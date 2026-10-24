@@ -101,6 +101,11 @@
         "surface": "and let us worship them",
         "lemma": "avad",
         "strongs": "H5647"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "3": [
@@ -183,6 +188,16 @@
         "surface": "your soul",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "4": [
@@ -235,6 +250,11 @@
         "surface": "and hold fast",
         "lemma": "davaq",
         "strongs": "H1692"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "5": [
@@ -347,6 +367,11 @@
         "surface": "from among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "6": [
@@ -429,6 +454,21 @@
         "surface": "have known",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "mother",
+        "lemma": "em",
+        "strongs": "H0517"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "7": [
@@ -464,6 +504,16 @@
       },
       {
         "surface": "of the earth",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
+      },
+      {
+        "surface": "earth",
         "lemma": "erets",
         "strongs": "H0776"
       }
@@ -513,6 +563,11 @@
         "surface": "or shield",
         "lemma": "kasah",
         "strongs": "H3680"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "9": [
@@ -560,6 +615,11 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "kill",
+        "lemma": "harag",
+        "strongs": "H2026"
       }
     ],
     "10": [
@@ -617,6 +677,11 @@
         "surface": "of slavery",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "11": [
@@ -783,6 +848,16 @@
         "surface": "known",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "14": [
@@ -825,6 +900,16 @@
         "surface": "among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "certain",
+        "lemma": "kun",
+        "strongs": "H3559"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "15": [
@@ -867,6 +952,21 @@
         "surface": "and livestock",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "strike",
+        "lemma": "nakhah",
+        "strongs": "H5221"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "sword",
+        "lemma": "cherev",
+        "strongs": "H2719"
       }
     ],
     "16": [
@@ -954,6 +1054,16 @@
         "surface": "to be rebuilt",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "17": [
@@ -1021,6 +1131,16 @@
         "surface": "to your fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "18": [
@@ -1083,6 +1203,16 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ]
   }

@@ -273,6 +273,11 @@
         "surface": "tempest",
         "lemma": "saar",
         "strongs": "H5591"
+      },
+      {
+        "surface": "rushing",
+        "lemma": "saah",
+        "strongs": "H5584"
       }
     ],
     "9": [
@@ -527,6 +532,11 @@
         "surface": "in their homes",
         "lemma": "magur",
         "strongs": "H4033"
+      },
+      {
+        "surface": "deceive",
+        "lemma": "nasah_h5377",
+        "strongs": "H5377"
       }
     ],
     "16": [
@@ -697,6 +707,11 @@
         "surface": "his covenant",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "21": [
@@ -786,6 +801,11 @@
         "surface": "be shaken",
         "lemma": "mot",
         "strongs": "H4131"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "23": [
@@ -843,6 +863,33 @@
         "surface": "will trust",
         "lemma": "batach",
         "strongs": "H0982"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "stringed instruments",
+        "lemma": "neginah",
+        "strongs": "H5058"
+      },
+      {
+        "surface": "poem",
+        "lemma": "maskil",
+        "strongs": "H4905"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

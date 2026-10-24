@@ -81,6 +81,11 @@
         "surface": "said",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -170,6 +175,11 @@
         "surface": "careful",
         "lemma": "shamar",
         "strongs": "H8104"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -227,6 +237,16 @@
         "surface": "as his possession",
         "lemma": "yerushshah",
         "strongs": "H3425"
+      },
+      {
+        "surface": "sole",
+        "lemma": "kaph",
+        "strongs": "H3709"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "6": [
@@ -259,6 +279,16 @@
         "surface": "you drink",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
+      },
+      {
+        "surface": "buy",
+        "lemma": "karah",
+        "strongs": "H3739"
       }
     ],
     "7": [
@@ -341,6 +371,11 @@
         "surface": "nothing",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "8": [
@@ -498,6 +533,11 @@
       },
       {
         "surface": "as their possession",
+        "lemma": "yerushshah",
+        "strongs": "H3425"
+      },
+      {
+        "surface": "possession",
         "lemma": "yerushshah",
         "strongs": "H3425"
       }
@@ -795,6 +835,11 @@
         "surface": "had sworn",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "15": [
@@ -869,6 +914,11 @@
         "surface": "had died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "finished",
+        "lemma": "tamam",
+        "strongs": "H8552"
       }
     ],
     "17": [
@@ -881,6 +931,11 @@
         "surface": "said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -980,6 +1035,21 @@
         "surface": "as their possession",
         "lemma": "yerushshah",
         "strongs": "H3425"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "possession",
+        "lemma": "yerushshah",
+        "strongs": "H3425"
       }
     ],
     "20": [
@@ -1022,6 +1092,11 @@
         "surface": "Zamzummites",
         "lemma": "zamzom",
         "strongs": "H2157"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "21": [
@@ -1446,6 +1521,16 @@
         "surface": "or to the left",
         "lemma": "semol",
         "strongs": "H8040"
+      },
+      {
+        "surface": "road",
+        "lemma": "derekh",
+        "strongs": "H1870"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "28": [
@@ -1493,6 +1578,11 @@
         "surface": "on foot",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "29": [
@@ -1872,6 +1962,11 @@
         "surface": "we captured",
         "lemma": "lakhad",
         "strongs": "H3920"
+      },
+      {
+        "surface": "plundered",
+        "lemma": "bazaz",
+        "strongs": "H0962"
       }
     ],
     "36": [
@@ -2026,6 +2121,11 @@
         "surface": "had forbidden",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ]
   }

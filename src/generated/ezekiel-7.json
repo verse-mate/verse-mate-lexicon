@@ -190,6 +190,16 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "requite",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "5": [
@@ -321,6 +331,11 @@
         "surface": "instead of shouts of joy",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "shout of joy",
+        "lemma": "hed",
+        "strongs": "H1906"
       }
     ],
     "8": [
@@ -373,6 +388,11 @@
         "surface": "your abominations",
         "lemma": "toevah",
         "strongs": "H8441"
+      },
+      {
+        "surface": "now",
+        "lemma": "attah",
+        "strongs": "H6258"
       }
     ],
     "9": [
@@ -430,6 +450,11 @@
         "surface": "who strikes the blow",
         "lemma": "nakhah",
         "strongs": "H5221"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "10": [
@@ -671,6 +696,11 @@
       },
       {
         "surface": "his life",
+        "lemma": "chay",
+        "strongs": "H2416"
+      },
+      {
+        "surface": "life",
         "lemma": "chay",
         "strongs": "H2416"
       }
@@ -1025,6 +1055,11 @@
         "surface": "that brought their iniquity",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "20": [
@@ -1077,6 +1112,11 @@
         "surface": "into something unclean",
         "lemma": "niddah",
         "strongs": "H5079"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "21": [
@@ -1114,6 +1154,11 @@
         "surface": "who will defile them",
         "lemma": "chalal",
         "strongs": "H2490"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "22": [

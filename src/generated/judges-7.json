@@ -238,6 +238,16 @@
         "surface": "remained",
         "lemma": "shaar",
         "strongs": "H7604"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "4": [
@@ -412,6 +422,21 @@
         "surface": "to drink",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "laps up",
+        "lemma": "laqaq",
+        "strongs": "H3952"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
+      },
+      {
+        "surface": "knees",
+        "lemma": "berekh",
+        "strongs": "H1290"
       }
     ],
     "6": [
@@ -474,6 +499,21 @@
         "surface": "to drink",
         "lemma": "shatah",
         "strongs": "H8354"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "knees",
+        "lemma": "berekh",
+        "strongs": "H1290"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "7": [
@@ -546,6 +586,16 @@
         "surface": "home",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "8": [
@@ -638,6 +688,16 @@
         "surface": "in the valley",
         "lemma": "emeq",
         "strongs": "H6010"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -856,6 +916,21 @@
         "surface": "the seashore",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "multitude",
+        "lemma": "rov",
+        "strongs": "H7230"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
+      },
+      {
+        "surface": "sea",
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "13": [
@@ -963,6 +1038,16 @@
         "surface": "and collapsed",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
+      },
+      {
+        "surface": "upwards",
+        "lemma": "maal_h4605",
+        "strongs": "H4605"
       }
     ],
     "14": [
@@ -1040,6 +1125,16 @@
         "surface": "into his hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "15": [
@@ -1194,6 +1289,11 @@
         "surface": "a torch",
         "lemma": "lappid",
         "strongs": "H3940"
+      },
+      {
+        "surface": "jars",
+        "lemma": "kad",
+        "strongs": "H3537"
       }
     ],
     "17": [
@@ -1385,6 +1485,11 @@
         "surface": "in their hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "stationed",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "20": [
@@ -1472,6 +1577,11 @@
         "surface": "and for Gideon",
         "lemma": "gidon",
         "strongs": "H1439"
+      },
+      {
+        "surface": "give a blast",
+        "lemma": "taqa",
+        "strongs": "H8628"
       }
     ],
     "21": [
@@ -1668,6 +1778,11 @@
         "surface": "the Midianites",
         "lemma": "midyan",
         "strongs": "H4080"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "24": [
@@ -1902,6 +2017,11 @@
         "surface": "of the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "killed",
+        "lemma": "harag",
+        "strongs": "H2026"
       }
     ]
   }

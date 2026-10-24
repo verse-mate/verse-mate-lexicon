@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -96,6 +101,21 @@
         "surface": "Baal-zephon",
         "lemma": "baaltsephon",
         "strongs": "H1189"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "opposite",
+        "lemma": "nokhach",
+        "strongs": "H5227"
       }
     ],
     "3": [
@@ -361,6 +381,11 @@
         "surface": "all of them",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "8": [
@@ -413,6 +438,31 @@
         "surface": "defiantly",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "raised",
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "9": [
@@ -557,6 +607,26 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "11": [
@@ -681,6 +751,16 @@
         "surface": "in the wilderness",
         "lemma": "midbar",
         "strongs": "H4057"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -758,6 +838,26 @@
         "surface": "again",
         "lemma": "yasaph",
         "strongs": "H3254"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsri",
+        "strongs": "H4713"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "14": [
@@ -817,6 +917,11 @@
         "surface": "to go forward",
         "lemma": "nasa",
         "strongs": "H5265"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "16": [
@@ -874,6 +979,11 @@
         "surface": "on dry ground",
         "lemma": "yabbashah",
         "strongs": "H3004"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "17": [
@@ -1122,6 +1232,11 @@
         "surface": "went near",
         "lemma": "qarav",
         "strongs": "H7126"
+      },
+      {
+        "surface": "camp",
+        "lemma": "machaneh",
+        "strongs": "H4264"
       }
     ],
     "21": [
@@ -1256,6 +1371,11 @@
         "surface": "and on their left",
         "lemma": "semol",
         "strongs": "H8040"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "23": [
@@ -1308,6 +1428,11 @@
         "surface": "the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "24": [
@@ -1365,6 +1490,16 @@
         "surface": "and He threw their camp into confusion",
         "lemma": "hamam",
         "strongs": "H2000"
+      },
+      {
+        "surface": "camp",
+        "lemma": "machaneh",
+        "strongs": "H4264"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsri",
+        "strongs": "H4713"
       }
     ],
     "25": [
@@ -1561,6 +1696,21 @@
         "surface": "the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
       }
     ],
     "28": [
@@ -1680,6 +1830,11 @@
         "surface": "and on their left",
         "lemma": "semol",
         "strongs": "H8040"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "30": [
@@ -1737,6 +1892,11 @@
         "surface": "the shore",
         "lemma": "saphah",
         "strongs": "H8193"
+      },
+      {
+        "surface": "sea",
+        "lemma": "yam",
+        "strongs": "H3220"
       }
     ],
     "31": [

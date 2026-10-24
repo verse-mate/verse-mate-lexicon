@@ -96,6 +96,11 @@
         "surface": "before You",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "3": [
@@ -311,6 +316,11 @@
         "surface": "to the Pit",
         "lemma": "bor",
         "strongs": "H0953"
+      },
+      {
+        "surface": "hurry",
+        "lemma": "mahar",
+        "strongs": "H4116"
       }
     ],
     "8": [
@@ -506,6 +516,18 @@
         "surface": "am Your servant",
         "lemma": "eved",
         "strongs": "H5650"
+      }
+    ],
+    "0": [
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

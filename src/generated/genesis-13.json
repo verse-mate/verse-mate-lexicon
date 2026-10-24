@@ -185,6 +185,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "former",
+        "lemma": "rishon",
+        "strongs": "H7223"
       }
     ],
     "5": [
@@ -274,6 +279,11 @@
         "surface": "to coexist",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "7": [
@@ -331,6 +341,21 @@
         "surface": "in the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "miqneh",
+        "strongs": "H4735"
+      },
+      {
+        "surface": "livestock",
+        "lemma": "miqneh",
+        "strongs": "H4735"
       }
     ],
     "8": [
@@ -388,6 +413,21 @@
         "surface": "are kinsmen",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "9": [
@@ -537,6 +577,11 @@
         "surface": "and Gomorrah",
         "lemma": "amorah",
         "strongs": "H6017"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "11": [
@@ -584,6 +629,16 @@
         "surface": "And Abram and Lot parted",
         "lemma": "parad",
         "strongs": "H6504"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "brother",
+        "lemma": "ach",
+        "strongs": "H0251"
       }
     ],
     "12": [
@@ -772,6 +827,11 @@
         "surface": "and your offspring",
         "lemma": "zera",
         "strongs": "H2233"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "16": [

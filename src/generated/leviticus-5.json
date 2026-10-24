@@ -126,6 +126,31 @@
         "surface": "and guilty",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "unclean",
+        "lemma": "tame_h2931",
+        "strongs": "H2931"
+      },
+      {
+        "surface": "unclean",
+        "lemma": "tame_h2931",
+        "strongs": "H2931"
+      },
+      {
+        "surface": "carcass",
+        "lemma": "nevelah",
+        "strongs": "H5038"
+      },
+      {
+        "surface": "carcass",
+        "lemma": "nevelah",
+        "strongs": "H5038"
       }
     ],
     "3": [
@@ -168,6 +193,11 @@
         "surface": "he is guilty",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "uncleanness",
+        "lemma": "tumah",
+        "strongs": "H2932"
       }
     ],
     "4": [
@@ -329,6 +359,11 @@
         "surface": "concerning his sin",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "7": [
@@ -416,6 +451,16 @@
         "surface": "as a burnt offering",
         "lemma": "olah",
         "strongs": "H5930"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "sufficiency",
+        "lemma": "day",
+        "strongs": "H1767"
       }
     ],
     "8": [
@@ -669,6 +714,26 @@
         "surface": "is a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "present",
+        "lemma": "qorban",
+        "strongs": "H7133"
+      },
+      {
+        "surface": "sinned",
+        "lemma": "chata",
+        "strongs": "H2398"
+      },
+      {
+        "surface": "put",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "12": [
@@ -721,6 +786,16 @@
         "surface": "is a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "handful",
+        "lemma": "qomets",
+        "strongs": "H7062"
       }
     ],
     "13": [
@@ -785,6 +860,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "15": [
@@ -1073,6 +1153,11 @@
         "surface": "and he will be forgiven",
         "lemma": "salach",
         "strongs": "H5545"
+      },
+      {
+        "surface": "knew",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "19": [
@@ -1090,6 +1175,11 @@
         "surface": "before the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "guilty",
+        "lemma": "asham",
+        "strongs": "H0816"
       }
     ]
   }

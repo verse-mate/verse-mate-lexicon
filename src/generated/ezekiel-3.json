@@ -148,6 +148,11 @@
         "surface": "in my mouth",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "belly",
+        "lemma": "beten",
+        "strongs": "H0990"
       }
     ],
     "4": [
@@ -190,6 +195,11 @@
         "surface": "My words",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "5": [
@@ -371,6 +381,16 @@
         "surface": "and hard-hearted",
         "lemma": "qasheh",
         "strongs": "H7186"
+      },
+      {
+        "surface": "forehead",
+        "lemma": "metsach",
+        "strongs": "H4696"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "8": [
@@ -527,6 +547,11 @@
         "surface": "to heart",
         "lemma": "levav",
         "strongs": "H3824"
+      },
+      {
+        "surface": "hear",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "11": [
@@ -594,6 +619,16 @@
         "surface": "refuse to listen",
         "lemma": "chadal",
         "strongs": "H2308"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "12": [
@@ -842,6 +877,11 @@
         "surface": "overwhelmed",
         "lemma": "shamem",
         "strongs": "H8074"
+      },
+      {
+        "surface": "sat",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ],
     "16": [
@@ -1023,6 +1063,11 @@
         "surface": "his blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "19": [
@@ -1234,6 +1279,16 @@
         "surface": "yourself",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "righteous",
+        "lemma": "tsaddiq",
+        "strongs": "H6662"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "22": [
@@ -1348,6 +1403,11 @@
         "surface": "and I fell",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "24": [
@@ -1484,6 +1544,16 @@
         "surface": "house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "become",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "27": [

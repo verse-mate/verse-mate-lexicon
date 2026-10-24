@@ -246,6 +246,11 @@
         "surface": "their heads",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "lip",
+        "lemma": "saphah_h8193",
+        "strongs": "H8193"
       }
     ],
     "8": [
@@ -1144,6 +1149,33 @@
         "surface": "He has done",
         "lemma": "asah",
         "strongs": "H6213"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "doe",
+        "lemma": "ayyalah",
+        "strongs": "H0355"
+      },
+      {
+        "surface": "dawn",
+        "lemma": "shachar_h7837",
+        "strongs": "H7837"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

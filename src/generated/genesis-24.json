@@ -267,6 +267,26 @@
         "surface": "you came",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "take back",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "6": [
@@ -463,6 +483,11 @@
         "surface": "back there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "9": [
@@ -587,6 +612,16 @@
         "surface": "in Aram-naharaim",
         "lemma": "aramnaharayim",
         "strongs": "H0763"
+      },
+      {
+        "surface": "camels",
+        "lemma": "gamal_h1581",
+        "strongs": "H1581"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "11": [
@@ -634,6 +669,16 @@
         "surface": "to draw water",
         "lemma": "shaav",
         "strongs": "H7579"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "12": [
@@ -686,6 +731,16 @@
         "surface": "Abraham",
         "lemma": "avraham",
         "strongs": "H0085"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "13": [
@@ -723,6 +778,16 @@
         "surface": "water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "14": [
@@ -944,6 +1009,11 @@
         "surface": "and came up again",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "17": [
@@ -1637,6 +1707,16 @@
         "surface": "the spring",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "sister",
+        "lemma": "achot",
+        "strongs": "H0269"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "31": [
@@ -1813,6 +1893,16 @@
         "surface": "Please speak",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "put",
+        "lemma": "sum",
+        "strongs": "H7760"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "34": [
@@ -2204,6 +2294,16 @@
         "surface": "from my oath",
         "lemma": "alah",
         "strongs": "H0423"
+      },
+      {
+        "surface": "free",
+        "lemma": "naqah",
+        "strongs": "H5352"
+      },
+      {
+        "surface": "oath",
+        "lemma": "alah_h0423",
+        "strongs": "H0423"
       }
     ],
     "42": [
@@ -2266,6 +2366,11 @@
         "surface": "a success",
         "lemma": "tsalach",
         "strongs": "H6743"
+      },
+      {
+        "surface": "going",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "43": [
@@ -2323,6 +2428,11 @@
         "surface": "from your jar",
         "lemma": "kad",
         "strongs": "H3537"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "44": [
@@ -2566,6 +2676,11 @@
         "surface": "her wrists",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "48": [
@@ -2710,6 +2825,16 @@
         "surface": "so that I may go",
         "lemma": "panah",
         "strongs": "H6437"
+      },
+      {
+        "surface": "right",
+        "lemma": "yamin",
+        "strongs": "H3225"
+      },
+      {
+        "surface": "left",
+        "lemma": "semol",
+        "strongs": "H8040"
       }
     ],
     "50": [
@@ -2747,6 +2872,31 @@
         "surface": "in the matter",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "speak",
+        "lemma": "davar",
+        "strongs": "H1696"
+      },
+      {
+        "surface": "evil",
+        "lemma": "ra",
+        "strongs": "H7451"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "51": [
@@ -2898,6 +3048,11 @@
         "surface": "and her mother",
         "lemma": "em",
         "strongs": "H0517"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "54": [
@@ -3254,6 +3409,11 @@
         "surface": "and left",
         "lemma": "halakh",
         "strongs": "H1980"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "62": [
@@ -3296,6 +3456,11 @@
         "surface": "in the Negev",
         "lemma": "negev",
         "strongs": "H5045"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "63": [
@@ -3343,6 +3508,16 @@
         "surface": "approaching",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "turning",
+        "lemma": "panah",
+        "strongs": "H6437"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "64": [
@@ -3375,6 +3550,11 @@
         "surface": "her camel",
         "lemma": "gamal",
         "strongs": "H1581"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "65": [
@@ -3469,6 +3649,11 @@
         "surface": "he had done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "67": [

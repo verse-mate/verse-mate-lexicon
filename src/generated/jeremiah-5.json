@@ -106,6 +106,16 @@
         "surface": "they are swearing falsely",
         "lemma": "shava",
         "strongs": "H7650"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "sheqer",
+        "strongs": "H8267"
       }
     ],
     "3": [
@@ -394,6 +404,11 @@
         "surface": "are numerous",
         "lemma": "atsom",
         "strongs": "H6105"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "7": [
@@ -587,6 +602,11 @@
         "surface": "belong to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "make",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "11": [
@@ -624,6 +644,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "dealt treacherously",
+        "lemma": "bagad",
+        "strongs": "H0898"
       }
     ],
     "12": [
@@ -887,6 +912,11 @@
         "surface": "understand",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "say",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "16": [
@@ -1157,6 +1187,11 @@
         "surface": "it in Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1209,6 +1244,11 @@
         "surface": "hear",
         "lemma": "shama",
         "strongs": "H8085"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "22": [
@@ -1628,6 +1668,16 @@
         "surface": "of the needy",
         "lemma": "evyon",
         "strongs": "H0034"
+      },
+      {
+        "surface": "cause",
+        "lemma": "din_h1779",
+        "strongs": "H1779"
+      },
+      {
+        "surface": "pleaded",
+        "lemma": "din",
+        "strongs": "H1777"
       }
     ],
     "29": [

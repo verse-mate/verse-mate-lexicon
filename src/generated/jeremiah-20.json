@@ -188,6 +188,16 @@
         "surface": "Magor-missabib",
         "lemma": "magormissaviv",
         "strongs": "H4036"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "4": [
@@ -285,6 +295,16 @@
         "surface": "to the sword",
         "lemma": "cherev",
         "strongs": "H2719"
+      },
+      {
+        "surface": "looking",
+        "lemma": "raah",
+        "strongs": "H7200"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "5": [
@@ -372,6 +392,11 @@
         "surface": "to Babylon",
         "lemma": "bavel",
         "strongs": "H0894"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "6": [
@@ -742,6 +767,11 @@
         "surface": "our vengeance",
         "lemma": "neqamah",
         "strongs": "H5360"
+      },
+      {
+        "surface": "peace",
+        "lemma": "shalom",
+        "strongs": "H7965"
       }
     ],
     "11": [
@@ -819,6 +849,11 @@
         "surface": "be forgotten",
         "lemma": "shakhach",
         "strongs": "H7911"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -1005,6 +1040,16 @@
       },
       {
         "surface": "bringing him great joy",
+        "lemma": "samach",
+        "strongs": "H8055"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "made rejoice",
         "lemma": "samach",
         "strongs": "H8055"
       }

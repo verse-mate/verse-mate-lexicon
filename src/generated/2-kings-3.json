@@ -74,6 +74,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -431,6 +441,11 @@
         "surface": "your horses",
         "lemma": "sus",
         "strongs": "H5483"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -550,6 +565,16 @@
         "surface": "animals",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "10": [
@@ -709,6 +734,11 @@
         "surface": "of Elijah",
         "lemma": "eliyyah",
         "strongs": "H0452"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -868,6 +898,11 @@
         "surface": "of Moab",
         "lemma": "moav",
         "strongs": "H4124"
+      },
+      {
+        "surface": "prophets",
+        "lemma": "navi",
+        "strongs": "H5030"
       }
     ],
     "14": [
@@ -1106,6 +1141,16 @@
         "surface": "and your animals",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "see",
+        "lemma": "raah",
+        "strongs": "H7200"
       }
     ],
     "18": [
@@ -1235,6 +1280,11 @@
         "surface": "with stones",
         "lemma": "even",
         "strongs": "H0068"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "20": [
@@ -1277,6 +1327,16 @@
         "surface": "the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "offering",
+        "lemma": "minchah",
+        "strongs": "H4503"
+      },
+      {
+        "surface": "waters",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "21": [
@@ -1339,6 +1399,11 @@
         "surface": "the border",
         "lemma": "gevul",
         "strongs": "H1366"
+      },
+      {
+        "surface": "belt",
+        "lemma": "chagor_h2290",
+        "strongs": "H2290"
       }
     ],
     "22": [
@@ -1448,6 +1513,11 @@
         "surface": "Moab",
         "lemma": "moav",
         "strongs": "H4124"
+      },
+      {
+        "surface": "fought one another",
+        "lemma": "charev",
+        "strongs": "H2717"
       }
     ],
     "24": [
@@ -1510,6 +1580,11 @@
         "surface": "the Moabites",
         "lemma": "moav",
         "strongs": "H4124"
+      },
+      {
+        "surface": "struck down",
+        "lemma": "nakhah",
+        "strongs": "H5221"
       }
     ],
     "25": [
@@ -1627,6 +1702,11 @@
         "surface": "and attacked it as well",
         "lemma": "nakhah",
         "strongs": "H5221"
+      },
+      {
+        "surface": "water",
+        "lemma": "mayim",
+        "strongs": "H4325"
       }
     ],
     "26": [
@@ -1694,6 +1774,16 @@
         "surface": "but they could not prevail",
         "lemma": "yakhol",
         "strongs": "H3201"
+      },
+      {
+        "surface": "drew",
+        "lemma": "shalaph",
+        "strongs": "H8025"
+      },
+      {
+        "surface": "sword",
+        "lemma": "cherev",
+        "strongs": "H2719"
       }
     ],
     "27": [
@@ -1766,6 +1856,11 @@
         "surface": "to their own land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ]
   }

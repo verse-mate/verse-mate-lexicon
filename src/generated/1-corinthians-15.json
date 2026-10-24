@@ -157,6 +157,11 @@
         "surface": "Twelve",
         "lemma": "dodeka",
         "strongs": "G1427"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "6": [
@@ -199,6 +204,16 @@
         "surface": "have fallen asleep",
         "lemma": "koimao",
         "strongs": "G2837"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "now",
+        "lemma": "arti",
+        "strongs": "G0737"
       }
     ],
     "7": [
@@ -231,6 +246,11 @@
         "surface": "apostles",
         "lemma": "apostolos",
         "strongs": "G0652"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "8": [
@@ -253,6 +273,11 @@
         "surface": "of untimely birth",
         "lemma": "ektroma",
         "strongs": "G1626"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "9": [
@@ -367,6 +392,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "more excessive",
+        "lemma": "perissoteron",
+        "strongs": "G4054"
       }
     ],
     "11": [
@@ -670,6 +700,11 @@
         "surface": "men",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "20": [
@@ -961,6 +996,11 @@
         "surface": "put everything under",
         "lemma": "hupotasso",
         "strongs": "G5293"
+      },
+      {
+        "surface": "all things",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "28": [
@@ -1297,6 +1337,11 @@
         "surface": "will they come",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "36": [
@@ -1460,6 +1505,16 @@
         "surface": "another",
         "lemma": "allos",
         "strongs": "G0243"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "sarx",
+        "strongs": "G4561"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "sarx",
+        "strongs": "G4561"
       }
     ],
     "40": [
@@ -1562,6 +1617,16 @@
       },
       {
         "surface": "splendor",
+        "lemma": "doxa",
+        "strongs": "G1391"
+      },
+      {
+        "surface": "glory",
+        "lemma": "doxa",
+        "strongs": "G1391"
+      },
+      {
+        "surface": "glory",
         "lemma": "doxa",
         "strongs": "G1391"
       }
@@ -1789,6 +1854,11 @@
         "surface": "spiritual",
         "lemma": "pneumatikos",
         "strongs": "G4152"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "47": [
@@ -2308,6 +2378,11 @@
         "surface": "in vain",
         "lemma": "kenos",
         "strongs": "G2756"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ]
   }

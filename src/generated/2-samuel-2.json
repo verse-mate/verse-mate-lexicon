@@ -89,6 +89,16 @@
         "surface": "replied the LORD",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -265,6 +275,16 @@
         "surface": "Saul",
         "lemma": "shaul",
         "strongs": "H7586"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "5": [
@@ -332,6 +352,11 @@
         "surface": "when you buried him",
         "lemma": "qavar",
         "strongs": "H6912"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "6": [
@@ -374,6 +399,11 @@
         "surface": "you have done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "7": [
@@ -426,6 +456,21 @@
         "surface": "as their king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "become",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "strength",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "8": [
@@ -617,6 +662,16 @@
         "surface": "David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "11": [
@@ -793,6 +848,16 @@
         "surface": "of the pool",
         "lemma": "berekhah",
         "strongs": "H1295"
+      },
+      {
+        "surface": "pool",
+        "lemma": "berekhah",
+        "strongs": "H1295"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "14": [
@@ -897,6 +962,26 @@
         "surface": "for David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "passed",
+        "lemma": "avar_h5674",
+        "strongs": "H5674"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "servants",
+        "lemma": "eved",
+        "strongs": "H5650"
       }
     ],
     "16": [
@@ -1145,6 +1230,21 @@
         "surface": "in his pursuit",
         "lemma": "avner",
         "strongs": "H0074"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "20": [
@@ -1326,6 +1426,11 @@
         "surface": "Joab",
         "lemma": "yoav",
         "strongs": "H3097"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "23": [
@@ -1428,6 +1533,11 @@
         "surface": "and died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "place",
+        "lemma": "tachat",
+        "strongs": "H8478"
       }
     ],
     "24": [
@@ -1490,6 +1600,21 @@
         "surface": "of Gibeon",
         "lemma": "givon",
         "strongs": "H1391"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "25": [
@@ -1542,6 +1667,16 @@
         "surface": "hill",
         "lemma": "givah",
         "strongs": "H1389"
+      },
+      {
+        "surface": "Benjamin",
+        "lemma": "binyamin",
+        "strongs": "H1144"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "26": [
@@ -1614,6 +1749,16 @@
         "surface": "their brothers",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
       }
     ],
     "27": [
@@ -1666,6 +1811,11 @@
         "surface": "until morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "28": [
@@ -1728,6 +1878,16 @@
         "surface": "to fight",
         "lemma": "lacham",
         "strongs": "H3898"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "29": [
@@ -1857,6 +2017,21 @@
         "surface": "were missing",
         "lemma": "paqad",
         "strongs": "H6485"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "el",
+        "lemma": "asahel",
+        "strongs": "H6214"
       }
     ],
     "31": [
@@ -1889,6 +2064,31 @@
         "surface": "who were with Abner",
         "lemma": "avner",
         "strongs": "H0074"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "died",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "32": [

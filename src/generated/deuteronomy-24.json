@@ -79,6 +79,26 @@
         "surface": "from his house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
+      },
+      {
+        "surface": "favor",
+        "lemma": "chen",
+        "strongs": "H2580"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "2": [
@@ -168,6 +188,26 @@
         "surface": "he dies",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "latter",
+        "lemma": "acharon",
+        "strongs": "H0314"
+      },
+      {
+        "surface": "taken",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "4": [
@@ -270,6 +310,11 @@
         "surface": "as an inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "become",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "5": [
@@ -362,6 +407,11 @@
         "surface": "he has married",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "wife",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "6": [
@@ -461,6 +511,11 @@
         "surface": "from among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "8": [
@@ -523,6 +578,11 @@
         "surface": "as I have commanded them",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "9": [
@@ -607,6 +667,11 @@
         "surface": "security",
         "lemma": "avot",
         "strongs": "H5667"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
       }
     ],
     "11": [
@@ -733,6 +798,16 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "14": [
@@ -775,6 +850,11 @@
         "surface": "in one of your towns",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "15": [
@@ -832,6 +912,16 @@
         "surface": "and you will be guilty of sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "desire",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "16": [
@@ -879,6 +969,11 @@
         "surface": "for his own sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "17": [
@@ -978,6 +1073,16 @@
         "surface": "you to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "19": [
@@ -1070,6 +1175,11 @@
         "surface": "of your hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "harvest",
+        "lemma": "qatsir",
+        "strongs": "H7105"
       }
     ],
     "20": [
@@ -1201,6 +1311,16 @@
         "surface": "you to do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

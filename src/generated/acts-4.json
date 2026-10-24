@@ -113,6 +113,11 @@
         "surface": "next day",
         "lemma": "aurion",
         "strongs": "G0839"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "4": [
@@ -192,6 +197,11 @@
         "surface": "Jerusalem",
         "lemma": "hierousalem",
         "strongs": "G2419"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "6": [
@@ -474,6 +484,16 @@
         "surface": "the cornerstone",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "builders",
+        "lemma": "oikodomos",
+        "strongs": "G6065"
+      },
+      {
+        "surface": "corner",
+        "lemma": "gonia",
+        "strongs": "G1137"
       }
     ],
     "12": [
@@ -640,6 +660,11 @@
         "surface": "to say in response",
         "lemma": "antilego",
         "strongs": "G0483"
+      },
+      {
+        "surface": "contradict",
+        "lemma": "anteipon",
+        "strongs": "G0471"
       }
     ],
     "15": [
@@ -865,6 +890,16 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "20": [
@@ -887,6 +922,11 @@
         "surface": "heard",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -934,6 +974,11 @@
         "surface": "had happened",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "nothing",
+        "lemma": "medeis",
+        "strongs": "G3367"
       }
     ],
     "22": [
@@ -971,6 +1016,11 @@
         "surface": "years old",
         "lemma": "etos",
         "strongs": "G2094"
+      },
+      {
+        "surface": "taken place",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "23": [
@@ -1516,6 +1566,21 @@
         "surface": "everything they owned",
         "lemma": "pas",
         "strongs": "G3956"
+      },
+      {
+        "surface": "claiming",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "all things",
+        "lemma": "hapas",
+        "strongs": "G0537"
+      },
+      {
+        "surface": "common",
+        "lemma": "koinos",
+        "strongs": "G2839"
       }
     ],
     "33": [
@@ -1724,6 +1789,11 @@
         "surface": "of Encouragement",
         "lemma": "paraklesis",
         "strongs": "G3874"
+      },
+      {
+        "surface": "birth",
+        "lemma": "genos",
+        "strongs": "G1085"
       }
     ],
     "37": [

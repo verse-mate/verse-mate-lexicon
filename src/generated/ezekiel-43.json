@@ -24,6 +24,16 @@
         "surface": "east",
         "lemma": "qadim",
         "strongs": "H6921"
+      },
+      {
+        "surface": "gate",
+        "lemma": "shaar_h8179",
+        "strongs": "H8179"
+      },
+      {
+        "surface": "direction",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "2": [
@@ -153,6 +163,21 @@
         "surface": "I fell",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "vision",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "vision",
+        "lemma": "mareh",
+        "strongs": "H4758"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "4": [
@@ -195,6 +220,11 @@
         "surface": "east",
         "lemma": "qadim",
         "strongs": "H6921"
+      },
+      {
+        "surface": "direction",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "5": [
@@ -401,6 +431,11 @@
         "surface": "at their deaths",
         "lemma": "bamah",
         "strongs": "H1116"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "8": [
@@ -478,6 +513,11 @@
         "surface": "in My anger",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "9": [
@@ -751,6 +791,16 @@
         "surface": "of the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
+      },
+      {
+        "surface": "holy places",
+        "lemma": "qodesh",
+        "strongs": "H6944"
       }
     ],
     "13": [
@@ -833,6 +883,11 @@
         "surface": "of the altar",
         "lemma": "mizbeach",
         "strongs": "H4196"
+      },
+      {
+        "surface": "cubit",
+        "lemma": "ammah",
+        "strongs": "H0520"
       }
     ],
     "14": [
@@ -999,6 +1054,16 @@
         "surface": "wide",
         "lemma": "rochav",
         "strongs": "H7341"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "17": [
@@ -1071,6 +1136,31 @@
         "surface": "east",
         "lemma": "qadim",
         "strongs": "H6921"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "sides",
+        "lemma": "reva_h7253",
+        "strongs": "H7253"
+      },
+      {
+        "surface": "all around",
+        "lemma": "saviv",
+        "strongs": "H5439"
       }
     ],
     "18": [
@@ -1371,6 +1461,16 @@
         "surface": "with the bull",
         "lemma": "par",
         "strongs": "H6499"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
+      },
+      {
+        "surface": "cleansed from sin",
+        "lemma": "chata",
+        "strongs": "H2398"
       }
     ],
     "23": [
@@ -1418,6 +1518,11 @@
         "surface": "the flock",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "24": [
@@ -1522,6 +1627,16 @@
         "surface": "both unblemished",
         "lemma": "tamim",
         "strongs": "H8549"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "26": [

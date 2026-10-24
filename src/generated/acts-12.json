@@ -34,6 +34,11 @@
         "surface": "church",
         "lemma": "ekklesia",
         "strongs": "G1577"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "2": [
@@ -108,6 +113,16 @@
         "surface": "Feast of Unleavened Bread",
         "lemma": "azumos",
         "strongs": "G0106"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "4": [
@@ -212,6 +227,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "made",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "6": [
@@ -659,6 +679,11 @@
         "surface": "were anticipating",
         "lemma": "prosdokia",
         "strongs": "G4329"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [
@@ -867,6 +892,11 @@
         "surface": "angel",
         "lemma": "angelos",
         "strongs": "G0032"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "16": [
@@ -899,6 +929,11 @@
         "surface": "they were astounded",
         "lemma": "existemi",
         "strongs": "G1839"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "17": [
@@ -971,6 +1006,11 @@
         "surface": "place",
         "lemma": "topos",
         "strongs": "G5117"
+      },
+      {
+        "surface": "went",
+        "lemma": "poreuo",
+        "strongs": "G4198"
       }
     ],
     "18": [
@@ -1013,6 +1053,11 @@
         "surface": "Peter",
         "lemma": "petros",
         "strongs": "G4074"
+      },
+      {
+        "surface": "become",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "19": [
@@ -1142,6 +1187,11 @@
         "surface": "for food",
         "lemma": "trepho",
         "strongs": "G5142"
+      },
+      {
+        "surface": "coming",
+        "lemma": "pareimi",
+        "strongs": "G3918"
       }
     ],
     "21": [

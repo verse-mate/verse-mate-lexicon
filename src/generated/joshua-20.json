@@ -19,6 +19,11 @@
         "surface": "Joshua",
         "lemma": "yehoshua",
         "strongs": "H3091"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -61,6 +66,16 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -118,6 +133,11 @@
         "surface": "of blood",
         "lemma": "dam",
         "strongs": "H1818"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
       }
     ],
     "4": [
@@ -195,6 +215,16 @@
         "surface": "to live",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "5": [
@@ -267,6 +297,16 @@
         "surface": "malice",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
       }
     ],
     "6": [
@@ -349,6 +389,16 @@
         "surface": "he fled",
         "lemma": "nus",
         "strongs": "H5127"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "7": [
@@ -615,6 +665,16 @@
         "surface": "the assembly",
         "lemma": "edah",
         "strongs": "H5712"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "sojourns",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ]
   }

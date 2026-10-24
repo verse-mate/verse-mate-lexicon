@@ -66,6 +66,11 @@
         "surface": "to my plea for mercy",
         "lemma": "tachanun",
         "strongs": "H8469"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "3": [
@@ -238,6 +243,18 @@
         "surface": "iniquity",
         "lemma": "avan",
         "strongs": "H5771"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "ascents",
+        "lemma": "maalah",
+        "strongs": "H4609"
       }
     ]
   }

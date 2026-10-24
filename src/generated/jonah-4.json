@@ -24,6 +24,11 @@
         "surface": "and he became angry",
         "lemma": "charah",
         "strongs": "H2734"
+      },
+      {
+        "surface": "displeasure",
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "2": [
@@ -131,6 +136,11 @@
         "surface": "sending disaster",
         "lemma": "ra",
         "strongs": "H7451"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "3": [
@@ -262,6 +272,11 @@
         "surface": "to the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "6": [
@@ -339,6 +354,11 @@
         "surface": "with the plant",
         "lemma": "qiqavon",
         "strongs": "H7021"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "7": [
@@ -478,6 +498,11 @@
         "surface": "than to live",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "9": [
@@ -592,6 +617,16 @@
         "surface": "in a night",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "11": [
@@ -669,6 +704,21 @@
         "surface": "cattle as well",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "ten thousand",
+        "lemma": "ribbo",
+        "strongs": "H7239"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ]
   }

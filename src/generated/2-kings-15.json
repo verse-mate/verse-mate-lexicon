@@ -54,6 +54,21 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "2": [
@@ -116,6 +131,21 @@
         "surface": "she was from Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "3": [
@@ -329,6 +359,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "7": [
@@ -453,6 +488,16 @@
         "surface": "months",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "9": [
@@ -619,6 +664,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "12": [
@@ -671,6 +721,16 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "13": [
@@ -733,6 +793,21 @@
         "surface": "one full month",
         "lemma": "yerach",
         "strongs": "H3391"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "14": [
@@ -800,6 +875,16 @@
         "surface": "in his place",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "Samaria",
+        "lemma": "shomeron",
+        "strongs": "H8111"
       }
     ],
     "15": [
@@ -852,6 +937,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "16": [
@@ -981,6 +1071,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "18": [
@@ -1130,6 +1230,11 @@
         "surface": "on the kingdom",
         "lemma": "mamlakhah",
         "strongs": "H4467"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "20": [
@@ -1284,6 +1389,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "22": [
@@ -1378,6 +1488,11 @@
         "surface": "and reigned in Samaria",
         "lemma": "shomeron",
         "strongs": "H8111"
+      },
+      {
+        "surface": "two years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       },
       {
         "surface": "two years",
@@ -1589,6 +1704,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "27": [
@@ -1656,6 +1776,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "28": [
@@ -1840,6 +1970,21 @@
         "surface": "to Assyria",
         "lemma": "ashshur",
         "strongs": "H0804"
+      },
+      {
+        "surface": "Abel",
+        "lemma": "avelbetmaakhah",
+        "strongs": "H0062"
+      },
+      {
+        "surface": "Beth",
+        "lemma": "avelbetmaakhah",
+        "strongs": "H0062"
+      },
+      {
+        "surface": "Maacah",
+        "lemma": "avelbetmaakhah",
+        "strongs": "H0062"
       }
     ],
     "30": [
@@ -1974,6 +2119,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "32": [
@@ -2036,6 +2186,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "33": [
@@ -2103,6 +2258,21 @@
         "surface": "of Zadok",
         "lemma": "tsadoq",
         "strongs": "H6659"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "34": [
@@ -2259,6 +2429,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "37": [

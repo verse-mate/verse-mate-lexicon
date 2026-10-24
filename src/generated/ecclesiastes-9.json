@@ -166,6 +166,11 @@
         "surface": "to take a vow",
         "lemma": "shevuah",
         "strongs": "H7621"
+      },
+      {
+        "surface": "sacrificing",
+        "lemma": "zavach",
+        "strongs": "H2076"
       }
     ],
     "3": [
@@ -248,6 +253,16 @@
         "surface": "the dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "heart",
+        "lemma": "levav",
+        "strongs": "H3824"
       }
     ],
     "4": [
@@ -305,6 +320,11 @@
         "surface": "lion",
         "lemma": "ari",
         "strongs": "H0738"
+      },
+      {
+        "surface": "united",
+        "lemma": "chavar",
+        "strongs": "H2266"
       }
     ],
     "5": [
@@ -424,6 +444,16 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "7": [
@@ -528,6 +558,11 @@
         "surface": "your head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "9": [
@@ -625,6 +660,11 @@
         "surface": "the sun",
         "lemma": "shemesh",
         "strongs": "H8121"
+      },
+      {
+        "surface": "laborer",
+        "lemma": "amel",
+        "strongs": "H6001"
       }
     ],
     "10": [
@@ -886,6 +926,11 @@
         "surface": "falls",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "13": [

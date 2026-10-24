@@ -193,6 +193,16 @@
         "surface": "has scattered you",
         "lemma": "puts",
         "strongs": "H6327"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "4": [
@@ -235,6 +245,11 @@
         "surface": "from there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "5": [
@@ -354,6 +369,11 @@
         "surface": "you may live",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "7": [
@@ -438,6 +458,11 @@
         "surface": "am giving you today",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -530,6 +555,11 @@
         "surface": "that of your fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "10": [
@@ -607,6 +637,16 @@
         "surface": "your soul",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "11": [
@@ -743,6 +783,11 @@
         "surface": "that we may obey it",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "other side",
+        "lemma": "ever_h5676",
+        "strongs": "H5676"
       }
     ],
     "14": [
@@ -1028,6 +1073,11 @@
         "surface": "to possess",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "perish",
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "19": [
@@ -1182,6 +1232,16 @@
         "surface": "and Jacob",
         "lemma": "yaaqov",
         "strongs": "H3290"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "dwell",
+        "lemma": "yashav",
+        "strongs": "H3427"
       }
     ]
   }

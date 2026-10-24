@@ -59,6 +59,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -96,6 +101,11 @@
         "surface": "your iniquities",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "3": [
@@ -180,6 +190,11 @@
         "surface": "nothing",
         "lemma": "bilti",
         "strongs": "H1115"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "5": [
@@ -237,6 +252,11 @@
         "surface": "to catch",
         "lemma": "lakhad",
         "strongs": "H3920"
+      },
+      {
+        "surface": "earth",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "6": [
@@ -351,6 +371,16 @@
         "surface": "the prophets",
         "lemma": "navi",
         "strongs": "H5030"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "8": [
@@ -480,6 +510,16 @@
         "surface": "in her midst",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -696,6 +736,11 @@
         "surface": "of a couch",
         "lemma": "eres",
         "strongs": "H6210"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [

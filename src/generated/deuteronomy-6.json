@@ -136,6 +136,11 @@
         "surface": "may be prolonged",
         "lemma": "arakh",
         "strongs": "H0748"
+      },
+      {
+        "surface": "child",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "3": [
@@ -393,6 +398,16 @@
         "surface": "on your foreheads",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "marks",
+        "lemma": "tophaphah",
+        "strongs": "H2903"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "9": [
@@ -569,6 +584,11 @@
         "surface": "and are satisfied",
         "lemma": "sava",
         "strongs": "H7646"
+      },
+      {
+        "surface": "dug",
+        "lemma": "chatsav",
+        "strongs": "H2672"
       }
     ],
     "12": [
@@ -680,6 +700,11 @@
         "surface": "around you",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "15": [
@@ -811,6 +836,11 @@
         "surface": "He has given you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "keep",
+        "lemma": "shamar",
+        "strongs": "H8104"
       }
     ],
     "18": [
@@ -962,6 +992,11 @@
         "surface": "has commanded you",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1168,6 +1203,11 @@
       },
       {
         "surface": "as we are to this day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
       }

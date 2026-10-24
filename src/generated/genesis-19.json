@@ -79,6 +79,11 @@
         "surface": "facedown",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "2": [
@@ -260,6 +265,21 @@
         "surface": "the house",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "end",
+        "lemma": "qatseh",
+        "strongs": "H7097"
       }
     ],
     "5": [
@@ -302,6 +322,11 @@
         "surface": "so we can have relations",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "6": [
@@ -433,6 +458,11 @@
         "surface": "of my roof",
         "lemma": "qorah",
         "strongs": "H6982"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "9": [
@@ -505,6 +535,26 @@
         "surface": "the door",
         "lemma": "dal",
         "strongs": "H1817"
+      },
+      {
+        "surface": "beyond",
+        "lemma": "haleah",
+        "strongs": "H1973"
+      },
+      {
+        "surface": "continuously",
+        "lemma": "shaphat",
+        "strongs": "H8199"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "10": [
@@ -542,6 +592,11 @@
         "surface": "the door",
         "lemma": "dal",
         "strongs": "H1817"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "11": [
@@ -589,6 +644,11 @@
         "surface": "the door",
         "lemma": "petach",
         "strongs": "H6607"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "12": [
@@ -698,6 +758,11 @@
         "surface": "to destroy it",
         "lemma": "shachat",
         "strongs": "H7843"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -857,6 +922,11 @@
         "surface": "of the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "came up",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
       }
     ],
     "16": [
@@ -1110,6 +1180,11 @@
         "surface": "and I will die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "am able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "20": [
@@ -1199,6 +1274,16 @@
         "surface": "you indicate",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "22": [
@@ -1256,6 +1341,21 @@
         "surface": "Zoar",
         "lemma": "tsoar",
         "strongs": "H6820"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "23": [
@@ -1513,6 +1613,11 @@
         "surface": "from a furnace",
         "lemma": "kivshan",
         "strongs": "H3536"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "29": [
@@ -1657,6 +1762,16 @@
         "surface": "in a cave",
         "lemma": "mearah",
         "strongs": "H4631"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
       }
     ],
     "31": [
@@ -2026,6 +2141,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "38": [
@@ -2078,6 +2198,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ]
   }

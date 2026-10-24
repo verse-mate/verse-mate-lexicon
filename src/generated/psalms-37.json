@@ -357,6 +357,11 @@
         "surface": "they will not be found",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "little",
+        "lemma": "meat",
+        "strongs": "H4592"
       }
     ],
     "11": [
@@ -623,6 +628,11 @@
         "surface": "will last forever",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "19": [
@@ -1417,6 +1427,13 @@
         "surface": "they take refuge",
         "lemma": "chasah",
         "strongs": "H2620"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

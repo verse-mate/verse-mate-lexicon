@@ -175,6 +175,11 @@
         "surface": "voice",
         "lemma": "phone",
         "strongs": "G5456"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "5": [
@@ -202,6 +207,16 @@
         "surface": "his voice",
         "lemma": "phone",
         "strongs": "G5456"
+      },
+      {
+        "surface": "strangers",
+        "lemma": "allotrios",
+        "strongs": "G0245"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "6": [
@@ -847,6 +862,11 @@
         "surface": "would you listen to",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "21": [
@@ -899,6 +919,11 @@
         "surface": "of the blind",
         "lemma": "tuphlos",
         "strongs": "G5185"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "22": [
@@ -1000,6 +1025,16 @@
         "surface": "plainly",
         "lemma": "parresia",
         "strongs": "G3954"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "25": [
@@ -1133,6 +1168,11 @@
         "surface": "hand",
         "lemma": "cheir",
         "strongs": "G5495"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "29": [
@@ -1674,6 +1714,16 @@
         "surface": "true",
         "lemma": "alethes",
         "strongs": "G0227"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "42": [

@@ -555,6 +555,11 @@
         "surface": "of Hosts",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "10": [
@@ -642,6 +647,16 @@
         "surface": "against his neighbor",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "wage",
+        "lemma": "sakhar_h7939",
+        "strongs": "H7939"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "11": [
@@ -684,6 +699,11 @@
         "surface": "of Hosts",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "12": [
@@ -957,6 +977,11 @@
         "surface": "be afraid",
         "lemma": "yare",
         "strongs": "H3372"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "16": [
@@ -1009,6 +1034,11 @@
         "surface": "in your gates",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "judge",
+        "lemma": "shaphat",
+        "strongs": "H8199"
       }
     ],
     "17": [
@@ -1076,6 +1106,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "18": [
@@ -1205,6 +1240,16 @@
         "surface": "and peace",
         "lemma": "shalom",
         "strongs": "H7965"
+      },
+      {
+        "surface": "fast",
+        "lemma": "tsom",
+        "strongs": "H6685"
+      },
+      {
+        "surface": "fast",
+        "lemma": "tsom",
+        "strongs": "H6685"
       }
     ],
     "20": [
@@ -1322,6 +1367,11 @@
       },
       {
         "surface": "am going",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "go",
         "lemma": "halakh",
         "strongs": "H1980"
       }
@@ -1478,6 +1528,11 @@
         "surface": "that God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ]
   }

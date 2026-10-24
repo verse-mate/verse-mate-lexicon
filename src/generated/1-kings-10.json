@@ -198,6 +198,11 @@
         "surface": "to explain",
         "lemma": "nagad",
         "strongs": "H5046"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "4": [
@@ -312,6 +317,11 @@
         "surface": "away",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "6": [
@@ -662,6 +672,16 @@
         "surface": "Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "11": [
@@ -724,6 +744,11 @@
         "surface": "stones",
         "lemma": "even",
         "strongs": "H0068"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "12": [
@@ -955,6 +980,26 @@
         "surface": "talents",
         "lemma": "kikkar",
         "strongs": "H3603"
+      },
+      {
+        "surface": "gold",
+        "lemma": "zahav",
+        "strongs": "H2091"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
       }
     ],
     "15": [
@@ -1002,6 +1047,11 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "merchants",
+        "lemma": "tur_h8446",
+        "strongs": "H8446"
       }
     ],
     "16": [
@@ -1260,6 +1310,16 @@
         "surface": "each armrest",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "throne",
+        "lemma": "kisse",
+        "strongs": "H3678"
+      },
+      {
+        "surface": "sitting",
+        "lemma": "shevet_h7675",
+        "strongs": "H7675"
       }
     ],
     "20": [
@@ -1312,6 +1372,11 @@
         "surface": "kingdom",
         "lemma": "mamlakhah",
         "strongs": "H4467"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "21": [
@@ -1409,6 +1474,11 @@
         "surface": "of Solomon",
         "lemma": "shelomoh",
         "strongs": "H8010"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
       }
     ],
     "22": [
@@ -1496,6 +1566,11 @@
         "surface": "and peacocks",
         "lemma": "tukki",
         "strongs": "H8500"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "23": [
@@ -1657,6 +1732,16 @@
         "surface": "and mules",
         "lemma": "pered",
         "strongs": "H6505"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "26": [
@@ -1714,6 +1799,41 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "chariotry",
+        "lemma": "rekhev",
+        "strongs": "H7393"
+      },
+      {
+        "surface": "horsemen",
+        "lemma": "parash_h6571",
+        "strongs": "H6571"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "27": [
@@ -1808,6 +1928,16 @@
         "surface": "from Kue",
         "lemma": "qoveh",
         "strongs": "H4723"
+      },
+      {
+        "surface": "Solomon",
+        "lemma": "shelomoh",
+        "strongs": "H8010"
+      },
+      {
+        "surface": "price",
+        "lemma": "mechir",
+        "strongs": "H4242"
       }
     ],
     "29": [
@@ -1895,6 +2025,11 @@
         "surface": "of Aram",
         "lemma": "aram",
         "strongs": "H0758"
+      },
+      {
+        "surface": "brought out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ]
   }

@@ -192,6 +192,11 @@
         "surface": "and accuse",
         "lemma": "kategoreo",
         "strongs": "G2723"
+      },
+      {
+        "surface": "says",
+        "lemma": "phemi",
+        "strongs": "G5346"
       }
     ],
     "6": [
@@ -259,6 +264,11 @@
         "surface": "be brought in",
         "lemma": "ago",
         "strongs": "G0071"
+      },
+      {
+        "surface": "more",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "7": [
@@ -400,6 +410,21 @@
         "surface": "to stand trial",
         "lemma": "krino",
         "strongs": "G2919"
+      },
+      {
+        "surface": "Jews",
+        "lemma": "ioudaios",
+        "strongs": "G2453"
+      },
+      {
+        "surface": "favor",
+        "lemma": "charis",
+        "strongs": "G5485"
+      },
+      {
+        "surface": "answering",
+        "lemma": "apokrino",
+        "strongs": "G0611"
       }
     ],
     "10": [
@@ -695,6 +720,16 @@
         "surface": "in prison",
         "lemma": "desmios",
         "strongs": "G1198"
+      },
+      {
+        "surface": "many",
+        "lemma": "polus",
+        "strongs": "G4183"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "15": [
@@ -737,6 +772,11 @@
         "surface": "a judgment",
         "lemma": "katadikazo",
         "strongs": "G2613"
+      },
+      {
+        "surface": "penalty",
+        "lemma": "katadike",
+        "strongs": "G6048"
       }
     ],
     "16": [
@@ -794,6 +834,16 @@
         "surface": "charges",
         "lemma": "egklema",
         "strongs": "G1462"
+      },
+      {
+        "surface": "Romans",
+        "lemma": "rhomaios",
+        "strongs": "G4514"
+      },
+      {
+        "surface": "accused",
+        "lemma": "kategoreo",
+        "strongs": "G2723"
       }
     ],
     "17": [
@@ -977,6 +1027,11 @@
         "surface": "be tried {there",
         "lemma": "krino",
         "strongs": "G2919"
+      },
+      {
+        "surface": "asking",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "21": [
@@ -1349,6 +1404,11 @@
         "surface": "to write",
         "lemma": "grapho",
         "strongs": "G1125"
+      },
+      {
+        "surface": "having taken place",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "27": [

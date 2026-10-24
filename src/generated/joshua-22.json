@@ -34,6 +34,11 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "2": [
@@ -143,6 +148,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "many",
+        "lemma": "rav",
+        "strongs": "H7227"
       }
     ],
     "4": [
@@ -220,6 +230,21 @@
         "surface": "the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "attah",
+        "strongs": "H6258"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "possession",
+        "lemma": "achuzzah",
+        "strongs": "H0272"
       }
     ],
     "5": [
@@ -446,6 +471,11 @@
         "surface": "he blessed them",
         "lemma": "barakh",
         "strongs": "H1288"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "8": [
@@ -533,6 +563,21 @@
         "surface": "of your enemies",
         "lemma": "oyev",
         "strongs": "H0341"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "9": [
@@ -620,6 +665,41 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "returned",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "possession",
+        "lemma": "achuzzah",
+        "strongs": "H0272"
       }
     ],
     "10": [
@@ -697,6 +777,26 @@
         "surface": "the Jordan",
         "lemma": "yarden",
         "strongs": "H3383"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "altar",
+        "lemma": "mizbeach",
+        "strongs": "H4196"
       }
     ],
     "11": [
@@ -779,6 +879,31 @@
         "surface": "side",
         "lemma": "ever",
         "strongs": "H5676"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "12": [
@@ -826,6 +951,16 @@
         "surface": "to war",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -888,6 +1023,26 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "14": [
@@ -955,6 +1110,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "leader",
+        "lemma": "nasi",
+        "strongs": "H5387"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "fathers",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "15": [
@@ -997,6 +1167,26 @@
         "surface": "and said",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1325,6 +1515,11 @@
         "surface": "our God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "rebel",
+        "lemma": "marad",
+        "strongs": "H4775"
       }
     ],
     "20": [
@@ -1402,6 +1597,11 @@
         "surface": "because of his sin",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "21": [
@@ -1444,6 +1644,26 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "22": [
@@ -1660,6 +1880,21 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "25": [
@@ -1891,6 +2126,11 @@
         "surface": "in the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "service",
+        "lemma": "avodah",
+        "strongs": "H5656"
       }
     ],
     "28": [
@@ -1973,6 +2213,11 @@
         "surface": "and you",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "tomorrow",
+        "lemma": "machar",
+        "strongs": "H4279"
       }
     ],
     "29": [
@@ -2055,6 +2300,11 @@
         "surface": "His tabernacle",
         "lemma": "mishkan",
         "strongs": "H4908"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "30": [
@@ -2127,6 +2377,26 @@
         "surface": "they were satisfied",
         "lemma": "yatav",
         "strongs": "H3190"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "31": [
@@ -2326,6 +2596,21 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "33": [
@@ -2403,6 +2688,31 @@
         "surface": "lived",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ],
     "34": [
@@ -2445,6 +2755,16 @@
         "surface": "is God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "Gad",
+        "lemma": "gad_h1410",
+        "strongs": "H1410"
       }
     ]
   }

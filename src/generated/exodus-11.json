@@ -79,6 +79,11 @@
         "surface": "completely",
         "lemma": "kalah",
         "strongs": "H3617"
+      },
+      {
+        "surface": "drive out",
+        "lemma": "garash",
+        "strongs": "H1644"
       }
     ],
     "2": [
@@ -126,6 +131,21 @@
         "surface": "and gold",
         "lemma": "zahav",
         "strongs": "H2091"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
+      },
+      {
+        "surface": "neighbor",
+        "lemma": "rea_h7453",
+        "strongs": "H7453"
+      },
+      {
+        "surface": "articles",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "3": [
@@ -203,6 +223,16 @@
         "surface": "and by the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "4": [
@@ -250,6 +280,11 @@
         "surface": "Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
       }
     ],
     "5": [
@@ -451,6 +486,21 @@
         "surface": "and Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "tongue",
+        "lemma": "lashon",
+        "strongs": "H3956"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "8": [
@@ -662,6 +712,11 @@
         "surface": "of his land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

@@ -79,6 +79,11 @@
         "surface": "waters",
         "lemma": "hudor",
         "strongs": "G5204"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "2": [
@@ -203,6 +208,11 @@
         "surface": "horns",
         "lemma": "keras",
         "strongs": "G2768"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "4": [
@@ -394,6 +404,31 @@
         "surface": "at the sight",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "blood",
+        "lemma": "haima",
+        "strongs": "G0129"
+      },
+      {
+        "surface": "wonder",
+        "lemma": "thauma",
+        "strongs": "G2295"
+      },
+      {
+        "surface": "great",
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "7": [
@@ -461,6 +496,16 @@
         "surface": "horns",
         "lemma": "keras",
         "strongs": "G2768"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
+      },
+      {
+        "surface": "tell",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "8": [
@@ -578,6 +623,11 @@
         "surface": "will be",
         "lemma": "pareimi",
         "strongs": "G3918"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "9": [
@@ -831,6 +881,11 @@
         "surface": "beast",
         "lemma": "therion",
         "strongs": "G2342"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -987,6 +1042,11 @@
         "surface": "tongues",
         "lemma": "glossa",
         "strongs": "G1100"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -1054,6 +1114,11 @@
         "surface": "fire",
         "lemma": "pur",
         "strongs": "G4442"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "17": [
@@ -1173,6 +1238,11 @@
         "surface": "earth",
         "lemma": "ge",
         "strongs": "G1093"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

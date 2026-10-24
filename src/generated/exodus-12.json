@@ -34,6 +34,11 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -128,6 +133,16 @@
         "surface": "per household",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "household",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "4": [
@@ -190,6 +205,21 @@
         "surface": "accordingly",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "food",
+        "lemma": "okhel",
+        "strongs": "H0400"
       }
     ],
     "5": [
@@ -232,6 +262,11 @@
         "surface": "or the goats",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -294,6 +329,11 @@
         "surface": "twilight",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "7": [
@@ -373,6 +413,11 @@
         "surface": "and bitter herbs",
         "lemma": "meror",
         "strongs": "H4844"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "9": [
@@ -430,6 +475,11 @@
         "surface": "and inner parts",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "10": [
@@ -462,6 +512,11 @@
         "surface": "that is left over",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "burn",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
       }
     ],
     "11": [
@@ -519,6 +574,11 @@
         "surface": "Passover",
         "lemma": "pesach",
         "strongs": "H6453"
+      },
+      {
+        "surface": "girded",
+        "lemma": "chagar",
+        "strongs": "H2296"
       }
     ],
     "12": [
@@ -596,6 +656,16 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "13": [
@@ -720,6 +790,11 @@
         "surface": "for the generations to come",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "celebrate as a festival",
+        "lemma": "chagag",
+        "strongs": "H2287"
       }
     ],
     "15": [
@@ -807,6 +882,21 @@
         "surface": "from Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "surely",
+        "lemma": "akh",
+        "strongs": "H0389"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "16": [
@@ -884,6 +974,26 @@
         "surface": "you may do",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "convocation",
+        "lemma": "miqra",
+        "strongs": "H4744"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "17": [
@@ -998,6 +1108,26 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "month",
+        "lemma": "chodesh",
+        "strongs": "H2320"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
       }
     ],
     "19": [
@@ -1080,6 +1210,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "thing leavened",
+        "lemma": "chamets",
+        "strongs": "H2556"
       }
     ],
     "20": [
@@ -1122,6 +1257,11 @@
         "surface": "your homes",
         "lemma": "moshav",
         "strongs": "H4186"
+      },
+      {
+        "surface": "thing leavened",
+        "lemma": "chamets",
+        "strongs": "H2556"
       }
     ],
     "21": [
@@ -1266,6 +1406,16 @@
         "surface": "morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "basin",
+        "lemma": "saph",
+        "strongs": "H5592"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "23": [
@@ -1353,6 +1503,11 @@
         "surface": "and strike you down",
         "lemma": "nagaph",
         "strongs": "H5062"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "24": [
@@ -1516,6 +1671,11 @@
         "surface": "and worshiped",
         "lemma": "shachah",
         "strongs": "H7812"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "28": [
@@ -1553,6 +1713,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "29": [
@@ -1645,6 +1810,16 @@
         "surface": "among the livestock",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "night",
+        "lemma": "laylah",
+        "strongs": "H3915"
+      },
+      {
+        "surface": "cistern",
+        "lemma": "bor_h0953",
+        "strongs": "H0953"
       }
     ],
     "30": [
@@ -1717,6 +1892,11 @@
         "surface": "someone dead",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "31": [
@@ -1784,6 +1964,16 @@
         "surface": "as you have requested",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "among",
+        "lemma": "tavekh",
+        "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "32": [
@@ -1967,6 +2157,11 @@
         "surface": "and for clothing",
         "lemma": "simlah",
         "strongs": "H8071"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "36": [
@@ -2061,6 +2256,21 @@
         "surface": "women and children",
         "lemma": "taph",
         "strongs": "H2945"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "38": [
@@ -2098,6 +2308,11 @@
         "surface": "and herds",
         "lemma": "baqar",
         "strongs": "H1241"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "39": [
@@ -2217,6 +2432,21 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "41": [
@@ -2274,6 +2504,21 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "42": [
@@ -2336,6 +2581,11 @@
         "surface": "for the generations to come",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "43": [
@@ -2383,6 +2633,11 @@
         "surface": "is to eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ],
     "44": [
@@ -2415,6 +2670,11 @@
         "surface": "after you have circumcised him",
         "lemma": "mul",
         "strongs": "H4135"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "45": [
@@ -2489,6 +2749,11 @@
         "surface": "any of the bones",
         "lemma": "etsem",
         "strongs": "H6106"
+      },
+      {
+        "surface": "outside",
+        "lemma": "chuts",
+        "strongs": "H2351"
       }
     ],
     "47": [
@@ -2593,6 +2858,11 @@
         "surface": "may eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "49": [
@@ -2677,6 +2947,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "51": [
@@ -2724,6 +2999,11 @@
         "surface": "their divisions",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

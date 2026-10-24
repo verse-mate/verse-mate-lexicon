@@ -116,6 +116,11 @@
         "surface": "sat",
         "lemma": "kathemai",
         "strongs": "G2521"
+      },
+      {
+        "surface": "having come",
+        "lemma": "proserchomai",
+        "strongs": "G4334"
       }
     ],
     "3": [
@@ -222,6 +227,11 @@
         "surface": "was crucified",
         "lemma": "stauroo",
         "strongs": "G4717"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "6": [
@@ -259,6 +269,11 @@
         "surface": "He lay",
         "lemma": "keimai",
         "strongs": "G2749"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -316,6 +331,11 @@
         "surface": "I have told",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "8": [
@@ -358,6 +378,11 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "quickly",
+        "lemma": "tachu",
+        "strongs": "G5035"
       }
     ],
     "9": [
@@ -452,6 +477,11 @@
         "surface": "they will see",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "11": [
@@ -531,6 +561,11 @@
         "surface": "sum of money",
         "lemma": "argurion",
         "strongs": "G0694"
+      },
+      {
+        "surface": "counsel",
+        "lemma": "sumboulion",
+        "strongs": "G4824"
       }
     ],
     "13": [
@@ -679,6 +714,11 @@
         "surface": "had designated",
         "lemma": "tasso",
         "strongs": "G5021"
+      },
+      {
+        "surface": "where",
+        "lemma": "hou",
+        "strongs": "G3757"
       }
     ],
     "17": [
@@ -696,6 +736,11 @@
         "surface": "doubted",
         "lemma": "distazo",
         "strongs": "G1365"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "18": [
@@ -738,6 +783,11 @@
         "surface": "has been given",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -837,6 +887,11 @@
         "surface": "age",
         "lemma": "aion",
         "strongs": "G0165"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ]
   }

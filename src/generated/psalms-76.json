@@ -123,6 +123,11 @@
         "surface": "Selah",
         "lemma": "selah",
         "strongs": "H5542"
+      },
+      {
+        "surface": "bow",
+        "lemma": "qeshet",
+        "strongs": "H7198"
       }
     ],
     "4": [
@@ -192,6 +197,16 @@
         "surface": "a hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "6": [
@@ -436,6 +451,33 @@
         "surface": "of the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "stringed instruments",
+        "lemma": "neginah",
+        "strongs": "H5058"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "Asaph",
+        "lemma": "asaph_h0623",
+        "strongs": "H0623"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
       }
     ]
   }

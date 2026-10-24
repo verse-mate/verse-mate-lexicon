@@ -54,6 +54,11 @@
         "surface": "of the world",
         "lemma": "cheled",
         "strongs": "H2465"
+      },
+      {
+        "surface": "peoples",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "2": [
@@ -76,6 +81,21 @@
         "surface": "alike",
         "lemma": "yachad",
         "strongs": "H3162"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "humankind",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "3": [
@@ -177,6 +197,11 @@
         "surface": "surround me",
         "lemma": "savav",
         "strongs": "H5437"
+      },
+      {
+        "surface": "heels",
+        "lemma": "aqev",
+        "strongs": "H6119"
       }
     ],
     "6": [
@@ -246,6 +271,11 @@
         "surface": "to God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "ransom",
+        "lemma": "padah",
+        "strongs": "H6299"
       }
     ],
     "8": [
@@ -300,6 +330,11 @@
         "surface": "decay",
         "lemma": "shachat",
         "strongs": "H7845"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "10": [
@@ -389,6 +424,16 @@
         "surface": "were their namesakes",
         "lemma": "qara",
         "strongs": "H7121"
+      },
+      {
+        "surface": "generation",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "names",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "12": [
@@ -520,6 +565,11 @@
         "surface": "far from their lofty abode",
         "lemma": "zevul",
         "strongs": "H2073"
+      },
+      {
+        "surface": "form",
+        "lemma": "tsur_h6697",
+        "strongs": "H6697"
       }
     ],
     "15": [
@@ -636,6 +686,11 @@
         "surface": "down",
         "lemma": "yarad",
         "strongs": "H3381"
+      },
+      {
+        "surface": "anything",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "18": [
@@ -690,6 +745,11 @@
         "surface": "the light of day",
         "lemma": "or",
         "strongs": "H0216"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
       }
     ],
     "20": [
@@ -727,6 +787,28 @@
         "surface": "that perish",
         "lemma": "damah",
         "strongs": "H1820"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Korah",
+        "lemma": "qorach",
+        "strongs": "H7141"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
       }
     ]
   }

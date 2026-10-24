@@ -96,6 +96,16 @@
         "surface": "a King",
         "lemma": "basileus",
         "strongs": "G0935"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "given",
+        "lemma": "didomi",
+        "strongs": "G1325"
       }
     ],
     "3": [
@@ -133,6 +143,16 @@
         "surface": "Jesus replied",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "phemi",
+        "strongs": "G5346"
       }
     ],
     "4": [
@@ -222,6 +242,16 @@
         "surface": "here",
         "lemma": "hode",
         "strongs": "G5602"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "6": [
@@ -378,6 +408,21 @@
         "surface": "miracle",
         "lemma": "semeion",
         "strongs": "G4592"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "9": [
@@ -516,6 +561,11 @@
         "surface": "enemies",
         "lemma": "echthra",
         "strongs": "G2189"
+      },
+      {
+        "surface": "one another",
+        "lemma": "allelon",
+        "strongs": "G0240"
       }
     ],
     "13": [
@@ -676,6 +726,11 @@
         "surface": "Barabbas",
         "lemma": "barabbas",
         "strongs": "G0912"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -698,6 +753,16 @@
         "surface": "for murder",
         "lemma": "phonos",
         "strongs": "G5408"
+      },
+      {
+        "surface": "having been made",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "prison",
+        "lemma": "phulake",
+        "strongs": "G5438"
       }
     ],
     "20": [
@@ -747,6 +812,11 @@
         "surface": "Crucify",
         "lemma": "stauroo",
         "strongs": "G4717"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "22": [
@@ -836,6 +906,11 @@
         "surface": "prevailed",
         "lemma": "katischuo",
         "strongs": "G2729"
+      },
+      {
+        "surface": "loud",
+        "lemma": "megas",
+        "strongs": "G3173"
       }
     ],
     "24": [
@@ -900,6 +975,11 @@
         "surface": "will",
         "lemma": "thelema",
         "strongs": "G2307"
+      },
+      {
+        "surface": "prison",
+        "lemma": "phulake",
+        "strongs": "G5438"
       }
     ],
     "26": [
@@ -1078,6 +1158,11 @@
         "surface": "nursed",
         "lemma": "trepho",
         "strongs": "G5142"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "30": [
@@ -1115,6 +1200,11 @@
         "surface": "Cover",
         "lemma": "kalupto",
         "strongs": "G2572"
+      },
+      {
+        "surface": "begin",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "31": [
@@ -1278,6 +1368,16 @@
         "surface": "lots",
         "lemma": "kleros",
         "strongs": "G2819"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "35": [
@@ -1569,6 +1669,11 @@
         "surface": "kingdom",
         "lemma": "basileia",
         "strongs": "G0932"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "43": [
@@ -1732,6 +1837,11 @@
         "surface": "He breathed His last",
         "lemma": "ekpneo",
         "strongs": "G1606"
+      },
+      {
+        "surface": "having said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "47": [
@@ -1784,6 +1894,11 @@
         "surface": "man",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "48": [
@@ -1962,6 +2077,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "Jews",
+        "lemma": "ioudaios",
+        "strongs": "G2453"
       }
     ],
     "52": [

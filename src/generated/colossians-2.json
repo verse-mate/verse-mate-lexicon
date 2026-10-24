@@ -44,6 +44,16 @@
         "surface": "face to face",
         "lemma": "prosopon",
         "strongs": "G4383"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "sarx",
+        "strongs": "G4561"
       }
     ],
     "2": [
@@ -429,6 +439,11 @@
         "surface": "not by human hands",
         "lemma": "acheiropoietos",
         "strongs": "G0886"
+      },
+      {
+        "surface": "body",
+        "lemma": "soma",
+        "strongs": "G4983"
       }
     ],
     "12": [
@@ -560,6 +575,11 @@
         "surface": "cross",
         "lemma": "stauros",
         "strongs": "G4716"
+      },
+      {
+        "surface": "way",
+        "lemma": "mesos",
+        "strongs": "G3319"
       }
     ],
     "15": [
@@ -587,6 +607,11 @@
         "surface": "triumphing",
         "lemma": "thriambeuo",
         "strongs": "G2358"
+      },
+      {
+        "surface": "public",
+        "lemma": "parresia",
+        "strongs": "G3954"
       }
     ],
     "16": [
@@ -829,6 +854,11 @@
         "surface": "not touch",
         "lemma": "thingano",
         "strongs": "G2345"
+      },
+      {
+        "surface": "handle",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "22": [

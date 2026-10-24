@@ -86,6 +86,11 @@
         "surface": "truth",
         "lemma": "aletheia",
         "strongs": "G0225"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "3": [
@@ -123,6 +128,11 @@
         "surface": "judgment",
         "lemma": "krima",
         "strongs": "G2917"
+      },
+      {
+        "surface": "practicing",
+        "lemma": "prasso",
+        "strongs": "G4238"
       }
     ],
     "4": [
@@ -380,6 +390,11 @@
         "surface": "for the Greek",
         "lemma": "hellen",
         "strongs": "G1672"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "10": [
@@ -427,6 +442,11 @@
         "surface": "for the Greek",
         "lemma": "hellen",
         "strongs": "G1672"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "11": [
@@ -1081,6 +1101,11 @@
         "surface": "are a lawbreaker",
         "lemma": "parabates",
         "strongs": "G3848"
+      },
+      {
+        "surface": "law",
+        "lemma": "nomos",
+        "strongs": "G3551"
       }
     ],
     "28": [

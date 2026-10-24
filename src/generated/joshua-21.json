@@ -69,6 +69,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "fathers",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "2": [
@@ -136,6 +141,11 @@
         "surface": "for our livestock",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -178,6 +188,11 @@
         "surface": "out of their own inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "4": [
@@ -260,6 +275,21 @@
         "surface": "and Benjamin",
         "lemma": "binyamin",
         "strongs": "H1144"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "5": [
@@ -327,6 +357,11 @@
         "surface": "of Manasseh",
         "lemma": "menashsheh",
         "strongs": "H4519"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
       }
     ],
     "6": [
@@ -394,6 +429,26 @@
         "surface": "in Bashan",
         "lemma": "bashan",
         "strongs": "H1316"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "7": [
@@ -441,6 +496,21 @@
         "surface": "and Zebulun",
         "lemma": "zevulun",
         "strongs": "H2074"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "8": [
@@ -488,6 +558,16 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "lot",
+        "lemma": "goral",
+        "strongs": "H1486"
       }
     ],
     "9": [
@@ -525,6 +605,21 @@
         "surface": "by name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "called",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "10": [
@@ -567,6 +662,16 @@
         "surface": "fell",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ],
     "11": [
@@ -713,6 +818,11 @@
         "surface": "Libnah",
         "lemma": "livnah",
         "strongs": "H3841"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "14": [
@@ -725,6 +835,16 @@
         "surface": "Eshtemoa",
         "lemma": "eshtemoa",
         "strongs": "H0851"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "15": [
@@ -737,6 +857,16 @@
         "surface": "Debir",
         "lemma": "devir",
         "strongs": "H1688"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "16": [
@@ -784,6 +914,16 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "17": [
@@ -806,6 +946,16 @@
         "surface": "Geba",
         "lemma": "geva",
         "strongs": "H1387"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "18": [
@@ -831,6 +981,11 @@
       },
       {
         "surface": "their pasturelands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
         "lemma": "migrash",
         "strongs": "H4054"
       }
@@ -870,6 +1025,16 @@
         "surface": "of Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "20": [
@@ -912,6 +1077,21 @@
         "surface": "of Ephraim",
         "lemma": "ephrayim",
         "strongs": "H0669"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Kohath",
+        "lemma": "qehat",
+        "strongs": "H6955"
       }
     ],
     "21": [
@@ -954,6 +1134,16 @@
         "surface": "Gezer",
         "lemma": "gezer",
         "strongs": "H1507"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "22": [
@@ -986,6 +1176,11 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "23": [
@@ -1008,6 +1203,16 @@
         "surface": "Gibbethon",
         "lemma": "gibbton",
         "strongs": "H1405"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "24": [
@@ -1038,6 +1243,11 @@
       },
       {
         "surface": "their pasturelands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
         "lemma": "migrash",
         "strongs": "H4054"
       }
@@ -1082,6 +1292,16 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "26": [
@@ -1119,6 +1339,11 @@
         "surface": "clans",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "27": [
@@ -1196,6 +1421,16 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "28": [
@@ -1218,6 +1453,16 @@
         "surface": "Daberath",
         "lemma": "daverat",
         "strongs": "H1705"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "29": [
@@ -1250,6 +1495,11 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "30": [
@@ -1272,6 +1522,16 @@
         "surface": "Abdon",
         "lemma": "avdon",
         "strongs": "H5658"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "31": [
@@ -1297,6 +1557,11 @@
       },
       {
         "surface": "their pasturelands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
         "lemma": "migrash",
         "strongs": "H4054"
       }
@@ -1366,6 +1631,16 @@
         "surface": "their pasturelands",
         "lemma": "migrash",
         "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "33": [
@@ -1403,6 +1678,11 @@
         "surface": "clans",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "34": [
@@ -1445,6 +1725,21 @@
         "surface": "Kartah",
         "lemma": "qartah",
         "strongs": "H7177"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "35": [
@@ -1470,6 +1765,11 @@
       },
       {
         "surface": "their pasturelands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
         "lemma": "migrash",
         "strongs": "H4054"
       }
@@ -1563,6 +1863,16 @@
         "surface": "Mahanaim",
         "lemma": "machanayim",
         "strongs": "H4266"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
+        "lemma": "migrash",
+        "strongs": "H4054"
       }
     ],
     "39": [
@@ -1593,6 +1903,11 @@
       },
       {
         "surface": "their pasturelands",
+        "lemma": "migrash",
+        "strongs": "H4054"
+      },
+      {
+        "surface": "pasture lands",
         "lemma": "migrash",
         "strongs": "H4054"
       }
@@ -1647,6 +1962,21 @@
         "surface": "clans",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "41": [
@@ -1694,6 +2024,16 @@
         "surface": "of the Israelites",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ],
     "42": [
@@ -1731,6 +2071,11 @@
         "surface": "for all",
         "lemma": "kol",
         "strongs": "H3605"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
       },
       {
         "surface": "cities",
@@ -1865,6 +2210,11 @@
         "surface": "into their hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "45": [
@@ -1917,6 +2267,16 @@
         "surface": "was fulfilled",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "spoken",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ]
   }

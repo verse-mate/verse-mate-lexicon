@@ -74,6 +74,16 @@
         "surface": "to Ramoth-gilead",
         "lemma": "ramot",
         "strongs": "H7418"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "2": [
@@ -139,6 +149,11 @@
       },
       {
         "surface": "to an inner room",
+        "lemma": "cheder",
+        "strongs": "H2315"
+      },
+      {
+        "surface": "room",
         "lemma": "cheder",
         "strongs": "H2315"
       }
@@ -250,6 +265,16 @@
         "surface": "to Ramoth-gilead",
         "lemma": "ramot",
         "strongs": "H7418"
+      },
+      {
+        "surface": "young man",
+        "lemma": "naar_h5288",
+        "strongs": "H5288"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "5": [
@@ -528,6 +553,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "wall",
+        "lemma": "qir",
+        "strongs": "H7023"
       }
     ],
     "9": [
@@ -920,6 +950,11 @@
         "surface": "of Aram",
         "lemma": "aram",
         "strongs": "H0758"
+      },
+      {
+        "surface": "Gilead",
+        "lemma": "gilad",
+        "strongs": "H1568"
       }
     ],
     "15": [
@@ -1032,6 +1067,11 @@
         "surface": "in Jezreel",
         "lemma": "yizreel",
         "strongs": "H3157"
+      },
+      {
+        "surface": "Aram",
+        "lemma": "aram_h0758",
+        "strongs": "H0758"
       }
     ],
     "16": [
@@ -1298,6 +1338,16 @@
         "surface": "coming back",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "horse",
+        "lemma": "sus",
+        "strongs": "H5483"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1375,6 +1425,11 @@
         "surface": "behind me",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "horse",
+        "lemma": "sus",
+        "strongs": "H5483"
       }
     ],
     "20": [
@@ -1437,6 +1492,11 @@
         "surface": "like a madman",
         "lemma": "shiggaon",
         "strongs": "H7697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1534,6 +1594,16 @@
         "surface": "the Jezreelite",
         "lemma": "yizreeli",
         "strongs": "H3158"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
       }
     ],
     "22": [
@@ -1643,6 +1713,11 @@
         "surface": "Ahaziah",
         "lemma": "achazyah",
         "strongs": "H0274"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "24": [
@@ -1705,6 +1780,11 @@
         "surface": "in his chariot",
         "lemma": "rekhev",
         "strongs": "H7393"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "25": [
@@ -1797,6 +1877,11 @@
         "surface": "burden",
         "lemma": "massa",
         "strongs": "H4853"
+      },
+      {
+        "surface": "officer",
+        "lemma": "shalish",
+        "strongs": "H7991"
       }
     ],
     "26": [
@@ -1996,6 +2081,11 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "28": [
@@ -2080,6 +2170,16 @@
         "surface": "Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "30": [
@@ -2142,6 +2242,11 @@
         "surface": "a window",
         "lemma": "challon",
         "strongs": "H2474"
+      },
+      {
+        "surface": "eye-paint",
+        "lemma": "pukh",
+        "strongs": "H6320"
       }
     ],
     "31": [
@@ -2231,6 +2336,11 @@
         "surface": "looked down",
         "lemma": "shaqaph",
         "strongs": "H8259"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "33": [
@@ -2362,6 +2472,11 @@
         "surface": "of her hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "36": [
@@ -2444,6 +2559,11 @@
         "surface": "of Jezebel",
         "lemma": "izevel",
         "strongs": "H0348"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "37": [

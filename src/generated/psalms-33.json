@@ -61,6 +61,11 @@
         "surface": "with ten strings",
         "lemma": "asvor",
         "strongs": "H6218"
+      },
+      {
+        "surface": "lyre",
+        "lemma": "nevel",
+        "strongs": "H5035"
       }
     ],
     "3": [
@@ -236,6 +241,11 @@
         "surface": "into storehouses",
         "lemma": "otsar",
         "strongs": "H0214"
+      },
+      {
+        "surface": "heap",
+        "lemma": "ned",
+        "strongs": "H5067"
       }
     ],
     "8": [
@@ -367,6 +377,16 @@
       },
       {
         "surface": "to all generations",
+        "lemma": "dor",
+        "strongs": "H1755"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
       }

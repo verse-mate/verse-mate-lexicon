@@ -171,6 +171,16 @@
         "surface": "This cannot be true",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "anything",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "3": [
@@ -278,6 +288,16 @@
         "surface": "death",
         "lemma": "mavet",
         "strongs": "H4194"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "4": [
@@ -377,6 +397,16 @@
         "surface": "evening {from now",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "sit",
+        "lemma": "yashav",
+        "strongs": "H3427"
+      },
+      {
+        "surface": "eat",
+        "lemma": "akhal",
+        "strongs": "H0398"
       }
     ],
     "6": [
@@ -454,6 +484,16 @@
         "surface": "clan",
         "lemma": "mishpachah",
         "strongs": "H4940"
+      },
+      {
+        "surface": "miss",
+        "lemma": "paqad",
+        "strongs": "H6485"
+      },
+      {
+        "surface": "asked for himself",
+        "lemma": "shaal",
+        "strongs": "H7592"
       }
     ],
     "7": [
@@ -506,6 +546,16 @@
         "surface": "intentions",
         "lemma": "kalah",
         "strongs": "H3615"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "burn",
+        "lemma": "charah",
+        "strongs": "H2734"
       }
     ],
     "8": [
@@ -625,6 +675,16 @@
         "surface": "tell",
         "lemma": "nagad",
         "strongs": "H5046"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "10": [
@@ -709,6 +769,11 @@
         "surface": "into the field",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "12": [
@@ -791,6 +856,11 @@
         "surface": "you",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "13": [
@@ -873,6 +943,11 @@
         "surface": "my father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "14": [
@@ -915,6 +990,11 @@
         "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "15": [
@@ -977,6 +1057,11 @@
         "surface": "of the earth",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "16": [
@@ -1160,6 +1245,11 @@
         "surface": "Ezel",
         "lemma": "ezel",
         "strongs": "H0237"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "20": [
@@ -1279,6 +1369,11 @@
         "surface": "danger",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "22": [
@@ -1321,6 +1416,11 @@
         "surface": "has sent you away",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "23": [
@@ -1348,6 +1448,11 @@
         "surface": "you and me",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "24": [
@@ -1390,6 +1495,11 @@
         "surface": "to eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "25": [
@@ -1457,6 +1567,21 @@
         "surface": "was empty",
         "lemma": "paqad",
         "strongs": "H6485"
+      },
+      {
+        "surface": "seat",
+        "lemma": "moshav",
+        "strongs": "H4186"
+      },
+      {
+        "surface": "time",
+        "lemma": "paam_h6471",
+        "strongs": "H6471"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ],
     "26": [
@@ -1499,6 +1624,21 @@
         "surface": "unclean",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
+      },
+      {
+        "surface": "clean",
+        "lemma": "tahor",
+        "strongs": "H2889"
+      },
+      {
+        "surface": "clean",
+        "lemma": "tahor",
+        "strongs": "H2889"
       }
     ],
     "27": [
@@ -1591,6 +1731,11 @@
         "surface": "yesterday",
         "lemma": "temol",
         "strongs": "H8543"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "28": [
@@ -1623,6 +1768,16 @@
         "surface": "go to Bethlehem",
         "lemma": "betlechem",
         "strongs": "H1035"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "asked for himself",
+        "lemma": "shaal",
+        "strongs": "H7592"
       }
     ],
     "29": [
@@ -1720,6 +1875,11 @@
         "surface": "table",
         "lemma": "shulchan",
         "strongs": "H7979"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "30": [
@@ -1874,6 +2034,16 @@
         "surface": "must surely die",
         "lemma": "mavet",
         "strongs": "H4194"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "lives",
+        "lemma": "chayay",
+        "strongs": "H2425"
       }
     ],
     "32": [
@@ -1906,6 +2076,21 @@
         "surface": "has he done",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "33": [
@@ -2196,6 +2381,16 @@
         "surface": "the arrow",
         "lemma": "chitstsi",
         "strongs": "H2678"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "beyond",
+        "lemma": "haleah",
+        "strongs": "H1973"
       }
     ],
     "38": [
@@ -2248,6 +2443,26 @@
         "surface": "his master",
         "lemma": "adon",
         "strongs": "H0113"
+      },
+      {
+        "surface": "Jonathan",
+        "lemma": "yehonatan",
+        "strongs": "H3083"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "lad",
+        "lemma": "naar_h5288",
+        "strongs": "H5288"
+      },
+      {
+        "surface": "arrows",
+        "lemma": "chets",
+        "strongs": "H2671"
       }
     ],
     "39": [
@@ -2429,6 +2644,16 @@
         "surface": "wept more",
         "lemma": "gadal",
         "strongs": "H1431"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "friend",
+        "lemma": "rea_h7453",
+        "strongs": "H7453"
       }
     ],
     "42": [
@@ -2546,6 +2771,11 @@
         "surface": "into the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

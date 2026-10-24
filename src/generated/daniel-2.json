@@ -54,6 +54,11 @@
         "surface": "escaped",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "dreams",
+        "lemma": "chalom",
+        "strongs": "H2472"
       }
     ],
     "2": [
@@ -121,6 +126,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
       }
     ],
     "3": [
@@ -158,6 +168,11 @@
         "surface": "it",
         "lemma": "chalom",
         "strongs": "H2472"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
       }
     ],
     "4": [
@@ -297,6 +312,11 @@
         "surface": "to rubble",
         "lemma": "nevalu",
         "strongs": "H5122"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "6": [
@@ -406,6 +426,11 @@
         "surface": "the interpretation",
         "lemma": "peshar",
         "strongs": "H6591"
+      },
+      {
+        "surface": "him tell",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "8": [
@@ -463,6 +488,11 @@
         "surface": "is final",
         "lemma": "azad",
         "strongs": "H0230"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "9": [
@@ -662,6 +692,21 @@
         "surface": "or astrologer",
         "lemma": "kasday",
         "strongs": "H3779"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "person",
+        "lemma": "enash",
+        "strongs": "H0606"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol_h3606",
+        "strongs": "H3606"
       }
     ],
     "11": [
@@ -719,6 +764,11 @@
         "surface": "mortals",
         "lemma": "beshar",
         "strongs": "H1321"
+      },
+      {
+        "surface": "matter",
+        "lemma": "millah_h4406",
+        "strongs": "H4406"
       }
     ],
     "12": [
@@ -912,6 +962,26 @@
         "surface": "to Daniel",
         "lemma": "daniyyel",
         "strongs": "H1841"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "Arioch",
+        "lemma": "aryokh",
+        "strongs": "H0746"
+      },
+      {
+        "surface": "captain",
+        "lemma": "shallit_h7990",
+        "strongs": "H7990"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
       }
     ],
     "16": [
@@ -1162,6 +1232,16 @@
         "surface": "and power",
         "lemma": "gevurah",
         "strongs": "H1370"
+      },
+      {
+        "surface": "replying",
+        "lemma": "anah_h6032",
+        "strongs": "H6032"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel_h1841",
+        "strongs": "H1841"
       }
     ],
     "21": [
@@ -1229,6 +1309,11 @@
         "surface": "to the discerning",
         "lemma": "yeda",
         "strongs": "H3046"
+      },
+      {
+        "surface": "discernment",
+        "lemma": "binah_h0999",
+        "strongs": "H0999"
       }
     ],
     "22": [
@@ -1512,6 +1597,16 @@
         "surface": "the interpretation",
         "lemma": "peshar",
         "strongs": "H6591"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
+      },
+      {
+        "surface": "exile",
+        "lemma": "galut_h1547",
+        "strongs": "H1547"
       }
     ],
     "26": [
@@ -1564,6 +1659,11 @@
         "surface": "as well as its interpretation",
         "lemma": "peshar",
         "strongs": "H6591"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "27": [
@@ -1636,6 +1736,11 @@
         "surface": "inquires",
         "lemma": "sheel",
         "strongs": "H7593"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "28": [
@@ -1847,6 +1952,11 @@
         "surface": "of your mind",
         "lemma": "levav",
         "strongs": "H3825"
+      },
+      {
+        "surface": "cause",
+        "lemma": "divrah_h1701",
+        "strongs": "H1701"
       }
     ],
     "31": [
@@ -1909,6 +2019,11 @@
         "surface": "was awesome",
         "lemma": "dechal",
         "strongs": "H1763"
+      },
+      {
+        "surface": "extraordinary",
+        "lemma": "yattir_h3493",
+        "strongs": "H3493"
       }
     ],
     "32": [
@@ -2338,6 +2453,11 @@
         "surface": "gold",
         "lemma": "dehav",
         "strongs": "H1722"
+      },
+      {
+        "surface": "sons",
+        "lemma": "bar_h1247",
+        "strongs": "H1247"
       }
     ],
     "39": [
@@ -2549,6 +2669,16 @@
         "surface": "with clay",
         "lemma": "chasaph",
         "strongs": "H2635"
+      },
+      {
+        "surface": "potter",
+        "lemma": "pechar",
+        "strongs": "H6353"
+      },
+      {
+        "surface": "clay",
+        "lemma": "tin",
+        "strongs": "H2917"
       }
     ],
     "42": [
@@ -2653,6 +2783,11 @@
         "surface": "clay",
         "lemma": "chasaph",
         "strongs": "H2635"
+      },
+      {
+        "surface": "clay",
+        "lemma": "tin",
+        "strongs": "H2917"
       }
     ],
     "44": [
@@ -2991,6 +3126,16 @@
         "surface": "mystery",
         "lemma": "raz",
         "strongs": "H7328"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
+      },
+      {
+        "surface": "truth",
+        "lemma": "qeshot",
+        "strongs": "H7187"
       }
     ],
     "48": [

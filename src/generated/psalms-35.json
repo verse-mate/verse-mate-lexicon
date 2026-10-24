@@ -145,6 +145,11 @@
         "surface": "and confounded",
         "lemma": "chapher",
         "strongs": "H2659"
+      },
+      {
+        "surface": "backwards",
+        "lemma": "achor",
+        "strongs": "H0268"
       }
     ],
     "5": [
@@ -298,6 +303,11 @@
         "surface": "the hazard they created",
         "lemma": "sho",
         "strongs": "H7722"
+      },
+      {
+        "surface": "knows",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "9": [
@@ -488,6 +498,11 @@
         "surface": "returned",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "bosom",
+        "lemma": "cheq",
+        "strongs": "H2436"
       }
     ],
     "14": [
@@ -715,6 +730,11 @@
         "surface": "wink in malice",
         "lemma": "qarats",
         "strongs": "H7169"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "20": [
@@ -779,6 +799,11 @@
         "surface": "have seen",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "opened wide",
+        "lemma": "rachav",
+        "strongs": "H7337"
       }
     ],
     "22": [
@@ -959,6 +984,11 @@
         "surface": "and reproach",
         "lemma": "kelimmah",
         "strongs": "H3639"
+      },
+      {
+        "surface": "altogether",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "27": [
@@ -1048,6 +1078,13 @@
         "surface": "day long",
         "lemma": "yom",
         "strongs": "H3117"
+      }
+    ],
+    "0": [
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

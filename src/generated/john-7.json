@@ -404,6 +404,11 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "12": [
@@ -461,6 +466,16 @@
         "surface": "people",
         "lemma": "ochlos",
         "strongs": "G3793"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "13": [
@@ -557,6 +572,11 @@
         "surface": "having studied",
         "lemma": "manthano",
         "strongs": "G3129"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "16": [
@@ -594,6 +614,11 @@
         "surface": "sent",
         "lemma": "pempo",
         "strongs": "G3992"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "17": [
@@ -819,6 +844,11 @@
         "surface": "you are all amazed",
         "lemma": "thaumazo",
         "strongs": "G2296"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "22": [
@@ -955,6 +985,11 @@
         "surface": "justly",
         "lemma": "dikaios",
         "strongs": "G1342"
+      },
+      {
+        "surface": "judgment",
+        "lemma": "krisis",
+        "strongs": "G2920"
       }
     ],
     "25": [
@@ -982,6 +1017,11 @@
         "surface": "to kill",
         "lemma": "apokteino",
         "strongs": "G0615"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "26": [
@@ -1076,6 +1116,11 @@
         "surface": "He is {from",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "28": [
@@ -1143,6 +1188,26 @@
         "surface": "know",
         "lemma": "eido",
         "strongs": "G1492"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "29": [
@@ -1160,6 +1225,11 @@
         "surface": "sent",
         "lemma": "apostello",
         "strongs": "G0649"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "30": [
@@ -1249,6 +1319,11 @@
         "surface": "signs",
         "lemma": "semeion",
         "strongs": "G4592"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1526,6 +1601,11 @@
         "surface": "drink",
         "lemma": "pino",
         "strongs": "G4095"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "38": [
@@ -1662,6 +1742,11 @@
         "surface": "Prophet",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "41": [
@@ -1704,6 +1789,16 @@
         "surface": "Galilee",
         "lemma": "galilaia",
         "strongs": "G1056"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "42": [
@@ -1832,6 +1927,11 @@
         "surface": "didn’t you bring",
         "lemma": "ago",
         "strongs": "G0071"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "46": [
@@ -1864,6 +1964,11 @@
         "surface": "answered",
         "lemma": "apokrino",
         "strongs": "G0611"
+      },
+      {
+        "surface": "like this",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "47": [
@@ -1925,6 +2030,11 @@
         "surface": "under a curse",
         "lemma": "epikataratos",
         "strongs": "G1944"
+      },
+      {
+        "surface": "cursed",
+        "lemma": "eparatos",
+        "strongs": "G6035"
       }
     ],
     "50": [
@@ -1957,6 +2067,11 @@
         "surface": "asked",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "former",
+        "lemma": "proteros",
+        "strongs": "G4387"
       }
     ],
     "51": [
@@ -1999,6 +2114,11 @@
         "surface": "he has done",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "52": [
@@ -2036,6 +2156,16 @@
         "surface": "Galilee",
         "lemma": "galilaia",
         "strongs": "G1056"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "53": [

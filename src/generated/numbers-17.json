@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -86,6 +91,36 @@
         "surface": "his staff",
         "lemma": "matteh",
         "strongs": "H4294"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "rod",
+        "lemma": "matteh",
+        "strongs": "H4294"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "ancestors",
+        "lemma": "av",
+        "strongs": "H0001"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "3": [
@@ -133,6 +168,11 @@
         "surface": "of each tribe",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "4": [
@@ -207,6 +247,11 @@
         "surface": "of the Israelites",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "grumbling",
+        "lemma": "lun",
+        "strongs": "H3885"
       }
     ],
     "6": [
@@ -299,6 +344,26 @@
         "surface": "them",
         "lemma": "matteh",
         "strongs": "H4294"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "leader",
+        "lemma": "nasi",
+        "strongs": "H5387"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "7": [
@@ -413,6 +478,11 @@
         "surface": "almonds",
         "lemma": "shaqed",
         "strongs": "H8247"
+      },
+      {
+        "surface": "blossom",
+        "lemma": "tsits",
+        "strongs": "H6731"
       }
     ],
     "9": [
@@ -475,6 +545,11 @@
         "surface": "his own staff",
         "lemma": "matteh",
         "strongs": "H4294"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -552,6 +627,11 @@
         "surface": "they die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "rebellion",
+        "lemma": "meri",
+        "strongs": "H4805"
       }
     ],
     "11": [
@@ -611,6 +691,16 @@
         "surface": "lost",
         "lemma": "avad",
         "strongs": "H0006"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -648,6 +738,11 @@
         "surface": "going to perish",
         "lemma": "gava",
         "strongs": "H1478"
+      },
+      {
+        "surface": "approaching",
+        "lemma": "qarev",
+        "strongs": "H7131"
       }
     ]
   }

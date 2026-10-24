@@ -382,6 +382,11 @@
         "surface": "to the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "measure",
+        "lemma": "ephah",
+        "strongs": "H0374"
       }
     ],
     "11": [
@@ -794,6 +799,11 @@
         "surface": "in the end",
         "lemma": "acharit",
         "strongs": "H0319"
+      },
+      {
+        "surface": "hastily gained",
+        "lemma": "bahal",
+        "strongs": "H0926"
       }
     ],
     "22": [
@@ -868,6 +878,11 @@
         "surface": "good",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "weight",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "24": [
@@ -1006,6 +1021,11 @@
         "surface": "his inmost being",
         "lemma": "cheder",
         "strongs": "H2315"
+      },
+      {
+        "surface": "belly",
+        "lemma": "beten",
+        "strongs": "H0990"
       }
     ],
     "28": [
@@ -1107,6 +1127,16 @@
         "surface": "cleanse the inmost parts",
         "lemma": "cheder",
         "strongs": "H2315"
+      },
+      {
+        "surface": "cleansing",
+        "lemma": "tamruq",
+        "strongs": "H8562"
+      },
+      {
+        "surface": "belly",
+        "lemma": "beten",
+        "strongs": "H0990"
       }
     ]
   }

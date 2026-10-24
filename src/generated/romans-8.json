@@ -758,6 +758,11 @@
         "surface": "revealed",
         "lemma": "apokalupto",
         "strongs": "G0601"
+      },
+      {
+        "surface": "time",
+        "lemma": "kairos",
+        "strongs": "G2540"
       }
     ],
     "19": [
@@ -896,6 +901,11 @@
         "surface": "the present time",
         "lemma": "nun",
         "strongs": "G3568"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -943,6 +953,11 @@
         "surface": "bodies",
         "lemma": "soma",
         "strongs": "G4983"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "24": [
@@ -1074,6 +1089,11 @@
         "surface": "too deep for words",
         "lemma": "alaletos",
         "strongs": "G0215"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "27": [
@@ -1116,6 +1136,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "28": [
@@ -1163,6 +1188,16 @@
         "surface": "His purpose",
         "lemma": "prothesis",
         "strongs": "G4286"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "all things",
+        "lemma": "pas",
+        "strongs": "G3956"
       }
     ],
     "29": [
@@ -1264,6 +1299,11 @@
         "surface": "who can be",
         "lemma": "tis",
         "strongs": "G5101"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "32": [

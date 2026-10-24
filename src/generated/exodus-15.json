@@ -64,6 +64,26 @@
         "surface": "into the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "exalted",
+        "lemma": "gaah",
+        "strongs": "H1342"
       }
     ],
     "2": [
@@ -138,6 +158,11 @@
         "surface": "is His name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "war",
+        "lemma": "milchamah",
+        "strongs": "H4421"
       }
     ],
     "4": [
@@ -415,6 +440,11 @@
         "surface": "will destroy them",
         "lemma": "yarash",
         "strongs": "H3423"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "10": [
@@ -890,6 +920,11 @@
         "surface": "on dry ground",
         "lemma": "yabbashah",
         "strongs": "H3004"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "20": [
@@ -952,6 +987,11 @@
         "surface": "and dancing",
         "lemma": "mecholah",
         "strongs": "H4246"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "21": [
@@ -999,6 +1039,11 @@
         "surface": "into the sea",
         "lemma": "yam",
         "strongs": "H3220"
+      },
+      {
+        "surface": "exalted",
+        "lemma": "gaah",
+        "strongs": "H1342"
       }
     ],
     "22": [
@@ -1128,6 +1173,16 @@
         "surface": "Marah",
         "lemma": "marah",
         "strongs": "H4785"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "24": [
@@ -1349,6 +1404,11 @@
         "surface": "who heals you",
         "lemma": "rapah",
         "strongs": "H7495"
+      },
+      {
+        "surface": "listen",
+        "lemma": "shama",
+        "strongs": "H8085"
       }
     ],
     "27": [
@@ -1406,6 +1466,11 @@
         "surface": "the waters",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ]
   }

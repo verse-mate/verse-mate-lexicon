@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -46,6 +51,11 @@
         "surface": "your God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -224,6 +234,21 @@
         "surface": "am the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "7": [
@@ -266,6 +291,16 @@
         "surface": "have sexual relations with her",
         "lemma": "galah",
         "strongs": "H1540"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "8": [
@@ -298,6 +333,11 @@
         "surface": "your father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "9": [
@@ -345,6 +385,26 @@
         "surface": "elsewhere",
         "lemma": "chuts",
         "strongs": "H2351"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "daughter",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "one born",
+        "lemma": "moledet",
+        "strongs": "H4138"
       }
     ],
     "10": [
@@ -380,6 +440,16 @@
       },
       {
         "surface": "would shame your family",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "own nakedness",
         "lemma": "ervah",
         "strongs": "H6172"
       }
@@ -424,6 +494,16 @@
         "surface": "is your sister",
         "lemma": "achot",
         "strongs": "H0269"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "12": [
@@ -456,6 +536,11 @@
         "surface": "close relative",
         "lemma": "sheer",
         "strongs": "H7607"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "13": [
@@ -488,6 +573,11 @@
         "surface": "close relative",
         "lemma": "sheer",
         "strongs": "H7607"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "14": [
@@ -525,6 +615,11 @@
         "surface": "your aunt",
         "lemma": "dodah",
         "strongs": "H1733"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "15": [
@@ -562,6 +657,16 @@
         "surface": "to have sexual relations with her",
         "lemma": "galah",
         "strongs": "H1540"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "16": [
@@ -594,6 +699,11 @@
         "surface": "your brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "17": [
@@ -661,6 +771,16 @@
         "surface": "is depraved",
         "lemma": "zimmah",
         "strongs": "H2154"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
+      },
+      {
+        "surface": "uncover",
+        "lemma": "galah",
+        "strongs": "H1540"
       }
     ],
     "18": [
@@ -698,6 +818,11 @@
         "surface": "while your wife is still alive",
         "lemma": "chay",
         "strongs": "H2416"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "19": [
@@ -725,6 +850,16 @@
         "surface": "during her menstrual period",
         "lemma": "niddah",
         "strongs": "H5079"
+      },
+      {
+        "surface": "uncleanness",
+        "lemma": "tumah",
+        "strongs": "H2932"
+      },
+      {
+        "surface": "nakedness",
+        "lemma": "ervah",
+        "strongs": "H6172"
       }
     ],
     "20": [
@@ -757,6 +892,11 @@
         "surface": "and thus defile yourself",
         "lemma": "tame",
         "strongs": "H2930"
+      },
+      {
+        "surface": "seed",
+        "lemma": "zera",
+        "strongs": "H2233"
       }
     ],
     "21": [
@@ -1155,6 +1295,11 @@
         "surface": "his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "persons",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "30": [

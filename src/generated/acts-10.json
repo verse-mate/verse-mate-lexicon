@@ -86,6 +86,21 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
+      },
+      {
+        "surface": "alms",
+        "lemma": "eleemosune",
+        "strongs": "G1654"
+      },
+      {
+        "surface": "many",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "3": [
@@ -133,6 +148,21 @@
         "surface": "Cornelius",
         "lemma": "kornelios",
         "strongs": "G2883"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "vision",
+        "lemma": "horama",
+        "strongs": "G3705"
+      },
+      {
+        "surface": "clearly",
+        "lemma": "phaneros_g5320",
+        "strongs": "G5320"
       }
     ],
     "4": [
@@ -484,6 +514,11 @@
         "surface": "corners",
         "lemma": "arche",
         "strongs": "G0746"
+      },
+      {
+        "surface": "vessel",
+        "lemma": "skeuos",
+        "strongs": "G4632"
       }
     ],
     "12": [
@@ -617,6 +652,11 @@
         "surface": "has made clean",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "16": [
@@ -716,6 +756,11 @@
         "surface": "gate",
         "lemma": "pulon",
         "strongs": "G4440"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "18": [
@@ -795,6 +840,11 @@
         "surface": "are looking for",
         "lemma": "zeteo",
         "strongs": "G2212"
+      },
+      {
+        "surface": "thinking",
+        "lemma": "dienthumeomai",
+        "strongs": "G6018"
       }
     ],
     "20": [
@@ -869,6 +919,11 @@
         "surface": "have you come",
         "lemma": "pareimi",
         "strongs": "G3918"
+      },
+      {
+        "surface": "cause",
+        "lemma": "aitia",
+        "strongs": "G0156"
       }
     ],
     "22": [
@@ -956,6 +1011,11 @@
         "surface": "a message",
         "lemma": "rhema",
         "strongs": "G4487"
+      },
+      {
+        "surface": "fearing",
+        "lemma": "phobeo",
+        "strongs": "G5399"
       }
     ],
     "23": [
@@ -1265,6 +1325,11 @@
         "surface": "have you sent for",
         "lemma": "metapempo",
         "strongs": "G3343"
+      },
+      {
+        "surface": "reason",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "30": [
@@ -1525,6 +1590,21 @@
         "surface": "show favoritism",
         "lemma": "prosopoleptes",
         "strongs": "G4381"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "truth",
+        "lemma": "aletheia",
+        "strongs": "G0225"
       }
     ],
     "35": [
@@ -1661,6 +1741,21 @@
         "surface": "proclaimed",
         "lemma": "kerusso",
         "strongs": "G2784"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "having come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "having begun",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "38": [

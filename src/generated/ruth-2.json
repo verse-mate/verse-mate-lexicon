@@ -54,6 +54,11 @@
         "surface": "was Boaz",
         "lemma": "boaz",
         "strongs": "H1162"
+      },
+      {
+        "surface": "relative",
+        "lemma": "moda",
+        "strongs": "H4129"
       }
     ],
     "2": [
@@ -282,6 +287,11 @@
         "surface": "young woman",
         "lemma": "naarah",
         "strongs": "H5291"
+      },
+      {
+        "surface": "appointed",
+        "lemma": "natsav",
+        "strongs": "H5324"
       }
     ],
     "6": [
@@ -319,6 +329,26 @@
         "surface": "of Moab",
         "lemma": "moav",
         "strongs": "H4124"
+      },
+      {
+        "surface": "appointed",
+        "lemma": "natsav",
+        "strongs": "H5324"
+      },
+      {
+        "surface": "harvesters",
+        "lemma": "qatser",
+        "strongs": "H7114"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "young woman",
+        "lemma": "naarah",
+        "strongs": "H5291"
       }
     ],
     "7": [
@@ -699,6 +729,21 @@
         "surface": "before",
         "lemma": "temol",
         "strongs": "H8543"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "told",
+        "lemma": "nagad",
+        "strongs": "H5046"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "12": [
@@ -925,6 +970,11 @@
         "surface": "and had some left over",
         "lemma": "yatar",
         "strongs": "H3498"
+      },
+      {
+        "surface": "meal",
+        "lemma": "okhel",
+        "strongs": "H0400"
       }
     ],
     "15": [
@@ -977,6 +1027,11 @@
         "surface": "insult her",
         "lemma": "kalam",
         "strongs": "H3637"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "16": [
@@ -1009,6 +1064,11 @@
         "surface": "rebuke",
         "lemma": "gaar",
         "strongs": "H1605"
+      },
+      {
+        "surface": "pull out",
+        "lemma": "shalal",
+        "strongs": "H7997"
       }
     ],
     "17": [
@@ -1438,6 +1498,11 @@
         "surface": "her mother-in-law",
         "lemma": "chamot",
         "strongs": "H2545"
+      },
+      {
+        "surface": "harvest",
+        "lemma": "qatsir",
+        "strongs": "H7105"
       }
     ]
   }

@@ -150,6 +150,11 @@
         "surface": "years",
         "lemma": "etos",
         "strongs": "G2094"
+      },
+      {
+        "surface": "eight",
+        "lemma": "okto",
+        "strongs": "G3638"
       }
     ],
     "6": [
@@ -212,6 +217,11 @@
         "surface": "well",
         "lemma": "hugies",
         "strongs": "G5199"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -400,6 +410,11 @@
         "surface": "mat",
         "lemma": "krabbatos",
         "strongs": "G2895"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "11": [
@@ -746,6 +761,16 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "naming",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "19": [
@@ -813,6 +838,16 @@
         "surface": "does",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "likewise",
+        "lemma": "homoios_g3668",
+        "strongs": "G3668"
       }
     ],
     "20": [
@@ -1419,6 +1454,16 @@
         "surface": "valid",
         "lemma": "alethes",
         "strongs": "G0227"
+      },
+      {
+        "surface": "bears witness",
+        "lemma": "martureo",
+        "strongs": "G3140"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "33": [

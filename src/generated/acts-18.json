@@ -356,6 +356,21 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "house",
+        "lemma": "oikia",
+        "strongs": "G3614"
+      },
+      {
+        "surface": "named",
+        "lemma": "onoma",
+        "strongs": "G3686"
+      },
+      {
+        "surface": "Titius",
+        "lemma": "titios",
+        "strongs": "G6084"
       }
     ],
     "8": [
@@ -492,6 +507,11 @@
         "surface": "city",
         "lemma": "polis",
         "strongs": "G4172"
+      },
+      {
+        "surface": "harm",
+        "lemma": "kakoo",
+        "strongs": "G2559"
       }
     ],
     "11": [
@@ -524,6 +544,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "months",
+        "lemma": "men",
+        "strongs": "G3376"
       }
     ],
     "12": [
@@ -675,6 +700,11 @@
         "surface": "for me to hear",
         "lemma": "anecho",
         "strongs": "G0430"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ],
     "15": [
@@ -722,6 +752,11 @@
         "surface": "a judge",
         "lemma": "krites",
         "strongs": "G2923"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "16": [
@@ -922,6 +957,11 @@
         "surface": "he declined",
         "lemma": "epineuo",
         "strongs": "G1962"
+      },
+      {
+        "surface": "time",
+        "lemma": "chronos",
+        "strongs": "G5550"
       }
     ],
     "21": [
@@ -1192,6 +1232,11 @@
         "surface": "of John",
         "lemma": "ioannes",
         "strongs": "G2491"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "26": [
@@ -1249,6 +1294,16 @@
         "surface": "more accurately",
         "lemma": "akribos",
         "strongs": "G0199"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "more accurately",
+        "lemma": "akribesteron",
+        "strongs": "G0197"
       }
     ],
     "27": [

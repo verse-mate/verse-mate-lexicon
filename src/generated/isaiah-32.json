@@ -190,6 +190,11 @@
         "surface": "and fluently",
         "lemma": "mahar",
         "strongs": "H4116"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
       }
     ],
     "5": [
@@ -319,6 +324,11 @@
         "surface": "drink",
         "lemma": "mashqeh",
         "strongs": "H4945"
+      },
+      {
+        "surface": "hungry",
+        "lemma": "raev_h7457",
+        "strongs": "H7457"
       }
     ],
     "7": [
@@ -376,6 +386,16 @@
         "surface": "is just",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "afflicted",
+        "lemma": "ani",
+        "strongs": "H6041"
+      },
+      {
+        "surface": "falsehood",
+        "lemma": "sheqer",
+        "strongs": "H8267"
       }
     ],
     "8": [
@@ -445,6 +465,11 @@
         "surface": "daughters",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "10": [
@@ -685,6 +710,16 @@
         "surface": "for flocks",
         "lemma": "eder",
         "strongs": "H5739"
+      },
+      {
+        "surface": "behind",
+        "lemma": "bead",
+        "strongs": "H1157"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "15": [
@@ -806,6 +841,11 @@
         "surface": "confidence",
         "lemma": "betach",
         "strongs": "H0983"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "18": [
@@ -843,6 +883,11 @@
         "surface": "places of rest",
         "lemma": "menuchah",
         "strongs": "H4496"
+      },
+      {
+        "surface": "dwelling places",
+        "lemma": "mishkan_h4908",
+        "strongs": "H4908"
       }
     ],
     "19": [
@@ -912,6 +957,11 @@
         "surface": "range freely",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "foot",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ]
   }

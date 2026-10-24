@@ -29,6 +29,11 @@
         "surface": "with a rope",
         "lemma": "chevel",
         "strongs": "H2256"
+      },
+      {
+        "surface": "hold down",
+        "lemma": "shaqa",
+        "strongs": "H8257"
       }
     ],
     "2": [
@@ -346,6 +351,11 @@
         "surface": "form",
         "lemma": "erekh",
         "strongs": "H6187"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "13": [
@@ -383,6 +393,11 @@
         "surface": "with a bridle",
         "lemma": "kephel",
         "strongs": "H3718"
+      },
+      {
+        "surface": "halter",
+        "lemma": "resen",
+        "strongs": "H7448"
       }
     ],
     "14": [
@@ -415,6 +430,11 @@
         "surface": "teeth",
         "lemma": "shen",
         "strongs": "H8127"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "15": [
@@ -442,6 +462,11 @@
         "surface": "sealed together",
         "lemma": "chotam",
         "strongs": "H2368"
+      },
+      {
+        "surface": "tight",
+        "lemma": "tsar",
+        "strongs": "H6862"
       }
     ],
     "16": [
@@ -698,6 +723,11 @@
         "surface": "and immovable",
         "lemma": "bal",
         "strongs": "H1077"
+      },
+      {
+        "surface": "moved",
+        "lemma": "mot",
+        "strongs": "H4131"
       }
     ],
     "24": [
@@ -858,6 +888,16 @@
         "surface": "like chaff",
         "lemma": "qash",
         "strongs": "H7179"
+      },
+      {
+        "surface": "son",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "sling",
+        "lemma": "qela",
+        "strongs": "H7050"
       }
     ],
     "29": [
@@ -1050,6 +1090,11 @@
         "surface": "the proud",
         "lemma": "shachats",
         "strongs": "H7830"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ]
   }

@@ -109,6 +109,21 @@
         "surface": "and demolished it",
         "lemma": "haras",
         "strongs": "H2040"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "war",
+        "lemma": "tsava_h6635",
+        "strongs": "H6635"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "2": [
@@ -201,6 +216,11 @@
         "surface": "from the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "3": [
@@ -293,6 +313,11 @@
         "surface": "to Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "4": [
@@ -355,6 +380,11 @@
         "surface": "and the Philistines were subdued",
         "lemma": "kana",
         "strongs": "H3665"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "5": [
@@ -504,6 +534,11 @@
         "surface": "from Rapha",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "7": [
@@ -583,6 +618,11 @@
         "surface": "and his servants",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ]
   }

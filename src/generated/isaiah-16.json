@@ -91,6 +91,11 @@
         "surface": "of the Arnon",
         "lemma": "arnon",
         "strongs": "H0769"
+      },
+      {
+        "surface": "fluttering",
+        "lemma": "nadad",
+        "strongs": "H5074"
       }
     ],
     "3": [
@@ -153,6 +158,16 @@
         "surface": "the one who flees",
         "lemma": "nadad",
         "strongs": "H5074"
+      },
+      {
+        "surface": "make",
+        "lemma": "shit",
+        "strongs": "H7896"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "4": [
@@ -339,6 +354,11 @@
         "surface": "is empty",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "right",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "7": [
@@ -550,6 +570,16 @@
         "surface": "and your harvest",
         "lemma": "qatsir",
         "strongs": "H7105"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "weeping",
+        "lemma": "bekhi",
+        "strongs": "H1065"
       }
     ],
     "10": [
@@ -622,6 +652,11 @@
         "surface": "to the cheering",
         "lemma": "hedad",
         "strongs": "H1959"
+      },
+      {
+        "surface": "treader",
+        "lemma": "darakh",
+        "strongs": "H1869"
       }
     ],
     "11": [
@@ -659,6 +694,11 @@
         "surface": "for Kir-heres",
         "lemma": "qircheres",
         "strongs": "H7025"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "12": [
@@ -810,6 +850,21 @@
         "surface": "and feeble",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "smallness",
+        "lemma": "mizar",
+        "strongs": "H4213"
+      },
+      {
+        "surface": "mighty",
+        "lemma": "kabbir",
+        "strongs": "H3524"
       }
     ]
   }

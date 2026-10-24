@@ -161,6 +161,11 @@
         "surface": "on the battlefield",
         "lemma": "maarakhah",
         "strongs": "H4634"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
       }
     ],
     "3": [
@@ -519,6 +524,11 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "7": [
@@ -566,6 +576,16 @@
         "surface": "before",
         "lemma": "etmol",
         "strongs": "H0865"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "8": [
@@ -856,6 +876,11 @@
         "surface": "his head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "13": [
@@ -953,6 +978,11 @@
         "surface": "cried out",
         "lemma": "zaaq",
         "strongs": "H2199"
+      },
+      {
+        "surface": "side",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "14": [
@@ -1005,6 +1035,21 @@
         "surface": "to Eli",
         "lemma": "eli",
         "strongs": "H5941"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "outcry",
+        "lemma": "tsaaqah",
+        "strongs": "H6818"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "15": [
@@ -1042,6 +1087,21 @@
         "surface": "see",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "16": [
@@ -1099,6 +1159,16 @@
         "surface": "Eli asked",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "17": [
@@ -1191,6 +1261,11 @@
         "surface": "has been captured",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1283,6 +1358,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "behind",
+        "lemma": "bead",
+        "strongs": "H1157"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "19": [
@@ -1427,6 +1512,11 @@
         "surface": "or pay any heed",
         "lemma": "shit",
         "strongs": "H7896"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "21": [

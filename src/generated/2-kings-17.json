@@ -69,6 +69,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "2": [
@@ -270,6 +275,16 @@
         "surface": "in prison",
         "lemma": "kele",
         "strongs": "H3608"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "5": [
@@ -548,6 +563,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -615,6 +635,21 @@
         "surface": "their cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "watchmen",
+        "lemma": "natsar",
+        "strongs": "H5341"
       }
     ],
     "10": [
@@ -935,6 +970,11 @@
         "surface": "their God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "neck",
+        "lemma": "oreph",
+        "strongs": "H6203"
       }
     ],
     "15": [
@@ -1022,6 +1062,11 @@
         "surface": "to imitate",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "16": [
@@ -1104,6 +1149,11 @@
         "surface": "Baal",
         "lemma": "baal",
         "strongs": "H1168"
+      },
+      {
+        "surface": "made",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "17": [
@@ -1218,6 +1268,11 @@
         "surface": "remained",
         "lemma": "shaar",
         "strongs": "H7604"
+      },
+      {
+        "surface": "only",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "19": [
@@ -1404,6 +1459,11 @@
         "surface": "sin",
         "lemma": "chataah",
         "strongs": "H2401"
+      },
+      {
+        "surface": "enticed away",
+        "lemma": "nadach",
+        "strongs": "H5080"
       }
     ],
     "22": [
@@ -1446,6 +1506,11 @@
         "surface": "turn away",
         "lemma": "sur",
         "strongs": "H5493"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "23": [
@@ -1605,6 +1670,11 @@
         "surface": "in its towns",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "25": [
@@ -1754,6 +1824,26 @@
         "surface": "killing them off",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "yada",
+        "strongs": "H3045"
+      },
+      {
+        "surface": "custom",
+        "lemma": "mishpat",
+        "strongs": "H4941"
+      },
+      {
+        "surface": "god",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "27": [
@@ -1831,6 +1921,11 @@
         "surface": "of the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "28": [
@@ -1888,6 +1983,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Samaria",
+        "lemma": "shomeron",
+        "strongs": "H8111"
       }
     ],
     "29": [
@@ -1950,6 +2050,16 @@
         "surface": "on the high places",
         "lemma": "bamah",
         "strongs": "H1116"
+      },
+      {
+        "surface": "nation",
+        "lemma": "goy",
+        "strongs": "H1471"
+      },
+      {
+        "surface": "nation",
+        "lemma": "goy",
+        "strongs": "H1471"
       }
     ],
     "30": [
@@ -2079,6 +2189,11 @@
         "surface": "of Sepharvaim",
         "lemma": "sepharvayim",
         "strongs": "H5617"
+      },
+      {
+        "surface": "gods",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "32": [
@@ -2124,6 +2239,11 @@
       },
       {
         "surface": "of the high places",
+        "lemma": "bamah",
+        "strongs": "H1116"
+      },
+      {
+        "surface": "high places",
         "lemma": "bamah",
         "strongs": "H1116"
       }
@@ -2255,6 +2375,11 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "35": [
@@ -2327,6 +2452,11 @@
         "surface": "sacrifice",
         "lemma": "zavach",
         "strongs": "H2076"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "36": [
@@ -2384,6 +2514,11 @@
         "surface": "and offer sacrifices to Him",
         "lemma": "zavach",
         "strongs": "H2076"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "37": [
@@ -2446,6 +2581,11 @@
         "surface": "gods",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "38": [
@@ -2525,6 +2665,11 @@
         "surface": "your enemies",
         "lemma": "oyev",
         "strongs": "H0341"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "40": [
@@ -2552,6 +2697,11 @@
         "surface": "customs",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "41": [
@@ -2619,6 +2769,11 @@
         "surface": "did",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "children",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ]
   }

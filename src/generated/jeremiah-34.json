@@ -99,6 +99,16 @@
         "surface": "its surrounding cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -196,6 +206,16 @@
         "surface": "and he will burn it down",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "3": [
@@ -278,6 +298,11 @@
         "surface": "to Babylon",
         "lemma": "bavel",
         "strongs": "H0894"
+      },
+      {
+        "surface": "captured",
+        "lemma": "taphas",
+        "strongs": "H8610"
       }
     ],
     "4": [
@@ -551,6 +576,11 @@
         "surface": "in Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "8": [
@@ -675,6 +705,21 @@
         "surface": "Jew {in bondage",
         "lemma": "yehudi",
         "strongs": "H3064"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "female slave",
+        "lemma": "shiphchah",
+        "strongs": "H8198"
+      },
+      {
+        "surface": "free",
+        "lemma": "chophshi",
+        "strongs": "H2670"
       }
     ],
     "10": [
@@ -747,6 +792,26 @@
         "surface": "and released them",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "free",
+        "lemma": "chophshi",
+        "strongs": "H2670"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "11": [
@@ -794,6 +859,16 @@
         "surface": "again",
         "lemma": "shiphchah",
         "strongs": "H8198"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "free",
+        "lemma": "chophshi",
+        "strongs": "H2670"
       }
     ],
     "12": [
@@ -1134,6 +1209,21 @@
         "surface": "slaves",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "female slave",
+        "lemma": "shiphchah",
+        "strongs": "H8198"
+      },
+      {
+        "surface": "female slaves",
+        "lemma": "shiphchah",
+        "strongs": "H8198"
       }
     ],
     "17": [
@@ -1251,6 +1341,16 @@
         "surface": "of the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "terror",
+        "lemma": "zaavah",
+        "strongs": "H2189"
       }
     ],
     "18": [
@@ -1328,6 +1428,11 @@
         "surface": "its pieces",
         "lemma": "beter",
         "strongs": "H1335"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "19": [
@@ -1390,6 +1495,11 @@
         "surface": "of the calf",
         "lemma": "egel",
         "strongs": "H5695"
+      },
+      {
+        "surface": "officials",
+        "lemma": "sar_h8269",
+        "strongs": "H8269"
       }
     ],
     "20": [
@@ -1452,6 +1562,11 @@
         "surface": "of the earth",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "21": [
@@ -1519,6 +1634,16 @@
         "surface": "that had withdrawn",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "22": [
@@ -1591,6 +1716,11 @@
         "surface": "inhabitant",
         "lemma": "yashav",
         "strongs": "H3427"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ]
   }

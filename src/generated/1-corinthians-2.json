@@ -44,6 +44,16 @@
         "surface": "about God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "speech",
+        "lemma": "logos",
+        "strongs": "G3056"
+      },
+      {
+        "surface": "mystery",
+        "lemma": "musterion",
+        "strongs": "G3466"
       }
     ],
     "2": [
@@ -71,6 +81,11 @@
         "surface": "crucified",
         "lemma": "stauroo",
         "strongs": "G4717"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "3": [
@@ -360,6 +375,16 @@
         "surface": "love",
         "lemma": "agapao",
         "strongs": "G0025"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "man",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "10": [
@@ -464,6 +489,11 @@
         "surface": "of God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [
@@ -506,6 +536,11 @@
         "surface": "has freely given",
         "lemma": "charizo",
         "strongs": "G5483"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "13": [

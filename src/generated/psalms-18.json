@@ -304,6 +304,11 @@
         "surface": "His ears",
         "lemma": "ozen",
         "strongs": "H0241"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "7": [
@@ -489,6 +494,16 @@
         "surface": "around Him",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "darkness",
+        "lemma": "cheshkhah",
+        "strongs": "H2824"
+      },
+      {
+        "surface": "clouds",
+        "lemma": "shachaq_h7834",
+        "strongs": "H7834"
       }
     ],
     "12": [
@@ -952,6 +967,11 @@
         "surface": "You show Yourself blameless",
         "lemma": "tamam",
         "strongs": "H8552"
+      },
+      {
+        "surface": "man",
+        "lemma": "gevar",
+        "strongs": "H1399"
       }
     ],
     "26": [
@@ -1383,6 +1403,11 @@
         "surface": "my feet",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "39": [
@@ -1585,6 +1610,16 @@
         "surface": "cower",
         "lemma": "kachash",
         "strongs": "H3584"
+      },
+      {
+        "surface": "ear",
+        "lemma": "ozen",
+        "strongs": "H0241"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ],
     "45": [
@@ -1607,6 +1642,11 @@
         "surface": "from their strongholds",
         "lemma": "misgeret",
         "strongs": "H4526"
+      },
+      {
+        "surface": "foreignness",
+        "lemma": "nekhar",
+        "strongs": "H5236"
       }
     ],
     "46": [
@@ -1671,6 +1711,11 @@
         "surface": "beneath me",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "vengeance",
+        "lemma": "neqamah",
+        "strongs": "H5360"
       }
     ],
     "48": [
@@ -1735,6 +1780,11 @@
         "surface": "to Your name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "50": [
@@ -1777,6 +1827,88 @@
         "surface": "and his descendants",
         "lemma": "zera",
         "strongs": "H2233"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "servant",
+        "lemma": "eved",
+        "strongs": "H5650"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "delivered",
+        "lemma": "natsal",
+        "strongs": "H5337"
+      },
+      {
+        "surface": "hand",
+        "lemma": "kaph",
+        "strongs": "H3709"
+      },
+      {
+        "surface": "enemies",
+        "lemma": "oyev",
+        "strongs": "H0341"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "Saul",
+        "lemma": "shaul",
+        "strongs": "H7586"
       }
     ]
   }

@@ -121,6 +121,11 @@
         "surface": "in Shamir",
         "lemma": "shamir",
         "strongs": "H8069"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "3": [
@@ -163,6 +168,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "4": [
@@ -359,6 +369,31 @@
         "surface": "serve Him",
         "lemma": "avad",
         "strongs": "H5647"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "gods",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "gods",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "gods",
+        "lemma": "elohim",
+        "strongs": "H0430"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "7": [
@@ -401,6 +436,16 @@
         "surface": "and Ammonites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "8": [
@@ -468,6 +513,21 @@
         "surface": "of the Amorites",
         "lemma": "emori",
         "strongs": "H0567"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "9": [
@@ -525,6 +585,11 @@
         "surface": "distress",
         "lemma": "yatsar",
         "strongs": "H3334"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "10": [
@@ -572,6 +637,11 @@
         "surface": "the Baals",
         "lemma": "baal",
         "strongs": "H1168"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "11": [
@@ -604,6 +674,21 @@
         "surface": "Philistines",
         "lemma": "pelishti",
         "strongs": "H6430"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "12": [
@@ -767,6 +852,16 @@
         "surface": "deliver us today",
         "lemma": "natsal",
         "strongs": "H5337"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "16": [
@@ -861,6 +956,16 @@
         "surface": "at Mizpah",
         "lemma": "mitspah",
         "strongs": "H4709"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "18": [
@@ -933,6 +1038,21 @@
         "surface": "in Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ]
   }

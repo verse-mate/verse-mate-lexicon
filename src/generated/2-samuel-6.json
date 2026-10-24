@@ -131,6 +131,21 @@
         "surface": "between the cherubim",
         "lemma": "keruv",
         "strongs": "H3742"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "Baalah",
+        "lemma": "baalah_h1173",
+        "strongs": "H1173"
+      },
+      {
+        "surface": "Judah",
+        "lemma": "yehudah",
+        "strongs": "H3063"
       }
     ],
     "3": [
@@ -250,6 +265,21 @@
         "surface": "of the ark",
         "lemma": "aron",
         "strongs": "H0727"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Abinadab",
+        "lemma": "avinadav",
+        "strongs": "H0041"
+      },
+      {
+        "surface": "hill",
+        "lemma": "givah",
+        "strongs": "H1389"
       }
     ],
     "5": [
@@ -322,6 +352,11 @@
         "surface": "and cymbals",
         "lemma": "tsiltsal",
         "strongs": "H6767"
+      },
+      {
+        "surface": "fir trees",
+        "lemma": "berosh",
+        "strongs": "H1265"
       }
     ],
     "6": [
@@ -488,6 +523,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "breaking out",
+        "lemma": "perets",
+        "strongs": "H6556"
       }
     ],
     "9": [
@@ -796,6 +836,11 @@
         "surface": "with rejoicing",
         "lemma": "simchah",
         "strongs": "H8057"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -890,6 +935,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "15": [
@@ -1270,6 +1320,16 @@
         "surface": "to his own home",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "20": [
@@ -1385,6 +1445,16 @@
       },
       {
         "surface": "would do",
+        "lemma": "galah",
+        "strongs": "H1540"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
+      },
+      {
+        "surface": "shamelessly",
         "lemma": "galah",
         "strongs": "H1540"
       }

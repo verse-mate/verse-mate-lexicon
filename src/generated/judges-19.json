@@ -84,6 +84,11 @@
         "surface": "in Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "2": [
@@ -146,6 +151,11 @@
         "surface": "months",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "3": [
@@ -481,6 +491,11 @@
         "surface": "there that night",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "turned back",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "8": [
@@ -553,6 +568,11 @@
         "surface": "of them ate",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "9": [
@@ -670,6 +690,11 @@
         "surface": "home",
         "lemma": "ohel",
         "strongs": "H0168"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "10": [
@@ -737,6 +762,11 @@
         "surface": "and his concubine",
         "lemma": "pilegesh",
         "strongs": "H6370"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "11": [
@@ -794,6 +824,11 @@
         "surface": "and spend the night",
         "lemma": "lun",
         "strongs": "H3885"
+      },
+      {
+        "surface": "come",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "12": [
@@ -846,6 +881,11 @@
         "surface": "Gibeah",
         "lemma": "givah",
         "strongs": "H1390"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -888,6 +928,11 @@
         "surface": "Ramah",
         "lemma": "ramah",
         "strongs": "H7414"
+      },
+      {
+        "surface": "servant",
+        "lemma": "naar_h5288",
+        "strongs": "H5288"
       }
     ],
     "14": [
@@ -1064,6 +1109,11 @@
         "surface": "the field",
         "lemma": "saday",
         "strongs": "H7704"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "17": [
@@ -1131,6 +1181,11 @@
         "surface": "have you come from",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "18": [
@@ -1290,6 +1345,16 @@
         "surface": "lack",
         "lemma": "machsor",
         "strongs": "H4270"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "20": [
@@ -1476,6 +1541,21 @@
         "surface": "so we can have relations with him",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "sons",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "23": [
@@ -1620,6 +1700,11 @@
         "surface": "man",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "25": [
@@ -1692,6 +1777,21 @@
         "surface": "they let her go",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "dawn",
+        "lemma": "shachar_h7837",
+        "strongs": "H7837"
       }
     ],
     "26": [
@@ -1734,6 +1834,16 @@
         "surface": "it was light",
         "lemma": "or",
         "strongs": "H0216"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "27": [
@@ -1811,6 +1921,11 @@
         "surface": "the threshold",
         "lemma": "saph",
         "strongs": "H5592"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "28": [
@@ -1863,6 +1978,11 @@
         "surface": "for home",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "29": [
@@ -1935,6 +2055,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "30": [
@@ -2017,6 +2142,11 @@
         "surface": "and speak up",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

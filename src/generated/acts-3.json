@@ -116,6 +116,11 @@
         "surface": "temple courts",
         "lemma": "hieros",
         "strongs": "G2411"
+      },
+      {
+        "surface": "alms",
+        "lemma": "eleemosune",
+        "strongs": "G1654"
       }
     ],
     "3": [
@@ -158,6 +163,16 @@
         "surface": "money",
         "lemma": "eleemosune",
         "strongs": "G1654"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "temple",
+        "lemma": "hieros",
+        "strongs": "G2411"
       }
     ],
     "4": [
@@ -385,6 +400,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "10": [
@@ -566,6 +586,11 @@
         "surface": "walk",
         "lemma": "peripateo",
         "strongs": "G4043"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -769,6 +794,11 @@
         "surface": "complete healing",
         "lemma": "holokleria",
         "strongs": "G3647"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "17": [
@@ -801,6 +831,11 @@
         "surface": "leaders",
         "lemma": "archon",
         "strongs": "G0758"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "18": [
@@ -974,6 +1009,11 @@
         "surface": "prophets",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "stoma",
+        "strongs": "G4750"
       }
     ],
     "22": [
@@ -1026,6 +1066,11 @@
         "surface": "He tells",
         "lemma": "laleo",
         "strongs": "G2980"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "23": [
@@ -1053,6 +1098,11 @@
         "surface": "people",
         "lemma": "laos",
         "strongs": "G2992"
+      },
+      {
+        "surface": "soul",
+        "lemma": "psuche",
+        "strongs": "G5590"
       }
     ],
     "24": [
@@ -1214,6 +1264,11 @@
         "surface": "wicked ways",
         "lemma": "poneria",
         "strongs": "G4189"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ]
   }

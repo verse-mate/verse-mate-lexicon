@@ -208,6 +208,11 @@
         "surface": "his wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "husband",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "4": [
@@ -245,6 +250,11 @@
         "surface": "her mistress",
         "lemma": "geveret",
         "strongs": "H1404"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "5": [
@@ -312,6 +322,16 @@
         "surface": "between you and me",
         "lemma": "bayin",
         "strongs": "H0996"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "6": [
@@ -364,6 +384,16 @@
         "surface": "from her",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "Sarai",
+        "lemma": "saray",
+        "strongs": "H8297"
+      },
+      {
+        "surface": "view",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "7": [
@@ -515,6 +545,11 @@
         "surface": "to her authority",
         "lemma": "tachat",
         "strongs": "H8478"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "10": [
@@ -552,6 +587,16 @@
         "surface": "to count",
         "lemma": "saphar",
         "strongs": "H5608"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "increase",
+        "lemma": "ravah",
+        "strongs": "H7235"
       }
     ],
     "11": [
@@ -609,6 +654,11 @@
         "surface": "your cry of affliction",
         "lemma": "oni",
         "strongs": "H6040"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "12": [
@@ -718,6 +768,11 @@
         "surface": "the One who sees me",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "back",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "14": [
@@ -760,6 +815,16 @@
         "surface": "and Bered",
         "lemma": "bered",
         "strongs": "H1260"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "15": [
@@ -859,6 +924,16 @@
         "surface": "to him",
         "lemma": "avram",
         "strongs": "H0087"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
       }
     ]
   }

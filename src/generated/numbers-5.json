@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,11 @@
         "surface": "by a dead body",
         "lemma": "nephesh",
         "strongs": "H5315"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -190,6 +200,16 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "5": [
@@ -207,6 +227,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -274,6 +299,11 @@
         "surface": "is guilty",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -316,6 +346,16 @@
         "surface": "he has wronged",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "compensation",
+        "lemma": "asham_h0817",
+        "strongs": "H0817"
+      },
+      {
+        "surface": "sum",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "8": [
@@ -425,6 +465,11 @@
         "surface": "shall belong",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "10": [
@@ -457,6 +502,11 @@
         "surface": "will belong to",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "11": [
@@ -474,6 +524,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -511,6 +566,21 @@
         "surface": "and is unfaithful",
         "lemma": "maal",
         "strongs": "H4603"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "unfaithfulness",
+        "lemma": "maal_h4604",
+        "strongs": "H4604"
       }
     ],
     "13": [
@@ -568,6 +638,16 @@
         "surface": "caught in the act",
         "lemma": "taphas",
         "strongs": "H8610"
+      },
+      {
+        "surface": "laying",
+        "lemma": "shekhavah",
+        "strongs": "H7902"
+      },
+      {
+        "surface": "seed",
+        "lemma": "zera",
+        "strongs": "H2233"
       }
     ],
     "14": [
@@ -826,6 +906,16 @@
         "surface": "the water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "18": [
@@ -1149,6 +1239,26 @@
         "surface": "swell",
         "lemma": "tsaveh",
         "strongs": "H6639"
+      },
+      {
+        "surface": "priest",
+        "lemma": "kohen",
+        "strongs": "H3548"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "22": [
@@ -1501,6 +1611,16 @@
         "surface": "her people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "unfaithfulness",
+        "lemma": "maal_h4604",
+        "strongs": "H4604"
+      },
+      {
+        "surface": "woman",
+        "lemma": "ishshah_h0802",
+        "strongs": "H0802"
       }
     ],
     "28": [

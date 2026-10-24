@@ -160,6 +160,11 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "nose",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "5": [
@@ -207,6 +212,11 @@
         "surface": "his foes",
         "lemma": "tsarar",
         "strongs": "H6887"
+      },
+      {
+        "surface": "time",
+        "lemma": "et_h6256",
+        "strongs": "H6256"
       }
     ],
     "6": [
@@ -390,6 +400,16 @@
         "surface": "in his net",
         "lemma": "mashakh",
         "strongs": "H4900"
+      },
+      {
+        "surface": "hiding place",
+        "lemma": "mistar",
+        "strongs": "H4565"
+      },
+      {
+        "surface": "net",
+        "lemma": "reshet",
+        "strongs": "H7568"
       }
     ],
     "10": [
@@ -417,6 +437,11 @@
         "surface": "to his strength",
         "lemma": "atsum",
         "strongs": "H6099"
+      },
+      {
+        "surface": "army",
+        "lemma": "chelek",
+        "strongs": "H2428"
       }
     ],
     "11": [
@@ -459,6 +484,11 @@
         "surface": "sees",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "netsach_h5331",
+        "strongs": "H5331"
       }
     ],
     "12": [
@@ -501,6 +531,11 @@
         "surface": "the helpless",
         "lemma": "ani",
         "strongs": "H6041"
+      },
+      {
+        "surface": "humble",
+        "lemma": "anav_h6035",
+        "strongs": "H6035"
       }
     ],
     "13": [
@@ -753,6 +788,16 @@
         "surface": "no more",
         "lemma": "bal",
         "strongs": "H1077"
+      },
+      {
+        "surface": "repeat",
+        "lemma": "yasaph",
+        "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ]
   }

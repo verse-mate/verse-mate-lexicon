@@ -34,6 +34,11 @@
         "surface": "home",
         "lemma": "oikos",
         "strongs": "G3624"
+      },
+      {
+        "surface": "again",
+        "lemma": "palin",
+        "strongs": "G3825"
       }
     ],
     "2": [
@@ -145,6 +150,11 @@
         "surface": "mat",
         "lemma": "krabbatos",
         "strongs": "G2895"
+      },
+      {
+        "surface": "lying",
+        "lemma": "katakeimai",
+        "strongs": "G2621"
       }
     ],
     "5": [
@@ -187,6 +197,11 @@
         "surface": "are forgiven",
         "lemma": "aphiemi",
         "strongs": "G0863"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "6": [
@@ -437,6 +452,11 @@
         "surface": "paralytic",
         "lemma": "paralutikos",
         "strongs": "G3885"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "11": [
@@ -541,6 +561,11 @@
         "surface": "anything like this",
         "lemma": "houto",
         "strongs": "G3779"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "13": [
@@ -630,6 +655,16 @@
         "surface": "and followed",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "leui",
+        "strongs": "G3017"
       }
     ],
     "15": [
@@ -687,6 +722,11 @@
         "surface": "who followed",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "16": [
@@ -744,6 +784,16 @@
         "surface": "sinners",
         "lemma": "hamartolos",
         "strongs": "G0268"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "17": [
@@ -878,6 +928,16 @@
         "surface": "Pharisees",
         "lemma": "pharisaios",
         "strongs": "G5330"
+      },
+      {
+        "surface": "fast",
+        "lemma": "nesteuo",
+        "strongs": "G3522"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "19": [
@@ -945,6 +1005,11 @@
         "surface": "fast",
         "lemma": "nesteuo",
         "strongs": "G3522"
+      },
+      {
+        "surface": "time",
+        "lemma": "chronos",
+        "strongs": "G5550"
       }
     ],
     "20": [
@@ -977,6 +1042,11 @@
         "surface": "they will fast",
         "lemma": "nesteuo",
         "strongs": "G3522"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "21": [
@@ -1044,6 +1114,11 @@
         "surface": "will result",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "new",
+        "lemma": "kainos",
+        "strongs": "G2537"
       }
     ],
     "22": [
@@ -1173,6 +1248,16 @@
         "surface": "as they walked along",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "way",
+        "lemma": "hodos",
+        "strongs": "G3598"
       }
     ],
     "24": [
@@ -1205,6 +1290,11 @@
         "surface": "Sabbath",
         "lemma": "sabbaton",
         "strongs": "G4521"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "25": [
@@ -1299,6 +1389,16 @@
         "surface": "he gave some",
         "lemma": "didomi",
         "strongs": "G1325"
+      },
+      {
+        "surface": "presentation",
+        "lemma": "prothesis",
+        "strongs": "G4286"
+      },
+      {
+        "surface": "eat",
+        "lemma": "phagein",
+        "strongs": "G5315"
       }
     ],
     "27": [
@@ -1331,6 +1431,11 @@
         "surface": "Sabbath",
         "lemma": "sabbaton",
         "strongs": "G4521"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "28": [

@@ -64,6 +64,16 @@
         "surface": "power",
         "lemma": "dunamis",
         "strongs": "G1411"
+      },
+      {
+        "surface": "say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "2": [
@@ -126,6 +136,11 @@
         "surface": "He was transfigured",
         "lemma": "metamorphoo",
         "strongs": "G3339"
+      },
+      {
+        "surface": "alone",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "3": [
@@ -173,6 +188,16 @@
         "surface": "bleach them",
         "lemma": "leukaino",
         "strongs": "G3021"
+      },
+      {
+        "surface": "shining",
+        "lemma": "stilbo",
+        "strongs": "G4744"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "4": [
@@ -200,6 +225,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "5": [
@@ -393,6 +423,16 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "alone",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "9": [
@@ -440,6 +480,11 @@
         "surface": "the dead",
         "lemma": "nekros",
         "strongs": "G3498"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "10": [
@@ -514,6 +559,16 @@
         "surface": "first",
         "lemma": "proton",
         "strongs": "G4412"
+      },
+      {
+        "surface": "Say",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "12": [
@@ -576,6 +631,11 @@
         "surface": "be rejected",
         "lemma": "exoudenoo",
         "strongs": "G1847"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "13": [
@@ -650,6 +710,11 @@
         "surface": "arguing",
         "lemma": "suzeteo",
         "strongs": "G4802"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -687,6 +752,11 @@
         "surface": "to greet",
         "lemma": "aspazomai",
         "strongs": "G0782"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -887,6 +957,11 @@
         "surface": "foaming at the mouth",
         "lemma": "aphrizo",
         "strongs": "G0875"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -914,6 +989,11 @@
         "surface": "he said",
         "lemma": "eipon",
         "strongs": "G2036"
+      },
+      {
+        "surface": "time",
+        "lemma": "chronos",
+        "strongs": "G5550"
       }
     ],
     "22": [
@@ -1025,6 +1105,11 @@
         "surface": "unbelief",
         "lemma": "apistia",
         "strongs": "G0570"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "25": [
@@ -1102,6 +1187,11 @@
         "surface": "enter",
         "lemma": "eiserchomai",
         "strongs": "G1525"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "26": [
@@ -1144,6 +1234,11 @@
         "surface": "He is dead",
         "lemma": "apothnesko",
         "strongs": "G0599"
+      },
+      {
+        "surface": "many",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "27": [
@@ -1329,6 +1424,16 @@
         "surface": "He will rise",
         "lemma": "anistemi",
         "strongs": "G0450"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
+      },
+      {
+        "surface": "having been killed",
+        "lemma": "apokteino",
+        "strongs": "G0615"
       }
     ],
     "32": [
@@ -1420,6 +1525,11 @@
         "surface": "the greatest",
         "lemma": "megas",
         "strongs": "G3173"
+      },
+      {
+        "surface": "one another",
+        "lemma": "allelon",
+        "strongs": "G0240"
       }
     ],
     "35": [
@@ -1603,6 +1713,11 @@
         "surface": "he does not accompany",
         "lemma": "akoloutheo",
         "strongs": "G0190"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "39": [
@@ -1776,6 +1891,11 @@
         "surface": "sea",
         "lemma": "thalassa",
         "strongs": "G2281"
+      },
+      {
+        "surface": "rather",
+        "lemma": "mallon",
+        "strongs": "G3123"
       }
     ],
     "43": [

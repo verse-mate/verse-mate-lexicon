@@ -811,6 +811,26 @@
         "surface": "Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "generations",
+        "lemma": "genea",
+        "strongs": "G1074"
+      },
+      {
+        "surface": "generations",
+        "lemma": "genea",
+        "strongs": "G1074"
+      },
+      {
+        "surface": "generations",
+        "lemma": "genea",
+        "strongs": "G1074"
+      },
+      {
+        "surface": "Babylon",
+        "lemma": "babulon",
+        "strongs": "G0897"
       }
     ],
     "18": [
@@ -883,6 +903,11 @@
         "surface": "Spirit",
         "lemma": "pneuma",
         "strongs": "G4151"
+      },
+      {
+        "surface": "womb",
+        "lemma": "gaster",
+        "strongs": "G1064"
       }
     ],
     "19": [
@@ -1091,6 +1116,11 @@
         "surface": "prophet",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "23": [
@@ -1133,6 +1163,21 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "womb",
+        "lemma": "gaster",
+        "strongs": "G1064"
+      },
+      {
+        "surface": "name",
+        "lemma": "onoma",
+        "strongs": "G3686"
+      },
+      {
+        "surface": "translated",
+        "lemma": "methermeneuo",
+        "strongs": "G3177"
       }
     ],
     "24": [
@@ -1175,6 +1220,11 @@
         "surface": "wife",
         "lemma": "gune",
         "strongs": "G1135"
+      },
+      {
+        "surface": "sleep",
+        "lemma": "hupnos",
+        "strongs": "G5258"
       }
     ],
     "25": [
@@ -1202,6 +1252,11 @@
         "surface": "Jesus",
         "lemma": "iesous",
         "strongs": "G2424"
+      },
+      {
+        "surface": "name",
+        "lemma": "onoma",
+        "strongs": "G3686"
       }
     ]
   }

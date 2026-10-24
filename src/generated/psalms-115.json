@@ -504,6 +504,11 @@
         "surface": "to mankind",
         "lemma": "adam",
         "strongs": "H0120"
+      },
+      {
+        "surface": "heavens",
+        "lemma": "shamayim",
+        "strongs": "H8064"
       }
     ],
     "17": [
@@ -568,6 +573,16 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ]
   }

@@ -74,6 +74,11 @@
         "surface": "the very end",
         "lemma": "telos",
         "strongs": "G5056"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "2": [
@@ -173,6 +178,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "4": [
@@ -205,6 +215,11 @@
         "surface": "a towel",
         "lemma": "lention",
         "strongs": "G3012"
+      },
+      {
+        "surface": "having taken",
+        "lemma": "lambano",
+        "strongs": "G2983"
       }
     ],
     "5": [
@@ -267,6 +282,11 @@
         "surface": "around Him",
         "lemma": "diazonnumi",
         "strongs": "G1241"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "6": [
@@ -336,6 +356,16 @@
         "surface": "you will understand",
         "lemma": "ginosko",
         "strongs": "G1097"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "8": [
@@ -383,6 +413,11 @@
         "surface": "part",
         "lemma": "meros",
         "strongs": "G3313"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "9": [
@@ -425,6 +460,11 @@
         "surface": "head",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "10": [
@@ -726,6 +766,11 @@
         "surface": "you do",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "18": [
@@ -783,6 +828,11 @@
         "surface": "heel",
         "lemma": "pterna",
         "strongs": "G4418"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "19": [
@@ -894,6 +944,11 @@
         "surface": "will betray",
         "lemma": "paradidomi",
         "strongs": "G3860"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "22": [
@@ -1037,6 +1092,11 @@
         "surface": "is it",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "breast",
+        "lemma": "stethos",
+        "strongs": "G4738"
       }
     ],
     "26": [
@@ -1257,6 +1317,11 @@
         "surface": "night",
         "lemma": "nux",
         "strongs": "G3571"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "31": [
@@ -1554,6 +1619,11 @@
         "surface": "later",
         "lemma": "husteron",
         "strongs": "G5305"
+      },
+      {
+        "surface": "afterward",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "37": [
@@ -1596,6 +1666,11 @@
         "surface": "life",
         "lemma": "psuche",
         "strongs": "G5590"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "38": [

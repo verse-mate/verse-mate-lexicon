@@ -44,6 +44,16 @@
         "surface": "of Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
       }
     ],
     "2": [
@@ -123,6 +133,21 @@
         "surface": "was confined",
         "lemma": "asar",
         "strongs": "H0631"
+      },
+      {
+        "surface": "custody",
+        "lemma": "mishmar",
+        "strongs": "H4929"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
+      },
+      {
+        "surface": "place",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "4": [
@@ -232,6 +257,26 @@
         "surface": "had its own meaning",
         "lemma": "pitron",
         "strongs": "H6623"
+      },
+      {
+        "surface": "own dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "dream",
+        "lemma": "chalom",
+        "strongs": "H2472"
+      },
+      {
+        "surface": "each",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "prison",
+        "lemma": "sohar",
+        "strongs": "H5470"
       }
     ],
     "6": [
@@ -311,6 +356,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -363,6 +413,11 @@
         "surface": "Tell me your dreams",
         "lemma": "saphar",
         "strongs": "H5608"
+      },
+      {
+        "surface": "dreamed",
+        "lemma": "chalam",
+        "strongs": "H2492"
       }
     ],
     "9": [
@@ -405,6 +460,11 @@
         "surface": "before me",
         "lemma": "paneh",
         "strongs": "H6440"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -633,6 +693,11 @@
         "surface": "his cupbearer",
         "lemma": "mashqeh",
         "strongs": "H4945"
+      },
+      {
+        "surface": "custom",
+        "lemma": "mishpat",
+        "strongs": "H4941"
       }
     ],
     "14": [
@@ -675,6 +740,11 @@
         "surface": "prison",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "15": [
@@ -717,6 +787,16 @@
         "surface": "in this dungeon",
         "lemma": "bor",
         "strongs": "H0953"
+      },
+      {
+        "surface": "stolen",
+        "lemma": "ganav",
+        "strongs": "H1589"
+      },
+      {
+        "surface": "anything",
+        "lemma": "meumah",
+        "strongs": "H3972"
       }
     ],
     "16": [
@@ -831,6 +911,11 @@
         "surface": "my head",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "work",
+        "lemma": "maaseh",
+        "strongs": "H4639"
       }
     ],
     "18": [
@@ -868,6 +953,11 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1007,6 +1097,16 @@
         "surface": "baker",
         "lemma": "aphah",
         "strongs": "H0644"
+      },
+      {
+        "surface": "born",
+        "lemma": "yalad",
+        "strongs": "H3205"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "21": [

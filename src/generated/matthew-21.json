@@ -54,6 +54,11 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "Olives",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
       }
     ],
     "2": [
@@ -143,6 +148,11 @@
         "surface": "right away",
         "lemma": "eutheos",
         "strongs": "G2112"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "4": [
@@ -165,6 +175,11 @@
         "surface": "prophet",
         "lemma": "prophetes",
         "strongs": "G4396"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "5": [
@@ -222,6 +237,11 @@
         "surface": "of a donkey",
         "lemma": "hupozugion",
         "strongs": "G5268"
+      },
+      {
+        "surface": "gentle",
+        "lemma": "praos",
+        "strongs": "G4235"
       }
     ],
     "6": [
@@ -395,6 +415,11 @@
         "surface": "highest",
         "lemma": "hupsistos",
         "strongs": "G5310"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -474,6 +499,11 @@
         "surface": "in Galilee",
         "lemma": "galilaia",
         "strongs": "G1056"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "12": [
@@ -541,6 +571,11 @@
         "surface": "doves",
         "lemma": "peristera",
         "strongs": "G4058"
+      },
+      {
+        "surface": "temple",
+        "lemma": "hieros",
+        "strongs": "G2411"
       }
     ],
     "13": [
@@ -677,6 +712,11 @@
         "surface": "of David",
         "lemma": "daueid",
         "strongs": "G1138"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "16": [
@@ -870,6 +910,21 @@
         "surface": "withered",
         "lemma": "xeraino",
         "strongs": "G3583"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "alone",
+        "lemma": "monos",
+        "strongs": "G3441"
+      },
+      {
+        "surface": "age",
+        "lemma": "aion",
+        "strongs": "G0165"
       }
     ],
     "20": [
@@ -907,6 +962,11 @@
         "surface": "so quickly",
         "lemma": "parachrema",
         "strongs": "G3916"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "21": [
@@ -984,6 +1044,16 @@
         "surface": "it will happen",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "say",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "22": [
@@ -1011,6 +1081,11 @@
         "surface": "prayer",
         "lemma": "proseuche",
         "strongs": "G4335"
+      },
+      {
+        "surface": "as much as",
+        "lemma": "hosos",
+        "strongs": "G3745"
       }
     ],
     "23": [
@@ -1135,6 +1210,16 @@
         "surface": "I am doing",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "tell",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "25": [
@@ -1192,6 +1277,16 @@
         "surface": "did you not believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "26": [
@@ -1271,6 +1366,21 @@
         "surface": "I am doing",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "28": [
@@ -1370,6 +1480,16 @@
         "surface": "and went",
         "lemma": "aperchomai",
         "strongs": "G0565"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
+      },
+      {
+        "surface": "Afterward",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "30": [
@@ -1407,6 +1527,16 @@
         "surface": "he did not go",
         "lemma": "aperchomai",
         "strongs": "G0565"
+      },
+      {
+        "surface": "other",
+        "lemma": "heteros",
+        "strongs": "G2087"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "31": [
@@ -1546,6 +1676,16 @@
         "surface": "and believe",
         "lemma": "pisteuo",
         "strongs": "G4100"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "afterward",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "33": [
@@ -1628,6 +1768,11 @@
         "surface": "went away on a journey",
         "lemma": "apodemeo",
         "strongs": "G0589"
+      },
+      {
+        "surface": "master of a house",
+        "lemma": "oikodespotes",
+        "strongs": "G3617"
       }
     ],
     "34": [
@@ -1663,6 +1808,11 @@
       },
       {
         "surface": "share of the fruit",
+        "lemma": "karpos",
+        "strongs": "G2590"
+      },
+      {
+        "surface": "fruits",
         "lemma": "karpos",
         "strongs": "G2590"
       }
@@ -1771,6 +1921,11 @@
         "surface": "he said",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "Afterward",
+        "lemma": "husteros",
+        "strongs": "G5306"
       }
     ],
     "38": [
@@ -1818,6 +1973,11 @@
         "surface": "inheritance",
         "lemma": "kleronomia",
         "strongs": "G2817"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "39": [

@@ -49,6 +49,11 @@
         "surface": "to your brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "return",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "2": [
@@ -111,6 +116,11 @@
         "surface": "then you can return it",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "3": [
@@ -168,6 +178,21 @@
         "surface": "ignore it",
         "lemma": "alam",
         "strongs": "H5956"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "lost",
+        "lemma": "avad",
+        "strongs": "H0006"
       }
     ],
     "4": [
@@ -213,6 +238,11 @@
       },
       {
         "surface": "you must help him lift it up",
+        "lemma": "qamay",
+        "strongs": "H6965"
+      },
+      {
+        "surface": "raise up",
         "lemma": "qamay",
         "strongs": "H6965"
       }
@@ -374,6 +404,16 @@
         "surface": "the young",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "7": [
@@ -411,6 +451,11 @@
         "surface": "your days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "go",
+        "lemma": "shalach",
+        "strongs": "H7971"
       }
     ],
     "8": [
@@ -466,6 +511,11 @@
       },
       {
         "surface": "someone falls",
+        "lemma": "naphal",
+        "strongs": "H5307"
+      },
+      {
+        "surface": "falls",
         "lemma": "naphal",
         "strongs": "H5307"
       }
@@ -700,6 +750,11 @@
         "surface": "a virgin",
         "lemma": "betulim",
         "strongs": "H1331"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "15": [
@@ -747,6 +802,11 @@
         "surface": "at the gate",
         "lemma": "shaar",
         "strongs": "H8179"
+      },
+      {
+        "surface": "take",
+        "lemma": "laqach",
+        "strongs": "H3947"
       }
     ],
     "16": [
@@ -789,6 +849,11 @@
         "surface": "but he has come to hate her",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "father",
+        "lemma": "av",
+        "strongs": "H0001"
       }
     ],
     "17": [
@@ -861,6 +926,11 @@
         "surface": "elders",
         "lemma": "zaqen",
         "strongs": "H2205"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "18": [
@@ -975,6 +1045,11 @@
         "surface": "long as he lives",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "20": [
@@ -1109,6 +1184,11 @@
         "surface": "from among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "22": [
@@ -1176,6 +1256,16 @@
         "surface": "from Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "married",
+        "lemma": "baal_h1166",
+        "strongs": "H1166"
+      },
+      {
+        "surface": "both",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "23": [
@@ -1315,6 +1405,16 @@
         "surface": "from among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "25": [
@@ -1444,6 +1544,16 @@
         "surface": "and murders him",
         "lemma": "ratsach",
         "strongs": "H7523"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "27": [
@@ -1605,6 +1715,11 @@
         "surface": "long as he lives",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "30": [

@@ -326,6 +326,21 @@
         "surface": "are distinct",
         "lemma": "diastole",
         "strongs": "G1293"
+      },
+      {
+        "surface": "sound",
+        "lemma": "phone",
+        "strongs": "G5456"
+      },
+      {
+        "surface": "piped",
+        "lemma": "auleo",
+        "strongs": "G0832"
+      },
+      {
+        "surface": "harped",
+        "lemma": "kitharizo",
+        "strongs": "G2789"
       }
     ],
     "8": [
@@ -499,6 +514,11 @@
         "surface": "a foreigner",
         "lemma": "barbaros",
         "strongs": "G0915"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "12": [
@@ -709,6 +729,16 @@
         "surface": "you are saying",
         "lemma": "lego",
         "strongs": "G3004"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "17": [
@@ -1023,6 +1053,11 @@
         "surface": "you are out of your minds",
         "lemma": "mainomai",
         "strongs": "G3105"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "24": [
@@ -1127,6 +1162,11 @@
         "surface": "truly",
         "lemma": "ontos",
         "strongs": "G3689"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ],
     "26": [
@@ -1611,6 +1651,11 @@
         "surface": "command",
         "lemma": "entole",
         "strongs": "G1785"
+      },
+      {
+        "surface": "himself to be",
+        "lemma": "einai",
+        "strongs": "G1511"
       }
     ],
     "38": [

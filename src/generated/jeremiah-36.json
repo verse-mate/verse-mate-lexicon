@@ -59,6 +59,11 @@
         "surface": "from the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -131,6 +136,16 @@
         "surface": "of Josiah",
         "lemma": "yoshiyyah",
         "strongs": "H2977"
+      },
+      {
+        "surface": "document",
+        "lemma": "sepher",
+        "strongs": "H5612"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "3": [
@@ -280,6 +295,11 @@
         "surface": "had spoken",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "document",
+        "lemma": "sepher",
+        "strongs": "H5612"
       }
     ],
     "5": [
@@ -322,6 +342,16 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "am able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "6": [
@@ -680,6 +710,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "10": [
@@ -782,6 +817,16 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
       }
     ],
     "11": [
@@ -1135,6 +1180,16 @@
         "surface": "and went",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "15": [
@@ -1234,6 +1289,11 @@
         "surface": "to the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "tell",
+        "lemma": "nagad",
+        "strongs": "H5046"
       }
     ],
     "17": [
@@ -1276,6 +1336,11 @@
         "surface": "Was it at Jeremiah’s dictation",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -1370,6 +1435,11 @@
         "surface": "where",
         "lemma": "ephoh",
         "strongs": "H0375"
+      },
+      {
+        "surface": "go",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "20": [
@@ -1432,6 +1502,11 @@
         "surface": "the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "things",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1519,6 +1594,11 @@
         "surface": "him",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "22": [
@@ -1643,6 +1723,16 @@
         "surface": "the fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
+      },
+      {
+        "surface": "fire-pot",
+        "lemma": "ach_h0254",
+        "strongs": "H0254"
       }
     ],
     "24": [
@@ -1906,6 +1996,11 @@
         "surface": "Jeremiah",
         "lemma": "yirmeyah",
         "strongs": "H3414"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "28": [
@@ -1978,6 +2073,11 @@
         "surface": "has burned",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "former",
+        "lemma": "rishon",
+        "strongs": "H7223"
       }
     ],
     "29": [
@@ -2085,6 +2185,11 @@
         "surface": "and beast",
         "lemma": "behemah",
         "strongs": "H0929"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "30": [

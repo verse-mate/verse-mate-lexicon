@@ -109,6 +109,21 @@
         "surface": "out of his hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "delivered",
+        "lemma": "malat",
+        "strongs": "H4422"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "2": [
@@ -290,6 +305,11 @@
         "surface": "searched for him",
         "lemma": "baqash",
         "strongs": "H1245"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "5": [
@@ -486,6 +506,11 @@
         "surface": "months",
         "lemma": "chodesh",
         "strongs": "H2320"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
       }
     ],
     "8": [
@@ -548,6 +573,16 @@
         "surface": "Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "coming",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "9": [
@@ -625,6 +660,11 @@
         "surface": "Achish",
         "lemma": "akhish",
         "strongs": "H0397"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "10": [
@@ -682,6 +722,11 @@
         "surface": "of the Kenites",
         "lemma": "qeni",
         "strongs": "H7017"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "11": [
@@ -836,6 +881,11 @@
         "surface": "forever",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "become odious",
+        "lemma": "baash",
+        "strongs": "H0887"
       }
     ]
   }

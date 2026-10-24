@@ -230,6 +230,21 @@
         "surface": "how",
         "lemma": "ekh",
         "strongs": "H0349"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "stand",
+        "lemma": "amad",
+        "strongs": "H5975"
       }
     ],
     "5": [
@@ -312,6 +327,11 @@
         "surface": "in your sight",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -414,6 +434,21 @@
         "surface": "of the city",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "7": [
@@ -558,6 +593,11 @@
         "surface": "morning",
         "lemma": "boqer",
         "strongs": "H1242"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -697,6 +737,16 @@
         "surface": "Elijah",
         "lemma": "eliyyah",
         "strongs": "H0452"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "11": [
@@ -796,6 +846,21 @@
         "surface": "of the Shepherds",
         "lemma": "beteqedharoim",
         "strongs": "H7462"
+      },
+      {
+        "surface": "went",
+        "lemma": "bo",
+        "strongs": "H0935"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "way",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "13": [
@@ -955,6 +1020,11 @@
         "surface": "none",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "two",
+        "lemma": "shenayim",
+        "strongs": "H8147"
       }
     ],
     "15": [
@@ -1489,6 +1559,16 @@
         "surface": "to end",
         "lemma": "peh",
         "strongs": "H6310"
+      },
+      {
+        "surface": "Baal",
+        "lemma": "baal_h1168",
+        "strongs": "H1168"
+      },
+      {
+        "surface": "left",
+        "lemma": "shaar",
+        "strongs": "H7604"
       }
     ],
     "22": [
@@ -1628,6 +1708,16 @@
         "surface": "of Baal",
         "lemma": "baal",
         "strongs": "H1168"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
       }
     ],
     "24": [
@@ -1906,6 +1996,11 @@
         "surface": "this day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "outhouses",
+        "lemma": "motsaah",
+        "strongs": "H4163"
       }
     ],
     "28": [
@@ -2000,6 +2095,11 @@
         "surface": "and Dan",
         "lemma": "dan",
         "strongs": "H1835"
+      },
+      {
+        "surface": "el",
+        "lemma": "betel_h1008",
+        "strongs": "H1008"
       }
     ],
     "30": [
@@ -2288,6 +2388,11 @@
         "surface": "to Bashan",
         "lemma": "bashan",
         "strongs": "H1316"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "34": [
@@ -2345,6 +2450,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "35": [
@@ -2429,6 +2539,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
       }
     ]
   }

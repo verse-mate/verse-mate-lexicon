@@ -59,6 +59,11 @@
         "surface": "and houses",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "God",
+        "lemma": "elohim",
+        "strongs": "H0430"
       }
     ],
     "2": [
@@ -163,6 +168,11 @@
         "surface": "to these cities",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "territory",
+        "lemma": "gevul",
+        "strongs": "H1366"
       }
     ],
     "4": [
@@ -215,6 +225,21 @@
         "surface": "intending to harm",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "knowledge",
+        "lemma": "daat",
+        "strongs": "H1847"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "temol",
+        "strongs": "H8543"
+      },
+      {
+        "surface": "third day",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "5": [
@@ -312,6 +337,11 @@
         "surface": "to save his life",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "iron",
+        "lemma": "barzel",
+        "strongs": "H1270"
       }
     ],
     "6": [
@@ -389,6 +419,26 @@
         "surface": "intend any harm",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "hot",
+        "lemma": "chamam",
+        "strongs": "H2552"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "temol",
+        "strongs": "H8543"
+      },
+      {
+        "surface": "third day",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "7": [
@@ -411,6 +461,16 @@
         "surface": "cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -473,6 +533,11 @@
         "surface": "them",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "9": [
@@ -555,6 +620,11 @@
         "surface": "three",
         "lemma": "shalosh",
         "strongs": "H7969"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "10": [
@@ -664,6 +734,16 @@
         "surface": "cities",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "life",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "12": [
@@ -711,6 +791,11 @@
         "surface": "to die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "13": [
@@ -748,6 +833,16 @@
         "surface": "that it may go well",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "14": [
@@ -907,6 +1002,16 @@
         "surface": "witnesses",
         "lemma": "ed",
         "strongs": "H5707"
+      },
+      {
+        "surface": "witnesses",
+        "lemma": "ed_h5707",
+        "strongs": "H5707"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "16": [
@@ -934,6 +1039,11 @@
         "surface": "accusing him of a crime",
         "lemma": "sarah",
         "strongs": "H5627"
+      },
+      {
+        "surface": "stand",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "17": [
@@ -1033,6 +1143,11 @@
         "surface": "his brother",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "witness",
+        "lemma": "ed_h5707",
+        "strongs": "H5707"
       }
     ],
     "19": [
@@ -1117,6 +1232,11 @@
         "surface": "among you",
         "lemma": "qerev",
         "strongs": "H7130"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "21": [
@@ -1174,6 +1294,16 @@
         "surface": "for foot",
         "lemma": "regel",
         "strongs": "H7272"
+      },
+      {
+        "surface": "look with pity",
+        "lemma": "chus",
+        "strongs": "H2347"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ]
   }

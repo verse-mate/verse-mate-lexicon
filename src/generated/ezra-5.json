@@ -64,6 +64,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3479"
+      },
+      {
+        "surface": "prophets",
+        "lemma": "nevi",
+        "strongs": "H5029"
       }
     ],
     "2": [
@@ -223,6 +228,11 @@
         "surface": "structure",
         "lemma": "ushsharna",
         "strongs": "H0846"
+      },
+      {
+        "surface": "decree",
+        "lemma": "teem",
+        "strongs": "H2942"
       }
     ],
     "4": [
@@ -255,6 +265,11 @@
         "surface": "building",
         "lemma": "binyan",
         "strongs": "H1147"
+      },
+      {
+        "surface": "as follows",
+        "lemma": "kenema",
+        "strongs": "H3660"
       }
     ],
     "5": [
@@ -389,6 +404,11 @@
         "surface": "Darius",
         "lemma": "daryavesh",
         "strongs": "H1868"
+      },
+      {
+        "surface": "river",
+        "lemma": "nehar",
+        "strongs": "H5103"
       }
     ],
     "7": [
@@ -426,6 +446,11 @@
         "surface": "peace",
         "lemma": "shelam",
         "strongs": "H8001"
+      },
+      {
+        "surface": "midst",
+        "lemma": "gav_h1459",
+        "strongs": "H1459"
       }
     ],
     "8": [
@@ -528,6 +553,11 @@
         "surface": "in their hands",
         "lemma": "yad",
         "strongs": "H3028"
+      },
+      {
+        "surface": "rolling",
+        "lemma": "gelal",
+        "strongs": "H1560"
       }
     ],
     "9": [
@@ -575,6 +605,16 @@
         "surface": "structure",
         "lemma": "ushsharna",
         "strongs": "H0846"
+      },
+      {
+        "surface": "as follows",
+        "lemma": "kenema",
+        "strongs": "H3660"
+      },
+      {
+        "surface": "decree",
+        "lemma": "teem",
+        "strongs": "H2942"
       }
     ],
     "10": [
@@ -607,6 +647,11 @@
         "surface": "for your information",
         "lemma": "yeda",
         "strongs": "H3046"
+      },
+      {
+        "surface": "heads",
+        "lemma": "resh",
+        "strongs": "H7217"
       }
     ],
     "11": [
@@ -709,6 +754,11 @@
         "surface": "and completed",
         "lemma": "kelal",
         "strongs": "H3635"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar_h0560",
+        "strongs": "H0560"
       }
     ],
     "12": [
@@ -838,6 +888,16 @@
         "surface": "of God",
         "lemma": "elah",
         "strongs": "H0426"
+      },
+      {
+        "surface": "Cyrus",
+        "lemma": "koresh_h3567",
+        "strongs": "H3567"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
       }
     ],
     "14": [
@@ -945,6 +1005,11 @@
         "surface": "governor",
         "lemma": "pechah",
         "strongs": "H6347"
+      },
+      {
+        "surface": "Babylon",
+        "lemma": "bavel_h0895",
+        "strongs": "H0895"
       }
     ],
     "15": [
@@ -997,6 +1062,11 @@
         "surface": "its original site",
         "lemma": "atar",
         "strongs": "H0870"
+      },
+      {
+        "surface": "go",
+        "lemma": "azal_h0236",
+        "strongs": "H0236"
       }
     ],
     "16": [
@@ -1151,6 +1221,16 @@
         "surface": "his decision",
         "lemma": "reut",
         "strongs": "H7470"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh_h4430",
+        "strongs": "H4430"
+      },
+      {
+        "surface": "treasures",
+        "lemma": "genaz",
+        "strongs": "H1596"
       }
     ]
   }

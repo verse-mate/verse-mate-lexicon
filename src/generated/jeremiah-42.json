@@ -275,6 +275,11 @@
         "surface": "a word",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "5": [
@@ -565,6 +570,11 @@
         "surface": "your petition",
         "lemma": "techinnah",
         "strongs": "H8467"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -627,6 +637,11 @@
         "surface": "I have brought",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "certainly",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "11": [
@@ -942,6 +957,26 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "therefore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum",
+        "strongs": "H7760"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "go",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "16": [
@@ -994,6 +1029,21 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "land",
+        "lemma": "erets",
+        "strongs": "H0776"
+      },
+      {
+        "surface": "Egypt",
+        "lemma": "mitsrayim",
+        "strongs": "H4714"
+      },
+      {
+        "surface": "behind",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "17": [
@@ -1076,6 +1126,26 @@
         "surface": "will bring",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "people",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "sojourn",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "18": [
@@ -1255,6 +1325,11 @@
         "surface": "today",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "know",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "20": [

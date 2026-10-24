@@ -123,6 +123,21 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "completed",
+        "lemma": "male",
+        "strongs": "H4390"
+      },
+      {
+        "surface": "day",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "4": [
@@ -190,6 +205,21 @@
         "surface": "Pharaoh that",
         "lemma": "paroh",
         "strongs": "H6547"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "ears",
+        "lemma": "ozen",
+        "strongs": "H0241"
       }
     ],
     "5": [
@@ -527,6 +557,21 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "heavy",
+        "lemma": "kaved",
+        "strongs": "H3515"
+      },
+      {
+        "surface": "very",
+        "lemma": "meod",
+        "strongs": "H3966"
+      },
+      {
+        "surface": "mourning",
+        "lemma": "evel",
+        "strongs": "H0060"
       }
     ],
     "11": [
@@ -604,6 +649,21 @@
         "surface": "Abel-mizraim",
         "lemma": "avelmitsrayim",
         "strongs": "H0067"
+      },
+      {
+        "surface": "threshing floor",
+        "lemma": "goren",
+        "strongs": "H1637"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "12": [
@@ -621,6 +681,11 @@
         "surface": "he had charged them",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "13": [
@@ -698,6 +763,16 @@
         "surface": "site",
         "lemma": "achuzzah",
         "strongs": "H0272"
+      },
+      {
+        "surface": "field",
+        "lemma": "saday",
+        "strongs": "H7704"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "14": [
@@ -750,6 +825,11 @@
         "surface": "to bury his father",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "buried",
+        "lemma": "qavar",
+        "strongs": "H6912"
       }
     ],
     "15": [
@@ -812,6 +892,11 @@
         "surface": "we did",
         "lemma": "gamal",
         "strongs": "H1580"
+      },
+      {
+        "surface": "repay",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "16": [
@@ -849,6 +934,11 @@
         "surface": "commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1094,6 +1184,11 @@
         "surface": "and spoke",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "22": [
@@ -1141,6 +1236,11 @@
         "surface": "of 110",
         "lemma": "meah",
         "strongs": "H3967"
+      },
+      {
+        "surface": "ten",
+        "lemma": "eser",
+        "strongs": "H6235"
       }
     ],
     "23": [
@@ -1270,6 +1370,11 @@
         "surface": "and Jacob",
         "lemma": "yaaqov",
         "strongs": "H3290"
+      },
+      {
+        "surface": "visit",
+        "lemma": "paqad",
+        "strongs": "H6485"
       }
     ],
     "25": [
@@ -1317,6 +1422,11 @@
         "surface": "my bones",
         "lemma": "etsem",
         "strongs": "H6106"
+      },
+      {
+        "surface": "visit",
+        "lemma": "paqad",
+        "strongs": "H6485"
       }
     ],
     "26": [
@@ -1359,6 +1469,16 @@
         "surface": "in Egypt",
         "lemma": "mitsrayim",
         "strongs": "H4714"
+      },
+      {
+        "surface": "ten",
+        "lemma": "eser",
+        "strongs": "H6235"
+      },
+      {
+        "surface": "years",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ]
   }

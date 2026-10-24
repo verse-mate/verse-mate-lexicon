@@ -135,6 +135,11 @@
         "surface": "am going",
         "lemma": "hupago",
         "strongs": "G5217"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "5": [
@@ -182,6 +187,16 @@
         "surface": "way",
         "lemma": "hodos",
         "strongs": "G3598"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "6": [
@@ -261,6 +276,11 @@
         "surface": "have seen",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "know",
+        "lemma": "ginosko",
+        "strongs": "G1097"
       }
     ],
     "8": [
@@ -816,6 +836,11 @@
         "surface": "world",
         "lemma": "kosmos",
         "strongs": "G2889"
+      },
+      {
+        "surface": "occurred",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "23": [
@@ -868,6 +893,11 @@
         "surface": "Our home",
         "lemma": "mone",
         "strongs": "G3438"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "24": [
@@ -1209,6 +1239,11 @@
         "surface": "from here",
         "lemma": "enteuthen",
         "strongs": "G1782"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
       }
     ]
   }

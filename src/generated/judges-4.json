@@ -44,6 +44,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -111,6 +116,11 @@
         "surface": "in Harosheth-hagoyim",
         "lemma": "charoshet",
         "strongs": "H2800"
+      },
+      {
+        "surface": "Haggoyim",
+        "lemma": "goy",
+        "strongs": "H1471"
       }
     ],
     "3": [
@@ -173,6 +183,16 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "4": [
@@ -282,6 +302,16 @@
         "surface": "for judgment",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "6": [
@@ -404,6 +434,11 @@
         "surface": "and Zebulun",
         "lemma": "zevulun",
         "strongs": "H2074"
+      },
+      {
+        "surface": "summoned",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "7": [
@@ -605,6 +640,11 @@
         "surface": "to Kedesh",
         "lemma": "qedesh",
         "strongs": "H6943"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "10": [
@@ -662,6 +702,11 @@
         "surface": "also went",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "Kedesh",
+        "lemma": "qedesh",
+        "strongs": "H6943"
       }
     ],
     "11": [
@@ -833,6 +878,16 @@
         "surface": "Kishon",
         "lemma": "qishon",
         "strongs": "H7028"
+      },
+      {
+        "surface": "chariot",
+        "lemma": "rekhev",
+        "strongs": "H7393"
+      },
+      {
+        "surface": "Haggoyim",
+        "lemma": "goy",
+        "strongs": "H1471"
       }
     ],
     "14": [
@@ -1089,6 +1144,26 @@
         "surface": "man was left",
         "lemma": "shaar",
         "strongs": "H7604"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "Haggoyim",
+        "lemma": "goy",
+        "strongs": "H1471"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "17": [
@@ -1243,6 +1318,11 @@
         "surface": "with a blanket",
         "lemma": "semikhah",
         "strongs": "H8063"
+      },
+      {
+        "surface": "meet",
+        "lemma": "qara_h7122",
+        "strongs": "H7122"
       }
     ],
     "19": [
@@ -1367,6 +1447,11 @@
         "surface": "No",
         "lemma": "ayin",
         "strongs": "H0369"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1459,6 +1544,11 @@
         "surface": "and he died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "22": [
@@ -1588,6 +1678,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1640,6 +1735,21 @@
         "surface": "him",
         "lemma": "yavin",
         "strongs": "H2985"
+      },
+      {
+        "surface": "going",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "Canaan",
+        "lemma": "kenaan",
+        "strongs": "H3667"
       }
     ]
   }

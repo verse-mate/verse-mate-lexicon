@@ -265,6 +265,26 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "everyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "valuation",
+        "lemma": "erekh_h6187",
+        "strongs": "H6187"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "5": [
@@ -312,6 +332,11 @@
         "surface": "in the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "damage",
+        "lemma": "bedeq",
+        "strongs": "H0919"
       }
     ],
     "6": [
@@ -364,6 +389,16 @@
         "surface": "to the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "7": [
@@ -461,6 +496,11 @@
         "surface": "of the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "priests",
+        "lemma": "kohen",
+        "strongs": "H3548"
       }
     ],
     "8": [
@@ -789,6 +829,21 @@
         "surface": "builders",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yehovah",
+        "strongs": "H3068"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "12": [
@@ -861,6 +916,11 @@
         "surface": "repairs",
         "lemma": "chazaq",
         "strongs": "H2388"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "13": [
@@ -953,6 +1013,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "article",
+        "lemma": "keli",
+        "strongs": "H3627"
       }
     ],
     "14": [
@@ -1027,6 +1092,26 @@
         "surface": "with integrity",
         "lemma": "emunah",
         "strongs": "H0530"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "16": [
@@ -1074,6 +1159,11 @@
         "surface": "the priests",
         "lemma": "kohen",
         "strongs": "H3548"
+      },
+      {
+        "surface": "money",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "17": [
@@ -1131,6 +1221,11 @@
         "surface": "Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "18": [
@@ -1320,6 +1415,11 @@
         "surface": "of Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "20": [
@@ -1367,6 +1467,11 @@
         "surface": "to Silla",
         "lemma": "silla",
         "strongs": "H5538"
+      },
+      {
+        "surface": "Millo",
+        "lemma": "betmillo",
+        "strongs": "H1037"
       }
     ],
     "21": [

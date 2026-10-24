@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -76,6 +81,26 @@
         "surface": "of her menstruation",
         "lemma": "niddah",
         "strongs": "H5079"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "unclean",
+        "lemma": "tame",
+        "strongs": "H2930"
+      },
+      {
+        "surface": "unwell",
+        "lemma": "davah",
+        "strongs": "H1738"
       }
     ],
     "3": [
@@ -175,6 +200,26 @@
         "surface": "are complete",
         "lemma": "male",
         "strongs": "H4390"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "purification",
+        "lemma": "tohar",
+        "strongs": "H2892"
+      },
+      {
+        "surface": "purification",
+        "lemma": "tohar",
+        "strongs": "H2892"
       }
     ],
     "5": [
@@ -232,6 +277,21 @@
         "surface": "days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
+      },
+      {
+        "surface": "purification",
+        "lemma": "tohar",
+        "strongs": "H2892"
       }
     ],
     "6": [
@@ -319,6 +379,16 @@
         "surface": "for a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "purification",
+        "lemma": "tohar",
+        "strongs": "H2892"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "7": [
@@ -463,6 +533,16 @@
         "surface": "and she will be clean",
         "lemma": "taher",
         "strongs": "H2891"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "sufficiency",
+        "lemma": "day",
+        "strongs": "H1767"
       }
     ]
   }

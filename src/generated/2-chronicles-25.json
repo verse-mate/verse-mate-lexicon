@@ -64,6 +64,21 @@
         "surface": "she was from Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "five",
+        "lemma": "chamesh",
+        "strongs": "H2568"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "nine",
+        "lemma": "tesah",
+        "strongs": "H8672"
       }
     ],
     "2": [
@@ -96,6 +111,11 @@
         "surface": "wholeheartedly",
         "lemma": "levav",
         "strongs": "H3824"
+      },
+      {
+        "surface": "complete",
+        "lemma": "shalem",
+        "strongs": "H8003"
       }
     ],
     "3": [
@@ -235,6 +255,11 @@
         "surface": "for his own sin",
         "lemma": "chet",
         "strongs": "H2399"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -352,6 +377,31 @@
         "surface": "and shield",
         "lemma": "tsinnah",
         "strongs": "H6793"
+      },
+      {
+        "surface": "appointed",
+        "lemma": "amad",
+        "strongs": "H5975"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "6": [
@@ -394,6 +444,11 @@
         "surface": "of silver",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "7": [
@@ -466,6 +521,11 @@
         "surface": "of the Ephraimites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Ephraim",
+        "lemma": "ephrayim",
+        "strongs": "H0669"
       }
     ],
     "8": [
@@ -692,6 +752,16 @@
         "surface": "anger",
         "lemma": "aph",
         "strongs": "H0639"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "11": [
@@ -739,6 +809,21 @@
         "surface": "of Seir",
         "lemma": "seir",
         "strongs": "H8165"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
+      },
+      {
+        "surface": "Salt",
+        "lemma": "melach_h4417",
+        "strongs": "H4417"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "12": [
@@ -796,6 +881,21 @@
         "surface": "were dashed to pieces",
         "lemma": "baqa",
         "strongs": "H1234"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "top",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "cliff",
+        "lemma": "sela",
+        "strongs": "H5553"
       }
     ],
     "13": [
@@ -883,6 +983,11 @@
         "surface": "plunder",
         "lemma": "bizzah",
         "strongs": "H0961"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "14": [
@@ -950,6 +1055,11 @@
         "surface": "and burned sacrifices",
         "lemma": "qatar",
         "strongs": "H6999"
+      },
+      {
+        "surface": "Seir",
+        "lemma": "seir",
+        "strongs": "H8165"
       }
     ],
     "15": [
@@ -1323,6 +1433,11 @@
         "surface": "the thistle",
         "lemma": "choach",
         "strongs": "H2336"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1750,6 +1865,11 @@
         "surface": "to Samaria",
         "lemma": "shomeron",
         "strongs": "H8111"
+      },
+      {
+        "surface": "pledges",
+        "lemma": "taaruvah",
+        "strongs": "H8594"
       }
     ],
     "25": [
@@ -1827,6 +1947,11 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "26": [

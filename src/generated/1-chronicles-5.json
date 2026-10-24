@@ -430,6 +430,11 @@
         "surface": "of Gilead",
         "lemma": "gilad",
         "strongs": "H1568"
+      },
+      {
+        "surface": "entrance",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "10": [
@@ -618,6 +623,11 @@
         "surface": "seven in all",
         "lemma": "sheva",
         "strongs": "H7651"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "14": [
@@ -737,6 +747,11 @@
         "surface": "of their family",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "16": [
@@ -774,6 +789,11 @@
         "surface": "of Sharon",
         "lemma": "sharon",
         "strongs": "H8289"
+      },
+      {
+        "surface": "extremities",
+        "lemma": "totsaah",
+        "strongs": "H8444"
       }
     ],
     "17": [
@@ -908,6 +928,46 @@
         "surface": "for battle",
         "lemma": "milchamah",
         "strongs": "H4421"
+      },
+      {
+        "surface": "Reuben",
+        "lemma": "reuven",
+        "strongs": "H7205"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "shishshim",
+        "strongs": "H8346"
+      },
+      {
+        "surface": "war",
+        "lemma": "tsava_h6635",
+        "strongs": "H6635"
       }
     ],
     "19": [
@@ -1044,6 +1104,31 @@
         "surface": "captives",
         "lemma": "adam",
         "strongs": "H0120"
+      },
+      {
+        "surface": "fifty",
+        "lemma": "chamishshim",
+        "strongs": "H2572"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "two thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "person",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "22": [
@@ -1148,6 +1233,11 @@
         "surface": "Hermon",
         "lemma": "chermon",
         "strongs": "H2768"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ],
     "24": [
@@ -1230,6 +1320,16 @@
         "surface": "of their families",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "25": [
@@ -1404,6 +1504,16 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "spirit",
+        "lemma": "ruach_h7307",
+        "strongs": "H7307"
+      },
+      {
+        "surface": "tribe",
+        "lemma": "shevet",
+        "strongs": "H7626"
       }
     ]
   }

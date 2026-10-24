@@ -121,6 +121,16 @@
         "surface": "nation",
         "lemma": "ethnos",
         "strongs": "G1484"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "3": [
@@ -328,6 +338,11 @@
         "surface": "true",
         "lemma": "houto",
         "strongs": "G3779"
+      },
+      {
+        "surface": "Agreed",
+        "lemma": "sunepitithemi",
+        "strongs": "G9315"
       }
     ],
     "10": [
@@ -390,6 +405,11 @@
         "surface": "I gladly make my defense",
         "lemma": "apologeomai",
         "strongs": "G0626"
+      },
+      {
+        "surface": "encouraging",
+        "lemma": "euthumos",
+        "strongs": "G2115"
       }
     ],
     "11": [
@@ -432,6 +452,11 @@
         "surface": "to worship",
         "lemma": "proskuneo",
         "strongs": "G4352"
+      },
+      {
+        "surface": "more",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "12": [
@@ -469,6 +494,11 @@
         "surface": "city",
         "lemma": "polis",
         "strongs": "G4172"
+      },
+      {
+        "surface": "obstruction",
+        "lemma": "ereugomai",
+        "strongs": "G2044"
       }
     ],
     "13": [
@@ -802,6 +832,11 @@
         "surface": "today",
         "lemma": "semeron",
         "strongs": "G4594"
+      },
+      {
+        "surface": "voice",
+        "lemma": "phone",
+        "strongs": "G5456"
       }
     ],
     "22": [
@@ -854,6 +889,16 @@
         "surface": "I will decide",
         "lemma": "diaginosko",
         "strongs": "G1231"
+      },
+      {
+        "surface": "more precisely",
+        "lemma": "akribesteron",
+        "strongs": "G0197"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "23": [
@@ -1154,6 +1199,16 @@
         "surface": "in prison",
         "lemma": "deo",
         "strongs": "G1210"
+      },
+      {
+        "surface": "favor",
+        "lemma": "charis",
+        "strongs": "G5485"
+      },
+      {
+        "surface": "Jews",
+        "lemma": "ioudaios",
+        "strongs": "G2453"
       }
     ]
   }

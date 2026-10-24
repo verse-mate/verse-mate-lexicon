@@ -111,6 +111,16 @@
         "surface": "to the lamps",
         "lemma": "ner",
         "strongs": "H5216"
+      },
+      {
+        "surface": "top",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
       }
     ],
     "3": [
@@ -175,6 +185,16 @@
         "surface": "who was speaking",
         "lemma": "davar",
         "strongs": "H1696"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "5": [
@@ -212,6 +232,21 @@
         "surface": "my lord",
         "lemma": "adon",
         "strongs": "H0113"
+      },
+      {
+        "surface": "speaking",
+        "lemma": "davar",
+        "strongs": "H1696"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -274,6 +309,26 @@
         "surface": "of Hosts",
         "lemma": "tsava",
         "strongs": "H6635"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "7": [
@@ -331,6 +386,11 @@
         "surface": "grace",
         "lemma": "chen",
         "strongs": "H2580"
+      },
+      {
+        "surface": "top",
+        "lemma": "roshah",
+        "strongs": "H7222"
       }
     ],
     "8": [
@@ -482,6 +542,11 @@
         "surface": "of Zerubbabel",
         "lemma": "zerubbavel",
         "strongs": "H2216"
+      },
+      {
+        "surface": "tin",
+        "lemma": "bedil",
+        "strongs": "H0913"
       }
     ],
     "11": [
@@ -519,6 +584,11 @@
         "surface": "of the lampstand",
         "lemma": "menorah",
         "strongs": "H4501"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "12": [
@@ -581,6 +651,11 @@
         "surface": "pours",
         "lemma": "ruq",
         "strongs": "H7324"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "13": [
@@ -616,6 +691,11 @@
       },
       {
         "surface": "I replied",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
         "lemma": "amar",
         "strongs": "H0559"
       }

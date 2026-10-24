@@ -76,6 +76,11 @@
         "surface": "to search it out",
         "lemma": "chaqar",
         "strongs": "H2713"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "3": [
@@ -597,6 +602,11 @@
         "surface": "a bone",
         "lemma": "gerem",
         "strongs": "H1634"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
       }
     ],
     "16": [
@@ -960,6 +970,16 @@
         "surface": "wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "contentions",
+        "lemma": "midyan",
+        "strongs": "H4079"
+      },
+      {
+        "surface": "association",
+        "lemma": "chavar_h2269",
+        "strongs": "H2269"
       }
     ],
     "25": [
@@ -1079,6 +1099,11 @@
       },
       {
         "surface": "one’s own glory",
+        "lemma": "kavod",
+        "strongs": "H3519"
+      },
+      {
+        "surface": "honor",
         "lemma": "kavod",
         "strongs": "H3519"
       }

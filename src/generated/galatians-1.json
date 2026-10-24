@@ -340,6 +340,11 @@
         "surface": "under a curse",
         "lemma": "anathema",
         "strongs": "G0331"
+      },
+      {
+        "surface": "said before",
+        "lemma": "proereo",
+        "strongs": "G4280"
       }
     ],
     "10": [
@@ -402,6 +407,11 @@
         "surface": "of Christ",
         "lemma": "christos",
         "strongs": "G5547"
+      },
+      {
+        "surface": "yet",
+        "lemma": "eti",
+        "strongs": "G2089"
       }
     ],
     "11": [
@@ -508,6 +518,11 @@
         "surface": "tried to destroy",
         "lemma": "portheo",
         "strongs": "G4199"
+      },
+      {
+        "surface": "exceeding measure",
+        "lemma": "huperbole",
+        "strongs": "G5236"
       }
     ],
     "14": [
@@ -555,6 +570,16 @@
         "surface": "fathers",
         "lemma": "patrikos",
         "strongs": "G3967"
+      },
+      {
+        "surface": "countrymen",
+        "lemma": "genos",
+        "strongs": "G1085"
+      },
+      {
+        "surface": "more abundantly",
+        "lemma": "perissoteros_g4056",
+        "strongs": "G4056"
       }
     ],
     "15": [
@@ -629,6 +654,11 @@
         "surface": "blood",
         "lemma": "haima",
         "strongs": "G0129"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "17": [
@@ -755,6 +785,11 @@
         "surface": "brother",
         "lemma": "adelphos",
         "strongs": "G0080"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "20": [
@@ -873,6 +908,11 @@
         "surface": "tried to destroy",
         "lemma": "portheo",
         "strongs": "G4199"
+      },
+      {
+        "surface": "Only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "24": [

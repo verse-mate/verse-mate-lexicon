@@ -347,6 +347,51 @@
         "surface": "in Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "thousands",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "one hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "drew out",
+        "lemma": "shalaph",
+        "strongs": "H8025"
+      },
+      {
+        "surface": "sword",
+        "lemma": "cherev",
+        "strongs": "H2719"
+      },
+      {
+        "surface": "seventy",
+        "lemma": "shivim",
+        "strongs": "H7657"
       }
     ],
     "6": [
@@ -520,6 +565,11 @@
         "surface": "seer",
         "lemma": "chozeh",
         "strongs": "H2374"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "10": [
@@ -577,6 +627,11 @@
         "surface": "and I will carry it out",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "says",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -766,6 +821,16 @@
         "surface": "to Him who sent me",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "enemies",
+        "lemma": "oyev",
+        "strongs": "H0341"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "13": [
@@ -838,6 +903,11 @@
         "surface": "of men",
         "lemma": "adam",
         "strongs": "H0120"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "14": [
@@ -1221,6 +1291,11 @@
         "surface": "remain upon Your people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "done evil",
+        "lemma": "raa",
+        "strongs": "H7489"
       }
     ],
     "18": [
@@ -1288,6 +1363,11 @@
         "surface": "the Jebusite",
         "lemma": "yevusi",
         "strongs": "H2983"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ],
     "19": [
@@ -1439,6 +1519,11 @@
         "surface": "before David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "22": [
@@ -1680,6 +1765,16 @@
         "surface": "that cost me nothing",
         "lemma": "chinnam",
         "strongs": "H2600"
+      },
+      {
+        "surface": "Ornan",
+        "lemma": "ornan",
+        "strongs": "H0771"
+      },
+      {
+        "surface": "acquire",
+        "lemma": "qanah",
+        "strongs": "H7069"
       }
     ],
     "25": [
@@ -1722,6 +1817,11 @@
         "surface": "for the site",
         "lemma": "maqom",
         "strongs": "H4725"
+      },
+      {
+        "surface": "weight",
+        "lemma": "mishqal",
+        "strongs": "H4948"
       }
     ],
     "26": [

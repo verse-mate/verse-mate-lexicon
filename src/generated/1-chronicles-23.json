@@ -123,6 +123,26 @@
         "surface": "38,000",
         "lemma": "sheloshim",
         "strongs": "H7970"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
+      },
+      {
+        "surface": "skulls",
+        "lemma": "gulgolet",
+        "strongs": "H1538"
+      },
+      {
+        "surface": "eight",
+        "lemma": "shemoneh",
+        "strongs": "H8083"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "4": [
@@ -165,6 +185,21 @@
         "surface": "and judges",
         "lemma": "shaphat",
         "strongs": "H8199"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "5": [
@@ -207,6 +242,16 @@
         "surface": "for giving praise",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "6": [
@@ -350,6 +395,11 @@
         "surface": "of Ladan",
         "lemma": "ladan",
         "strongs": "H3936"
+      },
+      {
+        "surface": "Shelomith",
+        "lemma": "shelomit",
+        "strongs": "H8019"
       }
     ],
     "10": [
@@ -397,6 +447,11 @@
         "surface": "four in all",
         "lemma": "arba",
         "strongs": "H0702"
+      },
+      {
+        "surface": "Zina",
+        "lemma": "zizah",
+        "strongs": "H2125"
       }
     ],
     "11": [
@@ -469,6 +524,11 @@
         "surface": "assignment",
         "lemma": "pequddah",
         "strongs": "H6486"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "12": [
@@ -583,6 +643,21 @@
         "surface": "in His name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "holy ones",
+        "lemma": "qodesh",
+        "strongs": "H6944"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "perpetuity",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "14": [
@@ -936,6 +1011,11 @@
         "surface": "married them",
         "lemma": "nasa",
         "strongs": "H5375"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "23": [
@@ -1045,6 +1125,26 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "25": [
@@ -1092,6 +1192,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "26": [
@@ -1171,6 +1276,16 @@
         "surface": "were counted",
         "lemma": "mispar",
         "strongs": "H4557"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "28": [
@@ -1347,6 +1462,11 @@
         "surface": "in the evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "morning",
+        "lemma": "boqer_h1242",
+        "strongs": "H1242"
       }
     ],
     "31": [
@@ -1471,6 +1591,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "duty",
+        "lemma": "mishmeret",
+        "strongs": "H4931"
       }
     ]
   }

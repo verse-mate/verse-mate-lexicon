@@ -126,6 +126,16 @@
         "surface": "their cities {to destruction",
         "lemma": "ir",
         "strongs": "H5892"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "3": [
@@ -183,6 +193,11 @@
         "surface": "Hormah",
         "lemma": "chormah",
         "strongs": "H2767"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "4": [
@@ -245,6 +260,11 @@
         "surface": "on the journey",
         "lemma": "derekh",
         "strongs": "H1870"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "5": [
@@ -322,6 +342,11 @@
         "surface": "food",
         "lemma": "lechem",
         "strongs": "H3899"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "6": [
@@ -374,6 +399,11 @@
         "surface": "and died",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "7": [
@@ -575,6 +605,11 @@
         "surface": "he would live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "snake",
+        "lemma": "nachash_h5175",
+        "strongs": "H5175"
       }
     ],
     "10": [
@@ -597,6 +632,11 @@
         "surface": "at Oboth",
         "lemma": "ovot",
         "strongs": "H0088"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "11": [
@@ -639,6 +679,16 @@
         "surface": "to the east",
         "lemma": "mizrach",
         "strongs": "H4217"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "sun",
+        "lemma": "shemesh",
+        "strongs": "H8121"
       }
     ],
     "12": [
@@ -743,6 +793,11 @@
         "surface": "the Amorites",
         "lemma": "emori",
         "strongs": "H0567"
+      },
+      {
+        "surface": "Moab",
+        "lemma": "moav",
+        "strongs": "H4124"
       }
     ],
     "14": [
@@ -785,6 +840,11 @@
         "surface": "of the Arnon",
         "lemma": "arnon",
         "strongs": "H0769"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "15": [
@@ -1027,6 +1087,11 @@
         "surface": "the wasteland",
         "lemma": "yeshimon",
         "strongs": "H3452"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "21": [
@@ -1290,6 +1355,21 @@
         "surface": "it was fortified",
         "lemma": "az",
         "strongs": "H5794"
+      },
+      {
+        "surface": "descendants",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
+      },
+      {
+        "surface": "Ammon",
+        "lemma": "ammon",
+        "strongs": "H5983"
       }
     ],
     "25": [
@@ -1342,6 +1422,16 @@
         "surface": "its villages",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "cities",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "26": [
@@ -1409,6 +1499,11 @@
         "surface": "far as the Arnon",
         "lemma": "arnon",
         "strongs": "H0769"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "27": [
@@ -1451,6 +1546,11 @@
         "surface": "be restored",
         "lemma": "kun",
         "strongs": "H3559"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "28": [
@@ -1877,6 +1977,11 @@
         "surface": "his land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "survivor",
+        "lemma": "sarid",
+        "strongs": "H8300"
       }
     ]
   }

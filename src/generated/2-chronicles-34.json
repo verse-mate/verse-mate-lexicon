@@ -44,6 +44,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "2": [
@@ -208,6 +213,11 @@
         "surface": "and the cast images",
         "lemma": "massekhah",
         "strongs": "H4541"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "4": [
@@ -285,6 +295,11 @@
         "surface": "of those who had sacrificed",
         "lemma": "zavach",
         "strongs": "H2076"
+      },
+      {
+        "surface": "surface",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "5": [
@@ -359,6 +374,11 @@
         "surface": "around them",
         "lemma": "saviv",
         "strongs": "H5439"
+      },
+      {
+        "surface": "swords",
+        "lemma": "cherev",
+        "strongs": "H2719"
       }
     ],
     "7": [
@@ -538,6 +558,11 @@
         "surface": "his God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "9": [
@@ -660,6 +685,11 @@
         "surface": "of Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "returned",
+        "lemma": "shuv",
+        "strongs": "H7725"
       }
     ],
     "10": [
@@ -722,6 +752,26 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "working",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "11": [
@@ -886,6 +936,11 @@
         "surface": "instruments",
         "lemma": "keli",
         "strongs": "H3627"
+      },
+      {
+        "surface": "act as overseers",
+        "lemma": "natsach",
+        "strongs": "H5329"
       }
     ],
     "13": [
@@ -1139,6 +1194,21 @@
         "surface": "in their hands",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -1258,6 +1328,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1362,6 +1437,11 @@
         "surface": "of the king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1571,6 +1651,11 @@
         "surface": "in the Second District",
         "lemma": "mishneh",
         "strongs": "H4932"
+      },
+      {
+        "surface": "Tokhath",
+        "lemma": "tiqvah_h8616",
+        "strongs": "H8616"
       }
     ],
     "23": [
@@ -2045,6 +2130,11 @@
         "surface": "and Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "gathered",
+        "lemma": "asaph",
+        "strongs": "H0622"
       }
     ],
     "30": [
@@ -2162,6 +2252,11 @@
         "surface": "of the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "31": [
@@ -2274,6 +2369,11 @@
         "surface": "book",
         "lemma": "sepher",
         "strongs": "H5612"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "32": [
@@ -2331,6 +2431,11 @@
         "surface": "of their fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
       }
     ],
     "33": [
@@ -2438,6 +2543,16 @@
         "surface": "of their fathers",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "found",
+        "lemma": "matsa",
+        "strongs": "H4672"
       }
     ]
   }

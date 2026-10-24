@@ -118,6 +118,11 @@
         "surface": "was cleansed",
         "lemma": "katharizo",
         "strongs": "G2511"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "4": [
@@ -244,6 +249,11 @@
         "surface": "agony",
         "lemma": "basanizo",
         "strongs": "G0928"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "7": [
@@ -323,6 +333,16 @@
         "surface": "will be healed",
         "lemma": "iaomai",
         "strongs": "G2390"
+      },
+      {
+        "surface": "saying",
+        "lemma": "phemi",
+        "strongs": "G5346"
+      },
+      {
+        "surface": "only",
+        "lemma": "monos",
+        "strongs": "G3441"
       }
     ],
     "9": [
@@ -645,6 +665,11 @@
         "surface": "with a fever",
         "lemma": "puresso",
         "strongs": "G4445"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -677,6 +702,11 @@
         "surface": "began to serve",
         "lemma": "diakoneo",
         "strongs": "G1247"
+      },
+      {
+        "surface": "touched",
+        "lemma": "hapto_g0681",
+        "strongs": "G0681"
       }
     ],
     "16": [
@@ -781,6 +811,11 @@
         "surface": "diseases",
         "lemma": "nosos",
         "strongs": "G3554"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "18": [
@@ -813,6 +848,11 @@
         "surface": "to cross",
         "lemma": "aperchomai",
         "strongs": "G0565"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "19": [
@@ -969,6 +1009,11 @@
         "surface": "father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "22": [
@@ -1320,6 +1365,11 @@
         "surface": "appointed time",
         "lemma": "kairos",
         "strongs": "G2540"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "30": [
@@ -1384,6 +1434,11 @@
         "surface": "of pigs",
         "lemma": "choiros",
         "strongs": "G5519"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "32": [
@@ -1478,6 +1533,11 @@
         "surface": "demon-possessed men",
         "lemma": "daimonizomai",
         "strongs": "G1139"
+      },
+      {
+        "surface": "having gone away",
+        "lemma": "aperchomai",
+        "strongs": "G0565"
       }
     ],
     "34": [
@@ -1525,6 +1585,11 @@
         "surface": "region",
         "lemma": "horion",
         "strongs": "G3725"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

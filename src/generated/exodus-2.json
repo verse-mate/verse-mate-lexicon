@@ -34,6 +34,11 @@
         "surface": "woman",
         "lemma": "bat",
         "strongs": "H1323"
+      },
+      {
+        "surface": "went",
+        "lemma": "halakh",
+        "strongs": "H1980"
       }
     ],
     "2": [
@@ -272,6 +277,11 @@
         "surface": "to retrieve it",
         "lemma": "laqach",
         "strongs": "H3947"
+      },
+      {
+        "surface": "River",
+        "lemma": "yeor",
+        "strongs": "H2975"
       }
     ],
     "6": [
@@ -371,6 +381,11 @@
         "surface": "the child",
         "lemma": "yeled",
         "strongs": "H3206"
+      },
+      {
+        "surface": "suckle",
+        "lemma": "yanaq",
+        "strongs": "H3243"
       }
     ],
     "8": [
@@ -480,6 +495,11 @@
         "surface": "and nursed him",
         "lemma": "nuq",
         "strongs": "H5134"
+      },
+      {
+        "surface": "suckled",
+        "lemma": "yanaq",
+        "strongs": "H3243"
       }
     ],
     "10": [
@@ -542,6 +562,11 @@
         "surface": "the water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "11": [
@@ -604,6 +629,16 @@
         "surface": "one of his own people",
         "lemma": "ach",
         "strongs": "H0251"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "12": [
@@ -713,6 +748,11 @@
         "surface": "your companion",
         "lemma": "rea",
         "strongs": "H7453"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "14": [
@@ -867,6 +907,11 @@
         "surface": "a well",
         "lemma": "beer",
         "strongs": "H0875"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "16": [
@@ -1050,6 +1095,16 @@
         "surface": "the flock",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "drew",
+        "lemma": "dalah",
+        "strongs": "H1802"
       }
     ],
     "20": [
@@ -1087,6 +1142,16 @@
         "surface": "to have something to eat",
         "lemma": "akhal",
         "strongs": "H0398"
+      },
+      {
+        "surface": "daughters",
+        "lemma": "bat",
+        "strongs": "H1323"
+      },
+      {
+        "surface": "food",
+        "lemma": "lechem",
+        "strongs": "H3899"
       }
     ],
     "21": [
@@ -1176,6 +1241,11 @@
         "surface": "land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "23": [
@@ -1243,6 +1313,11 @@
         "surface": "God",
         "lemma": "elohim",
         "strongs": "H0430"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1317,6 +1392,11 @@
         "surface": "took notice",
         "lemma": "yada",
         "strongs": "H3045"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ]
   }

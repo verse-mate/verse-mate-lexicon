@@ -158,6 +158,21 @@
         "surface": "or used for work",
         "lemma": "avad",
         "strongs": "H5647"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "herd",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "dragged",
+        "lemma": "mashakh",
+        "strongs": "H4900"
       }
     ],
     "4": [
@@ -215,6 +230,16 @@
         "surface": "by the stream",
         "lemma": "nachal",
         "strongs": "H5158"
+      },
+      {
+        "surface": "elders",
+        "lemma": "zaqen_h2205",
+        "strongs": "H2205"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
       }
     ],
     "5": [
@@ -287,6 +312,16 @@
         "surface": "and case of assault",
         "lemma": "nega",
         "strongs": "H5061"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "6": [
@@ -381,6 +416,11 @@
         "surface": "see it",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "8": [
@@ -448,6 +488,11 @@
         "surface": "will be atoned for",
         "lemma": "kipher",
         "strongs": "H3722"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -574,6 +619,11 @@
         "surface": "as your wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "toar",
+        "strongs": "H8389"
       }
     ],
     "12": [
@@ -606,6 +656,11 @@
         "surface": "her nails",
         "lemma": "tsipporen",
         "strongs": "H6856"
+      },
+      {
+        "surface": "middle",
+        "lemma": "tavekh",
+        "strongs": "H8432"
       }
     ],
     "13": [
@@ -678,6 +733,21 @@
         "surface": "your wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "husband",
+        "lemma": "baal_h1167",
+        "strongs": "H1167"
       }
     ],
     "14": [
@@ -740,6 +810,11 @@
         "surface": "you have dishonored her",
         "lemma": "anah",
         "strongs": "H6031"
+      },
+      {
+        "surface": "sell",
+        "lemma": "makhar",
+        "strongs": "H4376"
       }
     ],
     "15": [
@@ -817,6 +892,11 @@
         "surface": "son",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "hated",
+        "lemma": "sane",
+        "strongs": "H8130"
       }
     ],
     "16": [
@@ -874,6 +954,16 @@
         "surface": "of the unloved wife",
         "lemma": "sane",
         "strongs": "H8130"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "firstborn",
+        "lemma": "bekhor",
+        "strongs": "H1060"
       }
     ],
     "17": [
@@ -1003,6 +1093,16 @@
         "surface": "when disciplined",
         "lemma": "yasar",
         "strongs": "H3256"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "19": [
@@ -1092,6 +1192,16 @@
         "surface": "and a drunkard",
         "lemma": "sava",
         "strongs": "H5433"
+      },
+      {
+        "surface": "city",
+        "lemma": "ir",
+        "strongs": "H5892"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "21": [
@@ -1154,6 +1264,11 @@
         "surface": "and be afraid",
         "lemma": "yare",
         "strongs": "H3372"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "22": [
@@ -1278,6 +1393,11 @@
         "surface": "as an inheritance",
         "lemma": "nachalah",
         "strongs": "H5159"
+      },
+      {
+        "surface": "bury",
+        "lemma": "qavar",
+        "strongs": "H6912"
       }
     ]
   }

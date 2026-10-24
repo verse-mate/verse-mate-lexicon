@@ -24,6 +24,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -71,6 +76,16 @@
         "surface": "is unclean",
         "lemma": "tame",
         "strongs": "H2931"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -118,6 +133,11 @@
         "surface": "uncleanness",
         "lemma": "tumah",
         "strongs": "H2932"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "basar_h1320",
+        "strongs": "H1320"
       }
     ],
     "4": [
@@ -834,6 +854,11 @@
         "surface": "evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "go out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "17": [
@@ -886,6 +911,11 @@
         "surface": "evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
       }
     ],
     "18": [
@@ -1005,6 +1035,11 @@
         "surface": "evening",
         "lemma": "erev",
         "strongs": "H6153"
+      },
+      {
+        "surface": "discharge",
+        "lemma": "zov",
+        "strongs": "H2101"
       }
     ],
     "20": [
@@ -1030,6 +1065,11 @@
       },
       {
         "surface": "will be unclean",
+        "lemma": "tame",
+        "strongs": "H2930"
+      },
+      {
+        "surface": "unclean",
         "lemma": "tame",
         "strongs": "H2930"
       }
@@ -1332,6 +1372,11 @@
         "surface": "of her menstruation",
         "lemma": "niddah",
         "strongs": "H5079"
+      },
+      {
+        "surface": "discharge",
+        "lemma": "zov",
+        "strongs": "H2101"
       }
     ],
     "26": [
@@ -1394,6 +1439,16 @@
         "surface": "during her menstrual period",
         "lemma": "tumah",
         "strongs": "H2932"
+      },
+      {
+        "surface": "menstruous impurity",
+        "lemma": "niddah",
+        "strongs": "H5079"
+      },
+      {
+        "surface": "menstruous impurity",
+        "lemma": "niddah",
+        "strongs": "H5079"
       }
     ],
     "27": [
@@ -1659,6 +1714,11 @@
         "surface": "is among them",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "uncleanness",
+        "lemma": "tumah",
+        "strongs": "H2932"
       }
     ],
     "32": [
@@ -1733,6 +1793,11 @@
         "surface": "an unclean woman",
         "lemma": "tame",
         "strongs": "H2931"
+      },
+      {
+        "surface": "discharge",
+        "lemma": "zov",
+        "strongs": "H2101"
       }
     ]
   }

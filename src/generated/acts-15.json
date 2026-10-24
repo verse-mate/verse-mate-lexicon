@@ -116,6 +116,16 @@
         "surface": "question",
         "lemma": "zetema",
         "strongs": "G2213"
+      },
+      {
+        "surface": "Paul",
+        "lemma": "paulos",
+        "strongs": "G3972"
+      },
+      {
+        "surface": "Barnabas",
+        "lemma": "barnabas",
+        "strongs": "G0921"
       }
     ],
     "3": [
@@ -235,6 +245,11 @@
         "surface": "had done",
         "lemma": "poieo",
         "strongs": "G4160"
+      },
+      {
+        "surface": "Jerusalem",
+        "lemma": "hierousalem",
+        "strongs": "G2419"
       }
     ],
     "5": [
@@ -319,6 +334,11 @@
         "surface": "matter",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "understand",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "7": [
@@ -663,6 +683,11 @@
         "surface": "listen to",
         "lemma": "akouo",
         "strongs": "G0191"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "14": [
@@ -710,6 +735,11 @@
         "surface": "own",
         "lemma": "onoma",
         "strongs": "G3686"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "15": [
@@ -1051,6 +1081,11 @@
         "surface": "brothers",
         "lemma": "adelphos",
         "strongs": "G0080"
+      },
+      {
+        "surface": "men",
+        "lemma": "aner",
+        "strongs": "G0435"
       }
     ],
     "23": [
@@ -1140,6 +1175,11 @@
         "surface": "by what they said",
         "lemma": "logos",
         "strongs": "G3056"
+      },
+      {
+        "surface": "heard",
+        "lemma": "akouo",
+        "strongs": "G0191"
       }
     ],
     "25": [
@@ -1177,6 +1217,16 @@
         "surface": "Paul",
         "lemma": "paulos",
         "strongs": "G3972"
+      },
+      {
+        "surface": "having come",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "one accord",
+        "lemma": "homothumadon",
+        "strongs": "G3661"
       }
     ],
     "26": [
@@ -1421,6 +1471,16 @@
         "surface": "brothers",
         "lemma": "adelphos",
         "strongs": "G0080"
+      },
+      {
+        "surface": "talk",
+        "lemma": "logos",
+        "strongs": "G3056"
+      },
+      {
+        "surface": "much",
+        "lemma": "polus",
+        "strongs": "G4183"
       }
     ],
     "33": [
@@ -1683,6 +1743,11 @@
         "surface": "Cyprus",
         "lemma": "kupros",
         "strongs": "G2954"
+      },
+      {
+        "surface": "Arose",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "40": [

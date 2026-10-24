@@ -69,6 +69,11 @@
         "surface": "head",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "2": [
@@ -178,6 +183,11 @@
         "surface": "heads",
         "lemma": "kephale",
         "strongs": "G2776"
+      },
+      {
+        "surface": "seen",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "4": [
@@ -369,6 +379,16 @@
         "surface": "days",
         "lemma": "hemera",
         "strongs": "G2250"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "diakosioi",
+        "strongs": "G1250"
+      },
+      {
+        "surface": "sixty",
+        "lemma": "hexekonta",
+        "strongs": "G1835"
       }
     ],
     "7": [
@@ -443,6 +463,11 @@
         "surface": "heaven",
         "lemma": "ouranos",
         "strongs": "G3772"
+      },
+      {
+        "surface": "any longer",
+        "lemma": "eti",
+        "strongs": "G2089"
       }
     ],
     "9": [
@@ -515,6 +540,11 @@
         "surface": "angels",
         "lemma": "angelos",
         "strongs": "G0032"
+      },
+      {
+        "surface": "thrown down",
+        "lemma": "ballo",
+        "strongs": "G0906"
       }
     ],
     "10": [
@@ -617,6 +647,11 @@
         "surface": "God",
         "lemma": "theos",
         "strongs": "G2316"
+      },
+      {
+        "surface": "accuser",
+        "lemma": "kategor",
+        "strongs": "G6051"
       }
     ],
     "11": [
@@ -731,6 +766,11 @@
         "surface": "time",
         "lemma": "kairos",
         "strongs": "G2540"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "13": [
@@ -773,6 +813,11 @@
         "surface": "male child",
         "lemma": "arren",
         "strongs": "G0730"
+      },
+      {
+        "surface": "saw",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "14": [
@@ -954,6 +999,11 @@
         "surface": "mouth",
         "lemma": "stoma",
         "strongs": "G4750"
+      },
+      {
+        "surface": "earth",
+        "lemma": "ge",
+        "strongs": "G1093"
       }
     ],
     "17": [

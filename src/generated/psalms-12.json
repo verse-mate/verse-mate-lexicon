@@ -101,6 +101,16 @@
         "surface": "and a double heart",
         "lemma": "lev",
         "strongs": "H3820"
+      },
+      {
+        "surface": "speak",
+        "lemma": "davar",
+        "strongs": "H1696"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "3": [
@@ -138,6 +148,11 @@
         "surface": "tongue",
         "lemma": "lashon",
         "strongs": "H3956"
+      },
+      {
+        "surface": "great",
+        "lemma": "gadol",
+        "strongs": "H1419"
       }
     ],
     "4": [
@@ -274,6 +289,11 @@
         "surface": "sevenfold",
         "lemma": "shivatayim",
         "strongs": "H7659"
+      },
+      {
+        "surface": "words",
+        "lemma": "imrah",
+        "strongs": "H0565"
       }
     ],
     "7": [
@@ -296,6 +316,11 @@
         "surface": "generation",
         "lemma": "dor",
         "strongs": "H1755"
+      },
+      {
+        "surface": "ever",
+        "lemma": "olam",
+        "strongs": "H5769"
       }
     ],
     "8": [
@@ -333,6 +358,28 @@
         "surface": "men",
         "lemma": "adam",
         "strongs": "H0120"
+      }
+    ],
+    "0": [
+      {
+        "surface": "choirmaster",
+        "lemma": "natsach",
+        "strongs": "H5329"
+      },
+      {
+        "surface": "sheminith",
+        "lemma": "sheminit",
+        "strongs": "H8067"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

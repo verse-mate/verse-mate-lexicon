@@ -94,6 +94,16 @@
         "surface": "in a vision",
         "lemma": "mareh",
         "strongs": "H4758"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "2": [
@@ -131,6 +141,11 @@
         "surface": "weeks",
         "lemma": "shavua",
         "strongs": "H7620"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
       }
     ],
     "3": [
@@ -203,6 +218,16 @@
         "surface": "were completed",
         "lemma": "male",
         "strongs": "H4390"
+      },
+      {
+        "surface": "anointed myself",
+        "lemma": "sukh",
+        "strongs": "H5480"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "4": [
@@ -250,6 +275,11 @@
         "surface": "the Tigris",
         "lemma": "chiddeqel",
         "strongs": "H2313"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
       }
     ],
     "5": [
@@ -461,6 +491,16 @@
         "surface": "and hid themselves",
         "lemma": "chava",
         "strongs": "H2244"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
+      },
+      {
+        "surface": "vision",
+        "lemma": "marah",
+        "strongs": "H4759"
       }
     ],
     "8": [
@@ -518,6 +558,21 @@
         "surface": "and I was powerless",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "alone",
+        "lemma": "bad",
+        "strongs": "H0905"
+      },
+      {
+        "surface": "strength",
+        "lemma": "koach",
+        "strongs": "H3581"
+      },
+      {
+        "surface": "retained",
+        "lemma": "atsar_h6113",
+        "strongs": "H6113"
       }
     ],
     "9": [
@@ -555,6 +610,21 @@
         "surface": "to the ground",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "sound",
+        "lemma": "qol",
+        "strongs": "H6963"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -582,6 +652,11 @@
         "surface": "and knees",
         "lemma": "berekh",
         "strongs": "H1290"
+      },
+      {
+        "surface": "hands",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "11": [
@@ -649,6 +724,21 @@
         "surface": "trembling",
         "lemma": "raad",
         "strongs": "H7460"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "standing place",
+        "lemma": "omed",
+        "strongs": "H5977"
       }
     ],
     "12": [
@@ -726,6 +816,16 @@
         "surface": "in response to them",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "Daniel",
+        "lemma": "daniyyel",
+        "strongs": "H1840"
+      },
+      {
+        "surface": "heart",
+        "lemma": "lev",
+        "strongs": "H3820"
       }
     ],
     "13": [
@@ -860,6 +960,11 @@
         "surface": "concerns those days",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "still",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "15": [
@@ -979,6 +1084,11 @@
         "surface": "strength",
         "lemma": "koach",
         "strongs": "H3581"
+      },
+      {
+        "surface": "spoke",
+        "lemma": "davar",
+        "strongs": "H1696"
       }
     ],
     "17": [
@@ -1140,6 +1250,11 @@
         "surface": "you have strengthened me",
         "lemma": "chazaq",
         "strongs": "H2388"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "20": [
@@ -1259,6 +1374,11 @@
         "surface": "your prince",
         "lemma": "sar",
         "strongs": "H8269"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ]
   }

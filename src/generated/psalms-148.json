@@ -34,6 +34,11 @@
         "surface": "in the highest places",
         "lemma": "marom",
         "strongs": "H4791"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ],
     "2": [
@@ -123,6 +128,11 @@
       },
       {
         "surface": "the skies",
+        "lemma": "shamayim",
+        "strongs": "H8064"
+      },
+      {
+        "surface": "heavens",
         "lemma": "shamayim",
         "strongs": "H8064"
       }
@@ -495,6 +505,16 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

@@ -222,6 +222,11 @@
         "surface": "that she gave birth to him",
         "lemma": "yalad",
         "strongs": "H3205"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "6": [
@@ -636,6 +641,11 @@
         "surface": "at Timnah",
         "lemma": "timnah",
         "strongs": "H8553"
+      },
+      {
+        "surface": "sheep",
+        "lemma": "tson",
+        "strongs": "H6629"
       }
     ],
     "13": [
@@ -673,6 +683,11 @@
         "surface": "his sheep",
         "lemma": "tson",
         "strongs": "H6629"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "14": [
@@ -849,6 +864,11 @@
         "surface": "she inquired",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "road",
+        "lemma": "derekh",
+        "strongs": "H1870"
       }
     ],
     "17": [
@@ -896,6 +916,11 @@
         "surface": "you send it",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "18": [
@@ -1052,6 +1077,16 @@
         "surface": "find her",
         "lemma": "matsa",
         "strongs": "H4672"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "21": [
@@ -1107,6 +1142,11 @@
       },
       {
         "surface": "they answered",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "said",
         "lemma": "amar",
         "strongs": "H0559"
       }
@@ -1280,6 +1320,16 @@
         "surface": "Let her be burned to death",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "prostitution",
+        "lemma": "zanun",
+        "strongs": "H2183"
       }
     ],
     "25": [
@@ -1337,6 +1387,11 @@
         "surface": "and staff",
         "lemma": "matteh",
         "strongs": "H4294"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "26": [
@@ -1394,6 +1449,11 @@
         "surface": "again",
         "lemma": "yasaph",
         "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "27": [
@@ -1525,6 +1585,21 @@
         "surface": "Perez",
         "lemma": "perets",
         "strongs": "H6557"
+      },
+      {
+        "surface": "how",
+        "lemma": "mah",
+        "strongs": "H4100"
+      },
+      {
+        "surface": "breach",
+        "lemma": "perets",
+        "strongs": "H6556"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "30": [
@@ -1562,6 +1637,11 @@
         "surface": "Zerah",
         "lemma": "zerach",
         "strongs": "H2226"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ]
   }

@@ -153,6 +153,11 @@
         "surface": "privately",
         "lemma": "idios",
         "strongs": "G2398"
+      },
+      {
+        "surface": "Olives",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
       }
     ],
     "4": [
@@ -217,6 +222,11 @@
         "surface": "deceives",
         "lemma": "planao",
         "strongs": "G4105"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "6": [
@@ -442,6 +452,11 @@
         "surface": "nations",
         "lemma": "ethnos",
         "strongs": "G1484"
+      },
+      {
+        "surface": "first",
+        "lemma": "protos",
+        "strongs": "G4413"
       }
     ],
     "11": [
@@ -650,6 +665,11 @@
         "surface": "mountains",
         "lemma": "oros",
         "strongs": "G3735"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "15": [
@@ -672,6 +692,11 @@
         "surface": "house",
         "lemma": "oikia",
         "strongs": "G3614"
+      },
+      {
+        "surface": "go",
+        "lemma": "eiserchomai",
+        "strongs": "G1525"
       }
     ],
     "16": [
@@ -689,6 +714,16 @@
         "surface": "cloak",
         "lemma": "himation",
         "strongs": "G2440"
+      },
+      {
+        "surface": "back",
+        "lemma": "opiso",
+        "strongs": "G3694"
+      },
+      {
+        "surface": "take",
+        "lemma": "airo",
+        "strongs": "G0142"
       }
     ],
     "17": [
@@ -706,6 +741,11 @@
         "surface": "nursing mothers",
         "lemma": "thelazo",
         "strongs": "G2337"
+      },
+      {
+        "surface": "womb",
+        "lemma": "gaster",
+        "strongs": "G1064"
       }
     ],
     "18": [
@@ -760,6 +800,21 @@
         "surface": "to be seen again",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "such as",
+        "lemma": "hoios",
+        "strongs": "G3634"
+      },
+      {
+        "surface": "created",
+        "lemma": "ktizo",
+        "strongs": "G2936"
+      },
+      {
+        "surface": "God",
+        "lemma": "theos",
+        "strongs": "G2316"
       }
     ],
     "20": [
@@ -797,6 +852,21 @@
         "surface": "He has cut them short",
         "lemma": "koloboo",
         "strongs": "G2856"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
+      },
+      {
+        "surface": "any",
+        "lemma": "pas",
+        "strongs": "G3956"
+      },
+      {
+        "surface": "flesh",
+        "lemma": "sarx",
+        "strongs": "G4561"
       }
     ],
     "21": [
@@ -893,6 +963,11 @@
         "surface": "everything {in advance",
         "lemma": "pas",
         "strongs": "G3956"
+      },
+      {
+        "surface": "foretold",
+        "lemma": "proereo",
+        "strongs": "G4280"
       }
     ],
     "24": [
@@ -1014,6 +1089,11 @@
         "surface": "glory",
         "lemma": "doxa",
         "strongs": "G1391"
+      },
+      {
+        "surface": "behold",
+        "lemma": "optanomai",
+        "strongs": "G3700"
       }
     ],
     "27": [
@@ -1123,6 +1203,11 @@
         "surface": "is",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
       }
     ],
     "29": [
@@ -1155,6 +1240,11 @@
         "surface": "the door",
         "lemma": "thura",
         "strongs": "G2374"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "30": [
@@ -1251,6 +1341,11 @@
         "surface": "Father",
         "lemma": "pater",
         "strongs": "G3962"
+      },
+      {
+        "surface": "knows",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "33": [
@@ -1278,6 +1373,11 @@
         "surface": "will come",
         "lemma": "eimi",
         "strongs": "G1510"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "34": [
@@ -1387,6 +1487,11 @@
         "surface": "in the morning",
         "lemma": "proi",
         "strongs": "G4404"
+      },
+      {
+        "surface": "know",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "36": [

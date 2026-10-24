@@ -104,6 +104,11 @@
         "surface": "against the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "2": [
@@ -196,6 +201,11 @@
         "surface": "Ai",
         "lemma": "ay",
         "strongs": "H5857"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -293,6 +303,16 @@
         "surface": "there",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "them go up",
+        "lemma": "alah_h5927",
+        "strongs": "H5927"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "4": [
@@ -335,6 +355,11 @@
         "surface": "of Ai",
         "lemma": "ay",
         "strongs": "H5857"
+      },
+      {
+        "surface": "people",
+        "lemma": "am",
+        "strongs": "H5971"
       }
     ],
     "5": [
@@ -412,6 +437,16 @@
         "surface": "like water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "six",
+        "lemma": "shesh_h8337",
+        "strongs": "H8337"
       }
     ],
     "6": [
@@ -484,6 +519,11 @@
         "surface": "their heads",
         "lemma": "rosh",
         "strongs": "H7218"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "7": [
@@ -866,6 +906,16 @@
         "surface": "whatever is devoted to destruction",
         "lemma": "cherem",
         "strongs": "H2764"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "13": [
@@ -968,6 +1018,16 @@
         "surface": "them",
         "lemma": "cherem",
         "strongs": "H2764"
+      },
+      {
+        "surface": "midst",
+        "lemma": "qerev_h7130",
+        "strongs": "H7130"
+      },
+      {
+        "surface": "able",
+        "lemma": "yakhol",
+        "strongs": "H3201"
       }
     ],
     "14": [
@@ -1112,6 +1172,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "16": [
@@ -1412,6 +1477,16 @@
         "surface": "is what I did",
         "lemma": "asah",
         "strongs": "H6213"
+      },
+      {
+        "surface": "Joshua",
+        "lemma": "yehoshua",
+        "strongs": "H3091"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1628,6 +1703,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "24": [
@@ -1797,6 +1877,21 @@
         "surface": "and burned their bodies",
         "lemma": "saraph",
         "strongs": "H8313"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "26": [
@@ -1864,6 +1959,21 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "anger",
+        "lemma": "aph",
+        "strongs": "H0639"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ]
   }

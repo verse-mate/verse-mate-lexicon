@@ -71,6 +71,11 @@
         "surface": "and prosperity",
         "lemma": "tov",
         "strongs": "H2896"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov",
+        "strongs": "H2895"
       }
     ],
     "3": [
@@ -224,6 +229,18 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "ascents",
+        "lemma": "maalah",
+        "strongs": "H4609"
       }
     ]
   }

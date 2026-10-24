@@ -151,6 +151,16 @@
         "surface": "in the assembly",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "3": [
@@ -245,6 +255,11 @@
         "surface": "he fell",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "5": [
@@ -302,6 +317,11 @@
         "surface": "He will bring near",
         "lemma": "qarav",
         "strongs": "H7126"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -406,6 +426,11 @@
         "surface": "who have taken too much",
         "lemma": "rav",
         "strongs": "H7227"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum",
+        "strongs": "H7760"
       }
     ],
     "8": [
@@ -547,6 +572,11 @@
         "surface": "the priesthood",
         "lemma": "kehunnah",
         "strongs": "H3550"
+      },
+      {
+        "surface": "Levi",
+        "lemma": "levi_h3878",
+        "strongs": "H3878"
       }
     ],
     "11": [
@@ -636,6 +666,11 @@
         "surface": "come",
         "lemma": "alah",
         "strongs": "H5927"
+      },
+      {
+        "surface": "summon",
+        "lemma": "qara",
+        "strongs": "H7121"
       }
     ],
     "13": [
@@ -682,6 +717,11 @@
       {
         "surface": "appoint yourself as ruler",
         "lemma": "sarar",
+        "strongs": "H8323"
+      },
+      {
+        "surface": "really",
+        "lemma": "sarar_h8323",
         "strongs": "H8323"
       }
     ],
@@ -951,6 +991,21 @@
         "surface": "are to present your censers as well",
         "lemma": "machtah",
         "strongs": "H4289"
+      },
+      {
+        "surface": "each one",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "each one",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "18": [
@@ -1013,6 +1068,11 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum",
+        "strongs": "H7760"
       }
     ],
     "19": [
@@ -1097,6 +1157,11 @@
         "surface": "and Aaron",
         "lemma": "aharon",
         "strongs": "H0175"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "21": [
@@ -1191,6 +1256,11 @@
         "surface": "congregation",
         "lemma": "edah",
         "strongs": "H5712"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "23": [
@@ -1208,6 +1278,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "24": [
@@ -1250,6 +1325,11 @@
         "surface": "and Abiram",
         "lemma": "aviram",
         "strongs": "H0048"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "25": [
@@ -1359,6 +1439,11 @@
         "surface": "their sins",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "27": [
@@ -1540,6 +1625,16 @@
         "surface": "sent me",
         "lemma": "shalach",
         "strongs": "H7971"
+      },
+      {
+        "surface": "every",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "human",
+        "lemma": "adam_h0120",
+        "strongs": "H0120"
       }
     ],
     "30": [
@@ -1654,6 +1749,11 @@
         "surface": "split open",
         "lemma": "baqa",
         "strongs": "H1234"
+      },
+      {
+        "surface": "words",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "32": [
@@ -1837,6 +1937,11 @@
         "surface": "the incense",
         "lemma": "qetoret",
         "strongs": "H7004"
+      },
+      {
+        "surface": "two hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "36": [
@@ -1854,6 +1959,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "37": [
@@ -1998,6 +2108,11 @@
         "surface": "to the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "39": [
@@ -2147,6 +2262,16 @@
         "surface": "and his followers",
         "lemma": "edah",
         "strongs": "H5712"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "41": [
@@ -2204,6 +2329,11 @@
         "surface": "people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "42": [
@@ -2320,6 +2450,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "45": [
@@ -2352,6 +2487,11 @@
         "surface": "And Moses and Aaron fell",
         "lemma": "naphal",
         "strongs": "H5307"
+      },
+      {
+        "surface": "faces",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "46": [
@@ -2449,6 +2589,11 @@
         "surface": "has begun",
         "lemma": "chalal",
         "strongs": "H2490"
+      },
+      {
+        "surface": "set",
+        "lemma": "sum",
+        "strongs": "H7760"
       }
     ],
     "47": [
@@ -2516,6 +2661,11 @@
         "surface": "the people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "put",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "48": [
@@ -2548,6 +2698,11 @@
         "surface": "was halted",
         "lemma": "atsar",
         "strongs": "H6113"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "49": [
@@ -2585,6 +2740,26 @@
         "surface": "of Korah",
         "lemma": "qorach",
         "strongs": "H7141"
+      },
+      {
+        "surface": "teen",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "seven",
+        "lemma": "sheva_h7651",
+        "strongs": "H7651"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
       }
     ],
     "50": [

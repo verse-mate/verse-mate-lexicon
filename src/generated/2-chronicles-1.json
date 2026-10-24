@@ -260,6 +260,11 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "Jearim",
+        "lemma": "qiryatyearim",
+        "strongs": "H7157"
       }
     ],
     "5": [
@@ -602,6 +607,16 @@
         "surface": "people of Yours",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "before",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "come",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "11": [
@@ -776,6 +791,16 @@
         "surface": "after you",
         "lemma": "achar",
         "strongs": "H0310"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "thus",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "13": [
@@ -885,6 +910,41 @@
         "surface": "in Jerusalem",
         "lemma": "yerushalaim",
         "strongs": "H3389"
+      },
+      {
+        "surface": "chariotry",
+        "lemma": "rekhev",
+        "strongs": "H7393"
+      },
+      {
+        "surface": "warhorses",
+        "lemma": "parash_h6571",
+        "strongs": "H6571"
+      },
+      {
+        "surface": "belonged",
+        "lemma": "hayah",
+        "strongs": "H1961"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "four",
+        "lemma": "arba",
+        "strongs": "H0702"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "ten",
+        "lemma": "asar_h6240",
+        "strongs": "H6240"
       }
     ],
     "15": [
@@ -937,6 +997,11 @@
         "surface": "in the foothills",
         "lemma": "shephelah",
         "strongs": "H8219"
+      },
+      {
+        "surface": "made",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "16": [
@@ -979,6 +1044,16 @@
         "surface": "from Kue",
         "lemma": "qoveh",
         "strongs": "H4723"
+      },
+      {
+        "surface": "Solomon",
+        "lemma": "shelomoh",
+        "strongs": "H8010"
+      },
+      {
+        "surface": "price",
+        "lemma": "mechir",
+        "strongs": "H4242"
       }
     ],
     "17": [
@@ -1066,6 +1141,11 @@
         "surface": "of Aram",
         "lemma": "aram",
         "strongs": "H0758"
+      },
+      {
+        "surface": "brought out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ]
   }

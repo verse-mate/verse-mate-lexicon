@@ -76,6 +76,16 @@
         "surface": "are set on edge",
         "lemma": "qahah",
         "strongs": "H6949"
+      },
+      {
+        "surface": "proverb",
+        "lemma": "mashal_h4912",
+        "strongs": "H4912"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -123,6 +133,11 @@
         "surface": "in Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "belong",
+        "lemma": "hayah",
+        "strongs": "H1961"
       }
     ],
     "4": [
@@ -165,6 +180,11 @@
         "surface": "will die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "soul",
+        "lemma": "nephesh",
+        "strongs": "H5315"
       }
     ],
     "5": [
@@ -279,6 +299,11 @@
         "surface": "during her period",
         "lemma": "niddah",
         "strongs": "H5079"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "7": [
@@ -423,6 +448,16 @@
         "surface": "men",
         "lemma": "ish",
         "strongs": "H0376"
+      },
+      {
+        "surface": "turned away",
+        "lemma": "shuv",
+        "strongs": "H7725"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
       }
     ],
     "9": [
@@ -475,6 +510,16 @@
         "surface": "GOD",
         "lemma": "yehovih",
         "strongs": "H3069"
+      },
+      {
+        "surface": "doing",
+        "lemma": "asah",
+        "strongs": "H6213"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "10": [
@@ -611,6 +656,11 @@
         "surface": "abominations",
         "lemma": "toevah",
         "strongs": "H8441"
+      },
+      {
+        "surface": "robbed",
+        "lemma": "gazal",
+        "strongs": "H1497"
       }
     ],
     "13": [
@@ -673,6 +723,16 @@
         "surface": "will be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "14": [
@@ -787,6 +847,11 @@
         "surface": "wife",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "eyes",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "16": [
@@ -936,6 +1001,11 @@
         "surface": "He will surely live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "18": [
@@ -993,6 +1063,16 @@
         "surface": "his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "robbery",
+        "lemma": "gazel",
+        "strongs": "H1498"
+      },
+      {
+        "surface": "good",
+        "lemma": "tov_h2896",
+        "strongs": "H2896"
       }
     ],
     "19": [
@@ -1068,6 +1148,11 @@
       },
       {
         "surface": "he will surely live",
+        "lemma": "chayah",
+        "strongs": "H2421"
+      },
+      {
+        "surface": "live",
         "lemma": "chayah",
         "strongs": "H2421"
       }
@@ -1239,6 +1324,11 @@
         "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "22": [
@@ -1328,6 +1418,11 @@
         "surface": "and live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "take pleasure",
+        "lemma": "chaphets",
+        "strongs": "H2654"
       }
     ],
     "24": [
@@ -1415,6 +1510,11 @@
         "surface": "he will die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "unfaithfulness",
+        "lemma": "maal_h4604",
+        "strongs": "H4604"
       }
     ],
     "25": [
@@ -1482,6 +1582,16 @@
         "surface": "that are unjust",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "correct",
+        "lemma": "takhan",
+        "strongs": "H8505"
+      },
+      {
+        "surface": "correct",
+        "lemma": "takhan",
+        "strongs": "H8505"
       }
     ],
     "26": [
@@ -1618,6 +1728,11 @@
         "surface": "die",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "live",
+        "lemma": "chayah",
+        "strongs": "H2421"
       }
     ],
     "29": [
@@ -1690,6 +1805,16 @@
         "surface": "that are unjust",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "correct",
+        "lemma": "takhan",
+        "strongs": "H8505"
+      },
+      {
+        "surface": "correct",
+        "lemma": "takhan",
+        "strongs": "H8505"
       }
     ],
     "30": [
@@ -1886,6 +2011,11 @@
         "surface": "and live",
         "lemma": "chayah",
         "strongs": "H2421"
+      },
+      {
+        "surface": "dies",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ]
   }

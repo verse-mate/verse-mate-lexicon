@@ -19,6 +19,16 @@
         "surface": "his discourse",
         "lemma": "mashal",
         "strongs": "H4912"
+      },
+      {
+        "surface": "take up",
+        "lemma": "nasa_h5375",
+        "strongs": "H5375"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -51,6 +61,11 @@
         "surface": "watched over me",
         "lemma": "shamar",
         "strongs": "H8104"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "3": [
@@ -393,6 +408,11 @@
         "surface": "sing for joy",
         "lemma": "run",
         "strongs": "H7442"
+      },
+      {
+        "surface": "came",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ],
     "14": [
@@ -479,6 +499,11 @@
         "surface": "of the stranger",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "knew",
+        "lemma": "yada",
+        "strongs": "H3045"
       }
     ],
     "17": [
@@ -678,6 +703,11 @@
         "surface": "like spring showers",
         "lemma": "malqosh",
         "strongs": "H4456"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "24": [
@@ -757,6 +787,11 @@
         "surface": "of the mourners",
         "lemma": "avel",
         "strongs": "H0057"
+      },
+      {
+        "surface": "someone comforts",
+        "lemma": "nacham",
+        "strongs": "H5162"
       }
     ]
   }

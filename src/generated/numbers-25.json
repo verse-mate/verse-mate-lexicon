@@ -123,6 +123,11 @@
         "surface": "against them",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "Peor",
+        "lemma": "baalpeor",
+        "strongs": "H1187"
       }
     ],
     "4": [
@@ -252,6 +257,11 @@
         "surface": "Baal of Peor",
         "lemma": "baalpeor",
         "strongs": "H1187"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "6": [
@@ -334,6 +344,16 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "7": [
@@ -463,6 +483,21 @@
         "surface": "was halted",
         "lemma": "atsar",
         "strongs": "H6113"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "man",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "9": [
@@ -480,6 +515,16 @@
         "surface": "numbered 24,000",
         "lemma": "arba",
         "strongs": "H0702"
+      },
+      {
+        "surface": "twenty",
+        "lemma": "esrim",
+        "strongs": "H6242"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "10": [
@@ -497,6 +542,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "11": [
@@ -579,6 +629,16 @@
         "surface": "in My zeal",
         "lemma": "qinah",
         "strongs": "H7068"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "12": [
@@ -663,6 +723,11 @@
         "surface": "the Israelites",
         "lemma": "ben",
         "strongs": "H1121"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "14": [
@@ -720,6 +785,16 @@
         "surface": "family",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "struck down",
+        "lemma": "nakhah",
+        "strongs": "H5221"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "15": [
@@ -777,6 +852,11 @@
         "surface": "family",
         "lemma": "av",
         "strongs": "H0001"
+      },
+      {
+        "surface": "house",
+        "lemma": "bet",
+        "strongs": "H1004"
       }
     ],
     "16": [
@@ -794,6 +874,11 @@
         "surface": "to Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "17": [
@@ -888,6 +973,11 @@
         "surface": "Peor",
         "lemma": "peor",
         "strongs": "H6465"
+      },
+      {
+        "surface": "matter",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ]
   }

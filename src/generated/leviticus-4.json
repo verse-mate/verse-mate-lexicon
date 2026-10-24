@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -81,6 +86,11 @@
         "surface": "forbidden",
         "lemma": "lo",
         "strongs": "H3808"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -148,6 +158,16 @@
         "surface": "he has committed",
         "lemma": "chata",
         "strongs": "H2398"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "herd",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
       }
     ],
     "4": [
@@ -696,6 +716,11 @@
         "surface": "heap",
         "lemma": "shephekh",
         "strongs": "H8211"
+      },
+      {
+        "surface": "burned",
+        "lemma": "saraph_h8313",
+        "strongs": "H8313"
       }
     ],
     "13": [
@@ -835,6 +860,11 @@
         "surface": "of Meeting",
         "lemma": "moed",
         "strongs": "H4150"
+      },
+      {
+        "surface": "bull",
+        "lemma": "par",
+        "strongs": "H6499"
       }
     ],
     "15": [
@@ -1298,6 +1328,16 @@
         "surface": "as his offering",
         "lemma": "qorban",
         "strongs": "H7133"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
+      },
+      {
+        "surface": "male",
+        "lemma": "zakhar_h2145",
+        "strongs": "H2145"
       }
     ],
     "24": [
@@ -1422,6 +1462,11 @@
         "surface": "of the altar",
         "lemma": "mizbeach",
         "strongs": "H4196"
+      },
+      {
+        "surface": "burnt offering",
+        "lemma": "olah",
+        "strongs": "H5930"
       }
     ],
     "26": [
@@ -1536,6 +1581,11 @@
         "surface": "he incurs guilt",
         "lemma": "asham",
         "strongs": "H0816"
+      },
+      {
+        "surface": "done",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "28": [
@@ -1583,6 +1633,16 @@
         "surface": "that sin",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "sinned",
+        "lemma": "chata",
+        "strongs": "H2398"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "29": [
@@ -1811,6 +1871,11 @@
         "surface": "female",
         "lemma": "neqevah",
         "strongs": "H5347"
+      },
+      {
+        "surface": "present",
+        "lemma": "qorban",
+        "strongs": "H7133"
       }
     ],
     "33": [

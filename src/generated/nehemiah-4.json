@@ -49,6 +49,11 @@
         "surface": "the Jews",
         "lemma": "yehudi",
         "strongs": "H3064"
+      },
+      {
+        "surface": "greatly",
+        "lemma": "ravah",
+        "strongs": "H7235"
       }
     ],
     "2": [
@@ -141,6 +146,11 @@
         "surface": "of rubble",
         "lemma": "aphar",
         "strongs": "H6083"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "3": [
@@ -297,6 +307,11 @@
         "surface": "the builders",
         "lemma": "banah",
         "strongs": "H1129"
+      },
+      {
+        "surface": "before",
+        "lemma": "neged",
+        "strongs": "H5048"
       }
     ],
     "6": [
@@ -416,6 +431,16 @@
         "surface": "they were furious",
         "lemma": "charah",
         "strongs": "H2734"
+      },
+      {
+        "surface": "begun",
+        "lemma": "chalal",
+        "strongs": "H2490"
+      },
+      {
+        "surface": "exceedingly",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "8": [
@@ -453,6 +478,11 @@
         "surface": "a hindrance",
         "lemma": "toah",
         "strongs": "H8442"
+      },
+      {
+        "surface": "together",
+        "lemma": "yachad_h3162",
+        "strongs": "H3162"
       }
     ],
     "9": [
@@ -485,6 +515,11 @@
         "surface": "and night",
         "lemma": "laylah",
         "strongs": "H3915"
+      },
+      {
+        "surface": "because",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "10": [
@@ -651,6 +686,11 @@
         "surface": "you turn",
         "lemma": "shuv",
         "strongs": "H7725"
+      },
+      {
+        "surface": "places",
+        "lemma": "maqom",
+        "strongs": "H4725"
       }
     ],
     "13": [
@@ -713,6 +753,11 @@
         "surface": "and bows",
         "lemma": "qeshet",
         "strongs": "H7198"
+      },
+      {
+        "surface": "open places",
+        "lemma": "tsechiach",
+        "strongs": "H6706"
       }
     ],
     "14": [
@@ -1011,6 +1056,16 @@
         "surface": "with the other",
         "lemma": "echad",
         "strongs": "H0259"
+      },
+      {
+        "surface": "carrying",
+        "lemma": "amas",
+        "strongs": "H6006"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
       }
     ],
     "18": [
@@ -1053,6 +1108,11 @@
         "surface": "stayed beside me",
         "lemma": "etsel",
         "strongs": "H0681"
+      },
+      {
+        "surface": "ram's horn",
+        "lemma": "shophar",
+        "strongs": "H7782"
       }
     ],
     "19": [
@@ -1323,6 +1383,11 @@
         "surface": "even to go for water",
         "lemma": "mayim",
         "strongs": "H4325"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ]
   }

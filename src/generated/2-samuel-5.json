@@ -49,6 +49,11 @@
         "surface": "and blood",
         "lemma": "etsem",
         "strongs": "H6106"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -124,6 +129,16 @@
       },
       {
         "surface": "them",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "yesterday",
+        "lemma": "etmol",
+        "strongs": "H0865"
+      },
+      {
+        "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
       }
@@ -250,6 +265,11 @@
         "surface": "years",
         "lemma": "shaneh",
         "strongs": "H8141"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "5": [
@@ -322,6 +342,11 @@
         "surface": "and Judah",
         "lemma": "yehudah",
         "strongs": "H3063"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
       }
     ],
     "6": [
@@ -424,6 +449,16 @@
         "surface": "here",
         "lemma": "hennah",
         "strongs": "H2008"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "except",
+        "lemma": "im",
+        "strongs": "H0518"
       }
     ],
     "7": [
@@ -543,6 +578,21 @@
         "surface": "the palace",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "any",
+        "lemma": "kol",
+        "strongs": "H3605"
+      },
+      {
+        "surface": "self",
+        "lemma": "nephesh",
+        "strongs": "H5315"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
       }
     ],
     "9": [
@@ -704,6 +754,21 @@
         "surface": "for David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
+      },
+      {
+        "surface": "stone",
+        "lemma": "even",
+        "strongs": "H0068"
+      },
+      {
+        "surface": "wall",
+        "lemma": "qir",
+        "strongs": "H7023"
       }
     ],
     "12": [
@@ -1075,6 +1140,21 @@
         "surface": "into your hand",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "give",
+        "lemma": "natan",
+        "strongs": "H5414"
       }
     ],
     "20": [
@@ -1157,6 +1237,21 @@
         "surface": "Baal-perazim",
         "lemma": "baalperatsim",
         "strongs": "H1188"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
+      },
+      {
+        "surface": "fore",
+        "lemma": "ken",
+        "strongs": "H3651"
+      },
+      {
+        "surface": "name",
+        "lemma": "shem",
+        "strongs": "H8034"
       }
     ],
     "21": [
@@ -1221,6 +1316,11 @@
         "surface": "of Rephaim",
         "lemma": "rapah",
         "strongs": "H7497"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "23": [
@@ -1387,6 +1487,11 @@
         "surface": "Gezer",
         "lemma": "gezer",
         "strongs": "H1507"
+      },
+      {
+        "surface": "coming",
+        "lemma": "bo",
+        "strongs": "H0935"
       }
     ]
   }

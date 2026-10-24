@@ -192,6 +192,16 @@
         "surface": "to be moved",
         "lemma": "mot",
         "strongs": "H4131"
+      },
+      {
+        "surface": "forever",
+        "lemma": "olam",
+        "strongs": "H5769"
+      },
+      {
+        "surface": "ever",
+        "lemma": "ad",
+        "strongs": "H5703"
       }
     ],
     "6": [
@@ -426,6 +436,11 @@
         "surface": "the branches",
         "lemma": "ophe",
         "strongs": "H6073"
+      },
+      {
+        "surface": "voice",
+        "lemma": "qol",
+        "strongs": "H6963"
       }
     ],
     "13": [
@@ -912,6 +927,16 @@
         "surface": "small",
         "lemma": "qatan",
         "strongs": "H6996"
+      },
+      {
+        "surface": "both hands",
+        "lemma": "yad",
+        "strongs": "H3027"
+      },
+      {
+        "surface": "number",
+        "lemma": "mispar",
+        "strongs": "H4557"
       }
     ],
     "26": [
@@ -1252,6 +1277,11 @@
         "surface": "Hallelujah",
         "lemma": "halal",
         "strongs": "H1984"
+      },
+      {
+        "surface": "Yahweh",
+        "lemma": "yah",
+        "strongs": "H3050"
       }
     ]
   }

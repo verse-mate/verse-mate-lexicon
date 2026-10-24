@@ -46,6 +46,11 @@
         "surface": "very wealthy",
         "lemma": "plousios",
         "strongs": "G4145"
+      },
+      {
+        "surface": "called",
+        "lemma": "kaleo",
+        "strongs": "G2564"
       }
     ],
     "3": [
@@ -98,6 +103,11 @@
         "surface": "in stature",
         "lemma": "helikia",
         "strongs": "G2244"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "4": [
@@ -130,6 +140,11 @@
         "surface": "to pass",
         "lemma": "dierchomai",
         "strongs": "G1330"
+      },
+      {
+        "surface": "see",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "5": [
@@ -256,6 +271,11 @@
         "surface": "man",
         "lemma": "aner",
         "strongs": "G0435"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "8": [
@@ -506,6 +526,11 @@
         "surface": "return",
         "lemma": "hupostrepho",
         "strongs": "G5290"
+      },
+      {
+        "surface": "distant",
+        "lemma": "makros",
+        "strongs": "G3117"
       }
     ],
     "13": [
@@ -652,6 +677,16 @@
         "surface": "had earned",
         "lemma": "diapragmateuomai",
         "strongs": "G1281"
+      },
+      {
+        "surface": "came to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "called",
+        "lemma": "phoneo",
+        "strongs": "G5455"
       }
     ],
     "16": [
@@ -857,6 +892,11 @@
         "surface": "a piece of cloth",
         "lemma": "soudarion",
         "strongs": "G4676"
+      },
+      {
+        "surface": "lying",
+        "lemma": "apokeimai",
+        "strongs": "G0606"
       }
     ],
     "21": [
@@ -998,6 +1038,11 @@
         "surface": "interest",
         "lemma": "tokos",
         "strongs": "G5110"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "24": [
@@ -1062,6 +1107,11 @@
         "surface": "ten",
         "lemma": "deka",
         "strongs": "G1176"
+      },
+      {
+        "surface": "minas",
+        "lemma": "mna",
+        "strongs": "G3414"
       }
     ],
     "26": [
@@ -1205,6 +1255,11 @@
         "surface": "disciples",
         "lemma": "mathetes",
         "strongs": "G3101"
+      },
+      {
+        "surface": "Olivet",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
       }
     ],
     "30": [
@@ -1267,6 +1322,11 @@
         "surface": "and bring it here",
         "lemma": "ago",
         "strongs": "G0071"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "31": [
@@ -1299,6 +1359,21 @@
         "surface": "needs",
         "lemma": "chreia",
         "strongs": "G5532"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
+      },
+      {
+        "surface": "thus",
+        "lemma": "houto",
+        "strongs": "G3779"
+      },
+      {
+        "surface": "say",
+        "lemma": "rheo_g4483",
+        "strongs": "G4483"
       }
     ],
     "32": [
@@ -1412,6 +1487,11 @@
         "surface": "and put Jesus on it",
         "lemma": "epibibazo",
         "strongs": "G1913"
+      },
+      {
+        "surface": "Jesus",
+        "lemma": "iesous",
+        "strongs": "G2424"
       }
     ],
     "36": [
@@ -1516,6 +1596,26 @@
         "surface": "they had seen",
         "lemma": "horao",
         "strongs": "G3708"
+      },
+      {
+        "surface": "already",
+        "lemma": "ede",
+        "strongs": "G2235"
+      },
+      {
+        "surface": "Olives",
+        "lemma": "elaion_g1638",
+        "strongs": "G1638"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "38": [
@@ -1563,6 +1663,11 @@
         "surface": "the highest",
         "lemma": "hupsistos",
         "strongs": "G5310"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "39": [
@@ -1622,6 +1727,11 @@
         "surface": "will cry out",
         "lemma": "krazo",
         "strongs": "G2896"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "41": [
@@ -1644,6 +1754,11 @@
         "surface": "He wept",
         "lemma": "klaio",
         "strongs": "G2799"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "42": [
@@ -1723,6 +1838,11 @@
         "surface": "on every side",
         "lemma": "pantothen",
         "strongs": "G3840"
+      },
+      {
+        "surface": "cast around",
+        "lemma": "paremballo",
+        "strongs": "G6070"
       }
     ],
     "44": [
@@ -1792,6 +1912,11 @@
         "surface": "were selling there",
         "lemma": "poleo",
         "strongs": "G4453"
+      },
+      {
+        "surface": "began",
+        "lemma": "archo",
+        "strongs": "G0757"
       }
     ],
     "46": [

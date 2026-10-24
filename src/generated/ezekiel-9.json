@@ -186,6 +186,11 @@
         "surface": "altar",
         "lemma": "mizbeach",
         "strongs": "H4196"
+      },
+      {
+        "surface": "scribe",
+        "lemma": "saphar",
+        "strongs": "H5608"
       }
     ],
     "3": [
@@ -258,6 +263,11 @@
         "surface": "at his side",
         "lemma": "moten",
         "strongs": "H4975"
+      },
+      {
+        "surface": "scribe",
+        "lemma": "saphar",
+        "strongs": "H5608"
       }
     ],
     "4": [
@@ -387,6 +397,11 @@
         "surface": "or spare anyone",
         "lemma": "chamal",
         "strongs": "H2550"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "6": [
@@ -469,6 +484,21 @@
         "surface": "the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "destruction",
+        "lemma": "mashchit",
+        "strongs": "H4889"
+      },
+      {
+        "surface": "person",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "men",
+        "lemma": "enosh",
+        "strongs": "H0582"
       }
     ],
     "7": [
@@ -588,6 +618,16 @@
         "surface": "of Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "face",
+        "lemma": "paneh",
+        "strongs": "H6440"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "9": [
@@ -690,6 +730,11 @@
         "surface": "see",
         "lemma": "raah",
         "strongs": "H7200"
+      },
+      {
+        "surface": "muchness",
+        "lemma": "meod",
+        "strongs": "H3966"
       }
     ],
     "10": [
@@ -774,6 +819,16 @@
         "surface": "You commanded",
         "lemma": "tsavah",
         "strongs": "H6680"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ]
   }

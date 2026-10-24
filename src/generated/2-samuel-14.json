@@ -235,6 +235,16 @@
         "surface": "O king",
         "lemma": "melekh",
         "strongs": "H4428"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "5": [
@@ -466,6 +476,11 @@
         "surface": "the earth",
         "lemma": "adamah",
         "strongs": "H0127"
+      },
+      {
+        "surface": "surface",
+        "lemma": "paneh",
+        "strongs": "H6440"
       }
     ],
     "8": [
@@ -597,6 +612,11 @@
         "surface": "again",
         "lemma": "yasaph",
         "strongs": "H3254"
+      },
+      {
+        "surface": "again",
+        "lemma": "od",
+        "strongs": "H5750"
       }
     ],
     "11": [
@@ -813,6 +833,11 @@
         "surface": "his own banished son",
         "lemma": "nadach",
         "strongs": "H5080"
+      },
+      {
+        "surface": "word",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "14": [
@@ -890,6 +915,11 @@
         "surface": "be cast out",
         "lemma": "nadach",
         "strongs": "H5080"
+      },
+      {
+        "surface": "die",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "15": [
@@ -1183,6 +1213,11 @@
         "surface": "replied",
         "lemma": "amar",
         "strongs": "H0559"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "19": [
@@ -1310,6 +1345,16 @@
         "surface": "exactly what to say",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "said",
+        "lemma": "amar",
+        "strongs": "H0559"
+      },
+      {
+        "surface": "mouth",
+        "lemma": "peh",
+        "strongs": "H6310"
       }
     ],
     "20": [
@@ -1382,6 +1427,11 @@
         "surface": "in the land",
         "lemma": "erets",
         "strongs": "H0776"
+      },
+      {
+        "surface": "thing",
+        "lemma": "davar_h1697",
+        "strongs": "H1697"
       }
     ],
     "21": [
@@ -1531,6 +1581,11 @@
         "surface": "request",
         "lemma": "davar",
         "strongs": "H1697"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ],
     "23": [
@@ -1774,6 +1829,26 @@
         "surface": "standard",
         "lemma": "even",
         "strongs": "H0068"
+      },
+      {
+        "surface": "shaved",
+        "lemma": "galach",
+        "strongs": "H1548"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "27": [
@@ -1831,6 +1906,11 @@
         "surface": "woman",
         "lemma": "ishshah",
         "strongs": "H0802"
+      },
+      {
+        "surface": "appearance",
+        "lemma": "mareh",
+        "strongs": "H4758"
       }
     ],
     "28": [
@@ -1940,6 +2020,16 @@
         "surface": "come",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
+      },
+      {
+        "surface": "willing",
+        "lemma": "avah",
+        "strongs": "H0014"
       }
     ],
     "30": [
@@ -2017,6 +2107,11 @@
         "surface": "on fire",
         "lemma": "yatsat",
         "strongs": "H3341"
+      },
+      {
+        "surface": "fire",
+        "lemma": "esh",
+        "strongs": "H0784"
       }
     ],
     "31": [
@@ -2069,6 +2164,11 @@
         "surface": "on fire",
         "lemma": "esh",
         "strongs": "H0784"
+      },
+      {
+        "surface": "arose",
+        "lemma": "qamay",
+        "strongs": "H6965"
       }
     ],
     "32": [
@@ -2186,6 +2286,11 @@
         "surface": "let him kill me",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "Joab",
+        "lemma": "yoav",
+        "strongs": "H3097"
       }
     ],
     "33": [
@@ -2253,6 +2358,21 @@
         "surface": "Absalom",
         "lemma": "avishalom",
         "strongs": "H0053"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "king",
+        "lemma": "melekh",
+        "strongs": "H4428"
+      },
+      {
+        "surface": "ground",
+        "lemma": "erets",
+        "strongs": "H0776"
       }
     ]
   }

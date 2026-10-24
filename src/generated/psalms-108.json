@@ -273,6 +273,11 @@
         "surface": "is My scepter",
         "lemma": "chaqaq",
         "strongs": "H2710"
+      },
+      {
+        "surface": "head",
+        "lemma": "rosh",
+        "strongs": "H7218"
       }
     ],
     "9": [
@@ -310,6 +315,11 @@
         "surface": "I shout in triumph",
         "lemma": "rua",
         "strongs": "H7321"
+      },
+      {
+        "surface": "washing",
+        "lemma": "rachats_h7366",
+        "strongs": "H7366"
       }
     ],
     "10": [
@@ -443,6 +453,23 @@
         "surface": "our enemies",
         "lemma": "tsar",
         "strongs": "H6862"
+      }
+    ],
+    "0": [
+      {
+        "surface": "song",
+        "lemma": "shir_h7892",
+        "strongs": "H7892"
+      },
+      {
+        "surface": "psalm",
+        "lemma": "mizmor",
+        "strongs": "H4210"
+      },
+      {
+        "surface": "David",
+        "lemma": "david",
+        "strongs": "H1732"
       }
     ]
   }

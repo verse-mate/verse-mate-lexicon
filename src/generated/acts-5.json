@@ -148,6 +148,11 @@
         "surface": "land",
         "lemma": "chorion",
         "strongs": "G5564"
+      },
+      {
+        "surface": "why",
+        "lemma": "tis_g5101",
+        "strongs": "G5101"
       }
     ],
     "4": [
@@ -331,6 +336,16 @@
         "surface": "had happened",
         "lemma": "ginomai",
         "strongs": "G1096"
+      },
+      {
+        "surface": "having come to pass",
+        "lemma": "ginomai",
+        "strongs": "G1096"
+      },
+      {
+        "surface": "knowing",
+        "lemma": "oida",
+        "strongs": "G6063"
       }
     ],
     "8": [
@@ -702,6 +717,16 @@
         "surface": "as he passed by",
         "lemma": "erchomai",
         "strongs": "G2064"
+      },
+      {
+        "surface": "streets",
+        "lemma": "platus",
+        "strongs": "G4116"
+      },
+      {
+        "surface": "cots",
+        "lemma": "klinarion",
+        "strongs": "G6055"
       }
     ],
     "16": [
@@ -833,6 +858,11 @@
         "surface": "jail",
         "lemma": "teresis",
         "strongs": "G5084"
+      },
+      {
+        "surface": "hands",
+        "lemma": "cheir",
+        "strongs": "G5495"
       }
     ],
     "19": [
@@ -1093,6 +1123,11 @@
         "surface": "inside",
         "lemma": "eso",
         "strongs": "G2080"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "24": [
@@ -1318,6 +1353,11 @@
         "surface": "blood",
         "lemma": "haima",
         "strongs": "G0129"
+      },
+      {
+        "surface": "commanded",
+        "lemma": "parangello",
+        "strongs": "G3853"
       }
     ],
     "29": [
@@ -1360,6 +1400,11 @@
         "surface": "men",
         "lemma": "anthropos",
         "strongs": "G0444"
+      },
+      {
+        "surface": "said",
+        "lemma": "eipon",
+        "strongs": "G2036"
       }
     ],
     "30": [
@@ -1513,6 +1558,11 @@
         "surface": "to put the apostles to death",
         "lemma": "anaireo",
         "strongs": "G0337"
+      },
+      {
+        "surface": "desiring",
+        "lemma": "boulomai",
+        "strongs": "G1014"
       }
     ],
     "34": [
@@ -1689,6 +1739,26 @@
         "surface": "nothing",
         "lemma": "oudeis",
         "strongs": "G3762"
+      },
+      {
+        "surface": "days",
+        "lemma": "hemera",
+        "strongs": "G2250"
+      },
+      {
+        "surface": "joined",
+        "lemma": "prosklino",
+        "strongs": "G6076"
+      },
+      {
+        "surface": "number",
+        "lemma": "arithmos",
+        "strongs": "G0706"
+      },
+      {
+        "surface": "persuaded",
+        "lemma": "peitho",
+        "strongs": "G3982"
       }
     ],
     "37": [
@@ -1751,6 +1821,11 @@
         "surface": "were scattered",
         "lemma": "diaskorpizo",
         "strongs": "G1287"
+      },
+      {
+        "surface": "persuaded",
+        "lemma": "peitho",
+        "strongs": "G3982"
       }
     ],
     "38": [
@@ -1914,6 +1989,11 @@
         "surface": "Name",
         "lemma": "onoma",
         "strongs": "G3686"
+      },
+      {
+        "surface": "presence",
+        "lemma": "prosopon",
+        "strongs": "G4383"
       }
     ],
     "42": [

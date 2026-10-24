@@ -19,6 +19,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "2": [
@@ -56,6 +61,11 @@
         "surface": "as a home",
         "lemma": "moshav",
         "strongs": "H4186"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "3": [
@@ -284,6 +294,11 @@
         "surface": "of olive oil",
         "lemma": "shemen",
         "strongs": "H8081"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "7": [
@@ -420,6 +435,16 @@
         "surface": "of olive oil",
         "lemma": "shemen",
         "strongs": "H8081"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "tenths",
+        "lemma": "issaron",
+        "strongs": "H6241"
       }
     ],
     "10": [
@@ -504,6 +529,11 @@
         "surface": "goat",
         "lemma": "ez",
         "strongs": "H5795"
+      },
+      {
+        "surface": "lambs",
+        "lemma": "keves",
+        "strongs": "H3532"
       }
     ],
     "12": [
@@ -524,6 +554,11 @@
       },
       {
         "surface": "many",
+        "lemma": "mispar",
+        "strongs": "H4557"
+      },
+      {
+        "surface": "number",
         "lemma": "mispar",
         "strongs": "H4557"
       }
@@ -687,6 +722,11 @@
         "surface": "the LORD",
         "lemma": "yehovah",
         "strongs": "H3068"
+      },
+      {
+        "surface": "sojourns",
+        "lemma": "gur",
+        "strongs": "H1481"
       }
     ],
     "16": [
@@ -741,6 +781,11 @@
         "surface": "to Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "18": [
@@ -773,6 +818,11 @@
         "surface": "am bringing you",
         "lemma": "bo",
         "strongs": "H0935"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "19": [
@@ -1080,6 +1130,21 @@
         "surface": "as a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "young one",
+        "lemma": "ben",
+        "strongs": "H1121"
+      },
+      {
+        "surface": "cattle",
+        "lemma": "baqar_h1241",
+        "strongs": "H1241"
+      },
+      {
+        "surface": "goats",
+        "lemma": "ez",
+        "strongs": "H5795"
       }
     ],
     "25": [
@@ -1157,6 +1222,11 @@
         "surface": "their unintentional sin",
         "lemma": "shegagah",
         "strongs": "H7684"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "26": [
@@ -1209,6 +1279,11 @@
         "surface": "unintentionally",
         "lemma": "shegagah",
         "strongs": "H7684"
+      },
+      {
+        "surface": "people",
+        "lemma": "ben",
+        "strongs": "H1121"
       }
     ],
     "27": [
@@ -1256,6 +1331,11 @@
         "surface": "as a sin offering",
         "lemma": "chattaah",
         "strongs": "H2403"
+      },
+      {
+        "surface": "year",
+        "lemma": "shaneh",
+        "strongs": "H8141"
       }
     ],
     "28": [
@@ -1303,6 +1383,11 @@
         "surface": "he will be forgiven",
         "lemma": "salach",
         "strongs": "H5545"
+      },
+      {
+        "surface": "sin",
+        "lemma": "chata",
+        "strongs": "H2398"
       }
     ],
     "29": [
@@ -1355,6 +1440,11 @@
         "surface": "among you",
         "lemma": "tavekh",
         "strongs": "H8432"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "30": [
@@ -1412,6 +1502,11 @@
         "surface": "his people",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "raised",
+        "lemma": "rum",
+        "strongs": "H7311"
       }
     ],
     "31": [
@@ -1454,6 +1549,11 @@
         "surface": "his guilt remains",
         "lemma": "avan",
         "strongs": "H5771"
+      },
+      {
+        "surface": "cut off",
+        "lemma": "karat",
+        "strongs": "H3772"
       }
     ],
     "32": [
@@ -1501,6 +1601,11 @@
         "surface": "day",
         "lemma": "yom",
         "strongs": "H3117"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
       }
     ],
     "33": [
@@ -1627,6 +1732,16 @@
         "surface": "the camp",
         "lemma": "machaneh",
         "strongs": "H4264"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       }
     ],
     "36": [
@@ -1701,6 +1816,11 @@
         "surface": "Moses",
         "lemma": "mosheh",
         "strongs": "H4872"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "38": [
@@ -1763,6 +1883,16 @@
         "surface": "each tassel",
         "lemma": "tsitsit",
         "strongs": "H6734"
+      },
+      {
+        "surface": "Israel",
+        "lemma": "yisrael",
+        "strongs": "H3478"
+      },
+      {
+        "surface": "corner",
+        "lemma": "kanaph_h3671",
+        "strongs": "H3671"
       }
     ],
     "39": [
@@ -1830,6 +1960,21 @@
         "surface": "and your own eyes",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
+      },
+      {
+        "surface": "after",
+        "lemma": "achar_h0310",
+        "strongs": "H0310"
       }
     ],
     "40": [

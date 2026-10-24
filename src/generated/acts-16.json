@@ -405,6 +405,16 @@
         "surface": "and help",
         "lemma": "boetheo",
         "strongs": "G0997"
+      },
+      {
+        "surface": "appeared",
+        "lemma": "optanomai",
+        "strongs": "G3700"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "10": [
@@ -452,6 +462,16 @@
         "surface": "to preach the gospel",
         "lemma": "euangelizomai",
         "strongs": "G2097"
+      },
+      {
+        "surface": "seen",
+        "lemma": "eido",
+        "strongs": "G1492"
+      },
+      {
+        "surface": "immediately",
+        "lemma": "eutheos",
+        "strongs": "G2112"
       }
     ],
     "11": [
@@ -484,6 +504,11 @@
         "surface": "Neapolis",
         "lemma": "neos",
         "strongs": "G3501"
+      },
+      {
+        "surface": "Polis",
+        "lemma": "polis",
+        "strongs": "G4172"
       }
     ],
     "12": [
@@ -603,6 +628,11 @@
         "surface": "who had gathered there",
         "lemma": "sunerchomai",
         "strongs": "G4905"
+      },
+      {
+        "surface": "day",
+        "lemma": "hemera",
+        "strongs": "G2250"
       }
     ],
     "14": [
@@ -737,6 +767,11 @@
         "surface": "she persuaded",
         "lemma": "parabiazomai",
         "strongs": "G3849"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "16": [
@@ -799,6 +834,11 @@
         "surface": "by fortune-telling",
         "lemma": "manteuomai",
         "strongs": "G3132"
+      },
+      {
+        "surface": "happened",
+        "lemma": "ginomai",
+        "strongs": "G1096"
       }
     ],
     "17": [
@@ -856,6 +896,11 @@
         "surface": "of salvation",
         "lemma": "soteria",
         "strongs": "G4991"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "18": [
@@ -990,6 +1035,11 @@
         "surface": "marketplace",
         "lemma": "agora",
         "strongs": "G0058"
+      },
+      {
+        "surface": "Having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "20": [
@@ -1096,6 +1146,11 @@
         "surface": "and beaten with rods",
         "lemma": "rhabdizo",
         "strongs": "G4463"
+      },
+      {
+        "surface": "garments",
+        "lemma": "himation",
+        "strongs": "G2440"
       }
     ],
     "23": [
@@ -1366,6 +1421,11 @@
         "surface": "had escaped",
         "lemma": "ekpheugo",
         "strongs": "G1628"
+      },
+      {
+        "surface": "seeing",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ],
     "28": [
@@ -1418,6 +1478,11 @@
         "surface": "here",
         "lemma": "enthade",
         "strongs": "G1759"
+      },
+      {
+        "surface": "saying",
+        "lemma": "lego",
+        "strongs": "G3004"
       }
     ],
     "29": [
@@ -1734,6 +1799,11 @@
         "surface": "peace",
         "lemma": "eirene",
         "strongs": "G1515"
+      },
+      {
+        "surface": "words",
+        "lemma": "logos",
+        "strongs": "G3056"
       }
     ],
     "37": [
@@ -1806,6 +1876,11 @@
         "surface": "and escort us out",
         "lemma": "exago",
         "strongs": "G1806"
+      },
+      {
+        "surface": "men",
+        "lemma": "anthropos",
+        "strongs": "G0444"
       }
     ],
     "38": [
@@ -1922,6 +1997,11 @@
         "surface": "they left  the city",
         "lemma": "exerchomai",
         "strongs": "G1831"
+      },
+      {
+        "surface": "having seen",
+        "lemma": "eido",
+        "strongs": "G1492"
       }
     ]
   }

@@ -108,6 +108,21 @@
         "surface": "is to leave",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "body",
+        "lemma": "gaph",
+        "strongs": "H1610"
+      },
+      {
+        "surface": "body",
+        "lemma": "gaph",
+        "strongs": "H1610"
+      },
+      {
+        "surface": "husband",
+        "lemma": "baal_h1167",
+        "strongs": "H1167"
       }
     ],
     "4": [
@@ -170,6 +185,11 @@
         "surface": "shall go free",
         "lemma": "yatsa",
         "strongs": "H3318"
+      },
+      {
+        "surface": "body",
+        "lemma": "gaph",
+        "strongs": "H1610"
       }
     ],
     "5": [
@@ -222,6 +242,11 @@
         "surface": "free",
         "lemma": "chophshi",
         "strongs": "H2670"
+      },
+      {
+        "surface": "say",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -279,6 +304,11 @@
         "surface": "for life",
         "lemma": "olam",
         "strongs": "H5769"
+      },
+      {
+        "surface": "master",
+        "lemma": "adon",
+        "strongs": "H0113"
       }
     ],
     "7": [
@@ -316,6 +346,11 @@
         "surface": "as the menservants do",
         "lemma": "eved",
         "strongs": "H5650"
+      },
+      {
+        "surface": "go out",
+        "lemma": "yatsa",
+        "strongs": "H3318"
       }
     ],
     "8": [
@@ -373,6 +408,16 @@
         "surface": "since he has broken faith",
         "lemma": "bagad",
         "strongs": "H0898"
+      },
+      {
+        "surface": "bad",
+        "lemma": "raa",
+        "strongs": "H7489"
+      },
+      {
+        "surface": "foreign",
+        "lemma": "nokhri",
+        "strongs": "H5237"
       }
     ],
     "9": [
@@ -484,6 +529,11 @@
         "surface": "monetary payment",
         "lemma": "keseph",
         "strongs": "H3701"
+      },
+      {
+        "surface": "without paying",
+        "lemma": "chinnam",
+        "strongs": "H2600"
       }
     ],
     "12": [
@@ -504,6 +554,11 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -543,6 +598,11 @@
         "surface": "he may flee",
         "lemma": "nus",
         "strongs": "H5127"
+      },
+      {
+        "surface": "hand",
+        "lemma": "yad",
+        "strongs": "H3027"
       }
     ],
     "14": [
@@ -607,6 +667,11 @@
         "surface": "must surely be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "16": [
@@ -639,6 +704,11 @@
         "surface": "in his possession",
         "lemma": "yad",
         "strongs": "H3027"
+      },
+      {
+        "surface": "put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
       }
     ],
     "17": [
@@ -659,6 +729,11 @@
       },
       {
         "surface": "must surely be put to death",
+        "lemma": "mut",
+        "strongs": "H4191"
+      },
+      {
+        "surface": "put to death",
         "lemma": "mut",
         "strongs": "H4191"
       }
@@ -770,6 +845,11 @@
         "surface": "and see that he is completely healed",
         "lemma": "rapah",
         "strongs": "H7495"
+      },
+      {
+        "surface": "healed",
+        "lemma": "rapah",
+        "strongs": "H7495"
       }
     ],
     "20": [
@@ -815,6 +895,11 @@
       },
       {
         "surface": "he shall surely be punished",
+        "lemma": "naqam",
+        "strongs": "H5358"
+      },
+      {
+        "surface": "avenged",
         "lemma": "naqam",
         "strongs": "H5358"
       }
@@ -936,6 +1021,16 @@
         "surface": "and as the court allows",
         "lemma": "natan",
         "strongs": "H5414"
+      },
+      {
+        "surface": "fined",
+        "lemma": "anash_h6064",
+        "strongs": "H6064"
+      },
+      {
+        "surface": "estimate",
+        "lemma": "palil",
+        "strongs": "H6414"
       }
     ],
     "23": [
@@ -1134,6 +1229,11 @@
         "surface": "the eye",
         "lemma": "ayin",
         "strongs": "H5869"
+      },
+      {
+        "surface": "eye",
+        "lemma": "ayin",
+        "strongs": "H5869"
       }
     ],
     "27": [
@@ -1179,6 +1279,11 @@
       },
       {
         "surface": "the tooth",
+        "lemma": "shen",
+        "strongs": "H8127"
+      },
+      {
+        "surface": "tooth",
         "lemma": "shen",
         "strongs": "H8127"
       }
@@ -1248,6 +1353,11 @@
         "surface": "shall not be held responsible",
         "lemma": "naqi",
         "strongs": "H5355"
+      },
+      {
+        "surface": "stoned to death",
+        "lemma": "saqal",
+        "strongs": "H5619"
       }
     ],
     "29": [
@@ -1325,6 +1435,11 @@
         "surface": "be put to death",
         "lemma": "mut",
         "strongs": "H4191"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
       }
     ],
     "30": [
@@ -1394,6 +1509,11 @@
         "surface": "rule",
         "lemma": "mishpat",
         "strongs": "H4941"
+      },
+      {
+        "surface": "gore",
+        "lemma": "nagach",
+        "strongs": "H5055"
       }
     ],
     "32": [
@@ -1508,6 +1628,16 @@
         "surface": "into it",
         "lemma": "sham",
         "strongs": "H8033"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "pit",
+        "lemma": "bor_h0953",
+        "strongs": "H0953"
       }
     ],
     "34": [
@@ -1545,6 +1675,11 @@
         "surface": "will be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "silver",
+        "lemma": "keseph",
+        "strongs": "H3701"
       }
     ],
     "35": [
@@ -1679,6 +1814,16 @@
         "surface": "will be",
         "lemma": "hayah",
         "strongs": "H1961"
+      },
+      {
+        "surface": "three days ago",
+        "lemma": "shilshom",
+        "strongs": "H8032"
+      },
+      {
+        "surface": "make compensation",
+        "lemma": "salem_h7999",
+        "strongs": "H7999"
       }
     ]
   }

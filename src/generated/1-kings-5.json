@@ -84,6 +84,11 @@
         "surface": "of David",
         "lemma": "david",
         "strongs": "H1732"
+      },
+      {
+        "surface": "days",
+        "lemma": "yom",
+        "strongs": "H3117"
       }
     ],
     "2": [
@@ -193,6 +198,11 @@
         "surface": "his feet",
         "lemma": "kaph",
         "strongs": "H3709"
+      },
+      {
+        "surface": "feet",
+        "lemma": "regel",
+        "strongs": "H7272"
       }
     ],
     "4": [
@@ -235,6 +245,11 @@
         "surface": "or crisis",
         "lemma": "pega",
         "strongs": "H6294"
+      },
+      {
+        "surface": "evil",
+        "lemma": "ra",
+        "strongs": "H7451"
       }
     ],
     "5": [
@@ -322,6 +337,11 @@
         "surface": "for My Name",
         "lemma": "shem",
         "strongs": "H8034"
+      },
+      {
+        "surface": "saying",
+        "lemma": "amar",
+        "strongs": "H0559"
       }
     ],
     "6": [
@@ -409,6 +429,16 @@
         "surface": "as the Sidonians",
         "lemma": "tsidoni",
         "strongs": "H6722"
+      },
+      {
+        "surface": "anyone",
+        "lemma": "ish",
+        "strongs": "H0376"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "7": [
@@ -548,6 +578,16 @@
         "surface": "timber",
         "lemma": "ets",
         "strongs": "H6086"
+      },
+      {
+        "surface": "sent",
+        "lemma": "shalach",
+        "strongs": "H7971"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "9": [
@@ -682,6 +722,11 @@
         "surface": "he wanted",
         "lemma": "chephets",
         "strongs": "H2656"
+      },
+      {
+        "surface": "wood",
+        "lemma": "ets",
+        "strongs": "H6086"
       }
     ],
     "11": [
@@ -749,6 +794,36 @@
         "surface": "of pure olive oil",
         "lemma": "shemen",
         "strongs": "H8081"
+      },
+      {
+        "surface": "Solomon",
+        "lemma": "shelomoh",
+        "strongs": "H8010"
+      },
+      {
+        "surface": "gave",
+        "lemma": "natan",
+        "strongs": "H5414"
+      },
+      {
+        "surface": "Hiram",
+        "lemma": "chiram",
+        "strongs": "H2438"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "pressed",
+        "lemma": "katit",
+        "strongs": "H3795"
+      },
+      {
+        "surface": "thus",
+        "lemma": "koh",
+        "strongs": "H3541"
       }
     ],
     "12": [
@@ -816,6 +891,11 @@
         "surface": "a treaty",
         "lemma": "berit",
         "strongs": "H1285"
+      },
+      {
+        "surface": "between",
+        "lemma": "bayin",
+        "strongs": "H0996"
       }
     ],
     "13": [
@@ -858,6 +938,16 @@
         "surface": "Israel",
         "lemma": "yisrael",
         "strongs": "H3478"
+      },
+      {
+        "surface": "forced labor",
+        "lemma": "mas",
+        "strongs": "H4522"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "14": [
@@ -925,6 +1015,11 @@
         "surface": "of the forced labor",
         "lemma": "mas",
         "strongs": "H4522"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
       }
     ],
     "15": [
@@ -962,6 +1057,21 @@
         "surface": "in the mountains",
         "lemma": "har",
         "strongs": "H2022"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "burden-bearer",
+        "lemma": "sabbal",
+        "strongs": "H5449"
       }
     ],
     "16": [
@@ -994,6 +1104,41 @@
         "surface": "the workers",
         "lemma": "am",
         "strongs": "H5971"
+      },
+      {
+        "surface": "overseers",
+        "lemma": "natsav",
+        "strongs": "H5324"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "work",
+        "lemma": "melakhah",
+        "strongs": "H4399"
+      },
+      {
+        "surface": "three",
+        "lemma": "shalosh",
+        "strongs": "H7969"
+      },
+      {
+        "surface": "thousand",
+        "lemma": "eleph_h0505",
+        "strongs": "H0505"
+      },
+      {
+        "surface": "hundred",
+        "lemma": "meah",
+        "strongs": "H3967"
+      },
+      {
+        "surface": "doing",
+        "lemma": "asah",
+        "strongs": "H6213"
       }
     ],
     "17": [
@@ -1041,6 +1186,11 @@
         "surface": "with dressed",
         "lemma": "gazit",
         "strongs": "H1496"
+      },
+      {
+        "surface": "stones",
+        "lemma": "even",
+        "strongs": "H0068"
       },
       {
         "surface": "stones",
@@ -1098,6 +1248,11 @@
         "surface": "of the temple",
         "lemma": "bet",
         "strongs": "H1004"
+      },
+      {
+        "surface": "build",
+        "lemma": "banah",
+        "strongs": "H1129"
       }
     ]
   }
