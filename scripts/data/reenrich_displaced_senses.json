@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "description": "Hand-written enrichment (enrich.py schema: pronunciation, semanticRange, related, notes) for the seven entries fix_dominant_senses.py moved to a different word, whose previous prose described the displaced word. Grounded on STEP TBESH definitions. Applied by scripts/apply_enrichment.py.",
+    "description": "Reviewed enrichment (enrich.py schema: pronunciation, semanticRange, related, notes) for entries whose headline fix_dominant_senses.py corrected but whose enriched prose still described the displaced sense, homonym or proper name (e.g. 'wilderness' described a mouth, 'horse' a swallow). Written to enrich.py's rules and grounded on STEP TBESH definitions and TAHOT renderings. Applied by scripts/apply_enrichment.py.",
     "schema": "Record<strongs, {pronunciation, semanticRange, related, notes}>"
   },
   "H0328": {
@@ -11,10 +11,98 @@
       "dejectedly, in a subdued way (of walking)"
     ],
     "related": [
-      {"lemma": "לְאַט", "translit": "le.at", "note": "prepositional form; 'gently, slowly' in most occurrences"},
-      {"lemma": "רַךְ", "translit": "rakh", "note": "adjective 'tender, soft'; overlapping sense of gentleness"}
+      {
+        "lemma": "לְאַט",
+        "translit": "le.at",
+        "note": "prepositional form; 'gently, slowly' in most occurrences"
+      },
+      {
+        "lemma": "רַךְ",
+        "translit": "rakh",
+        "note": "adjective 'tender, soft'; overlapping sense of gentleness"
+      }
     ],
     "notes": "The word denotes a gentle, unhurried manner. David's charge to 'deal gently' with Absalom (2 Sam 18:5) uses it, and Isaiah 8:6 contrasts the 'gently flowing' waters of Shiloah, a picture of God's quiet provision, with the flood of Assyria."
+  },
+  "H0441": {
+    "pronunciation": "al-LOOF",
+    "semanticRange": [
+      "chief, clan head (esp. Edomite chiefs)",
+      "leader of a tribal division or clan",
+      "leaders of Judah (Zechariah)"
+    ],
+    "related": [
+      {
+        "lemma": "אֶלֶף",
+        "translit": "elef",
+        "note": "thousand, clan unit; possible etymological link"
+      },
+      {
+        "lemma": "נָשִׂיא",
+        "translit": "nasi",
+        "note": "prince, tribal leader; comparable title"
+      },
+      {
+        "lemma": "ἡγεμών",
+        "translit": "hēgemōn",
+        "note": "LXX rendering, leader or governor"
+      }
+    ],
+    "notes": "Used as a title for the clan chiefs descended from Esau, listed in a long roll in Gen 36:15-43. Zechariah later applies it to the leaders of Judah (Zech 12:5-6)."
+  },
+  "H0899": {
+    "pronunciation": "BEH-ged",
+    "semanticRange": [
+      "garment, clothing in general",
+      "clothes torn in grief or alarm",
+      "priestly vestments",
+      "covering or cloth for objects"
+    ],
+    "related": [
+      {
+        "lemma": "שִׂמְלָה",
+        "translit": "simlah",
+        "note": "outer garment, mantle; near synonym"
+      },
+      {
+        "lemma": "לְבוּשׁ",
+        "translit": "levush",
+        "note": "clothing, apparel; general synonym"
+      },
+      {
+        "lemma": "ἱμάτιον",
+        "translit": "himation",
+        "note": "usual LXX equivalent for garment"
+      }
+    ],
+    "notes": "The everyday word for clothing, used for any garment without distinction. It carries much of the narrative weight in the Joseph story: Reuben tears his garments over the empty pit (Gen 37:29), and Joseph flees leaving his garment in the hand of Potiphar's wife (Gen 39:12)."
+  },
+  "H1238": {
+    "pronunciation": "bah-KAHK",
+    "semanticRange": [
+      "to lay waste, devastate a land",
+      "to empty out, plunder",
+      "to make void, frustrate plans",
+      "to be emptied, laid bare (Niphal)"
+    ],
+    "related": [
+      {
+        "lemma": "בּוּקָה",
+        "translit": "buqah",
+        "note": "emptiness, desolation (Nah 2:10)"
+      },
+      {
+        "lemma": "בַּקְבֻּק",
+        "translit": "baqbuq",
+        "note": "jar; wordplay in Jer 19:1, 7"
+      },
+      {
+        "lemma": "שָׁמֵם",
+        "translit": "shamem",
+        "note": "to be desolate; parallel term"
+      }
+    ],
+    "notes": "Isaiah's apocalypse opens with the LORD emptying the earth and laying it waste, \"utterly emptied and utterly plundered\" (Isa 24:1, 3). Jeremiah plays on the sound of a clay jar (baqbuq) when God declares he will make void the plans of Judah (Jer 19:7)."
   },
   "H1933": {
     "pronunciation": "hah-VAH",
@@ -24,11 +112,184 @@
       "to happen, take place"
     ],
     "related": [
-      {"lemma": "הָיָה", "translit": "ha.yah", "note": "the ordinary Hebrew verb 'to be'; havah is its rarer by-form"},
-      {"lemma": "הֲוָא", "translit": "ha.va", "note": "Aramaic equivalent 'to be', frequent in Daniel and Ezra"},
-      {"lemma": "יְהוָה", "translit": "YHWH", "note": "the divine name, often linked by scholars to this 'to be' root"}
+      {
+        "lemma": "הָיָה",
+        "translit": "ha.yah",
+        "note": "the ordinary Hebrew verb 'to be'; havah is its rarer by-form"
+      },
+      {
+        "lemma": "הֲוָא",
+        "translit": "ha.va",
+        "note": "Aramaic equivalent 'to be', frequent in Daniel and Ezra"
+      },
+      {
+        "lemma": "יְהוָה",
+        "translit": "YHWH",
+        "note": "the divine name, often linked by scholars to this 'to be' root"
+      }
     ],
     "notes": "A rarer, largely poetic by-form of הָיָה 'to be', used for existing or coming to pass (Gen 27:29; Eccl 2:22). It matters chiefly because the divine name is often connected to this 'to be' root in discussions of Exodus 3:14."
+  },
+  "H2094": {
+    "pronunciation": "zah-HAR",
+    "semanticRange": [
+      "to warn of danger or judgment",
+      "to teach, admonish in God's statutes",
+      "to take warning, be admonished"
+    ],
+    "related": [
+      {
+        "lemma": "זְהַר",
+        "translit": "zehar",
+        "note": "Aramaic equivalent; to take heed"
+      },
+      {
+        "lemma": "צֹפֶה",
+        "translit": "tsopheh",
+        "note": "watchman; the role tied to warning in Ezekiel"
+      },
+      {
+        "lemma": "עוּד",
+        "translit": "ud",
+        "note": "Hiphil: to warn solemnly, testify against"
+      }
+    ],
+    "notes": "Ezekiel is made a watchman who must warn the wicked; if he fails, their blood is on his hands (Ezek 3:17-21). Jethro advises Moses to teach the people the statutes and laws (Exod 18:20), and the psalmist says God's ordinances warn his servant (Ps 19:11)."
+  },
+  "H2490": {
+    "pronunciation": "khah-LAL",
+    "semanticRange": [
+      "to profane, desecrate what is holy",
+      "to defile oneself, be polluted (Niphal)",
+      "to begin (Hiphil), very common",
+      "to put to common use, e.g. a vineyard"
+    ],
+    "related": [
+      {
+        "lemma": "חֹל",
+        "translit": "chol",
+        "note": "common, profane; the opposite of holy"
+      },
+      {
+        "lemma": "קָדַשׁ",
+        "translit": "qadash",
+        "note": "to sanctify; antonym of profaning"
+      },
+      {
+        "lemma": "טָמֵא",
+        "translit": "tame",
+        "note": "to be unclean; overlapping cultic term"
+      }
+    ],
+    "notes": "In priestly and prophetic texts it denotes treating the holy as common: Israel is warned not to profane the name of God (Lev 19:12), and Ezekiel makes the profaning of that name among the nations a central charge (Ezek 36:20-23). The Hiphil carries the separate, frequent sense \"to begin,\" as in Gen 4:26."
+  },
+  "H2492": {
+    "pronunciation": "khah-LAM",
+    "semanticRange": [
+      "to dream (in sleep)",
+      "to receive a prophetic or revelatory dream",
+      "to dream falsely, of false prophets",
+      "dreamer (participle)"
+    ],
+    "related": [
+      {
+        "lemma": "חֲלוֹם",
+        "translit": "chalom",
+        "note": "dream; the noun from the same root"
+      },
+      {
+        "lemma": "חָזוֹן",
+        "translit": "chazon",
+        "note": "vision; parallel revelatory term"
+      },
+      {
+        "lemma": "ἐνυπνιάζομαι",
+        "translit": "enypniazomai",
+        "note": "LXX equivalent, to dream"
+      }
+    ],
+    "notes": "Joseph's dreams set the family drama in motion (Gen 37:5-10), and dreams carry God's message to Pharaoh's officials (Gen 40:5-8). The verb is also used of prophetic dreaming, positively in Joel 2:28 (MT 3:1) and with suspicion toward the \"dreamer of dreams\" in Deut 13:1-5."
+  },
+  "H3316": {
+    "pronunciation": "yif-TAKH",
+    "semanticRange": [
+      "Gileadite judge of Israel",
+      "son of Gilead by a prostitute",
+      "deliverer from the Ammonites",
+      "maker of a rash vow concerning his daughter"
+    ],
+    "related": [
+      {
+        "lemma": "גִּלְעָד",
+        "translit": "Gil'ad",
+        "note": "Gilead; his father and home region"
+      },
+      {
+        "lemma": "שֹׁפֵט",
+        "translit": "shophet",
+        "note": "judge; the role he held for six years"
+      },
+      {
+        "lemma": "Ἰεφθάε",
+        "translit": "Iephthae",
+        "note": "NT form; listed among the faithful in Hebrews"
+      }
+    ],
+    "notes": "Driven out by his half-brothers, Jephthah was recalled by Gilead's elders to fight Ammon (Judg 11:1-11). His vow to offer whatever first came out of his house ended in grief when his daughter met him (Judg 11:30-40), yet Hebrews 11:32 still names him among the faithful."
+  },
+  "H3581": {
+    "pronunciation": "KO-akh",
+    "semanticRange": [
+      "strength, vigor (human)",
+      "power, might of God",
+      "ability, resources, wealth",
+      "yield, produce of the soil"
+    ],
+    "related": [
+      {
+        "lemma": "גְּבוּרָה",
+        "translit": "gevurah",
+        "note": "might, mighty deeds; close synonym"
+      },
+      {
+        "lemma": "עֹז",
+        "translit": "oz",
+        "note": "strength, power; frequent poetic parallel"
+      },
+      {
+        "lemma": "אוֹן",
+        "translit": "on",
+        "note": "vigor, generative strength"
+      }
+    ],
+    "notes": "A broad word for capacity to act, used of people, animals and God alike. Jacob calls Reuben \"my might\" (Gen 49:3), and the soil withholds its strength, its yield, from Cain (Gen 4:12). Its best-known use is the contrast in Zech 4:6: \"not by might, nor by power, but by my Spirit.\""
+  },
+  "H3603": {
+    "pronunciation": "kik-KAR",
+    "semanticRange": [
+      "talent, a large weight of metal",
+      "sum of money reckoned in talents",
+      "round district, the Jordan plain",
+      "round loaf of bread"
+    ],
+    "related": [
+      {
+        "lemma": "כִּכַּר",
+        "translit": "kikkar",
+        "note": "Aramaic equivalent; talent"
+      },
+      {
+        "lemma": "שֶׁקֶל",
+        "translit": "sheqel",
+        "note": "shekel; about 3,000 made one talent"
+      },
+      {
+        "lemma": "τάλαντον",
+        "translit": "talanton",
+        "note": "LXX equivalent; talent weight"
+      }
+    ],
+    "notes": "As a weight it denotes the talent, roughly 3,000 shekels; the tabernacle lampstand and its utensils required a talent of pure gold (Exod 25:39). Etymologically the word is tied to roundness, which explains its other uses: the round plain of the Jordan that Lot chose (Gen 13:10-11) and a round loaf of bread."
   },
   "H3733": {
     "pronunciation": "KAHR",
@@ -38,10 +299,311 @@
       "battering-ram (siege engine)"
     ],
     "related": [
-      {"lemma": "אַיִל", "translit": "a.yil", "note": "the common word for a full-grown ram"},
-      {"lemma": "כֶּבֶשׂ", "translit": "ke.ves", "note": "young lamb; frequent in sacrificial lists"}
+      {
+        "lemma": "אַיִל",
+        "translit": "a.yil",
+        "note": "the common word for a full-grown ram"
+      },
+      {
+        "lemma": "כֶּבֶשׂ",
+        "translit": "ke.ves",
+        "note": "young lamb; frequent in sacrificial lists"
+      }
     ],
     "notes": "The word denotes a young ram or lamb, counted as wealth and tribute (Mesha of Moab paid Israel 100,000 lambs, 2 Kgs 3:4). In Ezekiel's siege oracles (Ezek 4:2; 21:22) the same word names a battering-ram, likely from the butting ram."
+  },
+  "H3738": {
+    "pronunciation": "kah-RAH",
+    "semanticRange": [
+      "to dig a well or cistern",
+      "to dig a pit, often as a trap",
+      "to hew out a tomb",
+      "to open the ears (figurative)"
+    ],
+    "related": [
+      {
+        "lemma": "חָפַר",
+        "translit": "chafar",
+        "note": "to dig, search out; close synonym"
+      },
+      {
+        "lemma": "בּוֹר",
+        "translit": "bor",
+        "note": "pit or cistern, the thing dug"
+      },
+      {
+        "lemma": "שַׁחַת",
+        "translit": "shachat",
+        "note": "pit, often a trap or the grave"
+      }
+    ],
+    "notes": "Isaac's servants dig a well (Gen 26:25), and Exodus legislates for someone who digs a pit and leaves it uncovered (Exod 21:33). The Psalms turn the image into a moral pattern: the wicked man digs a pit and falls into it himself (Ps 7:15). In Ps 40:6 God has \"dug\" ears for the psalmist, opening them to hear."
+  },
+  "H3895": {
+    "pronunciation": "leh-KHEE",
+    "semanticRange": [
+      "jaw or jawbone of an animal",
+      "cheek of a person",
+      "struck cheek as a sign of insult",
+      "jaws restrained, as with a bridle"
+    ],
+    "related": [
+      {
+        "lemma": "שֵׁן",
+        "translit": "shen",
+        "note": "tooth; often paired with jaw imagery"
+      },
+      {
+        "lemma": "מַלְקוֹחַ",
+        "translit": "malqoach",
+        "note": "jaws, palate; a near synonym in poetry"
+      },
+      {
+        "lemma": "σιαγών",
+        "translit": "siagōn",
+        "note": "LXX equivalent; jaw or cheek"
+      }
+    ],
+    "notes": "The word lights up in Samson's fresh jawbone of a donkey, with which he struck down a thousand men (Judg 15:15-16), the episode that gave the site its name. On a person it denotes the cheek, and a blow to the cheek is a public insult, as when Zedekiah strikes Micaiah (1 Kgs 22:24)."
+  },
+  "H4057": {
+    "pronunciation": "mid-BAHR",
+    "semanticRange": [
+      "wilderness, uninhabited land",
+      "open pastureland for flocks",
+      "named desert regions (Sinai, Paran, Judah)",
+      "desolation (figurative)"
+    ],
+    "related": [
+      {
+        "lemma": "עֲרָבָה",
+        "translit": "aravah",
+        "note": "steppe, desert plain; frequent parallel"
+      },
+      {
+        "lemma": "יְשִׁימוֹן",
+        "translit": "yeshimon",
+        "note": "wasteland, desolate region"
+      },
+      {
+        "lemma": "ἔρημος",
+        "translit": "erēmos",
+        "note": "standard LXX and NT equivalent"
+      }
+    ],
+    "notes": "Not necessarily sandy desert but land beyond settled farming, often used for grazing: Moses leads Jethro's flock to the far side of the wilderness (Exod 3:1). It is also where Israel wanders and is tested, and in prophecy where a way for the LORD is prepared (Isa 40:3). One etymology links it to driving flocks, though that is uncertain."
+  },
+  "H4609": {
+    "pronunciation": "mah-ah-LAH",
+    "semanticRange": [
+      "step or stair of a staircase",
+      "ascent, as in the Psalm titles' Songs of Ascents",
+      "steps of Ahaz's sundial",
+      "(rare) what comes up into the mind"
+    ],
+    "related": [
+      {
+        "lemma": "עָלָה",
+        "translit": "alah",
+        "note": "to go up; the verbal root behind the noun"
+      },
+      {
+        "lemma": "מַעֲלֶה",
+        "translit": "ma'aleh",
+        "note": "ascent, slope, as of a hill or pass"
+      },
+      {
+        "lemma": "ἀναβαθμός",
+        "translit": "anabathmos",
+        "note": "LXX equivalent; step, ascent"
+      }
+    ],
+    "notes": "Most often it refers to physical steps, from the altar that must have none (Exod 20:26) to the shadow moving back on Ahaz's steps as a sign to Hezekiah (2 Kgs 20:9-11). Its best-known use is the title of Psalms 120-134, the Songs of Ascents, usually linked to pilgrims going up to Jerusalem."
+  },
+  "H4685": {
+    "pronunciation": "mah-TSODE",
+    "semanticRange": [
+      "net or snare used in hunting",
+      "figurative trap of God or of a person",
+      "(rare) siegeworks set against a city"
+    ],
+    "related": [
+      {
+        "lemma": "צוּד",
+        "translit": "tsud",
+        "note": "to hunt; the root behind the noun (etymology)"
+      },
+      {
+        "lemma": "רֶשֶׁת",
+        "translit": "reshet",
+        "note": "net; the common term for a trapping net"
+      },
+      {
+        "lemma": "מְצוּדָה",
+        "translit": "metsudah",
+        "note": "stronghold; related form from the same root"
+      }
+    ],
+    "notes": "Job feels hunted when he complains that God has closed his net around him (Job 19:6), and Ecclesiastes compares people caught by sudden misfortune to fish taken in a cruel net (Eccl 9:12). In Eccl 9:14 the same word refers to great siegeworks built against a small city."
+  },
+  "H4686": {
+    "pronunciation": "meh-tsoo-DAH",
+    "semanticRange": [
+      "stronghold, mountain fastness",
+      "God as a fortress for the faithful",
+      "(rare) hunting net or prey taken"
+    ],
+    "related": [
+      {
+        "lemma": "סֶלַע",
+        "translit": "sela",
+        "note": "crag, rock; paired with fortress in David's song"
+      },
+      {
+        "lemma": "מִשְׂגָּב",
+        "translit": "misgav",
+        "note": "high refuge; a near synonym in the Psalms"
+      },
+      {
+        "lemma": "צִיּוֹן",
+        "translit": "tsiyyon",
+        "note": "Zion; the stronghold David captured"
+      }
+    ],
+    "notes": "It denotes the strongholds David held while fleeing Saul (1 Sam 22:4-5) and the stronghold of Zion he captured, which became the City of David (2 Sam 5:7). David then turns the image toward God: \"The LORD is my rock and my fortress\" (2 Sam 22:2; Ps 18:2)."
+  },
+  "H4805": {
+    "pronunciation": "meh-REE",
+    "semanticRange": [
+      "rebellion, defiance against God",
+      "rebellious, describing a people or house",
+      "bitter complaint (rare)"
+    ],
+    "related": [
+      {
+        "lemma": "מָרָה",
+        "translit": "marah",
+        "note": "to rebel, be defiant; the related verb"
+      },
+      {
+        "lemma": "מָרַד",
+        "translit": "marad",
+        "note": "to revolt; a near synonym for rebellion"
+      },
+      {
+        "lemma": "פֶּשַׁע",
+        "translit": "pesha",
+        "note": "transgression; covenant rebellion in another key"
+      }
+    ],
+    "notes": "Samuel tells Saul that rebellion is as the sin of divination (1 Sam 15:23), placing defiance alongside idolatry. Ezekiel repeatedly calls Israel a \"rebellious house\" (Ezek 2:5), using the word in construct as a description of the people's settled character."
+  },
+  "H5362": {
+    "pronunciation": "nah-KAHF",
+    "semanticRange": [
+      "to go around, encircle a place",
+      "to surround, close in on someone",
+      "to complete a circuit, as of festivals",
+      "to round off, as hair at the temples"
+    ],
+    "related": [
+      {
+        "lemma": "סָבַב",
+        "translit": "savav",
+        "note": "to turn, go around; the common synonym"
+      },
+      {
+        "lemma": "תְּקוּפָה",
+        "translit": "tequphah",
+        "note": "circuit, turning of the year; related noun"
+      },
+      {
+        "lemma": "κυκλόω",
+        "translit": "kykloō",
+        "note": "LXX equivalent; to encircle"
+      }
+    ],
+    "notes": "Israel is told to go around Jericho once a day for six days (Josh 6:3), and Aram's army surrounds Elisha at Dothan (2 Kgs 6:14). Leviticus uses it for rounding off the hair at the sides of the head (Lev 19:27)."
+  },
+  "H5483": {
+    "pronunciation": "SOOS",
+    "semanticRange": [
+      "horse, esp. war or chariot horse",
+      "cavalry, horses with riders",
+      "symbol of military power and self-reliance",
+      "visionary horses (Zechariah)"
+    ],
+    "related": [
+      {
+        "lemma": "רֶכֶב",
+        "translit": "rekhev",
+        "note": "chariotry; constantly paired with horses"
+      },
+      {
+        "lemma": "פָּרָשׁ",
+        "translit": "parash",
+        "note": "horseman, cavalry steed"
+      },
+      {
+        "lemma": "ἵππος",
+        "translit": "hippos",
+        "note": "LXX and NT equivalent, horse"
+      }
+    ],
+    "notes": "In Israel's world the horse is mainly a weapon of war, so it often stands for military strength. Miriam's song celebrates the horse and its rider thrown into the sea (Exod 15:1, 21), and Ps 20:7 contrasts trust in chariots and horses with trust in the name of the LORD."
+  },
+  "H5848": {
+    "pronunciation": "ah-TAHF",
+    "semanticRange": [
+      "to grow faint, feeble",
+      "to faint away in distress (Hithpael)",
+      "of weak, feeble animals",
+      "to be overwhelmed, of the spirit"
+    ],
+    "related": [
+      {
+        "lemma": "עָיֵף",
+        "translit": "ayef",
+        "note": "faint, weary; related adjective of exhaustion"
+      },
+      {
+        "lemma": "יָעֵף",
+        "translit": "ya'ef",
+        "note": "weary, tired; near synonym"
+      },
+      {
+        "lemma": "כָּשַׁל",
+        "translit": "kashal",
+        "note": "to stumble, totter from weakness"
+      }
+    ],
+    "notes": "Describes physical or inner fainting. Jacob leaves the feeble animals of the flock to Laban (Gen 30:42), while the psalmist cries out \"when my heart is faint\" (Ps 61:2) and Jonah remembers the LORD \"when my soul fainted within me\" (Jonah 2:7)."
+  },
+  "H5858": {
+    "pronunciation": "ay-VAHL",
+    "semanticRange": [
+      "Mount Ebal, mountain of the curse near Shechem",
+      "Ebal, a Horite descendant of Seir",
+      "Ebal, son of Joktan (also called Obal)"
+    ],
+    "related": [
+      {
+        "lemma": "גְּרִזִים",
+        "translit": "Gerizim",
+        "note": "facing mountain of blessing across the valley"
+      },
+      {
+        "lemma": "עוֹבָל",
+        "translit": "Obal",
+        "note": "spelling of Joktan's son in Gen 10:28"
+      },
+      {
+        "lemma": "שְׁכֶם",
+        "translit": "Shechem",
+        "note": "city in the valley between the two mountains"
+      }
+    ],
+    "notes": "Mostly a place name: Moses commands that the curses be pronounced from Ebal, opposite Gerizim (Deut 11:29; 27:13), and Joshua builds an altar there (Josh 8:30). The same spelling also names a Horite (Gen 36:23) and a son of Joktan (1 Chr 1:22); the etymology (\"bare\" or \"stone\") is uncertain."
   },
   "H6030": {
     "pronunciation": "ah-NAH",
@@ -52,11 +614,157 @@
       "to sing responsively, raise one's voice"
     ],
     "related": [
-      {"lemma": "מַעֲנֶה", "translit": "ma.a.neh", "note": "noun 'answer, reply' from the same root"},
-      {"lemma": "עֲנָה", "translit": "a.nah", "note": "Aramaic equivalent 'to answer', common in Daniel"},
-      {"lemma": "ἀποκρίνομαι", "translit": "apokrinomai", "note": "usual LXX rendering, 'to answer'"}
+      {
+        "lemma": "מַעֲנֶה",
+        "translit": "ma.a.neh",
+        "note": "noun 'answer, reply' from the same root"
+      },
+      {
+        "lemma": "עֲנָה",
+        "translit": "a.nah",
+        "note": "Aramaic equivalent 'to answer', common in Daniel"
+      },
+      {
+        "lemma": "ἀποκρίνομαι",
+        "translit": "apokrinomai",
+        "note": "usual LXX rendering, 'to answer'"
+      }
     ],
     "notes": "The word denotes responding to what has been said or done, from a simple reply to legal testimony (Exod 20:16, 'you shall not bear false witness'). The Psalms' repeated cry 'answer me, O LORD' (Ps 4:1; 27:7) asks God to respond to prayer with action, not only words."
+  },
+  "H6031": {
+    "pronunciation": "ah-NAH",
+    "semanticRange": [
+      "to afflict, oppress harshly",
+      "to humble, humiliate, including sexual violation",
+      "to humble oneself, as in fasting",
+      "to be afflicted, bowed down"
+    ],
+    "related": [
+      {
+        "lemma": "עָנִי",
+        "translit": "ani",
+        "note": "poor, afflicted; the person who suffers this"
+      },
+      {
+        "lemma": "עֳנִי",
+        "translit": "oni",
+        "note": "affliction, misery; the related noun"
+      },
+      {
+        "lemma": "עָנָו",
+        "translit": "anav",
+        "note": "humble, meek; the positive side of lowliness"
+      }
+    ],
+    "notes": "Abram is told his descendants will be afflicted four hundred years (Gen 15:13), fulfilled when Egypt set taskmasters to afflict Israel (Exod 1:11-12). On the Day of Atonement Israel was to \"afflict your souls,\" usually understood as fasting (Lev 16:29), and the psalmist can say it was good for him to be afflicted (Ps 119:71)."
+  },
+  "H6601": {
+    "pronunciation": "pah-TAH",
+    "semanticRange": [
+      "to entice, seduce",
+      "to deceive, persuade by guile",
+      "to be simple, naive, easily misled",
+      "to be deceived, gullible (Niphal)"
+    ],
+    "related": [
+      {
+        "lemma": "פֶּתִי",
+        "translit": "peti",
+        "note": "simple, naive person, easily led"
+      },
+      {
+        "lemma": "נָשָׁא",
+        "translit": "nasha",
+        "note": "to deceive (Hiphil); near synonym"
+      },
+      {
+        "lemma": "ἀπατάω",
+        "translit": "apataō",
+        "note": "LXX equivalent, to deceive"
+      }
+    ],
+    "notes": "Covers luring someone by persuasion or deceit: the law addresses a man who seduces an unbetrothed virgin (Exod 22:16), and the Philistines urge Delilah to entice Samson (Judg 16:5). Jeremiah uses it daringly of God: \"You deceived me, O LORD, and I was deceived\" (Jer 20:7)."
+  },
+  "H6793": {
+    "pronunciation": "tsin-NAH",
+    "semanticRange": [
+      "large body shield covering the whole frame",
+      "ceremonial shield of beaten gold",
+      "God's faithfulness as a protective shield"
+    ],
+    "related": [
+      {
+        "lemma": "מָגֵן",
+        "translit": "magen",
+        "note": "smaller round shield; often paired with this word"
+      },
+      {
+        "lemma": "סֹחֵרָה",
+        "translit": "socherah",
+        "note": "buckler; paired with it in Ps 91:4"
+      },
+      {
+        "lemma": "θυρεός",
+        "translit": "thyreos",
+        "note": "LXX equivalent; large door-shaped shield"
+      }
+    ],
+    "notes": "A shield-bearer carried Goliath's large shield before him (1 Sam 17:7, 41), and Solomon made two hundred such shields of beaten gold (1 Kgs 10:16). Poetically, God's faithfulness is a body shield and buckler around the one who trusts him (Ps 91:4)."
+  },
+  "H6862": {
+    "pronunciation": "TSAHR",
+    "semanticRange": [
+      "adversary, enemy, foe",
+      "oppressor of Israel",
+      "enemies of God",
+      "distress, trouble (related homograph)"
+    ],
+    "related": [
+      {
+        "lemma": "אֹיֵב",
+        "translit": "oyev",
+        "note": "enemy; the most frequent parallel term"
+      },
+      {
+        "lemma": "צָרַר",
+        "translit": "tsarar",
+        "note": "to show hostility; verb behind the noun"
+      },
+      {
+        "lemma": "שָׂטָן",
+        "translit": "satan",
+        "note": "adversary, opponent; near synonym"
+      }
+    ],
+    "notes": "Denotes the hostile party, personal or national: Melchizedek blesses God who delivered Abram's enemies into his hand (Gen 14:20). The Song of Moses has God taking vengeance on his adversaries (Deut 32:41, 43). A separate homograph denoting \"distress\" or \"narrowness\" shares the spelling (Deut 4:30)."
+  },
+  "H6887": {
+    "pronunciation": "tsah-RAR",
+    "semanticRange": [
+      "to show hostility, be an adversary",
+      "adversary, opposer (participle)",
+      "to harass, vex an enemy",
+      "to make a rival, as of a second wife"
+    ],
+    "related": [
+      {
+        "lemma": "צַר",
+        "translit": "tsar",
+        "note": "adversary, foe; the related noun"
+      },
+      {
+        "lemma": "אֹיֵב",
+        "translit": "oyev",
+        "note": "enemy; frequently paired with this word"
+      },
+      {
+        "lemma": "צָרָה",
+        "translit": "tsarah",
+        "note": "rival wife; also distress"
+      }
+    ],
+    "notes": "God promises Israel, \"I will be an enemy to your enemies and an adversary to your adversaries\" (Exod 23:22). Moses is told to harass the Midianites because they had vexed Israel at Peor (Num 25:17-18). The participle often stands simply for the people's foes."
   },
   "H7356": {
     "pronunciation": "rah-khah-MEEM",
@@ -66,9 +774,21 @@
       "pity shown by one person to another"
     ],
     "related": [
-      {"lemma": "רֶחֶם", "translit": "re.chem", "note": "'womb'; the same root, often linked to motherly tenderness"},
-      {"lemma": "רָחַם", "translit": "ra.cham", "note": "verb 'to have compassion, show mercy'"},
-      {"lemma": "חֶסֶד", "translit": "che.sed", "note": "covenant loyalty; frequently paired with rachamim"}
+      {
+        "lemma": "רֶחֶם",
+        "translit": "re.chem",
+        "note": "'womb'; the same root, often linked to motherly tenderness"
+      },
+      {
+        "lemma": "רָחַם",
+        "translit": "ra.cham",
+        "note": "verb 'to have compassion, show mercy'"
+      },
+      {
+        "lemma": "חֶסֶד",
+        "translit": "che.sed",
+        "note": "covenant loyalty; frequently paired with rachamim"
+      }
     ],
     "notes": "A plural of intensity naming deep, tender compassion, used above all of God (Lam 3:22, 'his mercies never come to an end'). Its link to רֶחֶם 'womb' is a real shared root, but context, not etymology, carries the sense of mercy in each passage."
   },
@@ -81,11 +801,129 @@
       "shepherd, herdsman (as participle)"
     ],
     "related": [
-      {"lemma": "רֹעֶה", "translit": "ro.eh", "note": "participle used as noun 'shepherd'"},
-      {"lemma": "מִרְעֶה", "translit": "mir.eh", "note": "'pasture, feeding place' from the same root"},
-      {"lemma": "ποιμαίνω", "translit": "poimainō", "note": "LXX and NT equivalent 'to shepherd' (John 21:16)"}
+      {
+        "lemma": "רֹעֶה",
+        "translit": "ro.eh",
+        "note": "participle used as noun 'shepherd'"
+      },
+      {
+        "lemma": "מִרְעֶה",
+        "translit": "mir.eh",
+        "note": "'pasture, feeding place' from the same root"
+      },
+      {
+        "lemma": "ποιμαίνω",
+        "translit": "poimainō",
+        "note": "LXX and NT equivalent 'to shepherd' (John 21:16)"
+      }
     ],
     "notes": "The word denotes tending and feeding a flock, and becomes a central image for leadership. 'The LORD is my shepherd' (Ps 23:1) uses its participle, and Ezekiel 34 indicts Israel's leaders as shepherds who fed themselves instead of the flock, before God promises to shepherd them himself."
+  },
+  "H7641": {
+    "pronunciation": "shib-BO-let",
+    "semanticRange": [
+      "ear, head of grain on the stalk",
+      "ears gleaned at harvest",
+      "cluster or branch (Zech 4:12)"
+    ],
+    "related": [
+      {
+        "lemma": "קָמָה",
+        "translit": "qamah",
+        "note": "standing grain in the field"
+      },
+      {
+        "lemma": "מְלִילָה",
+        "translit": "melilah",
+        "note": "ear of grain plucked by hand"
+      },
+      {
+        "lemma": "στάχυς",
+        "translit": "stachys",
+        "note": "LXX and NT equivalent, ear of grain"
+      }
+    ],
+    "notes": "Pharaoh's second dream turns on seven full ears of grain swallowed by seven thin, scorched ones (Gen 41:5-7), and Ruth asks to glean ears of grain (Ruth 2:2). The famous password test at the Jordan (Judg 12:6) uses this spelling, though whether it refers to an ear of grain or a stream is debated."
+  },
+  "H7991": {
+    "pronunciation": "shah-LEESH",
+    "semanticRange": [
+      "officer, adjutant serving a king",
+      "chariot officer or captain",
+      "(rare) a third-measure",
+      "(rare) a musical instrument, perhaps three-stringed"
+    ],
+    "related": [
+      {
+        "lemma": "שָׁלֹשׁ",
+        "translit": "shalosh",
+        "note": "three; possible origin of the title (etymology)"
+      },
+      {
+        "lemma": "שַׂר",
+        "translit": "sar",
+        "note": "commander, official; a broader term for rank"
+      },
+      {
+        "lemma": "τριστάτης",
+        "translit": "tristatēs",
+        "note": "LXX equivalent; officer, literally third-man"
+      }
+    ],
+    "notes": "Pharaoh's chariots go out with officers over all of them (Exod 14:7). The title may once have named the third man in a chariot, though that is etymology, not its sense in use. Its most vivid appearance is the royal officer on whose arm the king leaned, who doubted Elisha's word and was trampled in the gate (2 Kgs 7:2, 17)."
+  },
+  "H8163": {
+    "pronunciation": "sah-EER",
+    "semanticRange": [
+      "male goat, buck, esp. for sin offering",
+      "goat (general)",
+      "goat-demon, satyr (Lev 17:7)",
+      "hairy (rare, adjective)"
+    ],
+    "related": [
+      {
+        "lemma": "עֵז",
+        "translit": "ez",
+        "note": "goat (female or generic)"
+      },
+      {
+        "lemma": "עַתּוּד",
+        "translit": "attud",
+        "note": "he-goat, ram; synonym, also of leaders"
+      },
+      {
+        "lemma": "עֲזָאזֵל",
+        "translit": "Azazel",
+        "note": "destination of the scapegoat (Lev 16)"
+      }
+    ],
+    "notes": "The standard sacrificial male goat of Leviticus, prescribed for a ruler's sin offering (Lev 4:23-24) and at the heart of the Day of Atonement ritual (Lev 16). The word is related to the adjective \"hairy,\" used of Esau (Gen 27:11), and in Lev 17:7 it refers to goat idols or demons."
+  },
+  "H8227": {
+    "pronunciation": "shah-FAHN",
+    "semanticRange": [
+      "royal scribe of King Josiah of Judah",
+      "reader of the rediscovered Book of the Law",
+      "father of Ahikam, Gemariah, and Elasah"
+    ],
+    "related": [
+      {
+        "lemma": "חִלְקִיָּהוּ",
+        "translit": "Chilqiyyahu",
+        "note": "Hilkiah; high priest who handed Shaphan the book"
+      },
+      {
+        "lemma": "אֲחִיקָם",
+        "translit": "Achiqam",
+        "note": "Ahikam; son who protected Jeremiah"
+      },
+      {
+        "lemma": "גְּדַלְיָהוּ",
+        "translit": "Gedalyahu",
+        "note": "Gedaliah; grandson, governor after Jerusalem fell"
+      }
+    ],
+    "notes": "Shaphan was the secretary to whom Hilkiah gave the Book of the Law found in the temple, and he read it before Josiah, sparking the king's reform (2 Kgs 22:8-10). His family stayed loyal to Jeremiah: his son Ahikam protected the prophet (Jer 26:24). The name is the same word as the rock hyrax, an etymological link only."
   },
   "H8302": {
     "pronunciation": "shir-YOHN",
@@ -95,9 +933,71 @@
       "armor as a figure of protection"
     ],
     "related": [
-      {"lemma": "כּוֹבַע", "translit": "ko.va", "note": "helmet; listed with armor in battle equipment"},
-      {"lemma": "θώραξ", "translit": "thōrax", "note": "Greek 'breastplate', the LXX-era equivalent"}
+      {
+        "lemma": "כּוֹבַע",
+        "translit": "ko.va",
+        "note": "helmet; listed with armor in battle equipment"
+      },
+      {
+        "lemma": "θώραξ",
+        "translit": "thōrax",
+        "note": "Greek 'breastplate', the LXX-era equivalent"
+      }
     ],
     "notes": "The word denotes a soldier's coat of mail, such as Goliath's bronze scale armor (1 Sam 17:5) and the armor Saul gave David (1 Sam 17:38). Isaiah 59:17 pictures God putting on righteousness 'as a breastplate', an image Paul echoes in Ephesians 6:14."
+  },
+  "H8336": {
+    "pronunciation": "SHAYSH",
+    "semanticRange": [
+      "fine linen, byssus, bleached white",
+      "tabernacle curtains and veil of twisted linen",
+      "priestly and royal garments of fine linen",
+      "costly cloth as a mark of wealth"
+    ],
+    "related": [
+      {
+        "lemma": "בּוּץ",
+        "translit": "buts",
+        "note": "later Hebrew term for fine linen, byssus"
+      },
+      {
+        "lemma": "פִּשְׁתָּה",
+        "translit": "pishtah",
+        "note": "flax, the plant linen is spun from"
+      },
+      {
+        "lemma": "βύσσος",
+        "translit": "byssos",
+        "note": "LXX equivalent for fine linen"
+      }
+    ],
+    "notes": "Egypt's prized white linen: Pharaoh clothes Joseph in garments of shesh when he elevates him (Gen 41:42). In Exodus it is the signature fabric of the tabernacle, its curtains made of \"fine twisted linen\" with blue, purple and scarlet (Exod 26:1)."
+  },
+  "H8615": {
+    "pronunciation": "tik-VAH",
+    "semanticRange": [
+      "hope, confident expectation",
+      "ground of hope, what one trusts in",
+      "future outcome hoped for",
+      "(rare) cord, line"
+    ],
+    "related": [
+      {
+        "lemma": "קָוָה",
+        "translit": "qavah",
+        "note": "to wait for, look eagerly toward"
+      },
+      {
+        "lemma": "תּוֹחֶלֶת",
+        "translit": "tocheleth",
+        "note": "expectation; a near synonym in Proverbs"
+      },
+      {
+        "lemma": "ἐλπίς",
+        "translit": "elpis",
+        "note": "LXX equivalent; hope"
+      }
+    ],
+    "notes": "Job wrestles with the word, asking where his hope is when his days run out (Job 7:6). Through Jeremiah, God promises the exiles \"a future and a hope\" (Jer 29:11), and Hosea pictures the Valley of Achor becoming a door of hope (Hos 2:15). The same form names Rahab's scarlet cord (Josh 2:18)."
   }
 }

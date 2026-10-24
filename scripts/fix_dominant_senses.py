@@ -44,6 +44,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import re
 import sys
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -84,6 +85,8 @@ GLOSS_OVERRIDES: dict[str, str] = {
     'H2490': 'to profane',   # "to profane/begin: profane"
     'H7462': 'to shepherd',  # "to pasture" — Ps 23:1 "The LORD is my shepherd"
     'H7704': 'field',        # "land: country" — שָׂדֶה, field/open country
+    'H3738': 'to dig',       # "to pierce" — every occurrence digs a pit/well
+    'H1238': 'to lay waste', # "to empty" — rendered "lay waste" throughout
 }
 
 # Entries whose enriched prose (notes / semanticRange / related) describes the
@@ -115,6 +118,14 @@ def count_usage(step_dir: Path | None) -> Counter:
     return Counter(w['ext'] for w in iter_tagged_words(step_dir))
 
 
+def same_definition(a: str, b: str) -> bool:
+    """TBES definitions were cleaned slightly differently over time (with or
+    without a space where <br> stood, truncated or not); compare the start
+    with whitespace ignored."""
+    squash = lambda t: re.sub(r'\s+', '', t)[:60]
+    return bool(a) and squash(a) == squash(b)
+
+
 def headline(gloss: str) -> str:
     return gloss.split(':')[0].strip()
 
@@ -138,20 +149,33 @@ def plan_changes(lemmas: dict, first: dict, rows: dict, use: Counter) -> list[di
         if dominant['ext'] == kept['ext'] or use[kept['ext']] / total >= FIRST_SHARE_MAX:
             continue
         new_gloss = GLOSS_OVERRIDES.get(b, headline(dominant['gloss']))
-        if new_gloss.lower() == headline(kept['gloss']).lower():
+        if b not in GLOSS_OVERRIDES and new_gloss.lower() == headline(kept['gloss']).lower():
             continue
         for slug in by_strongs.get(b, []):
             entry = lemmas[slug]
-            # Only replace the build.py default; a hand-edited gloss wins.
-            if entry.get('basicGloss') != kept['gloss']:
+            current = entry.get('basicGloss')
+            # Only touch glosses this pipeline owns: build.py's first-row
+            # default, or this script's own earlier headline (so a new
+            # GLOSS_OVERRIDES entry reaches it). A hand-edited gloss wins.
+            if current not in (kept['gloss'], headline(dominant['gloss'])):
+                continue
+            # An unenriched entry's notes are build.py's TBES definition of
+            # the first row, i.e. of the displaced sense.
+            stale_definition = (
+                not entry.get('semanticRange')
+                and same_definition(entry.get('notes', ''), kept['definition'])
+                and not same_definition(entry.get('notes', ''), dominant['definition'])
+            )
+            if current == new_gloss and not stale_definition:
                 continue
             changes.append({
                 'slug': slug,
                 'strongs': b,
                 'occurrences': total,
-                'old_gloss': entry.get('basicGloss'),
+                'old_gloss': current,
                 'new_gloss': new_gloss,
                 'other_word': kept['lemma'] != dominant['lemma'],
+                'stale_definition': stale_definition,
                 'dominant': dominant,
             })
     changes.sort(key=lambda c: -c['occurrences'])
@@ -167,7 +191,9 @@ def apply(lemmas: dict, change: dict) -> None:
         entry['translit'] = dominant['translit']
         entry['pos'] = POS_MAP.get(dominant['pos'], dominant['pos'])
         entry.pop('pronunciation', None)
-    if change['strongs'] in RESET_PROSE:
+    if change['stale_definition']:
+        entry['notes'] = dominant['definition']
+    if change['strongs'] in RESET_PROSE and change['old_gloss'] != change['new_gloss']:
         entry['notes'] = dominant['definition']
         for field in ('semanticRange', 'related', 'pronunciation'):
             entry.pop(field, None)
@@ -187,6 +213,7 @@ def main() -> int:
     for c in changes:
         tag = ' [other word]' if c['other_word'] else ''
         tag += ' [prose reset]' if c['strongs'] in RESET_PROSE else ''
+        tag += ' [definition]' if c['stale_definition'] else ''
         print(f"{c['strongs']} {c['slug']:<18} {c['occurrences']:>5}×  "
               f"{c['old_gloss']!r} → {c['new_gloss']!r}{tag}")
     print(f'{len(changes)} entries, {sum(c["occurrences"] for c in changes):,} occurrences.')
