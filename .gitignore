@@ -3,3 +3,4 @@ node_modules/
 .DS_Store
 scripts/.step-cache/
 scripts/__pycache__/
+scripts/.generate_aliases.done

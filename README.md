@@ -126,6 +126,18 @@ by lemma slug, which collapses homographs, so one word could pick up another's
 English surfaces (רוּחַ "Spirit" matching "smell", עַ֫יִן "eye" matching "no").
 `generate_aliases.py` and `kjv_aliases.py` read and write Strong's keys.
 
+`generate_aliases.py` asks an LLM (OpenAI by default; `OPEN_AI_KEY` or
+`OPENAI_API_KEY`) for the wording modern translations use, e.g. NASB's
+"deportation" for μετοικεσία where BSB prints "exile". It appends to each
+word's existing list rather than replacing it, and records finished words in
+`scripts/.generate_aliases.done` so an interrupted run resumes:
+
+```bash
+pip install openai
+python3 scripts/generate_aliases.py --top 50     # trial; check usage
+python3 scripts/generate_aliases.py --aligned    # every Strong's in the text
+```
+
 Then bump the SHA in consumers' `bun.lock`:
 
 ```bash
