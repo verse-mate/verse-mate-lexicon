@@ -237,7 +237,11 @@
     "holy things",
     "most holy",
     "most holy place",
-    "holy of holies"
+    "holy of holies",
+    "holy places",
+    "sanctuary",
+    "holiest",
+    "holiest of all"
   ],
   "G0040": [
     "holy",
@@ -667,7 +671,8 @@
     "continually",
     "continuously",
     "constantly",
-    "without ceasing"
+    "without ceasing",
+    "never stop"
   ],
   "G0091": [
     "wronged",
@@ -1535,7 +1540,13 @@
     "more earnestly",
     "stricter",
     "more exact",
-    "more precise"
+    "more precise",
+    "more perfectly",
+    "more accurately",
+    "more exactly",
+    "somewhat more exactly",
+    "more accurate information",
+    "more exact information"
   ],
   "G0198": [
     "perfect understanding",
@@ -2650,7 +2661,13 @@
     "thinkest"
   ],
   "G0334": [
-    "anathema"
+    "anathema",
+    "gifts",
+    "offerings",
+    "votive gifts",
+    "gifts dedicated to god",
+    "consecrated gifts",
+    "memorial decorations"
   ],
   "G0335": [
     "shamelessness",
@@ -2973,7 +2990,11 @@
     "beyond dispute",
     "undisputed",
     "without dispute",
-    "without objection"
+    "without objection",
+    "cannot be spoken against",
+    "cannot be gainsaid",
+    "cannot be denied",
+    "undeniable"
   ],
   "G0370": [
     "unworthy",
@@ -3861,7 +3882,11 @@
     "answered",
     "replied",
     "contradicted",
-    "spoke against"
+    "spoke against",
+    "gainsay",
+    "refute",
+    "contradict",
+    "reply"
   ],
   "G0472": [
     "devoted",
@@ -3882,7 +3907,9 @@
     "holding",
     "have a strong belief",
     "helpeth",
-    "helpest"
+    "helpest",
+    "holdeth",
+    "holdest"
   ],
   "G0473": [
     "instead",
@@ -5381,7 +5408,24 @@
     "defend yourself",
     "defend myself",
     "answereth",
-    "answerest"
+    "answerest",
+    "answered",
+    "answer for himself",
+    "answer for myself",
+    "answered for himself",
+    "make his defence",
+    "make my defence",
+    "make his defense",
+    "make my defense",
+    "defend yourselves",
+    "defending",
+    "defending ourselves",
+    "in his defense",
+    "in his own defense",
+    "in my defense",
+    "excusing",
+    "speak in his defense",
+    "spoke in his defense"
   ],
   "G0627": [
     "defense",
@@ -5450,7 +5494,14 @@
     "assign",
     "assigned",
     "giveth",
-    "givest"
+    "givest",
+    "giving honour",
+    "giving honor",
+    "give honor",
+    "showing honor",
+    "show honor",
+    "paying honor",
+    "treat with respect"
   ],
   "G0633": [
     "wiped off"
@@ -5787,7 +5838,8 @@
     "brought away",
     "remove",
     "removeth",
-    "removest"
+    "removest",
+    "carried"
   ],
   "G0668": [
     "having escaped",
@@ -5946,7 +5998,17 @@
     "toucheth",
     "touchest",
     "holdeth",
-    "holdest"
+    "holdest",
+    "touches",
+    "cling",
+    "clinging",
+    "light",
+    "lights",
+    "lighted",
+    "lit",
+    "lighting",
+    "have sexual relations",
+    "marry"
   ],
   "G0682": [
     "apphia"
@@ -5968,7 +6030,9 @@
     "put",
     "cast away",
     "cast off",
-    "violated"
+    "violated",
+    "putteth",
+    "puttest"
   ],
   "G0684": [
     "destruction",
@@ -6985,7 +7049,11 @@
     "disorderly",
     "idle",
     "idleness",
-    "in idleness"
+    "in idleness",
+    "disruptive",
+    "unruly life",
+    "undisciplined life",
+    "idle lives"
   ],
   "G0815": [
     "childless",
@@ -8686,7 +8754,9 @@
     "snare",
     "cord",
     "restraint",
-    "bond"
+    "bond",
+    "restrict",
+    "restrictions"
   ],
   "G1030": [
     "gnashing",
@@ -9934,7 +10004,8 @@
     "skin",
     "skins",
     "hide",
-    "leather"
+    "leather",
+    "goatskins"
   ],
   "G1193": [
     "leather",
@@ -10362,7 +10433,9 @@
     "girt",
     "wrapped",
     "tied",
-    "put"
+    "put",
+    "putteth",
+    "puttest"
   ],
   "G1242": [
     "covenant",
@@ -11535,7 +11608,16 @@
     "showeth",
     "showest",
     "declareth",
-    "declarest"
+    "declarest",
+    "told",
+    "declared",
+    "described",
+    "reported",
+    "rehearsed",
+    "detailed",
+    "shew",
+    "sheweth",
+    "shewest"
   ],
   "G1335": [
     "declaration",
@@ -11555,6 +11637,12 @@
     "for all time",
     "perpetually",
     "endlessly"
+  ],
+  "G1337": [
+    "place where two seas met",
+    "reef",
+    "sandbar",
+    "shoal"
   ],
   "G1338": [
     "pass through",
@@ -11639,7 +11727,13 @@
   "G1346": [
     "righteously",
     "justly",
-    "rightly"
+    "rightly",
+    "uprightly",
+    "upright",
+    "righteous",
+    "fairly",
+    "righteousness",
+    "honest"
   ],
   "G1347": [
     "justification"
@@ -12692,7 +12786,9 @@
     "prevented",
     "cut",
     "held back",
-    "be tedious"
+    "be tedious",
+    "cutteth",
+    "cuttest"
   ],
   "G1466": [
     "self-control",
@@ -12751,7 +12847,9 @@
     "anoints",
     "anointed",
     "anointing",
-    "put"
+    "put",
+    "putteth",
+    "puttest"
   ],
   "G1473": [
     "i",
@@ -13049,7 +13147,8 @@
     "existed",
     "art",
     "wast",
-    "wert"
+    "wert",
+    "to be"
   ],
   "G1514": [
     "peace",
@@ -13162,7 +13261,11 @@
     "goes",
     "come",
     "comes",
-    "going"
+    "going",
+    "goeth",
+    "goest",
+    "cometh",
+    "comest"
   ],
   "G1525": [
     "enter",
@@ -13728,7 +13831,9 @@
     "cut",
     "chopped down",
     "undermine",
-    "undercut"
+    "undercut",
+    "cutteth",
+    "cuttest"
   ],
   "G1582": [
     "hang",
@@ -14089,7 +14194,9 @@
   ],
   "G1616": [
     "earnestness",
-    "earnest prayer"
+    "earnest prayer",
+    "instantly",
+    "earnestly"
   ],
   "G1617": [
     "more earnestly",
@@ -14864,7 +14971,11 @@
     "fills up",
     "filled up",
     "filleth",
-    "fillest"
+    "fillest",
+    "satisfy",
+    "satisfies",
+    "satisfied",
+    "satisfying"
   ],
   "G1706": [
     "fall",
@@ -16333,7 +16444,9 @@
     "have power over",
     "belong",
     "become a slave",
-    "give authority over"
+    "give authority over",
+    "belongeth",
+    "belongest"
   ],
   "G1851": [
     "excellence",
@@ -16653,7 +16766,18 @@
     "saw",
     "gazed",
     "looked intently",
-    "fixed his eyes"
+    "fixed his eyes",
+    "behold",
+    "look upon",
+    "consider",
+    "take note",
+    "hear",
+    "beholdeth",
+    "beholdest",
+    "considereth",
+    "considerest",
+    "heareth",
+    "hearest"
   ],
   "G1898": [
     "introduction",
@@ -16861,7 +16985,11 @@
     "put",
     "ride",
     "rideth",
-    "ridest"
+    "ridest",
+    "setteth",
+    "settest",
+    "putteth",
+    "puttest"
   ],
   "G1914": [
     "look",
@@ -17535,7 +17663,9 @@
     "dwellest",
     "rest upon",
     "rest",
-    "work through"
+    "work through",
+    "resteth",
+    "restest"
   ],
   "G1982": [
     "overshadowing",
@@ -17547,7 +17677,9 @@
     "come on you",
     "covered",
     "fall",
-    "fall across"
+    "fall across",
+    "falleth",
+    "fallest"
   ],
   "G1983": [
     "oversee",
@@ -18313,7 +18445,13 @@
     "investigate",
     "examine",
     "look into",
-    "seek out"
+    "seek out",
+    "searches",
+    "searcheth",
+    "study",
+    "inquiring",
+    "inquiring into",
+    "trying to find out"
   ],
   "G2046": [
     "say",
@@ -18614,7 +18752,9 @@
     "finally",
     "lastly",
     "utterly",
-    "extremely"
+    "extremely",
+    "at the point of death",
+    "dying"
   ],
   "G2080": [
     "within",
@@ -18990,7 +19130,12 @@
   "G2119": [
     "convenient season",
     "convenient time",
-    "opportune time"
+    "opportune time",
+    "have opportunity",
+    "have time",
+    "have leisure",
+    "have chance",
+    "have convenient time"
   ],
   "G2120": [
     "opportunity"
@@ -19019,7 +19164,10 @@
     "opportunely",
     "timely",
     "at the proper time",
-    "in a timely manner"
+    "in a timely manner",
+    "conveniently",
+    "at an opportune time",
+    "opportunity"
   ],
   "G2123": [
     "easier",
@@ -19456,7 +19604,18 @@
   "G2175": [
     "sweet smell",
     "euodia",
-    "euodias"
+    "euodias",
+    "sweet savour",
+    "sweetsmelling savour",
+    "odour of a sweet smell",
+    "fragrance",
+    "fragrant",
+    "aroma",
+    "sweet-smelling savor",
+    "sweet savor",
+    "odor of a sweet smell",
+    "pleasing",
+    "sweet-smelling"
   ],
   "G2176": [
     "left",
@@ -19702,7 +19861,12 @@
     "spiritual fervor",
     "enthusiastically",
     "ardent in spirit",
-    "be ardent in spirit"
+    "be ardent in spirit",
+    "keep your spiritual fervor",
+    "with great fervor",
+    "ardent",
+    "with an enthusiastic spirit",
+    "with burning enthusiasm"
   ],
   "G2205": [
     "jealousy",
@@ -19793,7 +19957,8 @@
     "controversy",
     "controversies",
     "disputable matters",
-    "disputable"
+    "disputable",
+    "points of dispute"
   ],
   "G2214": [
     "controversy",
@@ -19856,7 +20021,14 @@
   "G2221": [
     "take alive",
     "seize alive",
-    "capture alive"
+    "capture alive",
+    "catch",
+    "catching",
+    "taken captive",
+    "held captive",
+    "captured",
+    "fish for people",
+    "fishing for people"
   ],
   "G2222": [
     "life",
@@ -19883,7 +20055,18 @@
     "girding",
     "gird up",
     "dress",
-    "dressed"
+    "dressed",
+    "girdedst",
+    "gird yourself",
+    "gird you",
+    "dress yourself",
+    "dress you",
+    "dressed yourself",
+    "get dressed",
+    "put on your clothes",
+    "fasten your belt",
+    "fasten your own belt",
+    "fasten a belt around you"
   ],
   "G2225": [
     "quicken",
@@ -19895,7 +20078,17 @@
     "gave life",
     "bring to life",
     "gave them life",
-    "give them life"
+    "give them life",
+    "gives life",
+    "giveth life",
+    "live",
+    "survive",
+    "kept alive",
+    "die",
+    "liveth",
+    "livest",
+    "dieth",
+    "diest"
   ],
   "G2226": [
     "living creatures",
@@ -20026,7 +20219,8 @@
     "habit",
     "conduct",
     "behavior",
-    "way of life"
+    "way of life",
+    "morals"
   ],
   "G2240": [
     "come",
@@ -20069,7 +20263,17 @@
     "full age",
     "manhood",
     "youth",
-    "years"
+    "years",
+    "span of life",
+    "life span",
+    "life",
+    "short",
+    "small in stature",
+    "short in stature",
+    "little of stature",
+    "of age",
+    "old enough",
+    "standard"
   ],
   "G2245": [
     "how great"
@@ -22430,7 +22634,14 @@
     "well",
     "rightly",
     "good",
-    "properly"
+    "properly",
+    "correctly",
+    "fine",
+    "well said",
+    "full well",
+    "right",
+    "kind enough",
+    "good of you"
   ],
   "G2574": [
     "camel",
@@ -23111,7 +23322,9 @@
     "see",
     "look",
     "seeth",
-    "seest"
+    "seest",
+    "looketh",
+    "lookest"
   ],
   "G2649": [
     "witness against",
@@ -24421,7 +24634,15 @@
     "stir up",
     "stirred up",
     "moveth",
-    "movest"
+    "movest",
+    "remove",
+    "removed",
+    "stirs up",
+    "stirring up",
+    "aroused",
+    "mover",
+    "removeth",
+    "removest"
   ],
   "G2797": [
     "kis",
@@ -26124,7 +26345,10 @@
     "radiance"
   ],
   "G2988": [
-    "brightly"
+    "brightly",
+    "sumptuously",
+    "in luxury",
+    "in splendor"
   ],
   "G2989": [
     "shone",
@@ -26355,7 +26579,12 @@
   ],
   "G3011": [
     "minister",
-    "ministers"
+    "ministers",
+    "ministered",
+    "servant",
+    "servants",
+    "serves",
+    "helper"
   ],
   "G3012": [
     "towel",
@@ -27150,7 +27379,10 @@
     "effeminate",
     "male prostitutes",
     "men who have sex with men",
-    "men who practice homosexuality"
+    "men who practice homosexuality",
+    "soft robes",
+    "fine clothes",
+    "expensive clothes"
   ],
   "G3121": [
     "maleleel"
@@ -28307,7 +28539,9 @@
     "mete"
   ],
   "G3355": [
-    "measure"
+    "measure",
+    "gallons",
+    "firkins"
   ],
   "G3356": [
     "be gentle",
@@ -29654,7 +29888,12 @@
     "showing hospitality",
     "be hospitable",
     "extend hospitality",
-    "practice hospitality"
+    "practice hospitality",
+    "lodged strangers",
+    "shown hospitality to strangers",
+    "shown hospitality",
+    "used hospitality to strangers",
+    "been kind to strangers"
   ],
   "G3581": [
     "strangers",
@@ -30230,7 +30469,11 @@
     "wholly",
     "entirely",
     "completely",
-    "in any way"
+    "in any way",
+    "actually",
+    "commonly",
+    "utterly",
+    "in fact"
   ],
   "G3655": [
     "rain",
@@ -30289,7 +30532,8 @@
     "resemble",
     "resembled",
     "make like",
-    "made like"
+    "made like",
+    "compare"
   ],
   "G3663": [
     "like nature",
@@ -30343,7 +30587,10 @@
     "in the same way",
     "in like manner",
     "in the same manner",
-    "so also"
+    "so also",
+    "in a similar way",
+    "too",
+    "same"
   ],
   "G3669": [
     "likeness"
@@ -30756,7 +31003,8 @@
     "rightly",
     "correctly",
     "properly",
-    "well"
+    "well",
+    "right"
   ],
   "G3724": [
     "determined",
@@ -32362,7 +32610,8 @@
   ],
   "G3898": [
     "likewise",
-    "in the same way"
+    "in the same way",
+    "in like manner"
   ],
   "G3899": [
     "passing",
@@ -32800,7 +33049,10 @@
     "leaveth",
     "leavest",
     "suffereth",
-    "sufferest"
+    "sufferest",
+    "pass over",
+    "disregard",
+    "ignore"
   ],
   "G3936": [
     "stand",
@@ -33955,11 +34207,32 @@
     "even more",
     "greater",
     "far more",
-    "more exceedingly"
+    "more exceedingly",
+    "more earnest",
+    "more earnestly",
+    "all the more",
+    "much closer",
+    "more careful",
+    "especially",
+    "rather",
+    "more zealously",
+    "all the louder",
+    "even louder"
   ],
   "G4056": [
     "more abundantly",
-    "more"
+    "more",
+    "more abundant",
+    "more exceedingly",
+    "more earnestly",
+    "more eagerly",
+    "all the more",
+    "still more",
+    "even more",
+    "much closer",
+    "greater",
+    "rather",
+    "more than ever"
   ],
   "G4057": [
     "excessively",
@@ -33967,7 +34240,14 @@
     "exceedingly",
     "more abundantly",
     "more than enough",
-    "beyond measure"
+    "beyond measure",
+    "out of measure",
+    "more exceedingly",
+    "even more",
+    "all the more",
+    "all the louder",
+    "greatly",
+    "even louder"
   ],
   "G4058": [
     "doves",
@@ -34814,7 +35094,11 @@
     "gifts of the spirit"
   ],
   "G4153": [
-    "spiritually"
+    "spiritually",
+    "mystically",
+    "symbolically",
+    "figuratively",
+    "prophetically"
   ],
   "G4154": [
     "blowing",
@@ -35591,12 +35875,16 @@
   ],
   "G4235": [
     "gentle",
-    "meek"
+    "meek",
+    "humble"
   ],
   "G4236": [
     "gentleness",
     "humility",
-    "meekness"
+    "meekness",
+    "courtesy",
+    "gently",
+    "humbly"
   ],
   "G4237": [
     "groups",
@@ -35983,7 +36271,11 @@
     "predicting",
     "foretell",
     "foretells",
-    "foretelling"
+    "foretelling",
+    "said before",
+    "said previously",
+    "said beforehand",
+    "told you before"
   ],
   "G4281": [
     "having gone forward",
@@ -36675,7 +36967,9 @@
     "stand ready",
     "have a boat ready",
     "attending",
-    "followed"
+    "followed",
+    "waiteth",
+    "waitest"
   ],
   "G4343": [
     "perseverance",
@@ -36780,7 +37074,9 @@
     "talked",
     "spake",
     "speaking",
-    "speak"
+    "speak",
+    "speaketh",
+    "speakest"
   ],
   "G4355": [
     "having taken",
@@ -37415,7 +37711,8 @@
   ],
   "G4427": [
     "spit",
-    "spittle"
+    "spittle",
+    "saliva"
   ],
   "G4428": [
     "rolled together",
@@ -37794,7 +38091,9 @@
     "speaketh",
     "speakest",
     "telleth",
-    "tellest"
+    "tellest",
+    "spoken",
+    "told"
   ],
   "G4484": [
     "rhegium"
@@ -39311,7 +39610,12 @@
     "more eagerly",
     "more earnestly",
     "more diligently",
-    "earnestly"
+    "earnestly",
+    "more eager than ever",
+    "more forward",
+    "so eager",
+    "very earnest",
+    "with much enthusiasm"
   ],
   "G4709": [
     "earnestly",
@@ -39626,6 +39930,13 @@
     "instant",
     "moment"
   ],
+  "G4744": [
+    "dazzling white",
+    "glistering",
+    "radiant",
+    "radiantly white",
+    "shining"
+  ],
   "G4745": [
     "porch",
     "solomon's porch",
@@ -39681,7 +39992,9 @@
     "walk orderly",
     "walkest orderly",
     "live in observance",
-    "live in obedience"
+    "live in obedience",
+    "holdeth",
+    "holdest"
   ],
   "G4749": [
     "robes",
@@ -40977,7 +41290,9 @@
     "died",
     "are dead",
     "die",
-    "die together"
+    "die together",
+    "dieth",
+    "diest"
   ],
   "G4881": [
     "destroy",
@@ -41302,7 +41617,18 @@
     "consent",
     "consented",
     "decide",
-    "decided"
+    "decided",
+    "allow",
+    "have pleasure",
+    "approve",
+    "approved",
+    "approving",
+    "give approval",
+    "giving approval",
+    "give hearty approval",
+    "in hearty agreement",
+    "agreed completely",
+    "in complete agreement"
   ],
   "G4910": [
     "did eat their meat",
@@ -41316,7 +41642,9 @@
     "carouse",
     "eating",
     "eat",
-    "feasting together"
+    "feasting together",
+    "eateth",
+    "eatest"
   ],
   "G4911": [
     "set",
@@ -41443,7 +41771,9 @@
     "travel",
     "went",
     "go",
-    "traveled"
+    "traveled",
+    "goeth",
+    "goest"
   ],
   "G4923": [
     "company",
@@ -41560,7 +41890,9 @@
     "run",
     "join them",
     "plunge",
-    "plunge into"
+    "plunge into",
+    "runneth",
+    "runnest"
   ],
   "G4937": [
     "break",
@@ -41704,6 +42036,19 @@
     "crucified with christ",
     "crucified together with christ",
     "crucified with christ jesus"
+  ],
+  "G4958": [
+    "wound up",
+    "wrapped up",
+    "covered up",
+    "wrapped",
+    "wrapped round",
+    "is short",
+    "has been shortened",
+    "is shortened",
+    "has grown very short",
+    "has grown short",
+    "is very short"
   ],
   "G4959": [
     "groanings",
@@ -41960,7 +42305,9 @@
     "heap",
     "accumulate",
     "gather around",
-    "look"
+    "look",
+    "looketh",
+    "lookest"
   ],
   "G4988": [
     "sosthenes"
@@ -42932,7 +43279,9 @@
     "whosoever",
     "whomsoever",
     "whichsoever",
-    "whatsoever"
+    "whatsoever",
+    "whose",
+    "which one"
   ],
   "G5102": [
     "title",
@@ -44060,7 +44409,9 @@
     "having shod",
     "strapped",
     "weareth",
-    "wearest"
+    "wearest",
+    "bindeth",
+    "bindest"
   ],
   "G5266": [
     "sandals",
@@ -44667,7 +45018,8 @@
     "manifestly",
     "plainly",
     "clearly",
-    "evidently"
+    "evidently",
+    "publicly"
   ],
   "G5321": [
     "manifestation",
@@ -45752,7 +46104,10 @@
   ],
   "G5447": [
     "naturally",
-    "by nature"
+    "by nature",
+    "by instinct",
+    "instinctively",
+    "instincts"
   ],
   "G5448": [
     "puffed up",
@@ -47049,7 +47404,11 @@
     "leaped",
     "leaped for joy",
     "leaped in her womb",
-    "leaped in my womb"
+    "leaped in my womb",
+    "leaping up",
+    "leaped up",
+    "jumped up",
+    "jumping up"
   ],
   "G6011": [
     "needle",
@@ -47057,7 +47416,10 @@
   ],
   "G6013": [
     "fruit",
-    "produce"
+    "produce",
+    "fruits",
+    "harvest",
+    "wine"
   ],
   "G6015": [
     "fear",
@@ -47079,7 +47441,9 @@
     "deriding",
     "ridicule",
     "ridiculed",
-    "ridiculing"
+    "ridiculing",
+    "made fun",
+    "sneered"
   ],
   "G6018": [
     "consider",
@@ -47113,7 +47477,9 @@
     "defame",
     "revile",
     "speak evil",
-    "speak ill"
+    "speak ill",
+    "defamed",
+    "slandered"
   ],
   "G6027": [
     "science",
@@ -47179,6 +47545,10 @@
     "cometh",
     "comest"
   ],
+  "G6037": [
+    "sowed",
+    "planted"
+  ],
   "G6041": [
     "envy",
     "envies",
@@ -47202,7 +47572,9 @@
     "burden",
     "burdened",
     "burdening",
-    "weary"
+    "weary",
+    "overcharged",
+    "dulled"
   ],
   "G6048": [
     "condemnation"
@@ -47274,7 +47646,12 @@
     "knowest",
     "knoweth",
     "understandeth",
-    "understandest"
+    "understandest",
+    "wist",
+    "wot",
+    "realize",
+    "realizes",
+    "realized"
   ],
   "G6064": [
     "household",
@@ -47470,6 +47847,14 @@
   "G8245": [
     "manna"
   ],
+  "G9315": [
+    "assented",
+    "joined in the attack",
+    "joined in the charge",
+    "joined in the accusation",
+    "concurred",
+    "chimed"
+  ],
   "G9402": [
     "humble",
     "humble-minded",
@@ -47487,6 +47872,13 @@
   ],
   "G9836": [
     "taam"
+  ],
+  "G9992": [
+    "for ensamples",
+    "as an example",
+    "as examples",
+    "by way of example",
+    "to serve as an example"
   ],
   "G9996": [
     "exchange",
@@ -47839,7 +48231,14 @@
     "indeed",
     "but",
     "yet",
-    "however"
+    "however",
+    "truly",
+    "verily",
+    "surely",
+    "clearly",
+    "in truth",
+    "no, but",
+    "nay, but"
   ],
   "H0062": [
     "abel",
@@ -47986,7 +48385,9 @@
     "bowed",
     "bowing",
     "bow down",
-    "bowed down"
+    "bowed down",
+    "bow the knee",
+    "make way"
   ],
   "H0087": [
     "abram"
@@ -48008,7 +48409,14 @@
     "band",
     "bands",
     "company",
-    "companies"
+    "companies",
+    "bunch",
+    "bundle",
+    "bonds",
+    "chains",
+    "vault",
+    "troop",
+    "firmament"
   ],
   "H0093": [
     "nut orchard",
@@ -48034,7 +48442,12 @@
   "H0098": [
     "pool",
     "ponds",
-    "pools"
+    "pools",
+    "pool of water",
+    "pools of water",
+    "standing water",
+    "swamps of water",
+    "swampland"
   ],
   "H0099": [
     "grieved"
@@ -48045,7 +48458,10 @@
     "reeds",
     "reed",
     "rushes",
-    "papyrus"
+    "papyrus",
+    "rush",
+    "rope",
+    "cord"
   ],
   "H0101": [
     "bowls",
@@ -48062,7 +48478,11 @@
     "borders"
   ],
   "H0103": [
-    "gathers"
+    "gathers",
+    "gather",
+    "gathereth",
+    "harvests",
+    "gatherest"
   ],
   "H0104": [
     "letter",
@@ -48160,7 +48580,11 @@
     "someone",
     "mankind",
     "humanity",
-    "human beings"
+    "human beings",
+    "humans",
+    "persons",
+    "no one",
+    "no man"
   ],
   "H0121": [
     "adam"
@@ -48391,7 +48815,12 @@
     "shines",
     "shone",
     "shined",
-    "shining"
+    "shining",
+    "shineth",
+    "bright",
+    "brightness",
+    "shed its light",
+    "give its light"
   ],
   "H0167": [
     "moved tent"
@@ -48448,7 +48877,8 @@
     "canal",
     "obal",
     "ubal",
-    "uval"
+    "uval",
+    "river"
   ],
   "H0181": [
     "firebrand",
@@ -48553,7 +48983,9 @@
   "H0202": [
     "manly vigor",
     "wealth",
-    "power"
+    "power",
+    "vigor",
+    "virility"
   ],
   "H0203": [
     "on"
@@ -48712,7 +49144,10 @@
   ],
   "H0230": [
     "assured",
-    "gone"
+    "gone",
+    "firm",
+    "firmly decided",
+    "certain"
   ],
   "H0231": [
     "hyssop",
@@ -48770,7 +49205,12 @@
     "evaporates"
   ],
   "H0236": [
-    "went"
+    "went",
+    "go",
+    "goes",
+    "going",
+    "goeth",
+    "goest"
   ],
   "H0237": [
     "ezel"
@@ -48894,6 +49334,11 @@
   "H0257": [
     "ahban"
   ],
+  "H0258": [
+    "go",
+    "goeth",
+    "goest"
+  ],
   "H0259": [
     "one",
     "same",
@@ -48906,7 +49351,11 @@
     "meadow",
     "meadows",
     "plain",
-    "plains"
+    "plains",
+    "reed grass",
+    "reed-grass",
+    "reeds",
+    "marsh grass"
   ],
   "H0261": [
     "ehud"
@@ -48918,6 +49367,9 @@
     "explanation",
     "interpretation",
     "meaning"
+  ],
+  "H0264": [
+    "brotherhood"
   ],
   "H0265": [
     "ahoah"
@@ -49134,7 +49586,10 @@
   ],
   "H0310": [
     "after",
-    "behind"
+    "behind",
+    "afterward",
+    "later",
+    "some time later"
   ],
   "H0311": [
     "after",
@@ -49254,7 +49709,13 @@
   ],
   "H0328": [
     "gentleness",
-    "softly"
+    "softly",
+    "slowly",
+    "gently",
+    "gentle",
+    "meekly",
+    "dejectedly",
+    "despondently"
   ],
   "H0329": [
     "thorn bush",
@@ -49278,7 +49739,12 @@
     "closed up",
     "sealed",
     "shutteth",
-    "shuttest"
+    "shuttest",
+    "stoppeth",
+    "stops",
+    "stops up",
+    "closes",
+    "close"
   ],
   "H0333": [
     "ater"
@@ -49314,7 +49780,15 @@
   "H0339": [
     "islands",
     "coastland",
-    "coastlands"
+    "coastlands",
+    "isle",
+    "isles",
+    "island",
+    "distant shores",
+    "distant islands",
+    "distant lands",
+    "lands beyond the sea",
+    "lands across the sea"
   ],
   "H0340": [
     "hate",
@@ -49336,7 +49810,13 @@
   ],
   "H0343": [
     "disaster",
-    "calamity"
+    "calamity",
+    "calamities",
+    "destruction",
+    "distress",
+    "misfortune",
+    "ruin",
+    "trouble"
   ],
   "H0344": [
     "hawk",
@@ -49451,7 +49931,11 @@
   "H0366": [
     "majestic",
     "terrible",
-    "dreadful"
+    "dreadful",
+    "awesome",
+    "dreaded",
+    "fearsome",
+    "feared"
   ],
   "H0367": [
     "terror",
@@ -49479,7 +49963,11 @@
     "never",
     "not any",
     "there is nothing",
-    "no man"
+    "no man",
+    "there was no",
+    "there is none",
+    "there was none",
+    "there are none"
   ],
   "H0370": [
     "where"
@@ -49591,10 +50079,15 @@
     "achzib"
   ],
   "H0393": [
-    "cruel"
+    "cruel",
+    "cruel one",
+    "cruel man",
+    "merciless",
+    "one who is cruel"
   ],
   "H0394": [
-    "cruel"
+    "cruel",
+    "heartless"
   ],
   "H0395": [
     "cruelty"
@@ -49673,6 +50166,9 @@
     "certainly",
     "so"
   ],
+  "H0404": [
+    "crave"
+  ],
   "H0405": [
     "burden"
   ],
@@ -49722,7 +50218,8 @@
     "el-beth-el"
   ],
   "H0417": [
-    "hail"
+    "hail",
+    "hailstones"
   ],
   "H0418": [
     "algum",
@@ -49800,7 +50297,9 @@
     "gods"
   ],
   "H0427": [
-    "oak"
+    "oak",
+    "terebinth",
+    "great tree"
   ],
   "H0430": [
     "god",
@@ -50126,7 +50625,9 @@
     "one thousand",
     "thousands",
     "two thousand",
-    "families"
+    "families",
+    "clan",
+    "family"
   ],
   "H0506": [
     "thousand",
@@ -50142,7 +50643,17 @@
   "H0509": [
     "compel",
     "force",
-    "urge"
+    "urge",
+    "urged",
+    "urging",
+    "press",
+    "pressed",
+    "insist",
+    "insisted",
+    "compelled",
+    "prevail upon",
+    "constrain",
+    "constrained"
   ],
   "H0510": [
     "army",
@@ -50227,6 +50738,14 @@
   "H0524": [
     "nations"
   ],
+  "H0525": [
+    "one brought up",
+    "master workman",
+    "master worker",
+    "craftsman",
+    "master craftsman",
+    "architect"
+  ],
   "H0526": [
     "amon"
   ],
@@ -50275,7 +50794,12 @@
   ],
   "H0534": [
     "tree-top",
-    "top"
+    "top",
+    "uppermost bough",
+    "highest bough",
+    "topmost bough",
+    "topmost branches",
+    "highest branches"
   ],
   "H0535": [
     "labor",
@@ -50324,7 +50848,12 @@
   "H0536": [
     "miserable",
     "wretched",
-    "afflicted"
+    "afflicted",
+    "weak",
+    "pining away",
+    "languishing",
+    "faint",
+    "frail"
   ],
   "H0537": [
     "weak",
@@ -50417,7 +50946,14 @@
     "trust",
     "trustworthiness",
     "reliability",
-    "steadfastness"
+    "steadfastness",
+    "sure covenant",
+    "firm covenant",
+    "firm agreement",
+    "binding agreement",
+    "solemn agreement",
+    "agreement",
+    "sealed document"
   ],
   "H0549": [
     "amana"
@@ -50576,7 +51112,11 @@
     "answereth",
     "answerest",
     "declareth",
-    "declarest"
+    "declarest",
+    "respond",
+    "responds",
+    "responded",
+    "responding"
   ],
   "H0561": [
     "word",
@@ -50668,6 +51208,9 @@
   ],
   "H0575": [
     "where"
+  ],
+  "H0576": [
+    "i"
   ],
   "H0577": [
     "beg you"
@@ -50799,7 +51342,12 @@
     "compels",
     "force",
     "forced",
-    "forces"
+    "forces",
+    "compulsion",
+    "urged",
+    "urging",
+    "restrictions",
+    "limits"
   ],
   "H0599": [
     "angry",
@@ -50879,7 +51427,9 @@
     "calamity",
     "disaster",
     "evil",
-    "misery"
+    "misery",
+    "mischief",
+    "tragedy"
   ],
   "H0612": [
     "bond",
@@ -50889,7 +51439,8 @@
     "fetter"
   ],
   "H0614": [
-    "ingathering"
+    "ingathering",
+    "final harvest"
   ],
   "H0615": [
     "prisoners",
@@ -50908,7 +51459,8 @@
   ],
   "H0618": [
     "storehouse",
-    "storehouses"
+    "storehouses",
+    "barns"
   ],
   "H0619": [
     "asnah"
@@ -50982,21 +51534,33 @@
     "storehouse",
     "storehouses",
     "store-house",
-    "store-houses"
+    "store-houses",
+    "asuppim",
+    "gatehouse"
   ],
   "H0625": [
-    "gathering"
+    "gathering",
+    "rereward",
+    "rearward",
+    "rear guard",
+    "protect you from behind"
   ],
   "H0626": [
     "ingathering",
     "gathering"
   ],
   "H0627": [
-    "gathering"
+    "gathering",
+    "assemblies",
+    "collections",
+    "collected sayings"
   ],
   "H0628": [
     "rabble",
-    "mob"
+    "mob",
+    "mixt multitude",
+    "mixed multitude",
+    "foreign rabble"
   ],
   "H0629": [
     "diligently",
@@ -51072,7 +51636,10 @@
     "prohibition"
   ],
   "H0633": [
-    "prohibition"
+    "prohibition",
+    "injunction",
+    "interdict",
+    "decree"
   ],
   "H0634": [
     "esar-",
@@ -51175,7 +51742,10 @@
   ],
   "H0653": [
     "darkness",
-    "gloom"
+    "gloom",
+    "deep darkness",
+    "thick darkness",
+    "gloominess"
   ],
   "H0654": [
     "ephlal"
@@ -51193,7 +51763,9 @@
     "be ended",
     "be finished",
     "ceaseth",
-    "ceasest"
+    "ceasest",
+    "gone",
+    "vanished"
   ],
   "H0657": [
     "end",
@@ -51254,7 +51826,14 @@
     "withhold",
     "restrain",
     "hold back",
-    "forbear"
+    "forbear",
+    "refrained",
+    "restrained",
+    "control",
+    "controlled",
+    "controlling",
+    "withheld",
+    "held back"
   ],
   "H0663": [
     "aphek"
@@ -51271,14 +51850,18 @@
   "H0666": [
     "bandage",
     "plaster",
-    "lint"
+    "lint",
+    "bandages"
   ],
   "H0667": [
     "young ones",
     "young"
   ],
   "H0668": [
-    "chariot"
+    "chariot",
+    "palanquin",
+    "carriage",
+    "sedan chair"
   ],
   "H0669": [
     "ephraim"
@@ -51316,11 +51899,22 @@
     "fingers"
   ],
   "H0678": [
-    "chief"
+    "chief",
+    "nobles",
+    "leaders",
+    "chief men",
+    "farthest corners",
+    "remotest parts"
   ],
   "H0679": [
     "joints",
-    "joint"
+    "joint",
+    "nobles",
+    "leaders",
+    "armholes",
+    "wrists",
+    "elbows",
+    "arms"
   ],
   "H0680": [
     "spare",
@@ -51343,7 +51937,13 @@
     "delivereth",
     "deliverest",
     "remaineth",
-    "remainest"
+    "remainest",
+    "take",
+    "took",
+    "take some",
+    "took some",
+    "taketh",
+    "takest"
   ],
   "H0681": [
     "beside",
@@ -51479,7 +52079,8 @@
   "H0699": [
     "windows",
     "floodgates",
-    "window"
+    "window",
+    "chimney"
   ],
   "H0700": [
     "arubboth",
@@ -51501,7 +52102,10 @@
     "forty"
   ],
   "H0706": [
-    "twice"
+    "twice",
+    "fourfold",
+    "four times over",
+    "four times the value"
   ],
   "H0707": [
     "weaver",
@@ -51523,6 +52127,11 @@
   ],
   "H0710": [
     "purple"
+  ],
+  "H0711": [
+    "purple",
+    "scarlet",
+    "purple robes"
   ],
   "H0712": [
     "box",
@@ -51639,7 +52248,15 @@
     "travel",
     "traveled",
     "travelling",
-    "went"
+    "went",
+    "travelers",
+    "traveller",
+    "travellers",
+    "wayfarer",
+    "wayfarers",
+    "wayfaring man",
+    "wayfaring men",
+    "guest"
   ],
   "H0733": [
     "arah"
@@ -51676,7 +52293,13 @@
     "provision",
     "provisions",
     "meat",
-    "meats"
+    "meats",
+    "dinner",
+    "dish",
+    "meal",
+    "bowl",
+    "victuals",
+    "rations"
   ],
   "H0738": [
     "lion",
@@ -52138,7 +52761,15 @@
     "guilt offering",
     "guilt",
     "compensation",
-    "trespass offering"
+    "trespass offering",
+    "guilt offerings",
+    "guilt-offering",
+    "guilt-offerings",
+    "trespass offerings",
+    "offering for guilt",
+    "offerings for guilt",
+    "offering for sin",
+    "offerings for sin"
   ],
   "H0818": [
     "guilty"
@@ -52184,7 +52815,8 @@
     "diviners"
   ],
   "H0826": [
-    "conjurers"
+    "conjurers",
+    "enchanters"
   ],
   "H0827": [
     "quiver",
@@ -52270,6 +52902,15 @@
     "step",
     "footstep",
     "footsteps"
+  ],
+  "H0839": [
+    "pine",
+    "pine tree",
+    "pine-tree",
+    "box",
+    "box tree",
+    "box-tree",
+    "cypress"
   ],
   "H0840": [
     "asarel"
@@ -52686,14 +53327,23 @@
     "empty talkers"
   ],
   "H0908": [
-    "devise"
+    "devise",
+    "devised",
+    "feignest",
+    "inventing",
+    "making it up"
   ],
   "H0909": [
     "isolated",
     "alone"
   ],
   "H0910": [
-    "alone"
+    "alone",
+    "solitary",
+    "lonely",
+    "deserted",
+    "apart",
+    "isolation"
   ],
   "H0911": [
     "bedad"
@@ -52761,7 +53411,9 @@
     "damage",
     "leaks",
     "breach",
-    "breaches"
+    "breaches",
+    "damages",
+    "repairs"
   ],
   "H0920": [
     "bidkar"
@@ -53124,7 +53776,9 @@
     "wells",
     "own cistern",
     "well",
-    "pits"
+    "pits",
+    "cisterns",
+    "dungeon"
   ],
   "H0954": [
     "ashamed",
@@ -53977,7 +54631,8 @@
   ],
   "H1070": [
     "young camel",
-    "young camels"
+    "young camels",
+    "dromedaries"
   ],
   "H1071": [
     "beker",
@@ -54002,7 +54657,8 @@
     "not",
     "lest",
     "so that not",
-    "that not"
+    "that not",
+    "never"
   ],
   "H1078": [
     "bel"
@@ -54045,7 +54701,11 @@
     "rejoice",
     "cheer",
     "rejoiceth",
-    "rejoicest"
+    "rejoicest",
+    "comfort myself",
+    "take comfort",
+    "smile",
+    "have a moment's joy"
   ],
   "H1083": [
     "bilgah"
@@ -54149,14 +54809,21 @@
     "hold in check",
     "curbed",
     "controlled",
-    "keep under control"
+    "keep under control",
+    "holdeth",
+    "holdest"
   ],
   "H1103": [
     "gather",
     "gathered",
     "gathering",
     "gathereth",
-    "gatherest"
+    "gatherest",
+    "gatherer",
+    "grower",
+    "dresser",
+    "take care",
+    "took care"
   ],
   "H1104": [
     "swallow",
@@ -54192,6 +54859,9 @@
     "swalloweth",
     "taketh",
     "takest"
+  ],
+  "H1105": [
+    "bela"
   ],
   "H1106": [
     "bela"
@@ -54298,7 +54968,13 @@
   ],
   "H1123": [
     "son",
-    "sons"
+    "sons",
+    "children",
+    "descendant",
+    "descendants",
+    "people",
+    "exiles",
+    "seed"
   ],
   "H1124": [
     "build",
@@ -54403,7 +55079,8 @@
     "sons of jaakan"
   ],
   "H1143": [
-    "champions"
+    "champions",
+    "champion"
   ],
   "H1144": [
     "benjamin"
@@ -54539,7 +55216,11 @@
   ],
   "H1165": [
     "livestock",
-    "cattle"
+    "cattle",
+    "beast",
+    "beasts",
+    "animal",
+    "animals"
   ],
   "H1166": [
     "married",
@@ -54558,7 +55239,14 @@
     "possessor",
     "baal",
     "ba'al",
-    "lord"
+    "lord",
+    "lords",
+    "leaders",
+    "ally",
+    "allies",
+    "confederate",
+    "archers",
+    "possessors"
   ],
   "H1168": [
     "baal",
@@ -54581,7 +55269,10 @@
   "H1172": [
     "owner",
     "mistress",
-    "wife"
+    "wife",
+    "lady",
+    "queen",
+    "owned"
   ],
   "H1173": [
     "baalah"
@@ -54690,7 +55381,12 @@
     "burneth",
     "burnest",
     "removeth",
-    "removest"
+    "removest",
+    "burn up",
+    "burned up",
+    "consume",
+    "consuming",
+    "set on fire"
   ],
   "H1198": [
     "stupid"
@@ -54711,7 +55407,9 @@
   "H1204": [
     "terrify",
     "terrified",
-    "overwhelmed"
+    "overwhelmed",
+    "terrifiest",
+    "make afraid"
   ],
   "H1205": [
     "terror"
@@ -54727,6 +55425,9 @@
     "swamps",
     "fens",
     "marishes"
+  ],
+  "H1208": [
+    "old-growth"
   ],
   "H1209": [
     "bezai",
@@ -55009,13 +55710,15 @@
     "herd",
     "ox",
     "herds",
-    "oxen"
+    "oxen",
+    "beeves"
   ],
   "H1242": [
     "morning",
     "mornings",
     "morn",
-    "dawn"
+    "dawn",
+    "daybreak"
   ],
   "H1243": [
     "enquire",
@@ -55027,7 +55730,12 @@
   ],
   "H1244": [
     "scourging",
-    "scourge"
+    "scourge",
+    "stripes",
+    "beatings",
+    "beating",
+    "flogging",
+    "beaten"
   ],
   "H1245": [
     "seek",
@@ -55092,10 +55800,12 @@
   ],
   "H1249": [
     "pure",
-    "clean"
+    "clean",
+    "purified"
   ],
   "H1250": [
-    "grain"
+    "grain",
+    "corn"
   ],
   "H1251": [
     "field"
@@ -55131,7 +55841,11 @@
     "beraiah"
   ],
   "H1257": [
-    "bitterns"
+    "bitterns",
+    "fatted fowl",
+    "fattened fowl",
+    "choice fowl",
+    "choice poultry"
   ],
   "H1258": [
     "hail",
@@ -55352,7 +56066,15 @@
   ],
   "H1300": [
     "lightning",
-    "lightning flashes"
+    "lightning flashes",
+    "lightnings",
+    "flashing",
+    "glittering",
+    "lightning bolts",
+    "bolts of lightning",
+    "flashes of lightning",
+    "flash of lightning",
+    "lightning flash"
   ],
   "H1301": [
     "barak"
@@ -55541,7 +56263,11 @@
     "flesh",
     "meat",
     "body",
-    "own flesh"
+    "own flesh",
+    "bodies",
+    "mankind",
+    "creature",
+    "creatures"
   ],
   "H1321": [
     "flesh",
@@ -55613,7 +56339,9 @@
     "cut up",
     "cut in pieces",
     "cut into pieces",
-    "cut to pieces"
+    "cut to pieces",
+    "chop in pieces",
+    "chop up"
   ],
   "H1334": [
     "cut up",
@@ -55768,7 +56496,10 @@
     "ransoms",
     "kinsman-redeemer",
     "kinsman redeemer",
-    "buy back"
+    "buy back",
+    "polluted",
+    "stain",
+    "stained"
   ],
   "H1352": [
     "redeemer",
@@ -55921,6 +56652,13 @@
     "valor",
     "valiant acts",
     "valour"
+  ],
+  "H1370": [
+    "strength",
+    "power",
+    "might",
+    "mighty acts",
+    "mighty deeds"
   ],
   "H1371": [
     "bald"
@@ -56159,7 +56897,11 @@
     "cut in sunder",
     "cut to pieces",
     "cutteth",
-    "cuttest"
+    "cuttest",
+    "gash",
+    "gashed",
+    "slash",
+    "slashed"
   ],
   "H1414": [
     "cut down",
@@ -56487,7 +57229,8 @@
     "midst"
   ],
   "H1460": [
-    "back"
+    "back",
+    "backs"
   ],
   "H1462": [
     "locusts"
@@ -56939,6 +57682,15 @@
     "rushes against",
     "surges"
   ],
+  "H1519": [
+    "brake forth",
+    "burst forth",
+    "burst out",
+    "took me",
+    "took me out",
+    "brought me out",
+    "brought me forth"
+  ],
   "H1520": [
     "giah"
   ],
@@ -57218,7 +57970,11 @@
     "dung"
   ],
   "H1558": [
-    "account"
+    "account",
+    "because",
+    "on account",
+    "for the sake",
+    "by reason"
   ],
   "H1559": [
     "galal"
@@ -57300,7 +58056,17 @@
     "drink",
     "drink up",
     "drinketh",
-    "drinkest"
+    "drinkest",
+    "swalloweth",
+    "swallows",
+    "drinketh up",
+    "eats up",
+    "races over",
+    "devours",
+    "rushes against",
+    "surges against",
+    "surges toward",
+    "rushes"
   ],
   "H1573": [
     "papyrus",
@@ -57484,12 +58250,21 @@
   "H1599": [
     "ginnethon"
   ],
+  "H1600": [
+    "low",
+    "lows",
+    "lowed",
+    "lowing",
+    "loweth"
+  ],
   "H1601": [
     "goah"
   ],
   "H1602": [
     "abhor",
-    "loathed"
+    "loathed",
+    "abhors",
+    "abhorred"
   ],
   "H1603": [
     "gaal"
@@ -57728,7 +58503,15 @@
     "drew",
     "drawn",
     "draweth",
-    "drawest"
+    "drawest",
+    "drags",
+    "drag away",
+    "drag off",
+    "chew",
+    "chews",
+    "chewed",
+    "saw",
+    "sawed"
   ],
   "H1642": [
     "gerar"
@@ -57835,7 +58618,8 @@
     "rained",
     "raining",
     "raineth",
-    "rainy"
+    "rainy",
+    "bodies"
   ],
   "H1656": [
     "rain"
@@ -57949,6 +58733,11 @@
     "swoops down",
     "swooping down"
   ],
+  "H1676": [
+    "glede",
+    "kite",
+    "red kite"
+  ],
   "H1677": [
     "bear",
     "bears"
@@ -57979,7 +58768,14 @@
     "false reports",
     "evil reports",
     "report",
-    "reports"
+    "reports",
+    "unfavorable report",
+    "defaming",
+    "ill repute",
+    "infamy",
+    "bad reputation",
+    "rumor",
+    "rumors"
   ],
   "H1682": [
     "bees",
@@ -58220,7 +59016,17 @@
     "message",
     "messages",
     "sayings",
-    "reports"
+    "reports",
+    "promise",
+    "promises",
+    "affair",
+    "affairs",
+    "cases",
+    "causes",
+    "speech",
+    "speeches",
+    "event",
+    "events"
   ],
   "H1698": [
     "pestilence",
@@ -58275,6 +59081,11 @@
     "great fish",
     "huge fish"
   ],
+  "H1711": [
+    "grow into a multitude",
+    "increase greatly",
+    "multiply"
+  ],
   "H1712": [
     "dagon"
   ],
@@ -58313,7 +59124,10 @@
   ],
   "H1716": [
     "brood",
-    "sit upon"
+    "sit upon",
+    "hatch",
+    "hatches",
+    "hatcheth"
   ],
   "H1717": [
     "nipples",
@@ -58717,7 +59531,8 @@
     "judgment",
     "dispute",
     "case",
-    "din"
+    "din",
+    "court"
   ],
   "H1780": [
     "court",
@@ -58944,7 +59759,14 @@
     "be kindled",
     "set on fire",
     "burneth",
-    "burnest"
+    "burnest",
+    "set fire",
+    "lit",
+    "ignited",
+    "pursued",
+    "pressed hard",
+    "fiery",
+    "flaming"
   ],
   "H1815": [
     "burn",
@@ -59001,7 +59823,19 @@
     "destroyed",
     "cease",
     "ceaseth",
-    "ceasest"
+    "ceasest",
+    "destroy",
+    "cut off",
+    "undone",
+    "ruined",
+    "perish",
+    "lost",
+    "swept away",
+    "doomed",
+    "destroyeth",
+    "destroyest",
+    "perisheth",
+    "perishest"
   ],
   "H1821": [
     "like",
@@ -59430,7 +60264,14 @@
     "grow",
     "shoot forth",
     "groweth",
-    "growest"
+    "growest",
+    "produce",
+    "bring forth",
+    "put forth",
+    "spring",
+    "are green",
+    "have turned green",
+    "are becoming green"
   ],
   "H1877": [
     "vegetation",
@@ -59475,7 +60316,11 @@
   ],
   "H1882": [
     "law",
-    "decree"
+    "decree",
+    "laws",
+    "decrees",
+    "edict",
+    "edicts"
   ],
   "H1883": [
     "grass"
@@ -59739,7 +60584,11 @@
   "H1926": [
     "splendor",
     "majesty",
-    "honor"
+    "honor",
+    "honour",
+    "beauty",
+    "comeliness",
+    "excellency"
   ],
   "H1927": [
     "adornment",
@@ -59783,6 +60632,21 @@
     "become",
     "becomes",
     "became",
+    "becometh",
+    "becomest"
+  ],
+  "H1934": [
+    "be",
+    "was",
+    "were",
+    "being",
+    "been",
+    "become",
+    "became",
+    "becomes",
+    "becoming",
+    "will be",
+    "shall be",
     "becometh",
     "becomest"
   ],
@@ -60028,7 +60892,10 @@
     "heman"
   ],
   "H1969": [
-    "hin"
+    "hin",
+    "quart",
+    "quarts",
+    "gallon"
   ],
   "H1970": [
     "wrong"
@@ -60363,7 +61230,8 @@
   ],
   "H2006": [
     "whether",
-    "therefore"
+    "therefore",
+    "if"
   ],
   "H2007": [
     "they"
@@ -60576,7 +61444,11 @@
     "conception",
     "pregnancy",
     "pregnant",
-    "with child"
+    "with child",
+    "conceive",
+    "childbearing",
+    "childbirth",
+    "become pregnant"
   ],
   "H2033": [
     "harori"
@@ -60692,7 +61564,16 @@
     "mocking",
     "mockery",
     "make fun",
-    "make a mock"
+    "make a mock",
+    "taunt",
+    "taunted",
+    "deceives",
+    "deceiving",
+    "make a fool",
+    "made a fool",
+    "making a fool",
+    "made fun",
+    "making fun"
   ],
   "H2049": [
     "mockery",
@@ -60717,7 +61598,9 @@
     "hook"
   ],
   "H2054": [
-    "guilty"
+    "guilty",
+    "strange",
+    "laden with guilt"
   ],
   "H2055": [
     "vaizatha"
@@ -60850,7 +61733,13 @@
     "honor",
     "honour",
     "honoureth",
-    "honourest"
+    "honourest",
+    "dwell",
+    "treat with honor",
+    "respect",
+    "treat with respect",
+    "dwelleth",
+    "dwellest"
   ],
   "H2083": [
     "zebul"
@@ -60919,6 +61808,11 @@
     "caution",
     "took warning"
   ],
+  "H2095": [
+    "take heed",
+    "take care",
+    "see that"
+  ],
   "H2096": [
     "brightness"
   ],
@@ -60969,7 +61863,9 @@
   ],
   "H2107": [
     "despise",
-    "despised"
+    "despised",
+    "lavish",
+    "pour out"
   ],
   "H2108": [
     "except",
@@ -60991,7 +61887,9 @@
     "tremor",
     "fear",
     "dread",
-    "terror"
+    "terror",
+    "horror",
+    "shuddering"
   ],
   "H2114": [
     "stranger",
@@ -61024,7 +61922,8 @@
     "sojourn"
   ],
   "H2116": [
-    "crushed"
+    "crushed",
+    "broken"
   ],
   "H2117": [
     "zaza"
@@ -61057,7 +61956,12 @@
   ],
   "H2122": [
     "brightness",
-    "splendor"
+    "splendor",
+    "appearance",
+    "countenance",
+    "face",
+    "color",
+    "shining"
   ],
   "H2123": [
     "moving creature",
@@ -61065,7 +61969,16 @@
     "living creature",
     "moving thing",
     "thing that moveth",
-    "moving"
+    "moving",
+    "wild beast",
+    "wild beasts",
+    "all that moves",
+    "all that move",
+    "everything that moves",
+    "creatures",
+    "insects",
+    "animals",
+    "wild animals"
   ],
   "H2124": [
     "ziza"
@@ -61095,7 +62008,14 @@
     "dart",
     "darts",
     "missile",
-    "missiles"
+    "missiles",
+    "firebrand",
+    "torch",
+    "torches",
+    "sparks",
+    "flaming torches",
+    "burning torches",
+    "flaming arrows"
   ],
   "H2132": [
     "olive",
@@ -61128,7 +62048,8 @@
     "kept pure",
     "clean",
     "cleanse",
-    "be clean"
+    "be clean",
+    "cleansed"
   ],
   "H2136": [
     "innocence",
@@ -61157,7 +62078,8 @@
     "be pure",
     "purged",
     "be purified",
-    "make clean"
+    "make clean",
+    "clear"
   ],
   "H2142": [
     "remember",
@@ -61202,7 +62124,9 @@
   ],
   "H2145": [
     "male",
-    "males"
+    "males",
+    "male child",
+    "man child"
   ],
   "H2146": [
     "memorial",
@@ -61260,7 +62184,10 @@
   ],
   "H2156": [
     "branch",
-    "vine branch"
+    "vine branch",
+    "vine-branch",
+    "slips",
+    "vine slips"
   ],
   "H2157": [
     "zamzummim",
@@ -61316,7 +62243,12 @@
     "consented"
   ],
   "H2165": [
-    "appointed time"
+    "appointed time",
+    "time",
+    "season",
+    "seasons",
+    "epochs",
+    "periods"
   ],
   "H2166": [
     "time",
@@ -61366,7 +62298,12 @@
     "singing",
     "singings",
     "melody",
-    "melodies"
+    "melodies",
+    "psalm",
+    "sing",
+    "might",
+    "defense",
+    "melodious song"
   ],
   "H2174": [
     "zimri"
@@ -61446,7 +62383,13 @@
     "sexual sins",
     "whoredom",
     "whoredoms",
-    "harlotry"
+    "harlotry",
+    "whorings",
+    "harlotries",
+    "promiscuity",
+    "promiscuous",
+    "unfaithfulness",
+    "wanton lust"
   ],
   "H2184": [
     "prostitution",
@@ -61656,7 +62599,14 @@
     "old",
     "older",
     "elder",
-    "aged"
+    "aged",
+    "elderly",
+    "ancient",
+    "ancients",
+    "old man",
+    "old men",
+    "old woman",
+    "old women"
   ],
   "H2206": [
     "beard",
@@ -61688,7 +62638,11 @@
     "lift up",
     "lifted up",
     "raiseth",
-    "raisest"
+    "raisest",
+    "raiseth up",
+    "raises up",
+    "lifts up",
+    "lifts"
   ],
   "H2211": [
     "raise",
@@ -61703,7 +62657,9 @@
     "setteth",
     "settest",
     "lifteth",
-    "liftest"
+    "liftest",
+    "impaled",
+    "hanged"
   ],
   "H2212": [
     "purified",
@@ -61713,7 +62669,8 @@
     "refining",
     "purify",
     "purifies",
-    "purifying"
+    "purifying",
+    "fine"
   ],
   "H2213": [
     "molding",
@@ -61835,7 +62792,8 @@
     "rainstorm",
     "storm",
     "tempest",
-    "whirlwind"
+    "whirlwind",
+    "showers"
   ],
   "H2231": [
     "ejaculation",
@@ -61843,7 +62801,11 @@
     "issue",
     "flow",
     "vaginal discharge",
-    "uncontrollable bleeding"
+    "uncontrollable bleeding",
+    "emission",
+    "filthiness",
+    "lewdness",
+    "lust"
   ],
   "H2232": [
     "sow",
@@ -61854,7 +62816,9 @@
     "sower",
     "sowing",
     "sowest",
-    "soweth"
+    "soweth",
+    "planted",
+    "planting"
   ],
   "H2233": [
     "seed",
@@ -61980,7 +62944,15 @@
   ],
   "H2250": [
     "wound",
-    "wounds"
+    "wounds",
+    "bruise",
+    "bruises",
+    "welt",
+    "welts",
+    "stripe",
+    "stripes",
+    "scourging",
+    "whipped"
   ],
   "H2251": [
     "beat out",
@@ -62330,7 +63302,13 @@
     "girding",
     "gird up",
     "gird up your loins",
-    "gird yourselves"
+    "gird yourselves",
+    "girdle",
+    "girdles",
+    "belt",
+    "belts",
+    "sash",
+    "sashes"
   ],
   "H2290": [
     "belt"
@@ -62387,6 +63365,9 @@
   "H2297": [
     "one"
   ],
+  "H2298": [
+    "one"
+  ],
   "H2299": [
     "sharp"
   ],
@@ -62394,7 +63375,9 @@
     "sharpened",
     "sharpen",
     "sharpening",
-    "whet"
+    "whet",
+    "sharpens",
+    "sharpeneth"
   ],
   "H2301": [
     "hadad"
@@ -62580,7 +63563,14 @@
     "surrounded"
   ],
   "H2329": [
-    "circle"
+    "circle",
+    "compass",
+    "circuit",
+    "vault",
+    "horizon",
+    "dome",
+    "vaulted heavens",
+    "firmament"
   ],
   "H2330": [
     "riddle",
@@ -62596,7 +63586,15 @@
     "eve"
   ],
   "H2333": [
-    "villages"
+    "villages",
+    "havothjair",
+    "bashanhavothjair",
+    "havvoth-jair",
+    "bashan-havvoth-jair",
+    "havvoth jair",
+    "towns of jair",
+    "villages of jair",
+    "settlements of jair"
   ],
   "H2334": [
     "jair",
@@ -62626,7 +63624,9 @@
   ],
   "H2339": [
     "thread",
-    "line"
+    "line",
+    "cord",
+    "ribbon"
   ],
   "H2340": [
     "hivite",
@@ -62746,6 +63746,12 @@
     "cavern",
     "caverns"
   ],
+  "H2353": [
+    "white",
+    "white cotton",
+    "white cotton curtains",
+    "fine white"
+  ],
   "H2354": [
     "hur"
   ],
@@ -62763,7 +63769,13 @@
   ],
   "H2356": [
     "hole",
-    "holes"
+    "holes",
+    "hole of the door",
+    "hole in the wall",
+    "opening",
+    "latch-opening",
+    "latch opening",
+    "latch"
   ],
   "H2358": [
     "white"
@@ -63005,7 +64017,10 @@
     "strong",
     "mighty",
     "hard",
-    "severe"
+    "severe",
+    "stronger",
+    "loud",
+    "powerful"
   ],
   "H2390": [
     "strong",
@@ -63101,7 +64116,11 @@
     "sin offerings",
     "punishment for sin",
     "sin-offering",
-    "sin-offerings"
+    "sin-offerings",
+    "offering for sin",
+    "offerings for sin",
+    "purification offering",
+    "purification offerings"
   ],
   "H2404": [
     "cutters",
@@ -63220,7 +64239,11 @@
   ],
   "H2417": [
     "living",
-    "life"
+    "life",
+    "alive",
+    "live",
+    "running",
+    "fresh"
   ],
   "H2418": [
     "live",
@@ -63491,7 +64514,10 @@
     "wiser",
     "wisest",
     "wise woman",
-    "wise women"
+    "wise women",
+    "wise-hearted",
+    "skilled",
+    "skilful"
   ],
   "H2451": [
     "wisdom",
@@ -63510,7 +64536,10 @@
   ],
   "H2455": [
     "profane thing",
-    "profaneness"
+    "profaneness",
+    "common",
+    "profane",
+    "unholy"
   ],
   "H2456": [
     "sick",
@@ -63786,7 +64815,11 @@
   "H2491": [
     "slain",
     "fatally wounded",
-    "profaned"
+    "profaned",
+    "wounded",
+    "victim",
+    "victims",
+    "slaughtered"
   ],
   "H2492": [
     "dreams",
@@ -64166,7 +65199,14 @@
     "rage",
     "anger",
     "venom",
-    "wrath"
+    "wrath",
+    "fury",
+    "heat",
+    "poison",
+    "fierceness",
+    "hot anger",
+    "hot displeasure",
+    "burning anger"
   ],
   "H2535": [
     "sun",
@@ -64311,7 +65351,11 @@
   ],
   "H2555": [
     "violence",
-    "injustice"
+    "injustice",
+    "violent",
+    "cruelty",
+    "wrong",
+    "wrongdoing"
   ],
   "H2556": [
     "leavened",
@@ -64407,7 +65451,9 @@
     "fifth"
   ],
   "H2570": [
-    "belly"
+    "belly",
+    "stomach",
+    "fifth rib"
   ],
   "H2571": [
     "arrayed for battle",
@@ -64667,10 +65713,17 @@
     "profaning"
   ],
   "H2611": [
-    "godless"
+    "godless",
+    "hypocrite",
+    "hypocrites",
+    "hypocritical",
+    "profane"
   ],
   "H2612": [
-    "profaneness"
+    "profaneness",
+    "ungodliness",
+    "godlessness",
+    "wickedness"
   ],
   "H2613": [
     "profaneness"
@@ -65195,7 +66248,8 @@
   ],
   "H2682": [
     "grass",
-    "herbage"
+    "herbage",
+    "hay"
   ],
   "H2683": [
     "bosom"
@@ -65216,7 +66270,9 @@
     "hasty",
     "hastily",
     "be hasty",
-    "rashly"
+    "rashly",
+    "urgent",
+    "demanded"
   ],
   "H2686": [
     "divide",
@@ -65230,7 +66286,8 @@
     "parting"
   ],
   "H2687": [
-    "gravel"
+    "gravel",
+    "gravel stones"
   ],
   "H2688": [
     "hazezon",
@@ -65742,6 +66799,11 @@
   "H2745": [
     "harhas"
   ],
+  "H2746": [
+    "extreme burning",
+    "fiery heat",
+    "scorching heat"
+  ],
   "H2747": [
     "stylus",
     "graving tool",
@@ -65802,7 +66864,8 @@
     "hariph"
   ],
   "H2757": [
-    "incision"
+    "incision",
+    "furrows"
   ],
   "H2758": [
     "plowing",
@@ -65959,7 +67022,10 @@
     "blaspheming"
   ],
   "H2779": [
-    "winter"
+    "winter",
+    "autumn",
+    "cold",
+    "season"
   ],
   "H2780": [
     "chareph"
@@ -66098,7 +67164,25 @@
   "H2796": [
     "craftsmen",
     "craftsman",
-    "engraver"
+    "engraver",
+    "artisan",
+    "artisans",
+    "workman",
+    "workmen",
+    "smiths",
+    "blacksmith",
+    "blacksmiths",
+    "carpenter",
+    "carpenters",
+    "engravers",
+    "artificer",
+    "artificers",
+    "metalworker",
+    "metalworkers",
+    "wood-carver",
+    "wood-carvers",
+    "ironsmith",
+    "ironsmiths"
   ],
   "H2797": [
     "harsha",
@@ -66551,7 +67635,13 @@
     "seal",
     "puts a seal",
     "seals",
-    "sealing"
+    "sealing",
+    "seals up",
+    "seal off",
+    "seals off",
+    "sealed off",
+    "sealeth",
+    "sealeth up"
   ],
   "H2858": [
     "signet",
@@ -66618,7 +67708,8 @@
   "H2869": [
     "good",
     "well",
-    "pleasant"
+    "pleasant",
+    "best"
   ],
   "H2870": [
     "tabeel"
@@ -66704,7 +67795,8 @@
     "drown",
     "drowns",
     "drowned",
-    "drowning"
+    "drowning",
+    "sunk down"
   ],
   "H2884": [
     "tabbaoth"
@@ -66769,7 +67861,10 @@
   "H2892": [
     "purification",
     "purity",
-    "cleanness"
+    "cleanness",
+    "clearness",
+    "clear",
+    "clarity"
   ],
   "H2893": [
     "purification",
@@ -66817,7 +67912,10 @@
     "fine",
     "goodness",
     "better",
-    "kind"
+    "kind",
+    "best",
+    "goodly",
+    "merry"
   ],
   "H2897": [
     "tob"
@@ -66870,7 +67968,12 @@
     "phylacteries",
     "phylactery",
     "frontlets",
-    "frontlet"
+    "frontlet",
+    "frontals",
+    "symbols",
+    "reminder",
+    "reminders",
+    "emblem"
   ],
   "H2904": [
     "threw",
@@ -66922,7 +68025,10 @@
     "inward parts",
     "inner parts",
     "inmost being",
-    "innermost being"
+    "innermost being",
+    "inward being",
+    "heart",
+    "womb"
   ],
   "H2911": [
     "grinding",
@@ -66932,7 +68038,8 @@
     "grind",
     "ground",
     "grinding",
-    "grinds"
+    "grinds",
+    "grinder"
   ],
   "H2913": [
     "mill",
@@ -66961,7 +68068,11 @@
     "encampments",
     "encampment",
     "camp",
-    "camps"
+    "camps",
+    "village",
+    "villages",
+    "settlements",
+    "castles"
   ],
   "H2919": [
     "dew",
@@ -67135,7 +68246,9 @@
   "H2939": [
     "feed",
     "fed",
-    "feeding"
+    "feeding",
+    "nourish",
+    "nourished"
   ],
   "H2940": [
     "taste",
@@ -67191,7 +68304,8 @@
     "reach out",
     "reached out",
     "spreadeth",
-    "spreadest"
+    "spreadest",
+    "spanned"
   ],
   "H2947": [
     "hand breadth",
@@ -67217,7 +68331,9 @@
     "plaster",
     "whitewash",
     "whitewashed",
-    "covered"
+    "covered",
+    "forgers",
+    "smear"
   ],
   "H2951": [
     "officer",
@@ -67258,7 +68374,10 @@
     "pursue",
     "pursued",
     "pursuing",
-    "pursues"
+    "pursues",
+    "drive",
+    "driven",
+    "driven away"
   ],
   "H2957": [
     "chased",
@@ -67347,7 +68466,11 @@
     "torn flesh",
     "torn",
     "torn by beasts",
-    "torn by wild animals"
+    "torn by wild animals",
+    "torn of beasts",
+    "torn with beasts",
+    "torn by animals",
+    "torn by wild beasts"
   ],
   "H2967": [
     "tarpelai",
@@ -67370,7 +68493,14 @@
     "fit",
     "it was fitting",
     "it seemed good",
-    "it seemed fitting"
+    "it seemed fitting",
+    "becometh",
+    "comely",
+    "befits",
+    "fitting",
+    "becoming",
+    "adorns",
+    "adornment"
   ],
   "H2970": [
     "jaazaniah"
@@ -67429,7 +68559,11 @@
   "H2980": [
     "cry",
     "crieth",
-    "criest"
+    "criest",
+    "cried",
+    "cried out",
+    "wailed",
+    "lamented"
   ],
   "H2981": [
     "produce",
@@ -67503,7 +68637,13 @@
     "bringest"
   ],
   "H2988": [
-    "watercourses"
+    "watercourses",
+    "stream",
+    "streams",
+    "river",
+    "rivers",
+    "water courses",
+    "riverbank"
   ],
   "H2989": [
     "jabal"
@@ -67512,7 +68652,12 @@
     "running",
     "running water",
     "stream",
-    "torrent"
+    "torrent",
+    "water courses",
+    "watercourses",
+    "streams of water",
+    "flowing streams",
+    "riverbank"
   ],
   "H2991": [
     "ibleam"
@@ -67524,7 +68669,12 @@
     "be husband unto her",
     "be an husband unto her",
     "perform the duty of a husband's brother",
-    "fulfill the duty of a husband's brother"
+    "fulfill the duty of a husband's brother",
+    "perform the duty of a brother-in-law",
+    "perform the duty of an husband's brother",
+    "fulfill the duty of a brother-in-law",
+    "fulfill the duties of a brother-in-law",
+    "marry her"
   ],
   "H2993": [
     "husband's brother",
@@ -67634,7 +68784,10 @@
     "suffereth",
     "sufferest",
     "laboureth",
-    "labourest"
+    "labourest",
+    "grieve",
+    "grief",
+    "sorrow"
   ],
   "H3015": [
     "sorrow",
@@ -67737,7 +68890,9 @@
   ],
   "H3028": [
     "hand",
-    "hands"
+    "hands",
+    "power",
+    "control"
   ],
   "H3029": [
     "praise",
@@ -67969,7 +69124,10 @@
     "givest"
   ],
   "H3054": [
-    "became jews"
+    "became jews",
+    "declared themselves jews",
+    "professed to be jews",
+    "became jews themselves"
   ],
   "H3055": [
     "jehud",
@@ -68115,7 +69273,8 @@
   ],
   "H3095": [
     "emerald",
-    "jasper"
+    "jasper",
+    "diamond"
   ],
   "H3096": [
     "jahaz"
@@ -68222,7 +69381,8 @@
     "this day",
     "that day",
     "these days",
-    "today"
+    "today",
+    "daily"
   ],
   "H3119": [
     "day",
@@ -68274,7 +69434,11 @@
     "sucking child",
     "nursing child",
     "nursing infant",
-    "infant"
+    "infant",
+    "tender plant",
+    "tender shoot",
+    "young plant",
+    "tender green shoot"
   ],
   "H3127": [
     "young shoot",
@@ -68377,7 +69541,8 @@
     "jezaniah"
   ],
   "H3154": [
-    "sweat"
+    "sweat",
+    "perspire"
   ],
   "H3155": [
     "izrahite"
@@ -68781,7 +69946,8 @@
     "girl",
     "maid",
     "maiden",
-    "young woman"
+    "young woman",
+    "girls"
   ],
   "H3208": [
     "youth"
@@ -68829,9 +69995,17 @@
     "lamentations",
     "mourning"
   ],
+  "H3216": [
+    "proclaimeth",
+    "proclaims",
+    "blurts out",
+    "broadcasts"
+  ],
   "H3217": [
     "scabs",
-    "scab"
+    "scab",
+    "scabbed",
+    "running sores"
   ],
   "H3218": [
     "locust",
@@ -68896,7 +70070,10 @@
     "right hand",
     "at my right hand",
     "on my right",
-    "right beside me"
+    "right beside me",
+    "right-hand",
+    "right side",
+    "right-hand side"
   ],
   "H3228": [
     "jaminite"
@@ -68939,7 +70116,16 @@
     "exchange",
     "exchanged",
     "change",
-    "changed"
+    "changed",
+    "changeth",
+    "keeps",
+    "keep",
+    "stand",
+    "traded",
+    "keepeth",
+    "keepest",
+    "standeth",
+    "standest"
   ],
   "H3236": [
     "imrah"
@@ -69021,7 +70207,8 @@
   ],
   "H3246": [
     "foundation",
-    "foundations"
+    "foundations",
+    "beginning"
   ],
   "H3247": [
     "base",
@@ -69244,7 +70431,8 @@
     "cause"
   ],
   "H3283": [
-    "ostrich"
+    "ostrich",
+    "ostriches"
   ],
   "H3284": [
     "ostrich",
@@ -69270,12 +70458,20 @@
     "grow faint",
     "waxed faint",
     "tire",
-    "tired"
+    "tired",
+    "fainteth",
+    "be faint",
+    "grow tired",
+    "grows tired",
+    "grow weak",
+    "grows weak",
+    "become weak"
   ],
   "H3287": [
     "weary",
     "wearied",
-    "tired"
+    "tired",
+    "faint"
   ],
   "H3288": [
     "weariness"
@@ -69416,7 +70612,10 @@
     "shine",
     "shines",
     "shone",
-    "shining"
+    "shining",
+    "shined",
+    "shines forth",
+    "shined forth"
   ],
   "H3314": [
     "splendor",
@@ -69572,6 +70771,11 @@
     "take their stand",
     "set up"
   ],
+  "H3321": [
+    "know",
+    "knoweth",
+    "knowest"
+  ],
   "H3322": [
     "set",
     "placed",
@@ -69621,7 +70825,9 @@
     "firm",
     "established",
     "fixed",
-    "secure"
+    "secure",
+    "true",
+    "certainly"
   ],
   "H3331": [
     "spread as a bed"
@@ -69697,7 +70903,15 @@
     "fashioned",
     "fashioning",
     "molded",
-    "moulded"
+    "moulded",
+    "fashions",
+    "frame",
+    "frames",
+    "framed",
+    "frameth",
+    "framing",
+    "potter's",
+    "former"
   ],
   "H3336": [
     "inclination",
@@ -69759,7 +70973,10 @@
     "be burned",
     "be burnt",
     "burneth",
-    "burnest"
+    "burnest",
+    "be burning",
+    "be kept burning",
+    "kept burning"
   ],
   "H3345": [
     "burn",
@@ -69769,7 +70986,17 @@
     "consume",
     "consumed",
     "burneth",
-    "burnest"
+    "burnest",
+    "burns",
+    "kindle",
+    "kindled",
+    "kindles",
+    "kindleth",
+    "kindling",
+    "set ablaze",
+    "sets ablaze",
+    "set on fire",
+    "sets on fire"
   ],
   "H3346": [
     "burning"
@@ -69799,7 +71026,10 @@
     "fowler"
   ],
   "H3353": [
-    "fowler"
+    "fowler",
+    "fowlers",
+    "trapper",
+    "hunter"
   ],
   "H3354": [
     "jekuthiel",
@@ -69837,7 +71067,11 @@
     "hanged",
     "hang up",
     "hangs up",
-    "hung up"
+    "hung up",
+    "out of joint",
+    "put out of joint",
+    "dislocated",
+    "wrenched"
   ],
   "H3364": [
     "awoke",
@@ -69884,13 +71118,20 @@
     "precious thing"
   ],
   "H3367": [
-    "honor"
+    "honor",
+    "honour",
+    "glory"
   ],
   "H3368": [
     "precious",
     "costly",
     "splendid",
-    "noble"
+    "noble",
+    "rare",
+    "priceless",
+    "valuable",
+    "expensive",
+    "excellent"
   ],
   "H3369": [
     "ensnared"
@@ -69931,7 +71172,10 @@
     "terrified",
     "trembling",
     "in fear",
-    "dread"
+    "dread",
+    "fears",
+    "worship",
+    "god-fearing"
   ],
   "H3374": [
     "fear",
@@ -70102,7 +71346,9 @@
     "thrust",
     "thrusts",
     "thrust down",
-    "cast down"
+    "cast down",
+    "push away",
+    "thrust aside"
   ],
   "H3400": [
     "jeriel"
@@ -70111,7 +71357,8 @@
     "opponents",
     "enemy",
     "adversary",
-    "opponent"
+    "opponent",
+    "accuser"
   ],
   "H3402": [
     "jarib"
@@ -70236,7 +71483,9 @@
     "possession",
     "possessions",
     "inheritance",
-    "inheritances"
+    "inheritances",
+    "dispossessed",
+    "conquered"
   ],
   "H3425": [
     "possession",
@@ -70400,7 +71649,11 @@
     "stretching",
     "stretching out",
     "extend",
-    "extending"
+    "extending",
+    "hold out",
+    "holds out",
+    "held out",
+    "extends"
   ],
   "H3448": [
     "jesse"
@@ -70487,7 +71740,14 @@
   ],
   "H3465": [
     "old harvest",
-    "old"
+    "old",
+    "old store",
+    "old supply",
+    "old grain",
+    "last year's harvest",
+    "old gate",
+    "jeshanah gate",
+    "worn out"
   ],
   "H3466": [
     "jeshanah"
@@ -70675,7 +71935,12 @@
   ],
   "H3493": [
     "extraordinary",
-    "exceedingly"
+    "exceedingly",
+    "excellent",
+    "exceeding",
+    "more",
+    "exceptional",
+    "extremely"
   ],
   "H3494": [
     "ithlah"
@@ -70759,7 +72024,15 @@
     "profit",
     "advantage",
     "gain",
-    "benefit"
+    "benefit",
+    "profitable",
+    "gained",
+    "excellency",
+    "excelleth",
+    "excels",
+    "success",
+    "succeed",
+    "get"
   ],
   "H3505": [
     "ithrite"
@@ -70789,7 +72062,11 @@
     "pained",
     "ache",
     "be grieved",
-    "was grieved"
+    "was grieved",
+    "have pain",
+    "pains",
+    "feels pain",
+    "suffer pain"
   ],
   "H3511": [
     "pain",
@@ -70805,7 +72082,9 @@
     "be disappointed",
     "disappointed",
     "be distressed",
-    "distressed"
+    "distressed",
+    "lose heart",
+    "discouraged"
   ],
   "H3513": [
     "honor",
@@ -70867,7 +72146,9 @@
     "honoreth"
   ],
   "H3516": [
-    "liver"
+    "liver",
+    "bile",
+    "heart"
   ],
   "H3517": [
     "heaviness"
@@ -71269,7 +72550,14 @@
   "H3564": [
     "furnace",
     "smelting furnace",
-    "furnaces"
+    "furnaces",
+    "iron furnace",
+    "iron-smelting furnace",
+    "furnace of affliction",
+    "furnace of adversity",
+    "furnace of suffering",
+    "smelter",
+    "iron-smelter"
   ],
   "H3565": [
     "bor-ashan",
@@ -71339,7 +72627,11 @@
   ],
   "H3577": [
     "falsehood",
-    "lies"
+    "lies",
+    "leasing",
+    "lie",
+    "lying",
+    "delusion"
   ],
   "H3578": [
     "cozeba",
@@ -71471,7 +72763,10 @@
     "kimah"
   ],
   "H3599": [
-    "bag"
+    "bag",
+    "purse",
+    "wallet",
+    "pockets"
   ],
   "H3600": [
     "pot",
@@ -71536,7 +72831,15 @@
     "entirely",
     "everyone",
     "everything",
-    "anything"
+    "anything",
+    "each",
+    "every one",
+    "anyone",
+    "whoever",
+    "whosoever",
+    "whoso",
+    "whatever",
+    "whatsoever"
   ],
   "H3607": [
     "restrained",
@@ -71689,7 +72992,11 @@
     "betrothals"
   ],
   "H3624": [
-    "vigor"
+    "vigor",
+    "full age",
+    "old age",
+    "full vigor",
+    "ripe old age"
   ],
   "H3625": [
     "calah"
@@ -71794,7 +73101,9 @@
     "destroyeth",
     "destroyest",
     "perisheth",
-    "perishest"
+    "perishest",
+    "make up",
+    "completed"
   ],
   "H3637": [
     "ashamed",
@@ -71910,7 +73219,9 @@
   "H3653": [
     "base",
     "place",
-    "office"
+    "office",
+    "stand",
+    "foot"
   ],
   "H3654": [
     "gnats",
@@ -71973,7 +73284,15 @@
     "humbled",
     "subdue",
     "humbled themselves",
-    "humbled yourself"
+    "humbled yourself",
+    "humble",
+    "humbles",
+    "be humbled",
+    "humble yourself",
+    "humble yourselves",
+    "bring low",
+    "brought low",
+    "humbleth"
   ],
   "H3666": [
     "bundle"
@@ -72124,7 +73443,9 @@
     "clothes",
     "raiment",
     "vesture",
-    "apparel"
+    "apparel",
+    "cloak",
+    "blanket"
   ],
   "H3683": [
     "cut down",
@@ -72222,7 +73543,10 @@
     "desire",
     "desired",
     "desireth",
-    "desirest"
+    "desirest",
+    "longedst",
+    "longeth",
+    "yearns"
   ],
   "H3701": [
     "silver",
@@ -72310,7 +73634,11 @@
     "provocation",
     "vexation",
     "grief",
-    "anger"
+    "anger",
+    "sorrow",
+    "anxiety",
+    "worry",
+    "anguish"
   ],
   "H3709": [
     "palm",
@@ -72700,7 +74028,13 @@
     "bow down",
     "make bow down",
     "kneeling",
-    "made bow down"
+    "made bow down",
+    "bow",
+    "bowed",
+    "bowing",
+    "boweth",
+    "collapse",
+    "collapsed"
   ],
   "H3767": [
     "legs"
@@ -72930,10 +74264,15 @@
   ],
   "H3791": [
     "writing",
-    "document"
+    "document",
+    "inscription",
+    "script",
+    "message"
   ],
   "H3792": [
-    "writing"
+    "writing",
+    "inscription",
+    "script"
   ],
   "H3793": [
     "inscription",
@@ -73359,7 +74698,8 @@
     "burnest"
   ],
   "H3858": [
-    "flame"
+    "flame",
+    "flaming"
   ],
   "H3859": [
     "delicacies",
@@ -73744,14 +75084,18 @@
     "charm",
     "enchantment",
     "whisper",
-    "whispering"
+    "whispering",
+    "amulets",
+    "charms",
+    "earrings"
   ],
   "H3909": [
     "enchantments",
     "secrecy"
   ],
   "H3910": [
-    "myrrh"
+    "myrrh",
+    "resin"
   ],
   "H3911": [
     "lizard",
@@ -73989,7 +75333,10 @@
     "lappidoth"
   ],
   "H3943": [
-    "twist"
+    "twist",
+    "twisted",
+    "wrap",
+    "wrapped"
   ],
   "H3944": [
     "mockery",
@@ -74080,7 +75427,14 @@
     "teaching",
     "insight",
     "instruction",
-    "doctrine"
+    "doctrine",
+    "learning",
+    "fair speech",
+    "persuasions",
+    "persuasive words",
+    "seductive speech",
+    "precepts",
+    "guidance"
   ],
   "H3949": [
     "liqchi"
@@ -74124,7 +75478,11 @@
     "gleaning"
   ],
   "H3954": [
-    "spring-crop"
+    "spring-crop",
+    "latter growth",
+    "spring crop",
+    "late crops",
+    "second crop"
   ],
   "H3955": [
     "juicy",
@@ -74605,7 +75963,15 @@
   "H4030": [
     "excellent things",
     "precious thing",
-    "precious things"
+    "precious things",
+    "precious gifts",
+    "precious articles",
+    "valuable things",
+    "valuable gifts",
+    "valuable possessions",
+    "valuable articles",
+    "costly gifts",
+    "expensive gifts"
   ],
   "H4031": [
     "magog"
@@ -75025,7 +76391,9 @@
     "why",
     "whatever",
     "much",
-    "what"
+    "what",
+    "how",
+    "whatsoever"
   ],
   "H4102": [
     "delay",
@@ -75047,7 +76415,15 @@
     "waiteth",
     "waitest",
     "stayeth",
-    "stayest"
+    "stayest",
+    "be delayed",
+    "linger",
+    "lingered",
+    "lingers",
+    "tarries",
+    "hesitated",
+    "seems slow",
+    "seems slow in coming"
   ],
   "H4103": [
     "panic",
@@ -75150,6 +76526,15 @@
     "hurrying",
     "hastily",
     "speedily"
+  ],
+  "H4117": [
+    "endow",
+    "pay dowry",
+    "pay bride-price",
+    "pay bride price",
+    "give bride-price",
+    "give bride price",
+    "give marriage present"
   ],
   "H4118": [
     "quickly",
@@ -75744,6 +77129,11 @@
     "pass away",
     "passed away"
   ],
+  "H4192": [
+    "muthlabben",
+    "muth-labben",
+    "death of the son"
+  ],
   "H4193": [
     "death"
   ],
@@ -75816,14 +77206,18 @@
   ],
   "H4203": [
     "food",
-    "meat"
+    "meat",
+    "victuals",
+    "provisions"
   ],
   "H4204": [
     "net",
     "nets"
   ],
   "H4205": [
-    "wound"
+    "wound",
+    "wounds",
+    "sores"
   ],
   "H4206": [
     "girdle",
@@ -76044,7 +77438,11 @@
     "sustenance",
     "reviving",
     "recovery",
-    "recovering"
+    "recovering",
+    "preserve life",
+    "save lives",
+    "relief",
+    "new life"
   ],
   "H4242": [
     "price",
@@ -76750,7 +78148,8 @@
     "sink",
     "sank",
     "sunk",
-    "sink down"
+    "sink down",
+    "brought low"
   ],
   "H4356": [
     "folds",
@@ -76992,7 +78391,12 @@
   "H4393": [
     "fullness",
     "what fills",
-    "fulness"
+    "fulness",
+    "all it contains",
+    "all that is in it",
+    "everything in it",
+    "full produce",
+    "juice"
   ],
   "H4394": [
     "installation offering",
@@ -77097,7 +78501,9 @@
     "matter",
     "word",
     "words",
-    "matters"
+    "matters",
+    "thing",
+    "command"
   ],
   "H4407": [
     "millo"
@@ -77124,7 +78530,9 @@
   "H4411": [
     "lodging place",
     "lodging",
-    "lodgings"
+    "lodgings",
+    "inn",
+    "travelers' lodging place"
   ],
   "H4412": [
     "inn",
@@ -77365,7 +78773,11 @@
     "speaking",
     "spake",
     "speaketh",
-    "speakest"
+    "speakest",
+    "utter",
+    "proclaim",
+    "proclaimeth",
+    "proclaimest"
   ],
   "H4449": [
     "speaking",
@@ -77631,7 +79043,12 @@
   ],
   "H4490": [
     "portions",
-    "portion"
+    "portion",
+    "double portion",
+    "worthy portion",
+    "special portion",
+    "gifts of food",
+    "portions of food"
   ],
   "H4491": [
     "driving",
@@ -77906,7 +79323,11 @@
     "melteth",
     "molten",
     "liquefy",
-    "liquefied"
+    "liquefied",
+    "melts",
+    "melting",
+    "melt away",
+    "melted away"
   ],
   "H4530": [
     "payment"
@@ -77965,7 +79386,9 @@
   ],
   "H4539": [
     "screen",
-    "covering"
+    "covering",
+    "screens",
+    "hanging"
   ],
   "H4540": [
     "covering",
@@ -78048,6 +79471,9 @@
     "encampments",
     "removing",
     "removings"
+  ],
+  "H4551": [
+    "quarry"
   ],
   "H4552": [
     "support",
@@ -78415,11 +79841,23 @@
     "break faith"
   ],
   "H4604": [
-    "unfaithfulness"
+    "unfaithfulness",
+    "trespass",
+    "transgression",
+    "faithlessness",
+    "treachery",
+    "breach of faith",
+    "act of unfaithfulness",
+    "acts of unfaithfulness",
+    "unfaithful act"
   ],
   "H4605": [
     "above",
-    "upwards"
+    "upwards",
+    "upward",
+    "up",
+    "more",
+    "older"
   ],
   "H4606": [
     "descent",
@@ -78713,7 +80151,8 @@
     "horror"
   ],
   "H4657": [
-    "swaying"
+    "swaying",
+    "sail"
   ],
   "H4658": [
     "downfall",
@@ -78841,7 +80280,9 @@
     "station",
     "place",
     "guard",
-    "standing"
+    "standing",
+    "garrison",
+    "outpost"
   ],
   "H4676": [
     "pillar",
@@ -79034,7 +80475,8 @@
   "H4705": [
     "small place",
     "little",
-    "small"
+    "small",
+    "little one"
   ],
   "H4706": [
     "mizar",
@@ -79319,7 +80761,13 @@
   ],
   "H4754": [
     "flap",
-    "flutter"
+    "flutter",
+    "move",
+    "moved",
+    "flapped",
+    "fluttered",
+    "moveth",
+    "movest"
   ],
   "H4755": [
     "mara"
@@ -79363,7 +80811,11 @@
   ],
   "H4763": [
     "place of head",
-    "heads"
+    "heads",
+    "head",
+    "pillow",
+    "pillows",
+    "bolster"
   ],
   "H4764": [
     "merab"
@@ -79470,7 +80922,12 @@
     "disobedient",
     "rebelled toward",
     "rebel toward",
-    "rebel against"
+    "rebel against",
+    "rebel",
+    "rebels",
+    "provoke",
+    "provoked",
+    "provoking"
   ],
   "H4785": [
     "marah"
@@ -79604,7 +81061,14 @@
   ],
   "H4806": [
     "fatling",
-    "fatlings"
+    "fatlings",
+    "fat beasts",
+    "fattened calf",
+    "fattened animal",
+    "fattened animals",
+    "yearling",
+    "fattened cattle",
+    "fat animals"
   ],
   "H4807": [
     "merib-",
@@ -79826,7 +81290,10 @@
     "lifting up",
     "pronouncement",
     "prophecy",
-    "message"
+    "message",
+    "burdens",
+    "loads",
+    "inspired utterance"
   ],
   "H4854": [
     "massa"
@@ -80050,7 +81517,14 @@
     "spreading place",
     "plain",
     "level place",
-    "open place"
+    "open place",
+    "place for spreading nets",
+    "place for the spreading of nets",
+    "place to spread nets",
+    "place for drying nets",
+    "place for spreading fishnets",
+    "place for spreading fishing nets",
+    "place for the spreading of fishing nets"
   ],
   "H4895": [
     "animosity",
@@ -80235,7 +81709,10 @@
     "saying",
     "discourse",
     "parables",
-    "sayings"
+    "sayings",
+    "taunts",
+    "taunt-song",
+    "taunt song"
   ],
   "H4915": [
     "dominion",
@@ -80288,7 +81765,8 @@
     "mishmannah"
   ],
   "H4926": [
-    "hearing"
+    "hearing",
+    "mishma"
   ],
   "H4927": [
     "mishma"
@@ -80412,6 +81890,11 @@
   "H4942": [
     "sheepfold"
   ],
+  "H4943": [
+    "steward",
+    "heir",
+    "possessor"
+  ],
   "H4944": [
     "rushing"
   ],
@@ -80500,7 +81983,11 @@
     "handle",
     "handled",
     "toucheth",
-    "touchest"
+    "touchest",
+    "gropeth",
+    "groping",
+    "grope about",
+    "grope around"
   ],
   "H4960": [
     "feast",
@@ -80513,7 +82000,10 @@
   ],
   "H4961": [
     "feast",
-    "feasts"
+    "feasts",
+    "banquet",
+    "banquets",
+    "feasting"
   ],
   "H4962": [
     "men",
@@ -80680,7 +82170,11 @@
     "bottle",
     "bottles",
     "wineskin",
-    "wineskins"
+    "wineskins",
+    "wine-skin",
+    "wine-skins",
+    "skin",
+    "jug"
   ],
   "H4998": [
     "beautiful",
@@ -81170,6 +82664,12 @@
   "H5052": [
     "nogah"
   ],
+  "H5053": [
+    "brightness",
+    "radiance",
+    "splendor",
+    "dawn"
+  ],
   "H5054": [
     "brightness"
   ],
@@ -81547,6 +83047,15 @@
     "fleeth",
     "fleest"
   ],
+  "H5076": [
+    "wanderings",
+    "tossings",
+    "tossing",
+    "toss and turn",
+    "lament",
+    "misery",
+    "sorrows"
+  ],
   "H5077": [
     "drive away",
     "driven away",
@@ -81843,7 +83352,9 @@
     "grudge"
   ],
   "H5099": [
-    "roaring"
+    "roaring",
+    "growling",
+    "roar"
   ],
   "H5100": [
     "groaning",
@@ -81877,7 +83388,10 @@
   ],
   "H5104": [
     "river",
-    "rivers"
+    "rivers",
+    "stream",
+    "flood",
+    "floods"
   ],
   "H5105": [
     "light"
@@ -81892,7 +83406,19 @@
     "prohibit",
     "prohibits",
     "prohibited",
-    "forbiddest"
+    "forbiddest",
+    "discourage",
+    "discouraged",
+    "disallow",
+    "disallowed",
+    "disalloweth",
+    "frustrate",
+    "frustrates",
+    "make of none effect",
+    "oppose",
+    "opposes",
+    "thwart",
+    "thwarts"
   ],
   "H5107": [
     "bear fruit",
@@ -81900,7 +83426,12 @@
     "bring forth fruit",
     "yield",
     "yield fruit",
-    "be fruitful"
+    "be fruitful",
+    "produce fruit",
+    "brings forth wisdom",
+    "bringeth forth wisdom",
+    "flows with wisdom",
+    "gives wise advice"
   ],
   "H5108": [
     "fruit"
@@ -82317,7 +83848,14 @@
     "nazirite vow",
     "crown",
     "nazarite",
-    "nazirite"
+    "nazirite",
+    "holy crown",
+    "diadem",
+    "holy diadem",
+    "sacred diadem",
+    "consecration",
+    "separation",
+    "dedication"
   ],
   "H5146": [
     "noah"
@@ -82425,7 +83963,13 @@
     "ravine",
     "ravines",
     "watercourse",
-    "watercourses"
+    "watercourses",
+    "gorge",
+    "gorges",
+    "torrent-bed",
+    "torrent beds",
+    "torrent valley",
+    "torrent valleys"
   ],
   "H5159": [
     "inheritance",
@@ -82611,7 +84155,9 @@
   ],
   "H5183": [
     "quietness",
-    "rest"
+    "rest",
+    "tranquility",
+    "quiet"
   ],
   "H5184": [
     "nahath"
@@ -82769,6 +84315,10 @@
     "distilled",
     "distilling"
   ],
+  "H5198": [
+    "stacte",
+    "gum resin"
+  ],
   "H5199": [
     "netophah"
   ],
@@ -82886,7 +84436,10 @@
     "sweet aroma",
     "pleasing aroma",
     "fragrant aroma",
-    "sweet scent"
+    "sweet scent",
+    "pleasing",
+    "soothing",
+    "sweet"
   ],
   "H5209": [
     "posterity",
@@ -82923,7 +84476,11 @@
   ],
   "H5215": [
     "unplowed ground",
-    "fallow ground"
+    "fallow ground",
+    "tillage",
+    "field",
+    "farm",
+    "hard ground"
   ],
   "H5216": [
     "lamp",
@@ -83081,7 +84638,13 @@
     "deal deceitfully",
     "deal subtly",
     "act deceitfully",
-    "be treacherous"
+    "be treacherous",
+    "conspire",
+    "conspired",
+    "plot",
+    "plotted",
+    "deal craftily",
+    "deal subtilly"
   ],
   "H5231": [
     "deceit",
@@ -83168,7 +84731,12 @@
     "aliens"
   ],
   "H5238": [
-    "treasure"
+    "treasure",
+    "spicery",
+    "spices",
+    "gum",
+    "aromatic gum",
+    "gum resin"
   ],
   "H5239": [
     "cease",
@@ -83439,6 +85007,10 @@
     "gone up",
     "went up into"
   ],
+  "H5267": [
+    "took up",
+    "carried up"
+  ],
   "H5268": [
     "nisroch"
   ],
@@ -83494,7 +85066,9 @@
     "lovely",
     "pleasing",
     "be pleasant",
-    "be pleasing"
+    "be pleasing",
+    "sweet",
+    "well spoken"
   ],
   "H5277": [
     "naam"
@@ -83545,7 +85119,16 @@
     "thorn bushes"
   ],
   "H5287": [
-    "shook off"
+    "shook off",
+    "shake",
+    "shakes",
+    "shaketh",
+    "shook",
+    "shake out",
+    "shook out",
+    "shaken out",
+    "shake off",
+    "shaken off"
   ],
   "H5288": [
     "lad",
@@ -83558,7 +85141,15 @@
     "lads",
     "child",
     "boy",
-    "boys"
+    "boys",
+    "children",
+    "attendant",
+    "attendants",
+    "armor-bearer",
+    "armor bearer",
+    "stripling",
+    "little boy",
+    "little child"
   ],
   "H5289": [
     "boy",
@@ -83854,7 +85445,10 @@
   ],
   "H5319": [
     "wrestled",
-    "wrestling"
+    "wrestling",
+    "wrestlings",
+    "struggle",
+    "struggled"
   ],
   "H5320": [
     "naphtuhites",
@@ -83870,7 +85464,10 @@
     "blossom",
     "blossoms",
     "flower",
-    "flowers"
+    "flowers",
+    "bloom",
+    "blooms",
+    "grape blossoms"
   ],
   "H5323": [
     "flee",
@@ -83975,7 +85572,8 @@
     "eminence"
   ],
   "H5332": [
-    "blood"
+    "blood",
+    "lifeblood"
   ],
   "H5333": [
     "garrisons",
@@ -84265,7 +85863,10 @@
   "H5361": [
     "alienated",
     "estranged",
-    "separated"
+    "separated",
+    "turned away",
+    "turned",
+    "disgusted"
   ],
   "H5362": [
     "surrounded",
@@ -84407,7 +86008,15 @@
   ],
   "H5377": [
     "deceive",
-    "deceived"
+    "deceived",
+    "deceives",
+    "deceiving",
+    "beguiled",
+    "mislead",
+    "misled",
+    "misleading",
+    "trick",
+    "tricked"
   ],
   "H5378": [
     "creditor"
@@ -84427,7 +86036,10 @@
     "reaches",
     "overtaken",
     "reacheth",
-    "reachest"
+    "reachest",
+    "overtakes",
+    "catch up",
+    "caught up"
   ],
   "H5382": [
     "made forget",
@@ -84447,7 +86059,10 @@
     "lendest"
   ],
   "H5384": [
-    "tendon"
+    "tendon",
+    "shrank",
+    "hip",
+    "thigh"
   ],
   "H5385": [
     "burden"
@@ -84597,7 +86212,8 @@
     "what is written"
   ],
   "H5407": [
-    "letter"
+    "letter",
+    "report"
   ],
   "H5408": [
     "cut in pieces",
@@ -84811,7 +86427,13 @@
   "H5420": [
     "break",
     "breaketh",
-    "breakest"
+    "breakest",
+    "take away",
+    "strip away",
+    "strip off",
+    "remove",
+    "removeth",
+    "removest"
   ],
   "H5422": [
     "tear",
@@ -84909,7 +86531,15 @@
   "H5428": [
     "pluck up",
     "plucked up",
-    "about to pluck up"
+    "about to pluck up",
+    "uproot",
+    "uproots",
+    "uprooted",
+    "plucking up",
+    "pluck out",
+    "plucked out",
+    "root out",
+    "rooted out"
   ],
   "H5429": [
     "two seahs",
@@ -84927,6 +86557,12 @@
     "trample",
     "trample down",
     "trod"
+  ],
+  "H5432": [
+    "removed",
+    "expelled",
+    "drives out",
+    "drove away"
   ],
   "H5433": [
     "drink",
@@ -85045,7 +86681,10 @@
     "encompassed"
   ],
   "H5440": [
-    "interwoven"
+    "interwoven",
+    "folden together",
+    "tangled",
+    "entangled"
   ],
   "H5441": [
     "thicket"
@@ -85098,7 +86737,10 @@
   "H5446": [
     "bear",
     "beareth",
-    "bearest"
+    "bearest",
+    "carry",
+    "carrieth",
+    "carriest"
   ],
   "H5447": [
     "burden",
@@ -85114,7 +86756,15 @@
   "H5449": [
     "burden-bearer",
     "burden",
-    "burdens"
+    "burdens",
+    "bearers of burdens",
+    "burden bearers",
+    "burden-bearers",
+    "carriers",
+    "laborers",
+    "bare burdens",
+    "carried burdens",
+    "carried materials"
   ],
   "H5450": [
     "forced labor",
@@ -85282,7 +86932,9 @@
     "crescent",
     "crescent-moon",
     "moon",
-    "horn"
+    "horn",
+    "round",
+    "rounded"
   ],
   "H5470": [
     "prison"
@@ -85403,7 +87055,8 @@
     "parts",
     "parts of the earth",
     "uttermost",
-    "uttermost parts"
+    "uttermost parts",
+    "conclusion"
   ],
   "H5491": [
     "end",
@@ -85509,7 +87162,9 @@
     "offscouring"
   ],
   "H5502": [
-    "prostrate"
+    "prostrate",
+    "sweep away",
+    "swept away"
   ],
   "H5503": [
     "trade",
@@ -85644,7 +87299,29 @@
     "cover",
     "covering",
     "covered",
-    "covers"
+    "covers",
+    "overshadow",
+    "overshadows",
+    "overshadowed",
+    "overshadowing",
+    "screen",
+    "screens",
+    "screened",
+    "screening",
+    "defend",
+    "defendest",
+    "spread",
+    "spreads",
+    "shield",
+    "shields",
+    "shielded",
+    "shielding",
+    "protect",
+    "protects",
+    "protected",
+    "protecting",
+    "spreadeth",
+    "spreadest"
   ],
   "H5527": [
     "secacah"
@@ -85790,7 +87467,9 @@
     "reject",
     "rejected",
     "cast off",
-    "put away"
+    "put away",
+    "spurn",
+    "trodden down"
   ],
   "H5542": [
     "selah"
@@ -85893,7 +87572,10 @@
     "perverted",
     "perverting",
     "perverteth",
-    "pervertest"
+    "pervertest",
+    "overthrows",
+    "overthroweth",
+    "ruins"
   ],
   "H5558": [
     "crookedness",
@@ -85910,7 +87592,9 @@
     "go up",
     "went up",
     "ascend",
-    "ascended"
+    "ascended",
+    "come up",
+    "coming up"
   ],
   "H5560": [
     "fine flour",
@@ -86082,7 +87766,11 @@
     "cut off"
   ],
   "H5587": [
-    "disquieting thoughts"
+    "disquieting thoughts",
+    "vain thoughts",
+    "double-minded",
+    "double mind",
+    "divided loyalties"
   ],
   "H5588": [
     "divided"
@@ -86202,18 +87890,41 @@
     "fasten",
     "fastened",
     "cleaveth",
-    "cleavest"
+    "cleavest",
+    "put",
+    "appoint",
+    "assign",
+    "give",
+    "join himself",
+    "join themselves",
+    "joined himself",
+    "attach themselves",
+    "unite",
+    "binds himself",
+    "bind themselves",
+    "putteth",
+    "puttest",
+    "giveth",
+    "givest"
   ],
   "H5597": [
     "flaking skin",
-    "scab"
+    "scab",
+    "rash",
+    "eruption"
   ],
   "H5598": [
     "sippai"
   ],
   "H5599": [
     "self-sown grain",
-    "outpouring"
+    "outpouring",
+    "aftergrowth",
+    "what grows of itself",
+    "what grows by itself",
+    "what grows up by itself",
+    "that which groweth of its own accord",
+    "such things as grow of themselves"
   ],
   "H5600": [
     "ship"
@@ -86240,7 +87951,11 @@
     "conceal",
     "concealed",
     "hideth",
-    "hidest"
+    "hidest",
+    "roofed",
+    "lined",
+    "ceiled",
+    "cieled"
   ],
   "H5604": [
     "ceiling"
@@ -86270,7 +87985,10 @@
     "smiteth",
     "smitest",
     "striketh",
-    "strikest"
+    "strikest",
+    "clap",
+    "claps",
+    "smitten"
   ],
   "H5607": [
     "derision",
@@ -86424,7 +88142,12 @@
   ],
   "H5622": [
     "mantles",
-    "mantle"
+    "mantle",
+    "coats",
+    "cloaks",
+    "trousers",
+    "robes",
+    "pants"
   ],
   "H5623": [
     "sargon"
@@ -86458,7 +88181,10 @@
     "remove"
   ],
   "H5628": [
-    "sprawled out"
+    "sprawled out",
+    "hang over",
+    "hang down",
+    "lap over"
   ],
   "H5629": [
     "offense",
@@ -86467,7 +88193,13 @@
     "offending",
     "stumbling",
     "stumbling-block",
-    "cause of stumbling"
+    "cause of stumbling",
+    "remnant",
+    "remainder",
+    "extra",
+    "extra length",
+    "overlapping part",
+    "part that remains"
   ],
   "H5630": [
     "armor",
@@ -86666,13 +88398,33 @@
     "worshippeth",
     "worshippest",
     "laboureth",
-    "labourest"
+    "labourest",
+    "tilling",
+    "cultivate",
+    "cultivates",
+    "cultivated",
+    "cultivating",
+    "enslave",
+    "enslaves",
+    "enslaved",
+    "enslaving",
+    "be enslaved"
   ],
   "H5648": [
     "done",
     "made",
     "doing",
-    "making"
+    "making",
+    "do",
+    "does",
+    "did",
+    "makes",
+    "doeth",
+    "doth",
+    "doest",
+    "dost",
+    "maketh",
+    "makest"
   ],
   "H5649": [
     "servants",
@@ -86804,7 +88556,9 @@
   ],
   "H5671": [
     "debt",
-    "debts"
+    "debts",
+    "thick clay",
+    "pledges"
   ],
   "H5672": [
     "thickness"
@@ -86838,7 +88592,47 @@
     "caused to pass",
     "furious",
     "passeth",
-    "passest"
+    "passest",
+    "passing through",
+    "passing away",
+    "cross",
+    "crossed",
+    "crossing",
+    "cross over",
+    "crossed over",
+    "crossing over",
+    "go over",
+    "went over",
+    "going over",
+    "go through",
+    "went through",
+    "going through",
+    "go across",
+    "went across",
+    "going across",
+    "come over",
+    "came over",
+    "coming over",
+    "come through",
+    "came through",
+    "coming through",
+    "bring over",
+    "brought over",
+    "bringing over",
+    "carry over",
+    "carried over",
+    "carrying over",
+    "lead over",
+    "led over",
+    "leading over",
+    "depart",
+    "departed",
+    "departing",
+    "transgresses",
+    "transgressing",
+    "overpast",
+    "departeth",
+    "departest"
   ],
   "H5675": [
     "region beyond"
@@ -86849,7 +88643,10 @@
     "sides",
     "beyond",
     "across",
-    "beside"
+    "beside",
+    "this side",
+    "east side",
+    "west side"
   ],
   "H5677": [
     "eber"
@@ -86858,10 +88655,16 @@
     "fury",
     "wrath",
     "furi",
-    "arrogance"
+    "arrogance",
+    "overflowings"
   ],
   "H5679": [
-    "ford"
+    "ford",
+    "fords",
+    "ferryboat",
+    "ferry-boat",
+    "ferry boat",
+    "crossings"
   ],
   "H5680": [
     "hebrew",
@@ -86889,7 +88692,8 @@
     "cords",
     "branches",
     "cordage",
-    "rope"
+    "rope",
+    "boughs"
   ],
   "H5689": [
     "lusted",
@@ -86919,7 +88723,9 @@
   ],
   "H5693": [
     "crane",
-    "agur"
+    "agur",
+    "cranes",
+    "thrush"
   ],
   "H5694": [
     "ring"
@@ -86932,7 +88738,9 @@
     "molten calf"
   ],
   "H5696": [
-    "round"
+    "round",
+    "rounded",
+    "circular"
   ],
   "H5697": [
     "heifer",
@@ -87082,7 +88890,11 @@
     "dainty",
     "tender",
     "soft",
-    "voluptuous"
+    "voluptuous",
+    "given to pleasures",
+    "lover of pleasures",
+    "lover of pleasure",
+    "pleasure-loving"
   ],
   "H5720": [
     "adin"
@@ -87215,7 +89027,9 @@
     "flute",
     "pipe",
     "pipes",
-    "flutes"
+    "flutes",
+    "organ",
+    "organs"
   ],
   "H5749": [
     "warned",
@@ -87226,7 +89040,21 @@
     "testify",
     "warning",
     "admonished",
-    "cause to witness"
+    "cause to witness",
+    "testifies",
+    "testified",
+    "testifying",
+    "warns",
+    "solemnly warn",
+    "protest",
+    "protest solemnly",
+    "bear witness",
+    "bears witness",
+    "bore witness",
+    "bearing witness",
+    "call to witness",
+    "call as witness",
+    "record"
   ],
   "H5750": [
     "still",
@@ -87264,7 +89092,14 @@
   "H5753": [
     "done wrong",
     "perverted",
-    "wrong"
+    "wrong",
+    "commit iniquity",
+    "committed iniquity",
+    "do wrong",
+    "do perversely",
+    "done perversely",
+    "act perversely",
+    "acted perversely"
   ],
   "H5754": [
     "ruin"
@@ -87285,7 +89120,8 @@
     "fled",
     "flee for refuge",
     "fleeth",
-    "fleest"
+    "fleest",
+    "find refuge"
   ],
   "H5758": [
     "iniquity"
@@ -87321,7 +89157,13 @@
   ],
   "H5766": [
     "injustice",
-    "unrighteousness"
+    "unrighteousness",
+    "unjustly",
+    "iniquity",
+    "without iniquity",
+    "without right",
+    "wrong",
+    "wrongs"
   ],
   "H5767": [
     "evil-doer",
@@ -87331,7 +89173,13 @@
     "wrongdoing",
     "wickedness",
     "iniquity",
-    "unrighteousness"
+    "unrighteousness",
+    "unjust man",
+    "unjust men",
+    "unjust person",
+    "unrighteous",
+    "dishonest",
+    "wicked"
   ],
   "H5768": [
     "children",
@@ -87410,7 +89258,8 @@
     "trespass",
     "trespasses",
     "offense",
-    "offence"
+    "offence",
+    "wrongdoings"
   ],
   "H5772": [
     "duty of marriage",
@@ -87496,11 +89345,15 @@
     "skin",
     "hide",
     "skins",
-    "hides"
+    "hides",
+    "leather"
   ],
   "H5786": [
     "made blind",
-    "makes blind"
+    "makes blind",
+    "blind",
+    "blinds",
+    "blindeth"
   ],
   "H5787": [
     "blind"
@@ -87523,7 +89376,8 @@
     "perversity",
     "perverseness",
     "crookedness",
-    "falsehood"
+    "falsehood",
+    "wrong"
   ],
   "H5793": [
     "uthai"
@@ -87718,7 +89572,8 @@
     "helpeth",
     "helpest",
     "succor",
-    "succour"
+    "succour",
+    "holpen"
   ],
   "H5827": [
     "ezer"
@@ -87779,7 +89634,11 @@
     "gaza"
   ],
   "H5842": [
-    "stylus"
+    "stylus",
+    "pen",
+    "pens",
+    "tool",
+    "chisel"
   ],
   "H5843": [
     "counsel",
@@ -87794,7 +89653,10 @@
   ],
   "H5846": [
     "sneeze",
-    "sneezing"
+    "sneezing",
+    "sneezings",
+    "sneezes",
+    "snorting"
   ],
   "H5847": [
     "bat",
@@ -87812,7 +89674,14 @@
     "weaken"
   ],
   "H5849": [
-    "crown"
+    "crown",
+    "crowns",
+    "crowned",
+    "crowneth",
+    "crownest",
+    "compass",
+    "surround",
+    "cover"
   ],
   "H5850": [
     "crown",
@@ -87864,7 +89733,13 @@
     "shout",
     "shouted",
     "crieth",
-    "criest"
+    "criest",
+    "fly upon",
+    "flew upon",
+    "pounce",
+    "pounced",
+    "rushed upon",
+    "rushed greedily upon"
   ],
   "H5861": [
     "bird of prey",
@@ -88000,7 +89875,8 @@
   ],
   "H5889": [
     "weary",
-    "exhausted"
+    "exhausted",
+    "faint"
   ],
   "H5890": [
     "darkness"
@@ -88076,7 +89952,9 @@
   ],
   "H5908": [
     "spider",
-    "spiders"
+    "spiders",
+    "spider's web",
+    "spider's house"
   ],
   "H5909": [
     "mice",
@@ -88098,7 +89976,9 @@
     "achar"
   ],
   "H5913": [
-    "tinkle"
+    "tinkle",
+    "tinkling",
+    "jingling"
   ],
   "H5914": [
     "anklet",
@@ -88195,7 +90075,29 @@
     "rise up",
     "rose up",
     "riseth",
-    "risest"
+    "risest",
+    "rises",
+    "brings up",
+    "offer",
+    "offers",
+    "offered",
+    "offers up",
+    "offer in smoke",
+    "offers in smoke",
+    "offering in smoke",
+    "offered in smoke",
+    "climb",
+    "climbs",
+    "climbing",
+    "climbed",
+    "mount",
+    "mounts",
+    "mounting",
+    "mounted",
+    "fetch up",
+    "fetched up",
+    "offereth",
+    "offerest"
   ],
   "H5929": [
     "leafage",
@@ -88225,7 +90127,8 @@
     "youths",
     "young man",
     "young men",
-    "young"
+    "young",
+    "youthful vigor"
   ],
   "H5935": [
     "alvan"
@@ -88249,6 +90152,9 @@
   ],
   "H5939": [
     "darkness"
+  ],
+  "H5940": [
+    "pestle"
   ],
   "H5941": [
     "eli"
@@ -88290,7 +90196,10 @@
     "merry",
     "cheerful",
     "rejoicing",
-    "rejoice"
+    "rejoice",
+    "joyous",
+    "carefree",
+    "revelry"
   ],
   "H5948": [
     "furnace"
@@ -88368,7 +90277,10 @@
     "hide yourself",
     "concealed",
     "hideth",
-    "hidest"
+    "hidest",
+    "hides",
+    "hiding",
+    "hid"
   ],
   "H5957": [
     "ever",
@@ -88407,7 +90319,8 @@
     "rejoiced",
     "rejoicing",
     "rejoiceth",
-    "rejoicest"
+    "rejoicest",
+    "exult"
   ],
   "H5966": [
     "suck",
@@ -88421,6 +90334,9 @@
     "nursing",
     "suck up",
     "feast"
+  ],
+  "H5967": [
+    "ribs"
   ],
   "H5968": [
     "become faint"
@@ -88634,7 +90550,16 @@
     "depths"
   ],
   "H5995": [
-    "cut grain"
+    "cut grain",
+    "bough",
+    "branch",
+    "branches",
+    "uppermost bough",
+    "highest bough",
+    "topmost bough",
+    "topmost branches",
+    "wooded heights",
+    "forsaken bough"
   ],
   "H5996": [
     "ammishaddai"
@@ -88652,7 +90577,16 @@
     "toil",
     "trouble",
     "mischief",
-    "labor"
+    "labor",
+    "labour",
+    "travail",
+    "sorrow",
+    "grievance",
+    "wrong",
+    "wrongdoing",
+    "misery",
+    "hard work",
+    "toilsome labor"
   ],
   "H6001": [
     "laborer",
@@ -88665,7 +90599,9 @@
     "workman",
     "workmen",
     "worker",
-    "workers"
+    "workers",
+    "laboureth",
+    "laboring man"
   ],
   "H6002": [
     "amalek",
@@ -88712,7 +90648,12 @@
     "putteth",
     "puttest",
     "setteth",
-    "settest"
+    "settest",
+    "loadeth",
+    "loads",
+    "bears",
+    "bears up",
+    "carries"
   ],
   "H6007": [
     "amasiah"
@@ -88751,7 +90692,9 @@
     "profound"
   ],
   "H6013": [
-    "deep"
+    "deep",
+    "deeper",
+    "profound"
   ],
   "H6014": [
     "treat as a slave"
@@ -88800,14 +90743,21 @@
     "delights",
     "delighted",
     "delighting",
-    "delighteth"
+    "delighteth",
+    "be delighted",
+    "takes delight",
+    "taking delight",
+    "find delight",
+    "enjoy"
   ],
   "H6027": [
     "delight"
   ],
   "H6028": [
     "delicate",
-    "dainty"
+    "dainty",
+    "refined",
+    "sensitive"
   ],
   "H6029": [
     "tie",
@@ -88885,13 +90835,31 @@
   ],
   "H6032": [
     "replying",
-    "replied"
+    "replied",
+    "answer",
+    "answers",
+    "answered",
+    "answering",
+    "answereth",
+    "answerest",
+    "answeredst",
+    "reply",
+    "replies",
+    "respond",
+    "responds",
+    "responded",
+    "responding"
   ],
   "H6034": [
     "anah"
   ],
   "H6035": [
-    "humble"
+    "humble",
+    "meek",
+    "poor",
+    "afflicted",
+    "oppressed",
+    "lowly"
   ],
   "H6036": [
     "anub"
@@ -88912,7 +90880,9 @@
     "affliction"
   ],
   "H6040": [
-    "affliction"
+    "affliction",
+    "misery",
+    "suffering"
   ],
   "H6041": [
     "poor",
@@ -88960,7 +90930,20 @@
   "H6049": [
     "soothsayers",
     "soothsayer",
-    "practiced soothsaying"
+    "practiced soothsaying",
+    "observe times",
+    "observeth times",
+    "observed times",
+    "observer of times",
+    "observers of times",
+    "interpret omens",
+    "interprets omens",
+    "seek omens",
+    "seeks omens",
+    "practice augury",
+    "practices augury",
+    "augur",
+    "soothsaying"
   ],
   "H6050": [
     "cloud",
@@ -88999,7 +90982,16 @@
     "branches"
   ],
   "H6060": [
-    "necklaces"
+    "necklaces",
+    "chain",
+    "chains",
+    "pendant",
+    "pendants",
+    "jewel",
+    "necklace",
+    "ornaments",
+    "strand",
+    "collars"
   ],
   "H6061": [
     "anak"
@@ -89015,7 +91007,10 @@
     "aner"
   ],
   "H6064": [
-    "punished"
+    "punished",
+    "amerce",
+    "fine",
+    "fined"
   ],
   "H6066": [
     "punishment",
@@ -89040,12 +91035,28 @@
   ],
   "H6071": [
     "sweet wine",
-    "sweet"
+    "sweet",
+    "new wine",
+    "wine",
+    "juice",
+    "juice of my pomegranate",
+    "juice of my pomegranates",
+    "pomegranate juice",
+    "nectar",
+    "nectar of my pomegranates"
   ],
   "H6072": [
     "press",
     "pressed",
-    "pressing"
+    "pressing",
+    "rot",
+    "rotten",
+    "shrivel",
+    "shrivels",
+    "shriveled",
+    "die",
+    "dieth",
+    "diest"
   ],
   "H6073": [
     "bough",
@@ -89062,11 +91073,21 @@
     "swell",
     "swelled",
     "swelling",
-    "swollen"
+    "swollen",
+    "presumed",
+    "presume",
+    "presumptuously",
+    "acted presumptuously",
+    "presumption",
+    "defiantly",
+    "heedlessly",
+    "dared"
   ],
   "H6076": [
     "hill",
-    "ophel"
+    "ophel",
+    "tumors",
+    "emerods"
   ],
   "H6077": [
     "ophel"
@@ -89121,7 +91142,9 @@
   ],
   "H6083": [
     "dust",
-    "debris"
+    "debris",
+    "soil",
+    "dirt"
   ],
   "H6084": [
     "ophrah",
@@ -89182,13 +91205,24 @@
     "sorrow",
     "pain",
     "toil",
-    "grief"
+    "grief",
+    "anxious toil",
+    "painful toil",
+    "painful labors",
+    "sorrows",
+    "trouble"
   ],
   "H6090": [
     "pain",
     "idol",
     "sorrow",
-    "grief"
+    "grief",
+    "wicked",
+    "grievous",
+    "hurtful",
+    "offensive",
+    "trouble",
+    "offends"
   ],
   "H6091": [
     "idols",
@@ -89201,7 +91235,9 @@
     "pain",
     "sorrow",
     "toil",
-    "painful toil"
+    "painful toil",
+    "pains",
+    "pangs"
   ],
   "H6094": [
     "sorrow",
@@ -89219,7 +91255,8 @@
     "shuttest"
   ],
   "H6096": [
-    "spine"
+    "spine",
+    "backbone"
   ],
   "H6097": [
     "tree",
@@ -89238,7 +91275,10 @@
     "counsel",
     "plan",
     "purpose",
-    "advice"
+    "advice",
+    "counsels",
+    "plans",
+    "purposes"
   ],
   "H6099": [
     "mighty",
@@ -89289,6 +91329,10 @@
   "H6107": [
     "ezem"
   ],
+  "H6108": [
+    "might",
+    "strength"
+  ],
   "H6109": [
     "strength",
     "might"
@@ -89319,7 +91363,11 @@
     "withhold",
     "withheld",
     "hold back",
-    "holding back"
+    "holding back",
+    "compulsion",
+    "compel",
+    "restrictions",
+    "limits"
   ],
   "H6116": [
     "assembly",
@@ -89357,7 +91405,11 @@
     "deceitful",
     "treacherous",
     "subtle",
-    "insidious"
+    "insidious",
+    "devious",
+    "crooked",
+    "uneven ground",
+    "rough ground"
   ],
   "H6122": [
     "cunning",
@@ -89513,14 +91565,24 @@
     "evening",
     "evenings",
     "two evenings",
-    "even"
+    "even",
+    "eventide",
+    "eveningtide",
+    "dusk"
   ],
   "H6154": [
     "woof",
     "foreigner",
     "mixture",
     "mixed",
-    "mingled"
+    "mingled",
+    "mixed multitude",
+    "mingled people",
+    "mixed tribes",
+    "many other people",
+    "mixed crowd",
+    "rabble of non-israelites",
+    "foreign people"
   ],
   "H6155": [
     "arabah",
@@ -89548,7 +91610,10 @@
     "swarming",
     "swarm of locusts",
     "swarms of locusts",
-    "swarming locusts"
+    "swarming locusts",
+    "swarms of flies",
+    "flies",
+    "divers sorts of flies"
   ],
   "H6158": [
     "raven",
@@ -89586,7 +91651,10 @@
     "arvathite"
   ],
   "H6165": [
-    "pants"
+    "pants",
+    "panteth",
+    "longs",
+    "long"
   ],
   "H6166": [
     "arad"
@@ -89609,7 +91677,8 @@
     "impropriety"
   ],
   "H6173": [
-    "nakedness"
+    "nakedness",
+    "dishonor"
   ],
   "H6174": [
     "naked",
@@ -89681,11 +91750,37 @@
     "compare",
     "line up",
     "prepareth",
-    "preparest"
+    "preparest",
+    "arranging",
+    "array",
+    "arrayed",
+    "order",
+    "ordered",
+    "prepared",
+    "preparing",
+    "compared",
+    "value",
+    "valued",
+    "lay in order",
+    "laid in order",
+    "draw up",
+    "drawn up",
+    "drew up",
+    "set out",
+    "lay out",
+    "laid out",
+    "lined up"
   ],
   "H6187": [
     "valuation",
-    "arrangement"
+    "arrangement",
+    "estimation",
+    "estimations",
+    "valuations",
+    "value",
+    "values",
+    "assessment",
+    "assessments"
   ],
   "H6188": [
     "uncircumcised",
@@ -89696,7 +91791,8 @@
     "not circumcised"
   ],
   "H6189": [
-    "uncircumcised"
+    "uncircumcised",
+    "pagan"
   ],
   "H6190": [
     "foreskin",
@@ -89725,6 +91821,12 @@
     "shrewdness",
     "deceit"
   ],
+  "H6196": [
+    "plane tree",
+    "plane trees",
+    "plane-tree",
+    "chesnut tree"
+  ],
   "H6197": [
     "eran"
   ],
@@ -89750,7 +91852,13 @@
     "fallest"
   ],
   "H6202": [
-    "break neck"
+    "break neck",
+    "break his neck",
+    "break its neck",
+    "break the heifer's neck",
+    "whose neck was broken",
+    "beheaded",
+    "strike off the heifer's neck"
   ],
   "H6203": [
     "neck",
@@ -90114,7 +92222,9 @@
     "plate"
   ],
   "H6248": [
-    "folly"
+    "folly",
+    "thoughts",
+    "plans"
   ],
   "H6249": [
     "eleven",
@@ -90127,7 +92237,12 @@
     "young ones",
     "ashtoreth",
     "ashtaroth",
-    "astarte"
+    "astarte",
+    "flocks",
+    "young",
+    "lambs",
+    "offspring",
+    "seed"
   ],
   "H6252": [
     "ashtaroth",
@@ -90153,7 +92268,8 @@
     "appropriate time",
     "this time",
     "season",
-    "appointed season"
+    "appointed season",
+    "seasons"
   ],
   "H6258": [
     "now",
@@ -90167,7 +92283,8 @@
     "for now"
   ],
   "H6259": [
-    "ready"
+    "ready",
+    "prepared"
   ],
   "H6260": [
     "goat",
@@ -90252,7 +92369,20 @@
     "pray",
     "prayed",
     "prayeth",
-    "prayest"
+    "prayest",
+    "intreat",
+    "intreated",
+    "entreat",
+    "plead",
+    "pleaded",
+    "answer",
+    "answered",
+    "grant",
+    "granted",
+    "answereth",
+    "answerest",
+    "granteth",
+    "grantest"
   ],
   "H6281": [
     "ether",
@@ -90302,7 +92432,18 @@
     "beauty",
     "headdress",
     "glory",
-    "splendor"
+    "splendor",
+    "garland",
+    "headdresses",
+    "turbans",
+    "headtire",
+    "headtires",
+    "bonnets",
+    "tire",
+    "tires",
+    "crown of beauty",
+    "beautiful headdress",
+    "headbands"
   ],
   "H6288": [
     "branches",
@@ -90553,7 +92694,13 @@
   "H6320": [
     "eye-paint",
     "antimony",
-    "color"
+    "color",
+    "paint",
+    "painted",
+    "painting",
+    "makeup",
+    "eye makeup",
+    "kohl"
   ],
   "H6321": [
     "bean",
@@ -90561,6 +92708,15 @@
   ],
   "H6322": [
     "pul"
+  ],
+  "H6323": [
+    "distracted",
+    "overcome",
+    "helpless",
+    "in despair",
+    "desperate",
+    "overcometh",
+    "overcomest"
   ],
   "H6324": [
     "puni"
@@ -90622,7 +92778,11 @@
     "pour out",
     "poured out",
     "pouring out",
-    "pours out"
+    "pours out",
+    "reel",
+    "reeling",
+    "stagger",
+    "staggering"
   ],
   "H6329": [
     "obtains",
@@ -90643,7 +92803,9 @@
   ],
   "H6333": [
     "winepress",
-    "purah"
+    "purah",
+    "wine press",
+    "winefat"
   ],
   "H6334": [
     "poratha"
@@ -90676,6 +92838,9 @@
     "be refined",
     "purify",
     "purified",
+    "leaping"
+  ],
+  "H6339": [
     "leaping"
   ],
   "H6340": [
@@ -90729,7 +92894,8 @@
   "H6343": [
     "dread",
     "fear",
-    "terror"
+    "terror",
+    "panic"
   ],
   "H6345": [
     "dread",
@@ -90757,6 +92923,16 @@
     "light",
     "fickle"
   ],
+  "H6349": [
+    "unstable",
+    "uncontrolled",
+    "turbulent",
+    "unruly",
+    "reckless",
+    "light",
+    "fickle",
+    "arrogant"
+  ],
   "H6350": [
     "rashness",
     "recklessness",
@@ -90781,7 +92957,9 @@
     "earthen vessel",
     "earthenware",
     "jar",
-    "potsherd"
+    "potsherd",
+    "potter's",
+    "potters"
   ],
   "H6354": [
     "pit",
@@ -90842,7 +93020,8 @@
     "disaster",
     "destruction",
     "calamity",
-    "ruin"
+    "ruin",
+    "misfortune"
   ],
   "H6366": [
     "two-edged sword",
@@ -90885,7 +93064,14 @@
     "double-edged"
   ],
   "H6375": [
-    "tottering"
+    "tottering",
+    "smite together",
+    "knock",
+    "knock together",
+    "tremble",
+    "quake",
+    "give way",
+    "shake"
   ],
   "H6376": [
     "pison",
@@ -91020,7 +93206,12 @@
     "division"
   ],
   "H6393": [
-    "iron"
+    "iron",
+    "steel",
+    "metal",
+    "flaming torches",
+    "flashing steel",
+    "flashing metal"
   ],
   "H6394": [
     "pildash"
@@ -91081,7 +93272,9 @@
   "H6400": [
     "mill-stone",
     "slice",
-    "millstone"
+    "millstone",
+    "piece of a millstone",
+    "upper millstone"
   ],
   "H6401": [
     "pilchah",
@@ -91169,11 +93362,17 @@
     "judgment"
   ],
   "H6417": [
-    "pelaliah"
+    "pelaliah",
+    "sentence",
+    "judgment",
+    "vindication",
+    "innocent"
   ],
   "H6418": [
     "district",
-    "spindle"
+    "spindle",
+    "half-district",
+    "part"
   ],
   "H6419": [
     "pray",
@@ -91194,7 +93393,12 @@
     "palmoni"
   ],
   "H6423": [
-    "certain one"
+    "certain one",
+    "such a one",
+    "friend",
+    "my friend",
+    "such and such a place",
+    "certain place"
   ],
   "H6424": [
     "make level",
@@ -91270,7 +93474,10 @@
     "pelethites"
   ],
   "H6433": [
-    "mouth"
+    "mouth",
+    "mouths",
+    "door",
+    "opening"
   ],
   "H6434": [
     "corner"
@@ -91379,7 +93586,16 @@
     "delicately bringeth up"
   ],
   "H6446": [
-    "palms and soles"
+    "palms and soles",
+    "many colours",
+    "divers colours",
+    "many colors",
+    "varicolored",
+    "long-sleeved",
+    "with sleeves",
+    "richly ornamented",
+    "ornate",
+    "beautiful"
   ],
   "H6447": [
     "palm"
@@ -91638,14 +93854,25 @@
     "time",
     "two times",
     "feet",
-    "footsteps"
+    "footsteps",
+    "once",
+    "twice",
+    "step",
+    "steps"
   ],
   "H6472": [
     "bell",
     "bells"
   ],
   "H6473": [
-    "opened wide"
+    "opened wide",
+    "gape",
+    "gaped",
+    "open",
+    "opened",
+    "open wide",
+    "openeth",
+    "openest"
   ],
   "H6474": [
     "paarai"
@@ -91674,7 +93901,13 @@
     "breaketh",
     "breakest",
     "openeth",
-    "openest"
+    "openest",
+    "make a loud noise",
+    "break into singing",
+    "burst into song",
+    "burst into songs of joy",
+    "break into joyful song",
+    "break out in praise"
   ],
   "H6477": [
     "bluntness"
@@ -91688,7 +93921,9 @@
   ],
   "H6479": [
     "stripe",
-    "stripes"
+    "stripes",
+    "strakes",
+    "streaks"
   ],
   "H6480": [
     "break",
@@ -91810,7 +94045,11 @@
   "H6487": [
     "item entrusted",
     "deposit",
-    "deposits"
+    "deposits",
+    "security",
+    "pledge",
+    "something entrusted",
+    "that which was delivered him to keep"
   ],
   "H6488": [
     "oversight",
@@ -91848,13 +94087,19 @@
     "pekah"
   ],
   "H6493": [
-    "prudent"
+    "prudent",
+    "seeing",
+    "sight",
+    "see"
   ],
   "H6494": [
     "pekahiah"
   ],
   "H6495": [
-    "opening"
+    "opening",
+    "release",
+    "freedom",
+    "freed"
   ],
   "H6496": [
     "overseer",
@@ -92021,7 +94266,11 @@
   "H6519": [
     "open regions",
     "village",
-    "villages"
+    "villages",
+    "unwalled villages",
+    "villages without walls",
+    "towns without walls",
+    "city without walls"
   ],
   "H6520": [
     "rural people",
@@ -92031,12 +94280,20 @@
     "countrymen",
     "people of the country",
     "men of the country",
-    "farmers"
+    "farmers",
+    "his villagers",
+    "inhabitants of the villages",
+    "inhabitants of his villages",
+    "peasantry",
+    "his peasantry",
+    "village life"
   ],
   "H6521": [
     "hamlet-dweller",
     "villager",
-    "villagers"
+    "villagers",
+    "unwalled towns",
+    "unwalled villages"
   ],
   "H6522": [
     "perizzite",
@@ -92116,7 +94373,14 @@
   "H6531": [
     "harshness",
     "violence",
-    "severity"
+    "severity",
+    "rigour",
+    "cruelty",
+    "rigor",
+    "rigorously",
+    "ruthlessly",
+    "harshly",
+    "ruthless"
   ],
   "H6532": [
     "veil",
@@ -92201,6 +94465,10 @@
   "H6544": [
     "loose",
     "ignores"
+  ],
+  "H6545": [
+    "locks",
+    "hair"
   ],
   "H6547": [
     "pharaoh",
@@ -92340,7 +94608,10 @@
     "break",
     "broken",
     "breaketh",
-    "breakest"
+    "breakest",
+    "dissolving",
+    "solve",
+    "solving"
   ],
   "H6563": [
     "plunder",
@@ -92413,7 +94684,15 @@
     "spread",
     "scattered",
     "spreadeth",
-    "spreadest"
+    "spreadest",
+    "spreads",
+    "spreading",
+    "spread forth",
+    "spreads forth",
+    "stretch out",
+    "stretches out",
+    "stretching out",
+    "stretched out"
   ],
   "H6567": [
     "declare",
@@ -92487,7 +94766,9 @@
     "horsemen",
     "horses",
     "warhorses",
-    "horseman"
+    "horseman",
+    "cavalry",
+    "charioteers"
   ],
   "H6572": [
     "copy",
@@ -92615,11 +94896,18 @@
     "transgressed",
     "transgress",
     "transgressors",
-    "rebels"
+    "rebels",
+    "rebel",
+    "rebelling",
+    "revolt",
+    "revolted",
+    "transgresses",
+    "transgressing"
   ],
   "H6587": [
     "transgression",
-    "transgressions"
+    "transgressions",
+    "step"
   ],
   "H6588": [
     "transgression",
@@ -92633,7 +94921,9 @@
     "open",
     "opened",
     "openeth",
-    "openest"
+    "openest",
+    "open wide",
+    "opened wide"
   ],
   "H6590": [
     "interpret",
@@ -92649,7 +94939,9 @@
     "interpreteth"
   ],
   "H6591": [
-    "interpretation"
+    "interpretation",
+    "interpretations",
+    "meaning"
   ],
   "H6592": [
     "interpretation"
@@ -92671,7 +94963,8 @@
   ],
   "H6596": [
     "hinge",
-    "hinges"
+    "hinges",
+    "sockets"
   ],
   "H6597": [
     "suddenly",
@@ -92698,11 +94991,17 @@
     "decree",
     "decrees",
     "ordinance",
-    "command"
+    "command",
+    "sentence"
   ],
   "H6600": [
     "word",
-    "command"
+    "command",
+    "decree",
+    "edict",
+    "sentence",
+    "answer",
+    "reply"
   ],
   "H6601": [
     "persuade",
@@ -92814,7 +95113,14 @@
     "doorway",
     "doors",
     "doorways",
-    "openings"
+    "openings",
+    "entry",
+    "entries",
+    "entryway",
+    "entryways",
+    "mouth",
+    "mouths",
+    "open place"
   ],
   "H6609": [
     "drawn sword",
@@ -92854,7 +95160,12 @@
     "simplicity",
     "naivete",
     "simple-mindedness",
-    "folly"
+    "folly",
+    "being simple",
+    "simple ways",
+    "being simple-minded",
+    "simplistic thinking",
+    "being simpleminded"
   ],
   "H6616": [
     "cord",
@@ -92865,7 +95176,17 @@
     "show yourself twisted",
     "twist",
     "twisted",
-    "twisting"
+    "twisting",
+    "wrestle",
+    "wrestled",
+    "wrestlings",
+    "struggle",
+    "struggled",
+    "shrewd",
+    "astute",
+    "froward",
+    "perverse",
+    "tortuous"
   ],
   "H6618": [
     "twisted",
@@ -92879,7 +95200,10 @@
     "cobras",
     "cobra",
     "asp",
-    "viper"
+    "viper",
+    "adder",
+    "adders",
+    "asps"
   ],
   "H6621": [
     "instant",
@@ -92889,7 +95213,8 @@
   ],
   "H6622": [
     "interpreted",
-    "interprets"
+    "interprets",
+    "interpret"
   ],
   "H6623": [
     "interpretation",
@@ -93009,7 +95334,18 @@
     "hosts of the lord",
     "hosts of heaven",
     "armies of heaven",
-    "army of heaven"
+    "army of heaven",
+    "hard service",
+    "term of service",
+    "division",
+    "divisions",
+    "company",
+    "companies",
+    "struggle",
+    "appointed time",
+    "conflict",
+    "duty",
+    "duties"
   ],
   "H6636": [
     "zeboiim",
@@ -93033,7 +95369,9 @@
     "painted",
     "variegated",
     "colored",
-    "coloured"
+    "coloured",
+    "speckled",
+    "hyena"
   ],
   "H6642": [
     "serve",
@@ -93072,7 +95410,14 @@
     "became wet"
   ],
   "H6648": [
-    "colored cloth"
+    "colored cloth",
+    "divers colours",
+    "divers colors",
+    "dyed garments",
+    "dyed materials",
+    "dyed work",
+    "colorful garments",
+    "colorful robes"
   ],
   "H6649": [
     "zibeon"
@@ -93141,7 +95486,11 @@
   ],
   "H6660": [
     "lying in wait",
-    "ambush"
+    "ambush",
+    "ambushes",
+    "trap",
+    "traps",
+    "wait"
   ],
   "H6661": [
     "ziddim"
@@ -93245,7 +95594,11 @@
     "brightness"
   ],
   "H6673": [
-    "command"
+    "command",
+    "precept",
+    "order",
+    "rule",
+    "do"
   ],
   "H6674": [
     "filthy"
@@ -93255,7 +95608,9 @@
     "excrement",
     "filth",
     "dung",
-    "uncleanness"
+    "uncleanness",
+    "filthiness",
+    "filthy"
   ],
   "H6676": [
     "neck",
@@ -93310,7 +95665,17 @@
     "bidden",
     "bidding",
     "commandeth",
-    "commandest"
+    "commandest",
+    "instruct",
+    "instructs",
+    "instructed",
+    "instructing",
+    "warn",
+    "warns",
+    "warned",
+    "warning",
+    "commissions",
+    "commissioning"
   ],
   "H6681": [
     "cry",
@@ -93353,7 +95718,15 @@
     "flow",
     "flowed",
     "flows",
-    "flowing"
+    "flowing",
+    "swim",
+    "float",
+    "floated",
+    "floating",
+    "overflow",
+    "overflows",
+    "overflowed",
+    "overflowing"
   ],
   "H6688": [
     "honeycomb"
@@ -93376,7 +95749,8 @@
     "buds",
     "bloom",
     "bloomed",
-    "blooming"
+    "blooming",
+    "blossoming"
   ],
   "H6693": [
     "bring distress",
@@ -93464,7 +95838,8 @@
     "shape",
     "fashion",
     "figure",
-    "appearance"
+    "appearance",
+    "forms"
   ],
   "H6700": [
     "zuriel"
@@ -93483,7 +95858,11 @@
     "dazzling",
     "bright",
     "clear",
-    "shining"
+    "shining",
+    "white",
+    "radiant",
+    "whiter",
+    "shimmering"
   ],
   "H6704": [
     "parched",
@@ -93499,7 +95878,13 @@
     "top of a rock"
   ],
   "H6707": [
-    "parched"
+    "parched",
+    "dry land",
+    "parched land",
+    "sun-scorched land"
+  ],
+  "H6708": [
+    "higher"
   ],
   "H6709": [
     "stench"
@@ -93509,7 +95894,10 @@
     "scorching heat",
     "scorched",
     "burning heat",
-    "heat"
+    "heat",
+    "parched places",
+    "stony wastes",
+    "barren wilderness"
   ],
   "H6711": [
     "laughed",
@@ -93527,7 +95915,8 @@
     "laughing"
   ],
   "H6713": [
-    "sachar"
+    "sachar",
+    "sahar"
   ],
   "H6714": [
     "zohar"
@@ -93592,7 +95981,14 @@
   ],
   "H6725": [
     "sign",
-    "signal"
+    "signal",
+    "title",
+    "waymarks",
+    "monument",
+    "roadmarks",
+    "road markers",
+    "road signs",
+    "marker"
   ],
   "H6726": [
     "zion",
@@ -93653,6 +96049,15 @@
     "messenger",
     "messengers"
   ],
+  "H6736": [
+    "hinges",
+    "sockets"
+  ],
+  "H6737": [
+    "take",
+    "taketh",
+    "takest"
+  ],
   "H6738": [
     "shadow",
     "shadows",
@@ -93677,7 +96082,10 @@
     "zillah"
   ],
   "H6742": [
-    "sound"
+    "sound",
+    "well-set hair",
+    "well set hair",
+    "well-dressed hair"
   ],
   "H6743": [
     "prosper",
@@ -93720,7 +96128,8 @@
     "succeeds",
     "succeeding",
     "be successful",
-    "have success"
+    "have success",
+    "prospers"
   ],
   "H6746": [
     "jar",
@@ -93732,10 +96141,12 @@
     "pan",
     "basin",
     "bason",
-    "platter"
+    "platter",
+    "pans"
   ],
   "H6748": [
-    "roasted"
+    "roasted",
+    "roast"
   ],
   "H6749": [
     "sink",
@@ -93771,7 +96182,8 @@
   "H6755": [
     "image",
     "images",
-    "likeness"
+    "likeness",
+    "statue"
   ],
   "H6756": [
     "zalmon",
@@ -93811,7 +96223,10 @@
     "rib",
     "ribs",
     "side",
-    "sides"
+    "sides",
+    "adversity",
+    "stumbled",
+    "trouble"
   ],
   "H6762": [
     "zelah"
@@ -93823,7 +96238,13 @@
     "side-chamber",
     "boards",
     "rib",
-    "ribs"
+    "ribs",
+    "side chamber",
+    "side chambers",
+    "side room",
+    "side rooms",
+    "leaf",
+    "leaves"
   ],
   "H6764": [
     "zalaph"
@@ -93842,7 +96263,12 @@
     "clangor",
     "tinkling",
     "ringing",
-    "sound of the trumpet"
+    "sound of the trumpet",
+    "cymbal",
+    "whirring",
+    "rustling",
+    "buzzing",
+    "shadowing"
   ],
   "H6768": [
     "zelek"
@@ -93872,7 +96298,13 @@
   ],
   "H6774": [
     "thirsty ground",
-    "thirst"
+    "thirst",
+    "drought",
+    "thirsty land",
+    "parched land",
+    "parched ground",
+    "dry ground",
+    "dry land"
   ],
   "H6775": [
     "joined themselves",
@@ -93901,7 +96333,9 @@
   "H6778": [
     "bunches of raisins",
     "cluster",
-    "clusters"
+    "clusters",
+    "clusters of raisins",
+    "cakes of raisins"
   ],
   "H6779": [
     "spring",
@@ -93984,7 +96418,13 @@
     "shrivel",
     "shrivelled",
     "shriveled",
-    "dry up"
+    "dry up",
+    "faileth",
+    "has grown lean",
+    "has become gaunt",
+    "is thin and gaunt",
+    "grows lean and gaunt",
+    "i am skin and bones"
   ],
   "H6785": [
     "wool",
@@ -94066,7 +96506,11 @@
     "thorns"
   ],
   "H6797": [
-    "turban"
+    "turban",
+    "turbans",
+    "diadem",
+    "mitre",
+    "hoods"
   ],
   "H6798": [
     "dry"
@@ -94093,7 +96537,20 @@
     "wound",
     "gird",
     "bindeth",
-    "bindest"
+    "bindest",
+    "turn",
+    "toss",
+    "whirl",
+    "throw",
+    "roll up",
+    "roll",
+    "cast",
+    "turneth",
+    "turnest",
+    "throweth",
+    "throwest",
+    "casteth",
+    "castest"
   ],
   "H6803": [
     "jar"
@@ -94124,13 +96581,22 @@
   ],
   "H6806": [
     "steps",
-    "step"
+    "step",
+    "pace",
+    "paces"
   ],
   "H6807": [
-    "marching"
+    "marching",
+    "procession",
+    "processions",
+    "solemn processions",
+    "goings"
   ],
   "H6808": [
-    "tip"
+    "tip",
+    "marching",
+    "travelling",
+    "traveling"
   ],
   "H6809": [
     "veil",
@@ -94164,7 +96630,12 @@
   ],
   "H6816": [
     "image",
-    "images"
+    "images",
+    "pleasant pictures",
+    "pleasant imagery",
+    "beautiful craft",
+    "stately vessel",
+    "stately pleasure craft"
   ],
   "H6817": [
     "cry",
@@ -94225,7 +96696,10 @@
     "insignificant",
     "be small",
     "be little",
-    "be few"
+    "be few",
+    "little one",
+    "small one",
+    "small"
   ],
   "H6820": [
     "zoar"
@@ -94267,7 +96741,8 @@
   ],
   "H6823": [
     "overlaid",
-    "overlay"
+    "overlay",
+    "overlaying"
   ],
   "H6825": [
     "zepho"
@@ -94297,7 +96772,8 @@
     "northern",
     "northward",
     "from the north",
-    "of the north"
+    "of the north",
+    "northerner"
   ],
   "H6832": [
     "dung"
@@ -94323,7 +96799,10 @@
     "pitcher",
     "pitchers",
     "flask",
-    "flasks"
+    "flasks",
+    "cruse",
+    "water jar",
+    "water jug"
   ],
   "H6836": [
     "watch"
@@ -94371,6 +96850,11 @@
     "crown",
     "crowns"
   ],
+  "H6844": [
+    "rug",
+    "blanket",
+    "mantle"
+  ],
   "H6845": [
     "hide",
     "hidden",
@@ -94413,7 +96897,9 @@
     "adders",
     "vipers",
     "serpent",
-    "serpents"
+    "serpents",
+    "cockatrice",
+    "cockatrices"
   ],
   "H6849": [
     "offshoot"
@@ -94426,7 +96912,13 @@
     "murmur",
     "murmured",
     "murmuring",
-    "murmurs"
+    "murmurs",
+    "peep",
+    "peeped",
+    "chirp",
+    "chirped",
+    "chatter",
+    "twitter"
   ],
   "H6851": [
     "willow",
@@ -94454,6 +96946,12 @@
   ],
   "H6857": [
     "zephath"
+  ],
+  "H6858": [
+    "capital",
+    "capitals",
+    "chapiter",
+    "chapiters"
   ],
   "H6859": [
     "zephathah"
@@ -94539,7 +97037,14 @@
     "sack",
     "sacks",
     "bundle",
-    "bundles"
+    "bundles",
+    "bags",
+    "pouch",
+    "pouches",
+    "purse",
+    "purses",
+    "sachet",
+    "wallet"
   ],
   "H6873": [
     "cry",
@@ -94549,7 +97054,9 @@
     "crying",
     "crying out",
     "crieth",
-    "criest"
+    "criest",
+    "cries out",
+    "cries aloud"
   ],
   "H6874": [
     "zeri"
@@ -94696,7 +97203,9 @@
   ],
   "H6893": [
     "desert owl",
-    "pelican"
+    "pelican",
+    "cormorant",
+    "owl"
   ],
   "H6894": [
     "line",
@@ -94785,7 +97294,10 @@
     "before"
   ],
   "H6904": [
-    "battering-ram"
+    "battering-ram",
+    "engines of war",
+    "battering rams",
+    "battering-rams"
   ],
   "H6906": [
     "rob",
@@ -94797,11 +97309,22 @@
     "plundered",
     "plunderers",
     "seize",
-    "seized"
+    "seized",
+    "robs",
+    "take away",
+    "takes away",
+    "taketh away",
+    "takes",
+    "cheat",
+    "cheated",
+    "cheating"
   ],
   "H6907": [
     "bowl",
-    "dregs"
+    "dregs",
+    "goblet",
+    "chalice",
+    "cup"
   ],
   "H6908": [
     "gather",
@@ -94987,7 +97510,8 @@
     "formerly",
     "former",
     "of old",
-    "before"
+    "before",
+    "aforetime"
   ],
   "H6928": [
     "former time"
@@ -95195,7 +97719,11 @@
   ],
   "H6951": [
     "assembly",
-    "company"
+    "company",
+    "assemblies",
+    "congregations",
+    "multitude",
+    "community"
   ],
   "H6952": [
     "assembly",
@@ -95221,7 +97749,8 @@
     "measuring-line",
     "line",
     "cord",
-    "measuring line"
+    "measuring line",
+    "rule"
   ],
   "H6958": [
     "vomited up",
@@ -95281,7 +97810,10 @@
     "hated",
     "hates",
     "hateth",
-    "hatest"
+    "hatest",
+    "loatheth",
+    "weary",
+    "sick"
   ],
   "H6963": [
     "voice",
@@ -95444,7 +97976,11 @@
     "statures"
   ],
   "H6968": [
-    "uprightness"
+    "uprightness",
+    "upright",
+    "erect",
+    "with heads held high",
+    "with your heads held high"
   ],
   "H6969": [
     "lamented",
@@ -95458,7 +97994,20 @@
     "play",
     "played",
     "singeth",
-    "singest"
+    "singest",
+    "lament",
+    "take up",
+    "took up",
+    "raise",
+    "raised",
+    "chanted",
+    "compose",
+    "composed",
+    "sang",
+    "intone",
+    "intoned",
+    "raiseth",
+    "raisest"
   ],
   "H6970": [
     "koa",
@@ -95476,13 +98025,28 @@
     "summering"
   ],
   "H6973": [
-    "loathed"
+    "loathed",
+    "loathe",
+    "loathes",
+    "dread",
+    "dreaded",
+    "detested",
+    "disgusted",
+    "weary",
+    "tired",
+    "distressed",
+    "grieved",
+    "impatient",
+    "abhorred"
   ],
   "H6974": [
     "awake",
     "awoke",
     "awakened",
-    "awakes"
+    "awakes",
+    "awakest",
+    "wake",
+    "wake up"
   ],
   "H6975": [
     "thorns",
@@ -95501,7 +98065,10 @@
     "braids"
   ],
   "H6978": [
-    "strength"
+    "strength",
+    "meted out",
+    "mighty",
+    "powerful"
   ],
   "H6979": [
     "dug",
@@ -95529,7 +98096,8 @@
     "deceive",
     "draw away",
     "tempteth",
-    "temptest"
+    "temptest",
+    "gin"
   ],
   "H6984": [
     "kushaiah"
@@ -95573,7 +98141,9 @@
     "killeth",
     "killest",
     "slayeth",
-    "slayest"
+    "slayest",
+    "execute",
+    "executed"
   ],
   "H6993": [
     "slaughter"
@@ -95600,7 +98170,12 @@
   "H6998": [
     "pluck off",
     "plucked off",
-    "pluck"
+    "pluck",
+    "pick",
+    "crop off",
+    "cropped off",
+    "break off",
+    "broke off"
   ],
   "H6999": [
     "burned",
@@ -95658,7 +98233,13 @@
     "summer"
   ],
   "H7008": [
-    "smoke"
+    "smoke",
+    "dense smoke",
+    "vapor",
+    "vapour",
+    "mist",
+    "clouds",
+    "frost"
   ],
   "H7009": [
     "adversary"
@@ -95677,7 +98258,10 @@
     "everlasting",
     "perpetual",
     "continual",
-    "permanent"
+    "permanent",
+    "stedfast",
+    "endures",
+    "endure"
   ],
   "H7012": [
     "rising",
@@ -95879,7 +98463,9 @@
     "scorned",
     "mock",
     "mocked",
-    "make light"
+    "make light",
+    "mocking",
+    "mocks"
   ],
   "H7047": [
     "derision",
@@ -95934,7 +98520,9 @@
     "horrible manna"
   ],
   "H7053": [
-    "fork"
+    "fork",
+    "forks",
+    "three-pronged forks"
   ],
   "H7054": [
     "standing grain",
@@ -96053,7 +98641,9 @@
     "jealousy",
     "zeal",
     "jealousi",
-    "envy"
+    "envy",
+    "passion",
+    "passionate commitment"
   ],
   "H7069": [
     "buy",
@@ -96114,7 +98704,13 @@
     "acquisition",
     "possessions",
     "property",
-    "purchase"
+    "purchase",
+    "goods",
+    "substance",
+    "riches",
+    "getting",
+    "acquiring",
+    "creatures"
   ],
   "H7076": [
     "cinnamon",
@@ -96156,7 +98752,13 @@
     "strip off",
     "stripped off",
     "make naked",
-    "naked"
+    "naked",
+    "poll",
+    "trim",
+    "trimmed",
+    "cut",
+    "cutteth",
+    "cuttest"
   ],
   "H7083": [
     "writing-case",
@@ -96171,7 +98773,11 @@
     "earthenware vessel",
     "earthenware vessels",
     "earthenware jar",
-    "earthenware jars"
+    "earthenware jars",
+    "inkhorn",
+    "writing case",
+    "writer's case",
+    "writing kit"
   ],
   "H7084": [
     "keilah"
@@ -96206,7 +98812,9 @@
     "harden",
     "hardened",
     "freeze",
-    "frozen"
+    "frozen",
+    "freezes",
+    "became hard"
   ],
   "H7088": [
     "roll",
@@ -96275,7 +98883,9 @@
     "cut",
     "cut off",
     "cutteth",
-    "cuttest"
+    "cuttest",
+    "cut down",
+    "cutting down"
   ],
   "H7095": [
     "shape",
@@ -96323,7 +98933,9 @@
   ],
   "H7098": [
     "ends",
-    "end"
+    "end",
+    "edges",
+    "selvedge"
   ],
   "H7099": [
     "ends"
@@ -96361,7 +98973,10 @@
   "H7106": [
     "scrape",
     "scraped",
-    "scraping"
+    "scraping",
+    "scrape off",
+    "scraped off",
+    "scrapings"
   ],
   "H7107": [
     "angry",
@@ -96452,7 +99067,9 @@
     "discouraged"
   ],
   "H7116": [
-    "short"
+    "short",
+    "shorter",
+    "too short"
   ],
   "H7117": [
     "end",
@@ -96532,7 +99149,18 @@
     "happened",
     "met",
     "meeteth",
-    "meetest"
+    "meetest",
+    "meets",
+    "meeting",
+    "encounter",
+    "encountered",
+    "encounters",
+    "happens",
+    "befall",
+    "befell",
+    "befallen",
+    "befalls",
+    "come upon"
   ],
   "H7123": [
     "read aloud",
@@ -96672,7 +99300,10 @@
     "inner",
     "inner parts",
     "inmost",
-    "inmost parts"
+    "inmost parts",
+    "inner part",
+    "hearts",
+    "middle"
   ],
   "H7131": [
     "approaching",
@@ -96719,7 +99350,20 @@
     "make beams",
     "made beams",
     "meeteth",
-    "meetest"
+    "meetest",
+    "happens",
+    "happening",
+    "happeneth",
+    "befall",
+    "befell",
+    "befallen",
+    "befalleth",
+    "encounter",
+    "encountered",
+    "encountereth",
+    "chanced",
+    "come upon",
+    "come across"
   ],
   "H7137": [
     "accident",
@@ -96767,7 +99411,10 @@
     "korah"
   ],
   "H7142": [
-    "bald"
+    "bald",
+    "bald head",
+    "baldhead",
+    "baldy"
   ],
   "H7143": [
     "kareah"
@@ -96775,7 +99422,8 @@
   "H7144": [
     "baldness",
     "bald spot",
-    "bald spots"
+    "bald spots",
+    "bald head"
   ],
   "H7145": [
     "korahite",
@@ -96919,7 +99567,13 @@
     "tore",
     "torn",
     "tear",
-    "tear away"
+    "tear away",
+    "tearing",
+    "rend",
+    "rent",
+    "tear open",
+    "rendeth",
+    "rendest"
   ],
   "H7168": [
     "pieces"
@@ -97068,11 +99722,21 @@
     "hardened",
     "become hard",
     "becomes hard",
-    "become hardened"
+    "become hardened",
+    "is hardened",
+    "dealeth hardly",
+    "deals cruelly",
+    "treats cruelly",
+    "treats harshly",
+    "is harsh"
   ],
   "H7189": [
     "bow",
-    "bows"
+    "bows",
+    "truth",
+    "certainty",
+    "right",
+    "true"
   ],
   "H7190": [
     "stubbornness"
@@ -97147,7 +99811,8 @@
     "bowman",
     "bowmen",
     "archer",
-    "archers"
+    "archers",
+    "bow"
   ],
   "H7200": [
     "see",
@@ -97297,7 +99962,8 @@
     "seen",
     "seest",
     "seeing",
-    "see"
+    "see",
+    "appearance"
   ],
   "H7211": [
     "reaiah"
@@ -97373,7 +100039,15 @@
     "ruler"
   ],
   "H7219": [
-    "poison"
+    "poison",
+    "gall",
+    "venom",
+    "hemlock",
+    "poisoned",
+    "poisonous",
+    "poisonous weed",
+    "poisonous weeds",
+    "poisonous plant"
   ],
   "H7220": [
     "rosh",
@@ -97423,7 +100097,8 @@
   ],
   "H7229": [
     "great",
-    "chief"
+    "chief",
+    "many"
   ],
   "H7230": [
     "abundance",
@@ -97556,7 +100231,12 @@
   ],
   "H7239": [
     "ten thousand",
-    "ten thousands"
+    "ten thousands",
+    "tens of thousands",
+    "myriad",
+    "myriads",
+    "many thousands",
+    "countless thousands"
   ],
   "H7241": [
     "copious showers",
@@ -97667,7 +100347,10 @@
   ],
   "H7258": [
     "resting place",
-    "rest"
+    "rest",
+    "resting places",
+    "lair",
+    "lairs"
   ],
   "H7259": [
     "rebekah"
@@ -97679,7 +100362,9 @@
     "much",
     "very much",
     "greatly",
-    "very great"
+    "very great",
+    "lords",
+    "nobles"
   ],
   "H7261": [
     "nobles",
@@ -97689,7 +100374,8 @@
     "princes",
     "chiefs",
     "great",
-    "great men"
+    "great men",
+    "lords"
   ],
   "H7262": [
     "rabshakeh",
@@ -97739,7 +100425,15 @@
     "commotion",
     "disturbance",
     "rage",
-    "uproar"
+    "uproar",
+    "wrath",
+    "anger",
+    "noise",
+    "thunder",
+    "roar",
+    "troubling",
+    "raging",
+    "trouble"
   ],
   "H7268": [
     "trembling",
@@ -97850,7 +100544,11 @@
     "quiet"
   ],
   "H7283": [
-    "throng"
+    "throng",
+    "rage",
+    "in an uproar",
+    "conspire",
+    "are so angry"
   ],
   "H7284": [
     "came as a crowd",
@@ -97865,7 +100563,12 @@
     "tumult",
     "commotion",
     "uproar",
-    "stir"
+    "stir",
+    "throng",
+    "company",
+    "insurrection",
+    "noisy crowd",
+    "mobs"
   ],
   "H7286": [
     "crush",
@@ -97876,7 +100579,9 @@
     "beat down",
     "tread down",
     "subdue",
-    "subdued"
+    "subdued",
+    "subdues",
+    "subdueth"
   ],
   "H7287": [
     "rule",
@@ -97906,7 +100611,14 @@
     "raddai"
   ],
   "H7289": [
-    "veil"
+    "veil",
+    "vail",
+    "vails",
+    "veils",
+    "shawl",
+    "shawls",
+    "mantle",
+    "cloak"
   ],
   "H7290": [
     "sleeping",
@@ -97917,7 +100629,13 @@
     "fell asleep",
     "fell into a deep sleep",
     "sleepeth",
-    "sleepest"
+    "sleepest",
+    "asleep",
+    "fast asleep",
+    "sound asleep",
+    "slumber",
+    "slumbering",
+    "sank into sleep"
   ],
   "H7291": [
     "pursue",
@@ -98000,7 +100718,17 @@
     "roaming",
     "wander",
     "wandered",
-    "wandering"
+    "wandering",
+    "grow restless",
+    "become restless",
+    "restless",
+    "mourn",
+    "distraught",
+    "free",
+    "lords",
+    "break loose",
+    "break free",
+    "have dominion"
   ],
   "H7301": [
     "satisfy"
@@ -98024,7 +100752,11 @@
     "spread",
     "spread out",
     "spreadeth",
-    "spreadest"
+    "spreadest",
+    "be refreshed",
+    "find relief",
+    "get relief",
+    "be relieved"
   ],
   "H7305": [
     "space",
@@ -98087,7 +100819,13 @@
   "H7310": [
     "abundance",
     "satisfaction",
-    "fullness"
+    "fullness",
+    "runneth over",
+    "overflows",
+    "overflows with blessings",
+    "wealthy place",
+    "place of abundance",
+    "spacious place"
   ],
   "H7311": [
     "exalt",
@@ -98306,7 +101044,11 @@
     "starved",
     "starving",
     "famish",
-    "famished"
+    "famished",
+    "wax lean",
+    "become lean",
+    "grow lean",
+    "waste away"
   ],
   "H7330": [
     "lean",
@@ -98326,11 +101068,21 @@
     "contentment",
     "want",
     "lack",
-    "leanness"
+    "leanness",
+    "wasting disease",
+    "wasting sickness",
+    "plague",
+    "waste away",
+    "pine away"
+  ],
+  "H7333": [
+    "prince"
   ],
   "H7334": [
     "leanness",
-    "wasting"
+    "wasting",
+    "waste away",
+    "pine away"
   ],
   "H7335": [
     "flash",
@@ -98413,7 +101165,10 @@
   "H7342": [
     "broad",
     "wide",
-    "arrogant"
+    "arrogant",
+    "large",
+    "spacious",
+    "boundless"
   ],
   "H7343": [
     "rahab"
@@ -98433,7 +101188,8 @@
     "millstone",
     "millstones",
     "mill-stone",
-    "mill-stones"
+    "mill-stones",
+    "upper millstone"
   ],
   "H7348": [
     "rehum"
@@ -98496,7 +101252,9 @@
     "compassions",
     "mercy",
     "mercies",
-    "pity"
+    "pity",
+    "tender mercy",
+    "tender mercies"
   ],
   "H7358": [
     "womb",
@@ -98504,8 +101262,17 @@
     "inward parts",
     "inner parts"
   ],
+  "H7359": [
+    "mercies",
+    "mercy",
+    "compassion"
+  ],
   "H7360": [
-    "egyptian vulture"
+    "egyptian vulture",
+    "gier eagle",
+    "gier-eagle",
+    "carrion vulture",
+    "vulture"
   ],
   "H7362": [
     "compassionate",
@@ -98518,7 +101285,16 @@
     "become faint",
     "be weak",
     "become weak",
-    "languish"
+    "languish",
+    "hovering",
+    "moved",
+    "moving",
+    "swept",
+    "fluttereth",
+    "flutters",
+    "shake",
+    "tremble",
+    "hovers"
   ],
   "H7364": [
     "wash",
@@ -98604,7 +101380,12 @@
     "far away"
   ],
   "H7370": [
-    "overflow"
+    "overflow",
+    "inditing",
+    "overflows",
+    "overfloweth",
+    "stirred",
+    "stir"
   ],
   "H7371": [
     "shovel"
@@ -98717,7 +101498,11 @@
     "cause",
     "quarrel",
     "controversy",
-    "argument"
+    "argument",
+    "indictment",
+    "charge",
+    "charges",
+    "debate"
   ],
   "H7380": [
     "ribai"
@@ -98788,7 +101573,12 @@
     "mild"
   ],
   "H7391": [
-    "tenderness"
+    "tenderness",
+    "tenderhearted",
+    "faint-hearted",
+    "timid",
+    "irresolute",
+    "indecisive"
   ],
   "H7392": [
     "ride",
@@ -98921,7 +101711,10 @@
     "tied"
   ],
   "H7406": [
-    "roughness"
+    "roughness",
+    "rough places",
+    "rugged places",
+    "rugged terrain"
   ],
   "H7407": [
     "conspiracy",
@@ -99209,7 +102002,9 @@
   "H7448": [
     "halter",
     "bridle",
-    "bridles"
+    "bridles",
+    "bit",
+    "restraint"
   ],
   "H7449": [
     "resen"
@@ -99280,7 +102075,18 @@
     "neighbors",
     "fellow-citizen",
     "neighbour",
-    "neighbours"
+    "neighbours",
+    "fellow",
+    "fellows",
+    "one another",
+    "each other",
+    "others",
+    "fellowman",
+    "fellow man"
+  ],
+  "H7454": [
+    "thought",
+    "thoughts"
   ],
   "H7455": [
     "wickedness",
@@ -99308,7 +102114,8 @@
     "starving"
   ],
   "H7457": [
-    "hungry"
+    "hungry",
+    "famished"
   ],
   "H7458": [
     "famine",
@@ -99369,7 +102176,8 @@
   ],
   "H7464": [
     "companions",
-    "companion"
+    "companion",
+    "bridesmaids"
   ],
   "H7465": [
     "shatter",
@@ -99390,7 +102198,10 @@
     "neighbour",
     "friend",
     "friendship",
-    "companionship"
+    "companionship",
+    "vexation",
+    "striving",
+    "chasing"
   ],
   "H7469": [
     "striving"
@@ -99406,7 +102217,9 @@
     "friends",
     "beloved",
     "companion",
-    "companions"
+    "companions",
+    "love",
+    "my love"
   ],
   "H7475": [
     "striving",
@@ -99425,7 +102238,10 @@
     "intention",
     "intentions",
     "imagination",
-    "imaginations"
+    "imaginations",
+    "vexation",
+    "chasing",
+    "pursuit"
   ],
   "H7476": [
     "thoughts",
@@ -99454,7 +102270,8 @@
   "H7481": [
     "thunder",
     "thundered",
-    "thunders"
+    "thunders",
+    "thundereth"
   ],
   "H7482": [
     "thunder"
@@ -99532,7 +102349,9 @@
     "drip",
     "drips",
     "dripping",
-    "dripped"
+    "dripped",
+    "drop",
+    "drop down"
   ],
   "H7492": [
     "shattered",
@@ -99572,7 +102391,10 @@
     "earthquake",
     "shaking",
     "rattling",
-    "rumbling"
+    "rumbling",
+    "rushing",
+    "quaking",
+    "trembling"
   ],
   "H7495": [
     "heal",
@@ -99598,7 +102420,12 @@
   ],
   "H7496": [
     "shades",
-    "rephaim"
+    "rephaim",
+    "dead things",
+    "deceased",
+    "departed",
+    "departed spirits",
+    "spirits of the dead"
   ],
   "H7497": [
     "rephaites",
@@ -99706,14 +102533,20 @@
     "stamp",
     "stamped",
     "stamps",
-    "stamping"
+    "stamping",
+    "stomp",
+    "stomped",
+    "stomping"
   ],
   "H7512": [
     "trampling",
     "tread",
     "tread down",
     "trample",
-    "trample down"
+    "trample down",
+    "treads",
+    "treadeth",
+    "tramples"
   ],
   "H7513": [
     "raft",
@@ -99748,7 +102581,12 @@
     "envy",
     "envying",
     "be envious",
-    "watch with envy"
+    "watch with envy",
+    "leap",
+    "look with envy",
+    "look with hatred",
+    "gaze in envy",
+    "look askance"
   ],
   "H7521": [
     "accept",
@@ -99821,7 +102659,8 @@
   "H7524": [
     "shattering",
     "murder",
-    "bloodshed"
+    "bloodshed",
+    "slaughter"
   ],
   "H7525": [
     "ritziah",
@@ -99831,6 +102670,10 @@
   ],
   "H7526": [
     "rezin"
+  ],
+  "H7527": [
+    "bore through",
+    "pierce"
   ],
   "H7528": [
     "paved",
@@ -99901,7 +102744,11 @@
     "become rotten"
   ],
   "H7538": [
-    "rottenness"
+    "rottenness",
+    "decay",
+    "rot",
+    "rots",
+    "cancer"
   ],
   "H7539": [
     "rottenness"
@@ -99961,7 +102808,11 @@
     "spices"
   ],
   "H7546": [
-    "perfumer"
+    "perfumer",
+    "apothecaries",
+    "perfumers",
+    "perfume-makers",
+    "perfume-maker"
   ],
   "H7547": [
     "perfume",
@@ -99998,7 +102849,12 @@
     "embroidery",
     "embroideries",
     "embroidered work",
-    "needlework"
+    "needlework",
+    "embroiderer",
+    "curiously wrought",
+    "skillfully wrought",
+    "intricately woven",
+    "woven together"
   ],
   "H7552": [
     "rekem"
@@ -100026,7 +102882,13 @@
     "beaten",
     "beaten work",
     "hammered work",
-    "beaten out"
+    "beaten out",
+    "plates",
+    "broad plates",
+    "hammered plates",
+    "sheets",
+    "hammered sheets",
+    "thin sheets"
   ],
   "H7556": [
     "spit",
@@ -100040,7 +102902,10 @@
     "rakkath"
   ],
   "H7558": [
-    "permission"
+    "permission",
+    "grant",
+    "authorized",
+    "authorization"
   ],
   "H7559": [
     "inscribe",
@@ -100113,7 +102978,14 @@
   ],
   "H7563": [
     "wicked",
-    "guilty"
+    "guilty",
+    "wicked man",
+    "wicked men",
+    "wicked one",
+    "wicked ones",
+    "wicked person",
+    "wicked people",
+    "ungodly"
   ],
   "H7564": [
     "wickedness"
@@ -100394,7 +103266,10 @@
     "peaceful",
     "safe",
     "at ease",
-    "tranquil"
+    "tranquil",
+    "complacent",
+    "careless",
+    "carelessly"
   ],
   "H7602": [
     "crushed",
@@ -100684,7 +103559,8 @@
     "side roads"
   ],
   "H7636": [
-    "headband"
+    "headband",
+    "headbands"
   ],
   "H7637": [
     "seventh"
@@ -100726,7 +103602,14 @@
     "satisfied",
     "surfeited",
     "satisfy",
-    "satisfies"
+    "satisfies",
+    "satisfying",
+    "satisfieth",
+    "filled",
+    "fills",
+    "filling",
+    "filleth",
+    "fillest"
   ],
   "H7647": [
     "plenty"
@@ -100739,7 +103622,11 @@
     "fullness",
     "full",
     "sate",
-    "sated"
+    "sated",
+    "fulness",
+    "plenty",
+    "abundant",
+    "satisfying"
   ],
   "H7649": [
     "satisfied",
@@ -100776,7 +103663,8 @@
   "H7651": [
     "seven",
     "seven-",
-    "sevenfold"
+    "sevenfold",
+    "sevens"
   ],
   "H7652": [
     "sheba",
@@ -100784,12 +103672,17 @@
   ],
   "H7653": [
     "fullness",
-    "satisfaction"
+    "satisfaction",
+    "fulness"
   ],
   "H7654": [
     "satiety",
     "satisfaction",
-    "fullness"
+    "fullness",
+    "plenty",
+    "in abundance",
+    "to the full",
+    "all the food they could eat"
   ],
   "H7655": [
     "seven"
@@ -100842,7 +103735,14 @@
     "waiteth",
     "waitest",
     "seeketh",
-    "seekest"
+    "seekest",
+    "hope",
+    "hoped",
+    "hoping",
+    "waited",
+    "waiting",
+    "hopeth",
+    "hopest"
   ],
   "H7664": [
     "hope"
@@ -100908,7 +103808,9 @@
   "H7666": [
     "buy",
     "buy grain",
-    "sell grain"
+    "sell grain",
+    "buy corn",
+    "buy food"
   ],
   "H7667": [
     "breaking",
@@ -101005,7 +103907,11 @@
     "became great",
     "grow great",
     "grew great",
-    "great"
+    "great",
+    "grow",
+    "increase",
+    "groweth",
+    "growest"
   ],
   "H7680": [
     "increase",
@@ -101054,7 +103960,11 @@
     "wax",
     "become great",
     "groweth",
-    "growest"
+    "growest",
+    "increased",
+    "be very great",
+    "be prosperous",
+    "get richer"
   ],
   "H7686": [
     "go astray",
@@ -101120,7 +104030,11 @@
     "raped",
     "sleep",
     "violate",
-    "violated"
+    "violated",
+    "lieth",
+    "liest",
+    "sleepeth",
+    "sleepest"
   ],
   "H7694": [
     "queen-consort",
@@ -101153,7 +104067,10 @@
   "H7698": [
     "young",
     "offspring",
-    "seed"
+    "seed",
+    "increase",
+    "calves",
+    "issue"
   ],
   "H7699": [
     "breast",
@@ -101196,7 +104113,14 @@
     "strips",
     "ravage",
     "ravaged",
-    "ravages"
+    "ravages",
+    "open",
+    "break",
+    "break up",
+    "openeth",
+    "openest",
+    "breaketh",
+    "breakest"
   ],
   "H7703": [
     "spoiled",
@@ -101277,12 +104201,19 @@
     "blight",
     "blasting"
   ],
+  "H7712": [
+    "labored",
+    "laboured",
+    "made every effort",
+    "kept exerting himself"
+  ],
   "H7713": [
     "ranks",
     "rank",
     "row",
     "rows",
-    "order"
+    "order",
+    "ranges"
   ],
   "H7714": [
     "shadrach"
@@ -101295,6 +104226,13 @@
     "lamb",
     "animal"
   ],
+  "H7717": [
+    "record",
+    "advocate",
+    "testifies",
+    "vouches",
+    "voucheth"
+  ],
   "H7718": [
     "onyx"
   ],
@@ -101303,7 +104241,11 @@
   ],
   "H7720": [
     "ornaments",
-    "crescent"
+    "crescent",
+    "crescent ornaments",
+    "crescents",
+    "crescent necklaces",
+    "round tires like the moon"
   ],
   "H7722": [
     "devastation",
@@ -101397,7 +104339,8 @@
     "wayward",
     "waywardness",
     "backslidden",
-    "apostate"
+    "apostate",
+    "faithless"
   ],
   "H7727": [
     "shobab"
@@ -101431,7 +104374,12 @@
     "shobek"
   ],
   "H7736": [
-    "waste"
+    "waste",
+    "wasteth",
+    "wastes",
+    "lays waste",
+    "destroys",
+    "strikes"
   ],
   "H7737": [
     "equal",
@@ -101452,7 +104400,12 @@
     "sink",
     "sink down",
     "sank",
-    "sunk"
+    "sunk",
+    "sinks down",
+    "bows down",
+    "bowed down",
+    "boweth down",
+    "inclineth"
   ],
   "H7744": [
     "shuah",
@@ -101639,7 +104592,30 @@
     "setteth",
     "settest",
     "maketh",
-    "makest"
+    "makest",
+    "sets",
+    "setting",
+    "put",
+    "puts",
+    "putting",
+    "place",
+    "places",
+    "placed",
+    "placing",
+    "lay",
+    "lays",
+    "laid",
+    "laying",
+    "appoint",
+    "appoints",
+    "appointed",
+    "appointing",
+    "makes",
+    "making",
+    "putteth",
+    "puttest",
+    "layeth",
+    "layest"
   ],
   "H7762": [
     "garlic",
@@ -101687,7 +104663,8 @@
   "H7776": [
     "foxes",
     "fox",
-    "little foxes"
+    "little foxes",
+    "jackals"
   ],
   "H7777": [
     "shual"
@@ -101705,7 +104682,12 @@
     "crush",
     "strike",
     "striketh",
-    "strikest"
+    "strikest",
+    "bruises",
+    "crushes",
+    "strikes",
+    "breaketh",
+    "attacks"
   ],
   "H7780": [
     "shophach"
@@ -101728,7 +104710,8 @@
     "overflowing"
   ],
   "H7784": [
-    "street"
+    "street",
+    "streets"
   ],
   "H7785": [
     "thigh",
@@ -101758,7 +104741,15 @@
   ],
   "H7789": [
     "observe",
-    "watches"
+    "watches",
+    "behold",
+    "see",
+    "view",
+    "perceive",
+    "beholdeth",
+    "beholdest",
+    "seeth",
+    "seest"
   ],
   "H7791": [
     "wall",
@@ -101766,7 +104757,8 @@
   ],
   "H7792": [
     "walls",
-    "shur"
+    "shur",
+    "wall"
   ],
   "H7793": [
     "shur"
@@ -101792,7 +104784,16 @@
     "rejoiced",
     "rejoices",
     "rejoiceth",
-    "rejoicest"
+    "rejoicest",
+    "greatly rejoice",
+    "rejoice greatly",
+    "joy",
+    "delight",
+    "delight greatly",
+    "take delight",
+    "takes delight",
+    "take great delight",
+    "takes great delight"
   ],
   "H7798": [
     "shavsha",
@@ -101858,7 +104859,11 @@
     "seest",
     "beholdeth",
     "beholdest",
-    "lookest"
+    "lookest",
+    "gazed",
+    "scorched",
+    "darkened",
+    "tanned"
   ],
   "H7806": [
     "twisted",
@@ -101897,7 +104902,16 @@
   ],
   "H7810": [
     "bribe",
-    "gift"
+    "gift",
+    "bribes",
+    "gifts",
+    "reward",
+    "rewards"
+  ],
+  "H7811": [
+    "swim",
+    "swimmeth",
+    "swimmer"
   ],
   "H7812": [
     "bow",
@@ -101926,7 +104940,8 @@
     "prostrate themselves"
   ],
   "H7813": [
-    "swimming"
+    "swimming",
+    "to swim"
   ],
   "H7814": [
     "laughter",
@@ -102001,7 +105016,8 @@
   "H7821": [
     "slaughter",
     "slaughtering",
-    "slaying"
+    "slaying",
+    "depravity"
   ],
   "H7822": [
     "boil",
@@ -102020,7 +105036,10 @@
     "seed"
   ],
   "H7824": [
-    "paneled"
+    "paneled",
+    "cieled",
+    "ceiled",
+    "luxurious"
   ],
   "H7825": [
     "pits",
@@ -102107,7 +105126,9 @@
   ],
   "H7834": [
     "clouds",
-    "cloud"
+    "cloud",
+    "sky",
+    "skies"
   ],
   "H7835": [
     "early",
@@ -102139,14 +105160,30 @@
     "seek",
     "earnestly seek",
     "seeketh",
-    "seekest"
+    "seekest",
+    "seeks",
+    "seeking",
+    "seek early",
+    "earnestly seeks",
+    "diligently seek",
+    "diligently seeks",
+    "diligently seeketh",
+    "betimes",
+    "search",
+    "searches",
+    "searching"
   ],
   "H7837": [
     "dawn",
     "daybreak",
     "day-break",
     "morning",
-    "early morning"
+    "early morning",
+    "dawning",
+    "breaking of the day",
+    "dayspring",
+    "day-spring",
+    "early"
   ],
   "H7838": [
     "black",
@@ -102187,7 +105224,20 @@
     "us destroy",
     "destroyers",
     "destroyeth",
-    "destroyest"
+    "destroyest",
+    "ruining",
+    "corrupting",
+    "acting corruptly",
+    "deal corruptly",
+    "dealt corruptly",
+    "become corrupt",
+    "became corrupt",
+    "becoming corrupt",
+    "mar",
+    "marred",
+    "marring",
+    "spoil",
+    "spoiling"
   ],
   "H7844": [
     "corruption",
@@ -102206,7 +105256,12 @@
     "turned aside",
     "turn away",
     "go astray",
-    "turned away"
+    "turned away",
+    "go aside",
+    "gone aside",
+    "goeth aside",
+    "goes astray",
+    "gone astray"
   ],
   "H7848": [
     "acacia",
@@ -102233,18 +105288,29 @@
     "spreadest"
   ],
   "H7850": [
-    "scourge"
+    "scourge",
+    "lash"
   ],
   "H7851": [
     "shittim"
   ],
   "H7852": [
     "bear a grudge",
-    "hostile"
+    "hostile",
+    "hate",
+    "hated",
+    "bore a grudge",
+    "held a grudge",
+    "harassed",
+    "with hostility",
+    "hateth",
+    "hatest"
   ],
   "H7853": [
     "accuse",
-    "accusers"
+    "accusers",
+    "oppose",
+    "adversaries"
   ],
   "H7854": [
     "adversary",
@@ -102323,7 +105389,10 @@
     "tributes"
   ],
   "H7863": [
-    "loftiness"
+    "loftiness",
+    "excellency",
+    "height",
+    "pride"
   ],
   "H7864": [
     "sheya"
@@ -102437,10 +105506,19 @@
     "tellest"
   ],
   "H7879": [
-    "complaint"
+    "complaint",
+    "complaints",
+    "lament",
+    "prayer",
+    "problems"
   ],
   "H7880": [
-    "bushes"
+    "bushes",
+    "plant",
+    "bush",
+    "shrub",
+    "shrubs",
+    "wild plants"
   ],
   "H7881": [
     "meditation",
@@ -102497,7 +105575,10 @@
   ],
   "H7892": [
     "song",
-    "songs"
+    "songs",
+    "singing",
+    "love song",
+    "love-song"
   ],
   "H7893": [
     "alabaster"
@@ -102546,7 +105627,9 @@
     "raiment"
   ],
   "H7898": [
-    "bush"
+    "bush",
+    "briers",
+    "briars"
   ],
   "H7899": [
     "thorn",
@@ -102601,7 +105684,8 @@
     "lying",
     "lieth",
     "have sexual relations",
-    "have sexual intercourse"
+    "have sexual intercourse",
+    "emission"
   ],
   "H7904": [
     "lusted",
@@ -102617,7 +105701,9 @@
     "sekhu"
   ],
   "H7907": [
-    "heart"
+    "heart",
+    "mind",
+    "rooster"
   ],
   "H7908": [
     "childlessness",
@@ -102626,7 +105712,10 @@
   "H7909": [
     "robbed of cubs",
     "deprived of offspring",
-    "childless"
+    "childless",
+    "barren",
+    "unfruitful",
+    "unproductive"
   ],
   "H7910": [
     "drunkard",
@@ -102695,7 +105784,12 @@
     "diminished",
     "be still",
     "ceaseth",
-    "ceasest"
+    "ceasest",
+    "asswaged",
+    "assuaged",
+    "appeased",
+    "pacified",
+    "receded"
   ],
   "H7919": [
     "insight",
@@ -102743,7 +105837,8 @@
     "prudence"
   ],
   "H7923": [
-    "bereavement"
+    "bereavement",
+    "loss of children"
   ],
   "H7924": [
     "insight",
@@ -102889,7 +105984,11 @@
   "H7938": [
     "wage",
     "hire",
-    "wages"
+    "wages",
+    "reward",
+    "pay",
+    "payment",
+    "compensation"
   ],
   "H7939": [
     "wage",
@@ -102937,7 +106036,14 @@
     "snow",
     "be thou on the earth",
     "fall on the earth",
-    "fall to the earth"
+    "fall to the earth",
+    "snowed",
+    "snowing",
+    "snoweth",
+    "snow fall",
+    "snow falling",
+    "snow fallen",
+    "was white as snow"
   ],
   "H7950": [
     "snow",
@@ -102946,7 +106052,14 @@
   "H7951": [
     "ease",
     "prosper",
-    "prospered"
+    "prospered",
+    "at ease",
+    "being at ease",
+    "in safety",
+    "prospers",
+    "at peace",
+    "undisturbed",
+    "peace"
   ],
   "H7954": [
     "escape",
@@ -102963,7 +106076,8 @@
     "remaineth",
     "remainest",
     "resteth",
-    "restest"
+    "restest",
+    "at ease"
   ],
   "H7956": [
     "shelah"
@@ -103000,7 +106114,16 @@
     "quietness",
     "prosperity",
     "rest",
-    "security"
+    "security",
+    "prosperous",
+    "complacency",
+    "at ease",
+    "prosperous ease",
+    "careless ease",
+    "carefree ease",
+    "unconcerned",
+    "laziness",
+    "abundance of idleness"
   ],
   "H7963": [
     "quietness",
@@ -103011,7 +106134,11 @@
   ],
   "H7964": [
     "parting gifts",
-    "gifts"
+    "gifts",
+    "present",
+    "presents",
+    "dowry",
+    "wedding gift"
   ],
   "H7965": [
     "peace",
@@ -103036,7 +106163,11 @@
   ],
   "H7966": [
     "retribution",
-    "recompense"
+    "recompense",
+    "recompence",
+    "recompences",
+    "reckoning",
+    "vindication"
   ],
   "H7967": [
     "shallum"
@@ -103221,7 +106352,12 @@
     "control"
   ],
   "H7984": [
-    "authorities"
+    "authorities",
+    "power",
+    "authority",
+    "authoritative",
+    "supreme",
+    "great power"
   ],
   "H7985": [
     "dominion",
@@ -103251,7 +106387,10 @@
     "master"
   ],
   "H7990": [
-    "having mastery"
+    "having mastery",
+    "ruler",
+    "rulers",
+    "mighty men"
   ],
   "H7991": [
     "officers",
@@ -103310,7 +106449,10 @@
     "cormorant"
   ],
   "H7995": [
-    "felling"
+    "felling",
+    "felled",
+    "cut down",
+    "cast their leaves"
   ],
   "H7997": [
     "spoils",
@@ -103341,7 +106483,9 @@
   "H7998": [
     "plunder",
     "booty",
-    "spoil"
+    "spoil",
+    "prey",
+    "loot"
   ],
   "H7999": [
     "repay",
@@ -103362,7 +106506,35 @@
     "rewarded",
     "make an end",
     "payeth",
-    "payest"
+    "payest",
+    "pays",
+    "paying",
+    "pay back",
+    "paid back",
+    "paying back",
+    "recompensed",
+    "recompenses",
+    "recompensing",
+    "requite",
+    "requited",
+    "restored",
+    "restores",
+    "restoring",
+    "render",
+    "rendered",
+    "renders",
+    "rendering",
+    "perform",
+    "performed",
+    "performing",
+    "fulfill",
+    "fulfilled",
+    "fulfills",
+    "fulfilling",
+    "make good",
+    "make it good",
+    "fulfilleth",
+    "fulfillest"
   ],
   "H8000": [
     "finished",
@@ -103516,7 +106688,9 @@
     "third time",
     "thrice",
     "three times",
-    "threefold"
+    "threefold",
+    "three strands",
+    "triple-braided"
   ],
   "H8028": [
     "shelesh"
@@ -103535,7 +106709,12 @@
   "H8032": [
     "three days ago",
     "third day",
-    "day before yesterday"
+    "day before yesterday",
+    "heretofore",
+    "in time past",
+    "in times past",
+    "in the past",
+    "previously"
   ],
   "H8033": [
     "there",
@@ -103572,7 +106751,9 @@
   ],
   "H8041": [
     "go to left",
-    "turn aside"
+    "turn aside",
+    "go to the left",
+    "go left"
   ],
   "H8042": [
     "left",
@@ -103884,7 +107065,14 @@
     "fattened",
     "fat",
     "was fat",
-    "were fat"
+    "were fat",
+    "waxen fat",
+    "grown fat",
+    "are fat",
+    "fatten",
+    "fattening",
+    "make fat",
+    "make yourselves fat"
   ],
   "H8081": [
     "oil",
@@ -104448,11 +107636,21 @@
     "cleaveth",
     "cleavest",
     "breaketh",
-    "breakest"
+    "breakest",
+    "cloven",
+    "clovenfooted",
+    "cloven-footed",
+    "divided",
+    "divides"
   ],
   "H8157": [
     "cleft",
-    "clefts"
+    "clefts",
+    "clovenfooted",
+    "cloven-footed",
+    "split hoof",
+    "split hoofs",
+    "split hooves"
   ],
   "H8158": [
     "hew",
@@ -104468,7 +107666,16 @@
     "look away",
     "look",
     "looketh",
-    "lookest"
+    "lookest",
+    "respect",
+    "regard",
+    "regards",
+    "regarded",
+    "looks",
+    "accept",
+    "accepted",
+    "accepteth",
+    "acceptest"
   ],
   "H8160": [
     "moment"
@@ -104492,7 +107699,13 @@
     "woven of two kinds of material",
     "woven of wool and linen",
     "garments of wool and linen mixed together",
-    "garment of mixed linen and wool"
+    "garment of mixed linen and wool",
+    "mingled stuff",
+    "cloth",
+    "clothes",
+    "clothing",
+    "material",
+    "raiment"
   ],
   "H8163": [
     "hairy",
@@ -104520,7 +107733,9 @@
   ],
   "H8168": [
     "handfuls",
-    "handful"
+    "handful",
+    "abundance",
+    "abundant"
   ],
   "H8169": [
     "shaalbim"
@@ -104535,7 +107750,20 @@
     "depend",
     "leaning",
     "depended",
-    "depending"
+    "depending",
+    "lean",
+    "leans",
+    "leaned",
+    "leaneth",
+    "rely",
+    "relies",
+    "relied",
+    "relying",
+    "depends",
+    "stay",
+    "stayed",
+    "stayeth",
+    "stayest"
   ],
   "H8173": [
     "delight myself",
@@ -104564,6 +107792,12 @@
   "H8175": [
     "shudder"
   ],
+  "H8176": [
+    "thinketh",
+    "thinks",
+    "thinking",
+    "calculating"
+  ],
   "H8177": [
     "hair",
     "hairs",
@@ -104574,7 +107808,17 @@
   ],
   "H8179": [
     "gate",
-    "gates"
+    "gates",
+    "city gate",
+    "city gates",
+    "town gate",
+    "town gates",
+    "gateway",
+    "gateways"
+  ],
+  "H8180": [
+    "hundredfold",
+    "hundred times"
   ],
   "H8181": [
     "hair",
@@ -104633,7 +107877,9 @@
     "naked",
     "be naked",
     "strip",
-    "stripped"
+    "stripped",
+    "scrape",
+    "scrape away"
   ],
   "H8193": [
     "lips",
@@ -104642,7 +107888,19 @@
     "bank",
     "shore",
     "language",
-    "own lips"
+    "own lips",
+    "speech",
+    "shores",
+    "banks",
+    "brink",
+    "brim",
+    "rim",
+    "seashore",
+    "sea shore",
+    "sea-shore",
+    "riverbank",
+    "river bank",
+    "river-bank"
   ],
   "H8194": [
     "cheese",
@@ -104857,7 +108115,8 @@
     "bring down",
     "brought down",
     "abased",
-    "be low"
+    "be low",
+    "laid low"
   ],
   "H8216": [
     "low",
@@ -104992,7 +108251,11 @@
   ],
   "H8241": [
     "overflow",
-    "overflowing"
+    "overflowing",
+    "outburst",
+    "surge",
+    "little",
+    "burst"
   ],
   "H8242": [
     "sackcloth",
@@ -105023,7 +108286,10 @@
     "watchest"
   ],
   "H8246": [
-    "shaped like almond blossoms"
+    "shaped like almond blossoms",
+    "made like",
+    "made like unto",
+    "shaped like"
   ],
   "H8247": [
     "almonds",
@@ -105187,7 +108453,10 @@
     "lintels"
   ],
   "H8261": [
-    "frame"
+    "frame",
+    "window frames",
+    "frames",
+    "windows"
   ],
   "H8262": [
     "consider detestable",
@@ -105200,7 +108469,16 @@
     "detested",
     "loathe",
     "loathes",
-    "loathed"
+    "loathed",
+    "detestable",
+    "be detestable",
+    "make yourselves detestable",
+    "make you detestable",
+    "abhorrent",
+    "be abhorrent",
+    "make yourselves abominable",
+    "make your souls abominable",
+    "defile yourselves"
   ],
   "H8263": [
     "detestable thing",
@@ -105219,10 +108497,25 @@
     "poured out",
     "pour out",
     "poured",
-    "pours out"
+    "pours out",
+    "rage",
+    "jostle",
+    "justle",
+    "race madly",
+    "rush wildly",
+    "storm",
+    "rushing to and fro",
+    "rush to and fro",
+    "dash",
+    "rush around",
+    "race recklessly"
   ],
   "H8265": [
-    "ogle"
+    "ogle",
+    "wanton eyes",
+    "seductive eyes",
+    "glancing",
+    "flirtatious eyes"
   ],
   "H8266": [
     "deal falsely",
@@ -105271,6 +108564,13 @@
     "captain",
     "officer"
   ],
+  "H8270": [
+    "navel",
+    "body",
+    "flesh",
+    "cord",
+    "umbilical cord"
+  ],
   "H8271": [
     "loose",
     "loosed",
@@ -105280,7 +108580,13 @@
     "let loose",
     "release",
     "released",
-    "let go"
+    "let go",
+    "unbound",
+    "gave way",
+    "dissolve",
+    "dissolving",
+    "solve",
+    "solving"
   ],
   "H8272": [
     "sharezer"
@@ -105319,7 +108625,10 @@
     "plait",
     "plaited",
     "tresses",
-    "locks"
+    "locks",
+    "wreathen work",
+    "braided",
+    "twisted"
   ],
   "H8280": [
     "struggled"
@@ -105394,7 +108703,10 @@
     "incise",
     "incised",
     "cutteth",
-    "cuttest"
+    "cuttest",
+    "cuttings",
+    "cuts",
+    "gashes"
   ],
   "H8296": [
     "cut",
@@ -105481,7 +108793,13 @@
   "H8312": [
     "disquieting thoughts",
     "fiery serpents",
-    "fiery serpent"
+    "fiery serpent",
+    "thoughts",
+    "anxious thoughts",
+    "cares",
+    "anxiety",
+    "doubts",
+    "concerns"
   ],
   "H8313": [
     "burned",
@@ -105489,7 +108807,15 @@
     "people will burn",
     "burns",
     "burneth",
-    "burnest"
+    "burnest",
+    "burnt",
+    "burning",
+    "burn up",
+    "burned up",
+    "burnt up",
+    "burn down",
+    "burned down",
+    "set fire"
   ],
   "H8314": [
     "seraphim",
@@ -105498,7 +108824,16 @@
     "seraphs",
     "serpents",
     "fiery serpent",
-    "fiery serpents"
+    "fiery serpents",
+    "flying fiery serpent",
+    "fiery flying serpent",
+    "flying serpent",
+    "poisonous serpent",
+    "poisonous serpents",
+    "poisonous snake",
+    "poisonous snakes",
+    "venomous snakes",
+    "snake"
   ],
   "H8315": [
     "saraph"
@@ -105531,6 +108866,11 @@
     "whistled",
     "whistling"
   ],
+  "H8320": [
+    "sorrel",
+    "speckled",
+    "brown"
+  ],
   "H8321": [
     "choice vine",
     "vine",
@@ -105538,7 +108878,11 @@
   ],
   "H8322": [
     "hissing",
-    "hiss"
+    "hiss",
+    "scorn",
+    "derision",
+    "mockery",
+    "contempt"
   ],
   "H8323": [
     "rule",
@@ -105670,7 +109014,9 @@
   ],
   "H8350": [
     "vermilion",
-    "scarlet"
+    "scarlet",
+    "red",
+    "bright red"
   ],
   "H8351": [
     "seth"
@@ -105704,10 +109050,16 @@
     "drinkest"
   ],
   "H8356": [
-    "foundations"
+    "foundations",
+    "foundation",
+    "pillars"
+  ],
+  "H8357": [
+    "buttocks"
   ],
   "H8358": [
-    "drunkenness"
+    "drunkenness",
+    "warp"
   ],
   "H8359": [
     "warp"
@@ -105737,13 +109089,19 @@
   ],
   "H8365": [
     "opened",
-    "stop up"
+    "stop up",
+    "open",
+    "opens",
+    "openeth",
+    "openest"
   ],
   "H8366": [
     "urinates",
     "urinate",
     "urinated",
-    "urinating"
+    "urinating",
+    "pisseth",
+    "male"
   ],
   "H8367": [
     "calm",
@@ -105869,7 +109227,13 @@
     "fig leaf",
     "fig leaves",
     "fig tree",
-    "fig-tree"
+    "fig-tree",
+    "occasion",
+    "time of mating",
+    "mating time",
+    "mating season",
+    "heat",
+    "estrus"
   ],
   "H8386": [
     "mourning",
@@ -105903,7 +109267,10 @@
   "H8391": [
     "box tree",
     "box-tree",
-    "boxwood"
+    "boxwood",
+    "box",
+    "pine",
+    "cypress"
   ],
   "H8392": [
     "ark",
@@ -105951,6 +109318,11 @@
   "H8399": [
     "destruction"
   ],
+  "H8400": [
+    "blemish",
+    "defect",
+    "defective"
+  ],
   "H8401": [
     "straw"
   ],
@@ -105997,7 +109369,12 @@
   ],
   "H8410": [
     "elm",
-    "elms"
+    "elms",
+    "pine",
+    "pine tree",
+    "juniper",
+    "plane",
+    "fir"
   ],
   "H8411": [
     "continuance",
@@ -106056,7 +109433,18 @@
     "perversities",
     "perverseness",
     "perversity",
-    "perversion"
+    "perversion",
+    "frowardness",
+    "froward things",
+    "froward mouth",
+    "perverse",
+    "perverse speech",
+    "perverse talk",
+    "perverse words",
+    "perverted speech",
+    "perverted mouth",
+    "devious talk",
+    "twisted words"
   ],
   "H8420": [
     "mark"
@@ -106077,7 +109465,9 @@
   "H8424": [
     "grief",
     "sorrow",
-    "sorrows"
+    "sorrows",
+    "heaviness",
+    "painful"
   ],
   "H8425": [
     "togarmah"
@@ -106094,6 +109484,18 @@
     "thanksgiving offerings",
     "sacrifice of thanksgiving",
     "sacrifice of praise"
+  ],
+  "H8427": [
+    "set a mark",
+    "put a mark"
+  ],
+  "H8428": [
+    "put",
+    "set",
+    "putteth",
+    "puttest",
+    "setteth",
+    "settest"
   ],
   "H8430": [
     "toah"
@@ -106188,7 +109590,12 @@
     "horns",
     "summit",
     "top",
-    "height"
+    "height",
+    "strength",
+    "heights",
+    "peaks",
+    "mountain peaks",
+    "mightiest mountains"
   ],
   "H8444": [
     "extremities",
@@ -106196,7 +109603,11 @@
     "going out",
     "goings out",
     "outgoings",
-    "produce"
+    "produce",
+    "issues",
+    "springs",
+    "wellspring",
+    "afterbirth"
   ],
   "H8445": [
     "tokhath"
@@ -106205,7 +109616,21 @@
     "spy out",
     "spied out",
     "seek out",
-    "merchants"
+    "merchants",
+    "search",
+    "searched",
+    "search out",
+    "searched out",
+    "spying out",
+    "explore",
+    "explored",
+    "exploring",
+    "scout out",
+    "scouted out",
+    "scouting out",
+    "reconnoiter",
+    "reconnoitered",
+    "reconnoitering"
   ],
   "H8447": [
     "lock",
@@ -106305,7 +109730,14 @@
     "subtlety",
     "policy",
     "counsel",
-    "shrewdness"
+    "shrewdness",
+    "counsels",
+    "wise counsel",
+    "wise counsels",
+    "guidance",
+    "wise guidance",
+    "advice",
+    "skill"
   ],
   "H8459": [
     "tohu"
@@ -106382,7 +109814,9 @@
   ],
   "H8474": [
     "contend",
-    "strive"
+    "strive",
+    "compete",
+    "race"
   ],
   "H8475": [
     "tachrea"
@@ -106507,7 +109941,10 @@
     "form",
     "appearance",
     "fitting",
-    "goodly"
+    "goodly",
+    "fashion",
+    "arrangement",
+    "plan"
   ],
   "H8500": [
     "apes",
@@ -106520,7 +109957,11 @@
   "H8503": [
     "end",
     "purpose",
-    "completion"
+    "completion",
+    "limit",
+    "limits",
+    "boundary",
+    "perfection"
   ],
   "H8504": [
     "blue",
@@ -106567,7 +110008,10 @@
   "H8508": [
     "pattern",
     "plan",
-    "design"
+    "design",
+    "sum",
+    "perfection",
+    "model"
   ],
   "H8509": [
     "robe"
@@ -106645,7 +110089,10 @@
     "third"
   ],
   "H8525": [
-    "furrows"
+    "furrows",
+    "ridges",
+    "plowed ground",
+    "plowed field"
   ],
   "H8526": [
     "talmai"
@@ -106733,7 +110180,14 @@
   ],
   "H8539": [
     "astonished",
-    "astounded"
+    "astounded",
+    "wonder",
+    "astonish",
+    "astound",
+    "amaze",
+    "amazed",
+    "marvellously",
+    "marvelously"
   ],
   "H8540": [
     "wonders",
@@ -106746,7 +110200,9 @@
     "bewilderment",
     "amazement",
     "astonishment",
-    "dismay"
+    "dismay",
+    "confusion",
+    "panic"
   ],
   "H8542": [
     "tammuz"
@@ -106769,7 +110225,9 @@
   "H8545": [
     "substitute",
     "exchange",
-    "change"
+    "change",
+    "substitution",
+    "replacement"
   ],
   "H8546": [
     "death",
@@ -106904,7 +110362,9 @@
     "timnath-serah"
   ],
   "H8557": [
-    "melting"
+    "melting",
+    "melt",
+    "faint"
   ],
   "H8558": [
     "palm",
@@ -106939,10 +110399,25 @@
     "perfume",
     "perfumes",
     "cosmetic",
-    "cosmetics"
+    "cosmetics",
+    "purification",
+    "purifications",
+    "purifying",
+    "beautification",
+    "beautifying",
+    "beauty treatments"
   ],
   "H8563": [
-    "bitterness"
+    "bitterness",
+    "bitter",
+    "most bitter",
+    "great"
+  ],
+  "H8564": [
+    "high heaps",
+    "guideposts",
+    "guide-posts",
+    "signposts"
   ],
   "H8565": [
     "dragon",
@@ -106958,7 +110433,11 @@
   "H8566": [
     "hire",
     "hired",
-    "hiring"
+    "hiring",
+    "hirest",
+    "bribe",
+    "bribing",
+    "bribest"
   ],
   "H8567": [
     "recount"
@@ -106973,7 +110452,16 @@
     "serpent"
   ],
   "H8569": [
-    "opposition"
+    "opposition",
+    "occasion",
+    "occasions",
+    "pretext",
+    "pretexts",
+    "fault",
+    "excuse",
+    "excuses",
+    "accusation",
+    "accusations"
   ],
   "H8570": [
     "fruit",
@@ -107016,7 +110504,9 @@
     "comfort",
     "comforts",
     "comforted",
-    "comforter"
+    "comforter",
+    "comforting",
+    "consoling"
   ],
   "H8576": [
     "tanhumeth"
@@ -107026,7 +110516,9 @@
     "sea monster",
     "sea monsters",
     "serpent",
-    "serpents"
+    "serpents",
+    "jackal",
+    "dragons"
   ],
   "H8578": [
     "second"
@@ -107057,7 +110549,29 @@
     "caused to wander",
     "wander about",
     "misleading",
-    "staggered"
+    "staggered",
+    "goes astray",
+    "going astray",
+    "stray",
+    "strays",
+    "strayed",
+    "straying",
+    "wander",
+    "wanders",
+    "wandering",
+    "err",
+    "errs",
+    "erred",
+    "erring",
+    "lead astray",
+    "leads astray",
+    "led astray",
+    "leading astray",
+    "mislead",
+    "misleads",
+    "cause to err",
+    "causes to err",
+    "causing to err"
   ],
   "H8583": [
     "toi",
@@ -107065,7 +110579,12 @@
     "toi king of hamath"
   ],
   "H8584": [
-    "testimony"
+    "testimony",
+    "attestation",
+    "attesting",
+    "confirmation",
+    "method of legalizing transactions",
+    "testimony of warning"
   ],
   "H8585": [
     "conduit",
@@ -107113,7 +110632,12 @@
   ],
   "H8589": [
     "fast",
-    "fasts"
+    "fasts",
+    "fasting",
+    "humiliation",
+    "self-abasement",
+    "heaviness",
+    "mourning"
   ],
   "H8590": [
     "taanach"
@@ -107130,7 +110654,10 @@
     "lead astray",
     "leads astray",
     "led astray",
-    "lead into error"
+    "lead into error",
+    "mock",
+    "mocked",
+    "mocking"
   ],
   "H8592": [
     "power",
@@ -107180,22 +110707,39 @@
   "H8600": [
     "dispersion",
     "scattering",
-    "scattered"
+    "scattered",
+    "spreading"
   ],
   "H8601": [
     "cakes",
-    "baked cakes"
+    "baked cakes",
+    "bakemeats",
+    "baked food",
+    "baked goods",
+    "pastries"
   ],
   "H8602": [
     "whitewash",
-    "insipid"
+    "insipid",
+    "unsavoury",
+    "tasteless",
+    "flavorless",
+    "foolish",
+    "deceptive",
+    "misleading",
+    "worthless"
   ],
   "H8603": [
     "tophel"
   ],
   "H8604": [
     "offensiveness",
-    "folly"
+    "folly",
+    "foolishly",
+    "wrong",
+    "wrongdoing",
+    "unsavory thing",
+    "blame"
   ],
   "H8605": [
     "prayer",
@@ -107333,7 +110877,8 @@
   ],
   "H8623": [
     "mighty",
-    "strong"
+    "strong",
+    "powerful"
   ],
   "H8624": [
     "strong"
@@ -107405,7 +110950,12 @@
     "prevail",
     "prevails",
     "prevailed",
-    "prevailing"
+    "prevailing",
+    "prevailest",
+    "prevail against",
+    "overpower",
+    "overpowers",
+    "overpowered"
   ],
   "H8631": [
     "grew strong",
@@ -107414,7 +110964,10 @@
     "strengthen",
     "strengthened",
     "prevail",
-    "prevails"
+    "prevails",
+    "prevailest",
+    "overpower",
+    "overpowered"
   ],
   "H8632": [
     "strength",
@@ -107426,7 +110979,10 @@
     "power",
     "strength",
     "force",
-    "might"
+    "might",
+    "authority",
+    "full authority",
+    "all authority"
   ],
   "H8634": [
     "taralah"
@@ -107436,7 +110992,11 @@
   ],
   "H8636": [
     "interest",
-    "increase"
+    "increase",
+    "profit",
+    "profits",
+    "gain",
+    "excessive interest"
   ],
   "H8637": [
     "teach",
@@ -107603,25 +111163,41 @@
     "embroidered work",
     "needlework",
     "work of embroidery",
-    "embroideries"
+    "embroideries",
+    "checker work",
+    "checkered work"
   ],
   "H8666": [
     "return",
     "answers",
     "repentance",
     "turn",
-    "turning"
+    "turning",
+    "answer",
+    "account",
+    "reply",
+    "replies",
+    "response",
+    "responses"
   ],
   "H8667": [
-    "security"
+    "security",
+    "wealth",
+    "riches",
+    "gold"
   ],
   "H8668": [
     "salvation",
     "deliverance",
-    "victory"
+    "victory",
+    "safety",
+    "rescue"
   ],
   "H8669": [
-    "desire"
+    "desire",
+    "desires",
+    "eager to control",
+    "claims me as his own"
   ],
   "H8670": [
     "present"
