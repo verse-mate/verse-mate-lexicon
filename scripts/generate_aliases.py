@@ -36,6 +36,9 @@ Tuning:
   --concurrency 8                            # parallel workers (default 8)
   --no-skip-existing                         # redo words already generated
 
+Afterwards run kjv_aliases.py, build_step_aliases.py and then
+prune_aliases.py, which removes aliases that mostly name another word.
+
 Resume: every word that comes back is recorded in scripts/.generate_aliases.done
 (gitignored), and later runs skip those words. An interrupted run picks up
 where it stopped; failed words are not recorded, so a re-run retries them.
