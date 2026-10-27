@@ -102,6 +102,7 @@ python3 scripts/fix_dominant_senses.py   # headline gloss = most-used sense, not
 python3 scripts/apply_enrichment.py scripts/data/reenrich_displaced_senses.json
 python3 scripts/add_missing_tokens.py    # content words the BSB alignment never tagged
 python3 scripts/build_step_aliases.py    # English renderings per Strong's, from STEP
+python3 scripts/prune_aliases.py         # drop aliases that name another word in the verse
 bun run build:light && bun run verify:parity
 git commit -am "lexicon: refresh from MorphGNT/BSB ingest"
 ```
@@ -116,6 +117,9 @@ STEPBible's tagged OT/NT (CC BY), cached in `scripts/.step-cache/`:
   rendering as its surface.
 - `build_step_aliases.py` adds the English each word is rendered with across
   the OT/NT to its alias list.
+- `prune_aliases.py` runs last. It trims trailing prepositions ("said to" →
+  "said") and drops aliases that STEP shows mostly belong to another word in
+  the same verse (H3068 "LORD" claiming "god", H0259 "one" claiming "a").
 
 ### Aliases
 
@@ -136,6 +140,8 @@ word's existing list rather than replacing it, and records finished words in
 pip install openai
 python3 scripts/generate_aliases.py --top 50     # trial; check usage
 python3 scripts/generate_aliases.py --aligned    # every Strong's in the text
+python3 scripts/kjv_aliases.py && python3 scripts/build_step_aliases.py
+python3 scripts/prune_aliases.py
 ```
 
 Then bump the SHA in consumers' `bun.lock`:
