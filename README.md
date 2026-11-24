@@ -1,5 +1,11 @@
 # @versemate/lexicon
 
+[VerseMate](https://versemate.org) is a Bible reading app: every chapter of all 66 books with its text, a summary and a verse-by-verse explanation, on the web, iOS and Android.
+
+- Website: https://versemate.org
+- Read the Bible: https://app.versemate.org
+- Example chapters: [Genesis 1](https://app.versemate.org/bible/genesis/1), [Psalm 23](https://app.versemate.org/bible/psalms/23), [John 3](https://app.versemate.org/bible/john/3), [Romans 12](https://app.versemate.org/bible/romans/12)
+
 Chapter-aligned Greek/Hebrew lexicon for VerseMate. Maps English surface
 forms in each Bible chapter to their underlying lemma + per-occurrence
 contextual gloss, with a shared lemma table for the dictionary card.
